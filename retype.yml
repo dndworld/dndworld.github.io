@@ -10,12 +10,12 @@ branding:
       background: "#eee5ce"
 links:
 - text: Welcome!
-  link: /README/
+  link: https://jmac-0904.github.io/jmacstest.github.io/
 - text: Start Here
-  link: /character-building/start-here/
+  link: https://jmac-0904.github.io/jmacstest.github.io/character-building/start-here/
 - text: New to D&D
-  link: /character-building/new-to-dnd/
+  link: https://jmac-0904.github.io/jmacstest.github.io/character-building/new-to-dnd/
 - text: Character Creation Rules
-  link: /character-building/cc-rules/
+  link: https://jmac-0904.github.io/jmacstest.github.io/character-building/cc-rules/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
