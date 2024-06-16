@@ -4,14 +4,18 @@ url: https://jmac-0904.github.io/jmacstest.github.io/
 branding:
   title: DW Guide
   label: v1.1
+  colors:
+    label:
+      text: "#58180d"
+      background: "#eee5ce"
 links:
 - text: Welcome!
-  link: welcome.md
+  link: /README/
 - text: Start Here
-  link: /character-building/start-here
+  link: /character-building/start-here/
 - text: New to D&D
-  link: /character-building/new-to-dnd
+  link: /character-building/new-to-dnd/
 - text: Character Creation Rules
-  link: /character-building/cc-rules
+  link: /character-building/cc-rules/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
