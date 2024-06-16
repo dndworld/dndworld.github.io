@@ -13,9 +13,5 @@ links:
   link: https://jmac-0904.github.io/jmacstest.github.io/
 - text: Start Here
   link: https://jmac-0904.github.io/jmacstest.github.io/character-building/start-here/
-- text: New to D&D
-  link: https://jmac-0904.github.io/jmacstest.github.io/character-building/new-to-dnd/
-- text: Character Creation Rules
-  link: https://jmac-0904.github.io/jmacstest.github.io/character-building/cc-rules/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
