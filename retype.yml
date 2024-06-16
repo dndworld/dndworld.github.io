@@ -5,7 +5,13 @@ branding:
   title: DW Guide
   label: v1.1
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Welcome!
+  link: welcome.md
+- text: Start Here
+  link: /character-building/start-here
+- text: New to D&D
+  link: /character-building/new-to-dnd
+- text: Character Creation Rules
+  link: /character-building/cc-rules
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
