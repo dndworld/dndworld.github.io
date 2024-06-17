@@ -8,7 +8,7 @@ icon: sparkle-fill
 ## Step-by-Step: Making your first character on DnD Beyond
 
 ### Getting Started
-> - Make a D&D Beyond account if you don’t already have one https://www.dndbeyond.com/create-account
+> - Make a D&D Beyond account if you don’t already have one: https://www.dndbeyond.com/create-account
 > - Go to "Create a Character" 
 > - Choose "Standard" Character Creation Method
 > - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
