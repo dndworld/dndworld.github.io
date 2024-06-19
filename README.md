@@ -1,5 +1,5 @@
 ---
-label: About Us
+label: About Me
 authors: 
 - Jmac the Rat
 - Crab
