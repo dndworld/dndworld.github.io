@@ -8,7 +8,7 @@ icon: home
 ---
 ![](/Images/24d0c14136145b62d821f3dbf9ef1611.png)
 
-# About Us
+# ✨ About Us
 You are about to join a homebrew text-only server where you will take on bounties West Marches style, meet hundreds of new people, and live out an epic life of an adventurer. Crab was here!
 
 ## Who We Are
