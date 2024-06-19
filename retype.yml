@@ -8,6 +8,7 @@ branding:
     label:
       text: "#58180d"
       background: "#eee5ce"
+  favicon: # add path to icon here, e.g. "Images/favicon.png"
 links:
 - text: Welcome!
   link: https://jmac-0904.github.io/jmacstest.github.io/
