@@ -19,7 +19,7 @@ icon: sparkle-fill
 > As you go through the help texts, if anything is unclear or confusing, please direct your questions to `#⁠beginner-help`.
 
 ### Character Preferences (settings) 
-![](Images/Y75d0NS.png)
+![](../Images/Y75d0NS.png)
 > - **Dice Rolling**: Off 
 >   - We use Avrae Discord bot for this, not DnD Beyond 
 > - **Optional Features**: On 
