@@ -1,7 +1,7 @@
 ---
 label: Start Here
 order: 10
-icon: light-bulb
+icon: :wave:
 ---
 # Start Here
 

@@ -1,7 +1,7 @@
 ---
 label: New to D&D
 order: 9
-icon: sparkle-fill
+icon: :beginner:
 ---
 
 # New to D&D

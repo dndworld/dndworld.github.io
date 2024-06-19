@@ -1,6 +1,6 @@
 ---
 order: 100
-icon: gear
+icon: :gear:
 ---
 # Character Building
 

@@ -1,5 +1,5 @@
 ---
 label: Character Creation Rules
 order: 8
-icon: tools
+icon: :hammer_and_wrench:
 ---
