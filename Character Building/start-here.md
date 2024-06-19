@@ -1,7 +1,7 @@
 ---
 label: Start Here
 order: 10
-icon: :wave:
+icon: ":wave:"
 ---
 # Start Here
 

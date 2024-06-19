@@ -4,7 +4,7 @@ authors:
 - Jmac the Rat
 - Crab
 order: 1000
-icon: :sparkles:
+icon: ":sparkles:"
 ---
 ![](/Images/24d0c14136145b62d821f3dbf9ef1611.png)
 

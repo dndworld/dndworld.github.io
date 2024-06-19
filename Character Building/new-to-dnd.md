@@ -1,7 +1,7 @@
 ---
 label: New to D&D
 order: 9
-icon: :beginner:
+icon: ":beginner:"
 ---
 
 # New to D&D
