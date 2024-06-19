@@ -4,12 +4,12 @@ url: https://jmac-0904.github.io/jmacstest.github.io/
 branding:
   title: DW Guide
   label: v1.1
-  logo: Images/DW-icon-rounded.png
+  logo: Images/DW-icon-circle.png
   colors:
     label:
       text: "#58180d"
       background: "#eee5ce"
-# favicon: add path to icon here, e.g. "Images/favicon.png"
+favicon: Images/DW-icon-rounded.png
 links:
 - text: Welcome!
   link: https://jmac-0904.github.io/jmacstest.github.io/
