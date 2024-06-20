@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: https://jmac-0904.github.io/jmacstest.github.io/
+url: https://jmac-0904.github.io/dwguide/
 branding:
   title: DW Guide
   label: v1.1
@@ -12,8 +12,8 @@ branding:
 favicon: Images/DW-icon-rounded.png
 links:
 - text: Welcome!
-  link: https://jmac-0904.github.io/jmacstest.github.io/
+  link: https://jmac-0904.github.io/dwguide/
 - text: Start Here
-  link: https://jmac-0904.github.io/jmacstest.github.io/character-building/start-here/
+  link: start-here.md
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

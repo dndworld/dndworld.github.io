@@ -1,6 +1,7 @@
 ---
 order: 100
 icon: ":gear:"
+expanded: true
 ---
 # Character Building
 
