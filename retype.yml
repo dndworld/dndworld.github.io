@@ -14,6 +14,6 @@ links:
 - text: Welcome!
   link: https://jmac-0904.github.io/dwguide/
 - text: Start Here
-  link: character-building/start-here/
+  link: /start-here.md/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
