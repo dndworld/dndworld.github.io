@@ -43,7 +43,11 @@ Our staff team is here to help you should you have any problems or questions alo
 ## World Setting
 ![](/Images/JWLNpOf.jpg)
 
-You are on the mainland known as Icris. Icris is a fantasy setting with its own pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. Icris uses a fictional calendar, with the IRL year of 2018 being equivalent to 20X0. The names of months and weeks are otherwise the same. For more lore, visit ⁠lore and our World Anvil page: https://www.worldanvil.com/w/icris-dnd-world
+You are on the mainland known as Icris. Icris is a fantasy setting with its own pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. 
+
+Icris uses a fictional calendar, with the IRL year of 2018 being equivalent to 22118. The names of months and weeks are otherwise the same. 
+
+For more lore, visit ⁠lore and our World Anvil page: https://www.worldanvil.com/w/icris-dnd-world
 
 ## Important
 !!!warning
@@ -57,6 +61,6 @@ No guns or firearm lookalikes exist in this world. No sci-fi, no references to o
 
 This is the hub town where all characters gather. **Snowhaven** is a city set in a snowy taiga, where the weather is often cold. The climate is based off Baffin Island, Canada.
 
-It is a new settlement, established in 20X1 (2019 in IRL years). It was formed after the residents of the previous town setting, Plater Village, moved due to a combination of catastrophic events including but not limited to, a private army invading, a forest burning down, and the gods raiding the temple after an ancient titan awoke.
+It is a new settlement, established in 22119 (2019 in IRL years). It was formed after the residents of the previous town setting, Plater Village, moved due to a combination of catastrophic events including but not limited to, a private army invading, a forest burning down, and the gods raiding the temple after an ancient titan awoke.
 
 The majority race is humans followed by elves, half-elves, and tieflings, but there isn't discrimination to the other races.
