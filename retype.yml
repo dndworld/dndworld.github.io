@@ -9,7 +9,7 @@ branding:
     label:
       text: "#58180d"
       background: "#eee5ce"
-favicon: Images/logo/round.png
+favicon: Images/logo-round.png
 links:
 - text: Welcome!
   link: https://jmac-0904.github.io/dwguide/
