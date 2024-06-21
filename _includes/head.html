@@ -1,8 +1,28 @@
-<style>
-  blockquote {
-     background: none !important;
-  }
-  blockquote > ul {
-    margin-bottom: 0px !important; 
-  }
-</style>
+<!DOCTYPE html>
+<head>
+  <style>
+    /*
+    SYNTAX:
+      selector {
+        property: value [!important];
+      }
+
+    if selector is a HTML tag, must append !important as Retype's styling will override
+    */
+    blockquote {
+      background: none !important;
+    }
+    blockquote > ul {
+     margin-bottom: 0 !important; 
+    }
+    /*
+    if selector is a .class, create a container w/ that class by wrapping:
+      :::class
+      content to be styled by .class selector
+      :::
+    
+    you can use "class > tag" or "class tag" to target the contained content itself.
+    - Including ">" will specify direct descendants of that tag while ommitting will target all content of tag; the difference might not matter much in this case
+    */
+  </style>
+</head>
