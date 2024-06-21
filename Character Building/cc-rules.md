@@ -28,19 +28,21 @@ You cannot transfer characters from other places. However, you can create a vers
 
 +++ D&D Beyond
 [https://www.dndbeyond.com/](https://www.dndbeyond.com/)
+
 There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd.md).
 
 Character Preferences (settings)
-> - Sources: Homebrew Content, Magic: The Gathering Content, Eberron Content, Dragonlance Content, Planescape Content, Critical Role content
-> :warning: Not everything from these sources is allowed to be used in the server. Please refer to the later "Sources" section of this channel for full details.
+> - **Sources**: Homebrew Content, Magic: The Gathering Content, Eberron Content, Dragonlance Content, Planescape Content, Critical Role content
 > 
-> - Dice Rolling: Off (We use Avrae Discord bot for dice rolls)
-> - Optional Features: On
-> - Advancement Type: Milestone
-> - Hit Point Type: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in `#official-character-rolls` channel, **not** in D&D Beyond
-> - Encumbrance Type: Use Encumbrance
-> - Ignore Coin Weight: Off
-> - Character Privacy: Public
+> :warning: Not everything from these sources is allowed to be used in the server. Please refer to the later "Sources" section of this channel for full details.
+
+> - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
+> - **Optional Features**: On
+> - **Advancement Type**: Milestone
+> - **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in `#official-character-rolls` channel, **not** in D&D Beyond
+> - **Encumbrance Type**: Use Encumbrance
+> - **Ignore Coin Weight**: Off
+> - **Character Privacy**: Public
 > 
 > Leave the rest of the options as they are.
 
@@ -54,17 +56,18 @@ Once you created a character on D&D Beyond, make sure to do the following:
 > To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM) and select File -> Make a Copy
 > 
 > GSheet tutorial is in the **?** tab of the sheet itself. Make sure to check the inserted notes for more specific instructions.
-> 
+
 > To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
 > - [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
 
 +++ DiceCloud
 DiceCloud v1: [https://v1.dicecloud.com/](https://v1.dicecloud.com/)
+
 DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 
 > To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
 > - [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
-> 
+
 > DiceCloud v1 tutorials
 > - [https://homebrewery.naturalcrit.com/share/rkZujQwpQW](https://homebrewery.naturalcrit.com/share/rkZujQwpQW)
 > - [https://youtu.be/LvYTeq2cdSI](https://youtu.be/LvYTeq2cdSI)
@@ -81,11 +84,13 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 > - Explorer's Guide to Wildemount
 > - Planeshift
 > - Runeterra
+> 
 > **Under Review**
 > - Critical Role: Tal'Dorei Reborn
 
 > For the full list of the allowed and disallowed official materials, please refer to the following doc. The rest of this channel also includes the breakdowns of all officially published disallowed materials by race, class, etc.
 > - [Banned/Allowed DnD World](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k)
+> 
 > For the full list of allowed official races, you may alternatively refer to the following doc:
 > - [Dnd World Allowed Offical Races v2](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY)
 
@@ -99,7 +104,7 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 > - UA that gets officially released or revisited later in another UA is banned.
 > - Any UA content that hasn't been vetted for approval yet isn't allowed. Therefore, if it is not in the approved UA section, it is not allowed. 
 > - Charity content, planeshift content, content released by developers outside the official website, and Critical Role content is considered unofficial and only approved for use if they are in the homebrew document (i.e. the Blood Hunter class).
-> 
+
 > - You cannot multiclass with Homebrew and UA classes/subclasses due to balance reasons.
 > - If you plan on using Homebrew or UA content, we highly recommend you to use GSheet or DiceCloud sheets due to various limitations of D&D Beyond's Homebrew system.
 
@@ -116,11 +121,12 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 > - Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
 > 
 > - For the full list of allowed and disallowed official races, please refer to the following doc. For races with multiple versions, please make sure you are using a version that is allowed.
+> 
 > [Dnd World Allowed Offical Races v2](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY)
 
 ### Feats
 
-**Disallowed Feats**
+> **Disallowed Feats**
 > - Aberrant Dragonmarks
 > - Adept of the Black Robes feat
 > - Adept of the Red Robes feat
@@ -149,7 +155,7 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 > 
 > - D&D Beyond's Blood Hunter is banned. Refer to the version described in the HB Compendium instead.
 
-**Disallowed Subclasses**
+> **Disallowed Subclasses**
 > - College of Eloquence (Bard)
 > - Echo Knight (Fighter)
 > - Clockwork Soul (Sorcerer)
@@ -157,7 +163,7 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 > - Graviturgy (Wizard)
 > - Chronomancy (Wizard)
 
-**Disallowed Class Features**
+> **Disallowed Class Features**
 > - Arcane Propulsion Armor Infusion (Artificer)
 > - Mind Sharpener Infusion (Artificer)
 > - Celerity Mutagen (Blood Hunter)
@@ -166,7 +172,7 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 
 ### Spells
 
-**Disallowed Spells**
+> **Disallowed Spells**
 > - Ashardalon's Stride
 > - Create Magen
 > - Create Spelljamming Helm
@@ -203,7 +209,7 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 
 > - Please note that some of the background features cannot be in effect without DM or NPC Master's presence, e.g. The Retainers feature for the Knight and Noble background variant. Players are still allowed to select the backgrounds.
 
-**Disallowed Backgrounds**
+> **Disallowed Backgrounds**
 > - Custom Background rule
 > - *Baldur's Gate* backgrounds (except Faceless)
 > - *Guildmaster's Guide to Ravnica* backgrounds
@@ -225,11 +231,10 @@ DiceCloud v2: [https://dicecloud.com/](https://dicecloud.com/)
 > - You are not allowed to create characters younger than adolescence, using the guidelines the below chart.
 > - You also may not play a character who behaves drastically younger than their actual age, i.e. overtly childish behavior.
 
-## Backstory**
+## Backstory
 
 - It is important to note that your character's backstory will most likely not be explored here. Hence, the backstory is primarily for your roleplay.
 - By submitting your backstory and lore to this server, you agree that it becomes open to DM interpretation.
-<:blank:982178179047391252> 
 
 ### Rules for Character Backstory
 
@@ -242,9 +247,10 @@ Level 1 Character in a Collaborative Story
 
 ### World Setting
 
-> ● The world map and general world setting information can be found in `#lore` 
-> ● If you have any lore questions for your backstory, message `@FanMail` with the specific question and motive. 
-> ● The pantheon of Icris can be found in `#pantheon`, and the Members of the Council (Archdevils) can be found in `#hell-inc`
+> - The world map and general world setting information can be found in `#lore` 
+> - If you have any lore questions for your backstory, message `@FanMail` with the specific question and motive. 
+> - The pantheon of Icris can be found in `#pantheon`, and the Members of the Council (Archdevils) can be found in `#hell-inc`
+> 
 > :warning: No guns or firearm lookalikes exist in this world. No sci-fi, no references to other franchises, no urban technology, no references to events on Earth.
 > 
 > For more DnD World lore, please visit our [World Anvil page](https://www.worldanvil.com/w/icris-dnd-world).
@@ -269,22 +275,22 @@ Level 1 Character in a Collaborative Story
 > - If you choose to take starting equipment, the item must be available in the market. All PHB mundane items are included with the same price. 
 > [Snowhaven Market Document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU)
 > 
-> - If you choose to roll for gold, follow the instructions pinned in <#513963351567499264>. Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
-> ↳ After you have rolled the gold, you may then purchase the equipment from the above document, and by logging the transactions in the `#transaction-log`. 
-> 
+> - If you choose to roll for gold, follow the instructions pinned in `#official-character-rolls`. Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
+>   - After you have rolled the gold, you may then purchase the equipment from the above document, and by logging the transactions in the `#transaction-log`. 
+
 > - You are **__not__** allowed to possess any magic items starting out.
 
 ## Rules for Multiple Characters
 
 > - You start with **2 character slots** on this server. You can gain extra character slots by becoming a patron or taking on certain staff roles.
-> ↳ [Patreon](https://www.patreon.com/Dndworld)
-> ↳ `#staff-roles`
-> 
+>   - [Patreon](https://www.patreon.com/Dndworld)
+>   - `#staff-roles`
+
 > - You may make your additional characters any time, following the same procedure as your first character. 
-> 
+
 > - You cannot sign up for, or go on the same quest with both characters, as per `#roleplay-rules` 11. 
 > - If you are roleplaying more than one character at the same time, you can only gain RPXP for one of them during that period.
-> 
+
 > - Your characters cannot be in the same guild.
 > - Your characters cannot benefit from each other's presence, e.g. they cannot give each other items or gold.
 
@@ -296,12 +302,12 @@ After you create your character and before the character attends a DM event, the
 > - If you chose Standard Array or Point buy as the Ability Score generation method, you may switch to rolling for stats. Please note, once you rolled the stats, you must use them.
 > - You may not switch between choosing starting equipment and rolling for gold.
 > - You may not reroll stats / gold / hp.
-> 
+
 > - If any of the starting equipment were sold and you need to switch them, retcon the transaction before doing so.
 > - Keep RPXP and Experience counter values.
-> 
+
 > - You are still in the character creation phase after gaining XP from Combat Training DTD, or after claiming RPXP.
-> 
+
 > :warning: Once your character participates in a DM event, all rebuilds must be submitted for review in `#rebuild-retire-log`, following the rules in the pin.
 
 ## Beyond 1st Level
@@ -322,8 +328,8 @@ Rebuild
 > Please refer to `#rebuild-retire-log` pin for full details on rebuild.
 
 Character Death / Retire
-> ● Character death needs to be recorded in `#list-of-the-fallen`. Full details on how to make the record, what to do next, and information on Cushion Rule can be found in the channel pin.
-> ● You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on retire and Cushion Rule can be found in `#rebuild-retire-log` channel pin.
+> - Character death needs to be recorded in `#list-of-the-fallen`. Full details on how to make the record, what to do next, and information on Cushion Rule can be found in the channel pin.
+> - You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on retire and Cushion Rule can be found in `#rebuild-retire-log` channel pin.
 
 ## :warning: Returning Players/Inactivity
 
@@ -332,6 +338,7 @@ Whether you leave the server and return after some period of time, or you have b
 Fresh Start
 > - In case you have been away for a significant amount of time, we allow you to mass retire all of your characters. In this case only one of them is eligible for the Cushion Rule. You are not required to do Fresh Start if you have been away, but if you choose to do fresh start, it applies to all characters you had.
 > - Fresh Start is approved on a case-by-case basis. Please fill in the following form and send it to `#rebuild-retire-log` and wait for the request to be reviewed.
+> 
 > ```md
 > Fresh Start Request
 > 
