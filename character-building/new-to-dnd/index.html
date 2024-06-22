@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/dwguide">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.772277358769">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.772385455832">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
 
     <!-- Primary Meta Tags -->
-    <title>New to D&amp;D</title>
-    <meta name="title" content="New to D&D">
+    <title>New to D&amp;D | DW Guide</title>
+    <meta name="title" content="New to D&D | DW Guide">
     <meta name="description" content="Make a D&D Beyond account if you don’t already have one: https://www.dndbeyond.com/create-account">
 
     <!-- Canonical -->
@@ -20,34 +20,82 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://jmac-0904.github.io/dwguide/character-building/new-to-dnd/">
-    <meta property="og:title" content="New to D&D">
+    <meta property="og:title" content="New to D&D | DW Guide">
     <meta property="og:description" content="Make a D&D Beyond account if you don’t already have one: https://www.dndbeyond.com/create-account">
     <meta property="og:image" content="https://jmac-0904.github.io/dwguide/images/ddb-sources.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://jmac-0904.github.io/dwguide/character-building/new-to-dnd/">
-    <meta property="twitter:title" content="New to D&D">
+    <meta property="twitter:title" content="New to D&D | DW Guide">
     <meta property="twitter:description" content="Make a D&D Beyond account if you don’t already have one: https://www.dndbeyond.com/create-account">
     <meta property="twitter:image" content="https://jmac-0904.github.io/dwguide/images/ddb-sources.png">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.5.0.772277358769" rel="stylesheet">
+    <link href="../../images/logo-round.png" rel="icon">
+    <link href="../../resources/css/retype.css?v=3.5.0.772385455832" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.772277358769" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.772385455832" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.772277358769" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.772385455832" data-turbo-eval="false" defer></script>
 
-    <style>
-      blockquote {
-         background: none !important;
-      }
-      blockquote > ul {
-        margin-bottom: 0px !important; 
-      }
-    </style>
+    <!DOCTYPE html>
+    <head>
+      <style>
+        /*
+        SYNTAX:
+          selector {
+            property: value [!important];
+          }
 
+        if selector is a HTML tag, must append !important as Retype's styling will override
+        */
+        blockquote {
+          background: none !important;
+        }
+        html:not(.dark) blockquote {
+          color: grey !important;
+        }
+        blockquote > ul {
+         margin-bottom: 0 !important; 
+        }
+        /*
+        if selector is a .class, create a container w/ that class by wrapping:
+          :::class
+          content to be styled by .class selector
+          :::
+        
+        you can use "class > tag" or "class tag" to target the contained content itself.
+        - Including ">" will specify direct descendants of that tag while ommitting will target all content of tag; the difference might not matter much in this case
+        */
+
+        /*
+        div.banner
+          p
+          figure.content-center
+            img
+            figcaption.caption
+          p
+        */
+        .banner .content-center {
+          display: block;
+          align-content: unset;
+
+          width: 100%;
+          max-height: 22vh;
+          overflow: clip;
+          border-radius: 0.125rem;
+        }
+
+        .banner img {
+          position: relative;
+          top: -250px;
+          /*aspect-ratio: 1990 / 480;*/
+          /*object-fit: cover !important;*/
+        }
+      </style>
+    </head>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -79,10 +127,10 @@
                     <nav class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://jmac-0904.github.io/dwguide/">Welcome!</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="/start-here/">Start Here</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
                             </li>
         
                         </ul>
@@ -159,10 +207,10 @@
                             <nav>
                                 <ul class="flex flex-wrap justify-center items-center">
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://jmac-0904.github.io/dwguide/">Welcome!</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="/start-here/">Start Here</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
                                     </li>
             
                                 </ul>
