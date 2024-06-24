@@ -5,7 +5,7 @@ icon: ":game_die:"
 ---
 # How to Start Playing
 
-This channel is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/character-building/start-here.md)
+This channel is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/dwguide/character-building/start-here/)
 
 ## Setting up Class, Race, Custom Counters (CCs)
 
@@ -33,7 +33,7 @@ For abilities not covered by `!level`/your sheet, manual counter creation may be
 
 ## Tracking Money
 
-Money and XP are tracked on the server. They are **not** synced with your sheet, so it does not matter if your sheet is updated with this info. (Tracking XP is explained later in this channel.)
+Money and XP are tracked on the server. They are **not** synced with your sheet, so it does not matter if your sheet is updated with this info (tracking XP is explained later in this channel).
 
 **Check Coin Purse**
 
@@ -153,14 +153,14 @@ Full explanation on the available game types on the server can be found in [How 
 1. Wait for Level pings
 > Wait for a DM to ping your level for a bounty in `#bounty-board` or an arena/hunt/pit fight in `#arena-board`. 
 
-2. Check if signups are still Open.
+2. Check if signups are still Open
 > Event posts with a :x: or :negative_squared_cross_mark: reaction are closed for signups.
 
 3. Signup
 > If the event is still open for signups, copy the **template** posted by that DM, fill it in, and post it in `#game-signup`
 
 !!! How to check "RPXP Stored" and "XP to Next Level"
-In `#bot-dump`: `!rpxp xp`
+In `#bot-dump`, run `!rpxp xp`
 !!!
 
 4. Acceptance
@@ -212,7 +212,7 @@ Bag management within the server is completely optional. Should you want to trac
 - `!bag "Backpack" + 2 "Item"` to add multiple of the same item
 - `!bag "Backpack" - 2 "Item"` to remove multiple of the same item
 
-- `!bag pack <pack type>` to add a pack from the Player's Handbook.
+> `!bag pack <pack type>` to add a pack from the Player's Handbook.
 > e.g. `!bag pack "Explorer's Pack"`
 
 ## Lifestyle & Downtime (Optional)
