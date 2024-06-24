@@ -1,6 +1,6 @@
 ---
 order: 99
-icon: ":puzzle:"
+icon: ":jigsaw:"
 expanded: true
 ---
 # Start Playing

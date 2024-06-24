@@ -21,7 +21,9 @@ For abilities not covered by `!level`/your sheet, manual counter creation may be
 
 > This command will pick up any **classes** you currently have. 
 > 
-> ```!level```
+> ```
+> !level
+> ```
 > 
 > `!level [class] [subclass]`  will set your **subclasses** for you (e.g. `!level warlock celestial`)
 
@@ -41,7 +43,9 @@ Money and XP are tracked on the server. They are **not** synced with your sheet,
 
 > Log your monetary transactions in `#transaction-log` with:
 > 
-> ```!transaction "reason for transaction" +Xgp```
+> ```
+> !transaction "reason for transaction" +Xgp
+> ```
 > 
 > ⚠️ Transactions logged outside of the appropriate channels are considered invalid.
 > 
@@ -55,18 +59,18 @@ Money and XP are tracked on the server. They are **not** synced with your sheet,
 > 
 > In `#transaction-log`, replace **#** with the starting gold amount.
 > 
-> ```!transaction "Starting Gold" +#gp```
+> ```
+> !transaction "Starting Gold" +#gp
+> ```
 > 
-> `!transaction "Folk Hero Starting Gold" +10gp`
-> 
-> `!transaction "Haunted One Starting Gold" +1sp`
-> 
-> `!transaction "Monk Rolled Gold" +12gp`
+> - `!transaction "Folk Hero Starting Gold" +10gp`
+> - `!transaction "Haunted One Starting Gold" +1sp`
+> - `!transaction "Monk Rolled Gold" +12gp`
 
 
 ## Roleplaying
 
-Roleplaying (RP) gives your characters **RPXP**, which can later be turned into XP. (The process is explained later in this channel.)
+Roleplaying (RP) gives your characters **RPXP**, which can later be turned into XP (The process is explained later in this channel).
 
 **RP Channels**
 
@@ -104,9 +108,9 @@ Full explanation can be found in [How to Earn XP](earn-xp.md)
 
 **Steps**
 
-> 1) React to your first RP post with :beginner: `:beginner:` and last RP post with :octagonal-sign: `:stop:`. Get the person you are RPing with to react as well.
+> 1) React to your first RP post with :beginner: `:beginner:` and last RP post with :octagonal_sign: `:stop:`. Get the person you are RPing with to react as well.
 > 
-> 2) Find out how long the RP session was. `#rp-log` picks up the messages reacted with :beginner: & :octagonal-sign:.
+> 2) Find out how long the RP session was. `#rp-log` picks up the messages reacted with :beginner: & :octagonal_sign:.
 > 
 > 3) Log the RPXP in `#xp-tracker` by the increments of half an hour (rounded down)
 > 
@@ -114,13 +118,17 @@ Full explanation can be found in [How to Earn XP](earn-xp.md)
 > 
 > Example:
 > 
-> ```!rpxp 1.5 "#the-library"```
+> ```
+> !rpxp 1.5 "#the-library"
+> ```
 
 **Weekly Cap**
 
 > **Every Monday (EST)** you can reset your Weekly RPXP Cap.
 > 
-> ```!rpxp cap reset``` 
+> ```
+> !rpxp cap reset
+> ``` 
 > 
 > in `#xp-tracker`
 
@@ -128,11 +136,9 @@ Full explanation can be found in [How to Earn XP](earn-xp.md)
 
 OOC stands for **Out Of Character**. 
 
-
 **RP OOC channels**
 
-Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, and Arena categories have respective `#[category]-ooc` channels for out-of-character conversations.
-
+Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, Shops, and Arena categories have respective `#[category]-ooc` channels for out-of-character conversations.
 
 **Other OOC channels**
 
@@ -148,17 +154,17 @@ Full explanation on the available game types on the server can be found in [How 
 > Wait for a DM to ping your level for a bounty in `#bounty-board` or an arena/hunt/pit fight in `#arena-board`. 
 
 2. Check if signups are still Open.
-> Event posts with a ❌ or ❎ reaction are closed for signups.
+> Event posts with a :x: or :negative_squared_cross_mark: reaction are closed for signups.
 
 3. Signup
 > If the event is still open for signups, copy the **template** posted by that DM, fill it in, and post it in `#game-signup`
-> 
-> **How to check "RPXP Stored" and "XP to Next Level"**
-> 
-> In `#bot-dump`: `!rpxp xp`
+
+!!! How to check "RPXP Stored" and "XP to Next Level"
+In `#bot-dump`: `!rpxp xp`
+!!!
 
 4. Acceptance
-> Game acceptance is announced in `#game-signup`. If you are accepted, the DM will ping you to confirm your attendance.
+> Game acceptance is announced in `#game-signup`. If you are accepted, the DM will ping you to confirm your attendance. React with the appropriate emoji to confirm your acceptance.
 
 5. Before the Game
 > The DM will ping you again in the appropriate OOC (out of character) channel for the game.
@@ -168,7 +174,9 @@ Full explanation on the available game types on the server can be found in [How 
 >  
 > To add the XP from the game:
 > 
-> ```!dxp game <amount> <source>```
+> ```
+> !dxp game <amount> <source>
+> ```
 > 
 > (e.g. `!dxp game 100 "Red Ruby Heist"`)
 
@@ -187,9 +195,8 @@ Running `!drink [name of drink]` will automatically setup the counters you need.
 
 **Interacting with the Intoxication Counters**
 
-`!cc intox` to view the counter
-
-`!cc intox set 0` to reset the counter
+- `!cc intox` to view the counter
+- `!cc intox set 0` to reset the counter
 
 
 ## Bag Management (Optional)
@@ -205,7 +212,7 @@ Bag management within the server is completely optional. Should you want to trac
 - `!bag "Backpack" + 2 "Item"` to add multiple of the same item
 - `!bag "Backpack" - 2 "Item"` to remove multiple of the same item
 
-`!bag pack <pack type>` to add a pack from the Player's Handbook.
+- `!bag pack <pack type>` to add a pack from the Player's Handbook.
 > e.g. `!bag pack "Explorer's Pack"`
 
 ## Lifestyle & Downtime (Optional)

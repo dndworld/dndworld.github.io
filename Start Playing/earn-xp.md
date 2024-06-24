@@ -37,7 +37,7 @@ It is NOT considered active RP if a player's only contribution to a session is a
 - RPXP is tracked separately for each character you have. 
 - If you are RPing more than one character at the same time, you can only gain RPXP for one of them during that period.
 - All changes to RPXP must be made in `#xp-tracker`
-- If you are in the middle of RPing, you don't need to use the :octagonal-sign: react when switching channels.
+- If you are in the middle of RPing, you don't need to use the :octagonal_sign: react when switching channels.
 
 **DM Events & Redeeming**
 - RPXP can be transferred to the character's XP total, only **AFTER** the character has completed a DM sanctioned event.
@@ -49,10 +49,10 @@ It is NOT considered active RP if a player's only contribution to a session is a
 - If you forget to react to mark the start and end of the RP but it is still within 24 hours since it ended, you can still mark them and gain RPXP retroactively.
 - It is considered “cheating”, to add more RPXP than you should, add invalid RPXP, or add RPXP to your main XP tracker without a DM event, etc., and it results in the same consequences as any other cheating behaviors, according to its severity.
 
-**Spar RP**
+**Spar RP.**
 You can spar (PvP) with other players in the snowhaven-arena or snowhaven-arena-2 for the same amount of RPXP as RPing. Arena is a safe place to fight, as death is not permanent due to the healing constructs being on stand-by. For any other PvP, please refer to section 2.4 of rules.
 
-**Time Bubbled RP**
+**Time Bubbled RP.**
 The server runs in real time, but sometimes, real life stops a RP from being completed. You are allowed to pause to continue this RP in what we call a Time Bubble. 
 
 Time bubble RPs exist out of the server's time. You can still earn RPXP for them following the RPXP rules.
@@ -63,14 +63,16 @@ Time bubble RPs exist out of the server's time. You can still earn RPXP for them
 
 1) When you begin roleplaying, react to your first post with :beginner: `:beginner:` and get the person you are RPing with to react as well.
 
-2) When you stop roleplaying, react to your last post with :octagonal-sign: `:stop:` and get the person you are RPing with to react as well.
+2) When you stop roleplaying, react to your last post with :octagonal_sign: `:stop:` and get the person you are RPing with to react as well.
 
-3) Find out how long the RP session was. You can find your :beginner: and :octagonal-sign: messages posted to `#rp-log`.
+3) Find out how long the RP session was. You can find your :beginner: and :octagonal_sign: messages posted to `#rp-log`.
 
 4) Log RPXP in `#xp-tracker`.
-> ● You can get RPXP for each _**half hour** of active RP, rounded down.
+> - You can get RPXP for each **half hour** of active RP, rounded down.
 > 
-> ```!rpxp <hour> [message]```
+> ```
+> !rpxp <hour> [message]
+> ```
 > 
 > Example: `!rpxp 1.5 "#the-library"`
 
@@ -79,11 +81,13 @@ There is maximum RPXP you can gain each week (See the table below).
 
 All RPXP counters reset at 12AM EST Monday. Run the following command in `#xp-tracker` at the start of each week to reset it.
 
-```!rpxp cap reset```
+```
+!rpxp cap reset
+```
 
 **RPXP Rate & Weekly Cap**
 
-Following is how much RPXP per hour you can gain depending on your level. You can pull up this information by running `!rpxp cap`.
+The following table is how much RPXP per hour you can gain depending on your level. You can pull up this information by running `!rpxp cap`.
 
 - You can get RPXP for each __half hour__ of active RP, rounded down.
 
@@ -136,23 +140,25 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 > 
 > In `#dtd-automated-log`, run the following command.
 > 
-> ```!train [arguments]```
+> ```
+> !train
+> ```
 > 
 > The full explanation of Combat Training DTD can be found in `#lifestyle-dtd-rules`, and the command description and argument options can be found by running `!help train` in `#bot-dump`. You can do 1 DTD per day, up to 5 per week.
 
 **Step 3.** Log the XP
-> Go to <#531014104098537481> and log the XP
+> Go to `#xp-tracker` and log the XP
 > 
-> ```!dxp train <amount>```
-> 
-> Optionally, you can add a note with `-note "Note goes here"`
+> ```
+> !dxp train <amount>
+> ```
 
 Some guild modules and aides may provide bonus to the combat training DTD. For more information, please refer to the pinned messages of each guild’s channel.
 
 You **cannot** transfer RPXP to XP with combat training. This can only be done after the character has participated in a DM sanctioned event.
 
 
-## DM Events
+## 3. DM Events
 
 You can gain XP by participating in DM events. A DM event, or a DM sanctioned event is an event that is overseen by a DM (Dungeon Master), or AM (Arena Master). Below are the types of DM events on this server roughly in order of frequency. 
 
@@ -163,7 +169,7 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 > - Arena fights take place in `#snowhaven-arena` / `#snowhaven-arena-2`
 > - Pit fights take place in `#gladiator-pit` / `#gladiator-pit-2`
 > - Hunts take place in RP channels.
-> 
+
 > - Run by DMs and AMs
 > - Sign-ups in advance
 > - 4-6 players chosen by DM/AM
@@ -212,12 +218,10 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 > - Pops up in RP channels
 > - Run by DMs or NPC Masters. 
 > - Does not require sign-ups in advance
-> 
 > - Does not have a player cap and just involves whoever is in that channel at that time. However, please do not metagame and have your character magically appear there for no reason. 
 
-> Participants are not expected to commit to full duration
-> 
-> Duration is usually 2 hours
+> - Participants are not expected to commit to full duration
+> - Duration is usually 2 hours
 
 ### Special Events
 
@@ -242,7 +246,7 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 > - Sign-ups in advance
 > - 4-6 players chosen by DM
 > - Duration usually spans a few weeks. 
-> 
+
 > - Once the character joins, they are subject to a condition known as Questlock (QL), where they are unable to roleplay in Snowhaven, do Downtime, and participate in any bounties, fights, and events unless explicitly stated otherwise. 
 
 > - During the course of the campaign, participants are expected to send a message every few hours instead of a sit down session. The expectation of activity frequency varies from DM to DM, but in general do not keep the party waiting and inform them if real life events hinders activity.
@@ -250,7 +254,9 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 ### Transferring RPXP to XP after DM events
 
 After attending a DM event, RPXP is transferred to XP when you run the following command in `#xp-tracker`.
-> ```!dxp game <amount> <source>```
+> ```
+> !dxp game <amount> <source>
+> ```
 > 
 > Example: `!dxp game 100 "Pit Fight: The Pitmaster Returns 2022-02-25"`
 
