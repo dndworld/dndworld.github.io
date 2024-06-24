@@ -9,12 +9,11 @@ This channel explains different ways of gaining XP on the server.
 
 ## Overview
 
-There are three main ways of earning XP. 
+There are three main ways of earning XP:
 
-1. RPXP (transferred later as XP)
-2. Combat Training DTD
-3. DM Events
-
+1. [RPXP](earn-xp#1-rpxp) (transferred later as XP)
+2. [Combat Training DTD](earn-xp#2-combat-training-dtd)
+3. [DM Events](earn-xp#3-dm-events)
 
 ## 1. RPXP
 
@@ -117,7 +116,7 @@ The following table is how much RPXP per hour you can gain depending on your lev
 
 **Transferring RPXP to XP**
 
-> See under “DM Events” section below.
+> See under [DM Events](earn-xp#3-dm-events) section below.
 
 **RPXP Claim**
 
@@ -160,9 +159,9 @@ You **cannot** transfer RPXP to XP with combat training. This can only be done a
 
 ## 3. DM Events
 
-You can gain XP by participating in DM events. A DM event, or a DM sanctioned event is an event that is overseen by a DM (Dungeon Master), or AM (Arena Master). Below are the types of DM events on this server roughly in order of frequency. 
+You can gain XP by participating in DM events. A DM event, or a DM sanctioned event is an event that is overseen by a DM (Dungeon Master), or AM (Arena Master). Below are the types of DM events on this server, roughly in order of frequency. 
 
-For how to sign up for DM events, please refer to “Signing up for DM events” in [How to Start Playing](start-playing.md)
+For how to sign up for DM events, please refer to “Signing up for DM events” in [How to Start Playing](start-playing.md#signing-up-for-dm-events)
 
 ### Arena / Pit Fights / Hunts
 > - Single Combat Encounter 

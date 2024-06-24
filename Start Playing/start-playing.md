@@ -213,6 +213,7 @@ Bag management within the server is completely optional. Should you want to trac
 - `!bag "Backpack" - 2 "Item"` to remove multiple of the same item
 
 > `!bag pack <pack type>` to add a pack from the Player's Handbook.
+> 
 > e.g. `!bag pack "Explorer's Pack"`
 
 ## Lifestyle & Downtime (Optional)

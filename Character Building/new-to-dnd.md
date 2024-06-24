@@ -32,7 +32,7 @@ icon: ":beginner:"
 
 ### Getting access to paid material (Optional)
 > The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For the rules please refer to: https://discord.com/channels/512870694883950598/756319993616138310/756324175005745232 
-> - Send the request at #⁠ddb-link-request
+> - Send the request at `#⁠ddb-link-request`
 
 ---
 ## D&D Beyond Character Builder
@@ -108,11 +108,11 @@ Examples:
 > ```
 
 #### 3. Set Up Your Character for the Server
-> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠**HOW_TO_START_PLAYING**
+> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/dwguide/start-playing/start-playing/)
 
 #### 4. Learn How to Earn RPXP and XP
 > RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. 
-> - More details and additional information in 
+> - More details and additional information in [How to Earn XP](/dwguide/start-playing/earn-xp/)
 
 #### :icon-question:. Ask questions!
 > `⁠#beginner-help`
