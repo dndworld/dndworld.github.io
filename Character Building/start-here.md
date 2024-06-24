@@ -7,7 +7,7 @@ icon: ":wave:"
 
 This channel is a "Quick Start" guide for newcomers to the server.
 
-- World setting and server info: [About Us](../../)
+- World setting and server info: [About Us](/dwguide/))
 - If you need help or have questions about getting started on the server, please reach out to `#beginner-help`! 
 - If you have any other questions, please reach out to `#server-questions`!
 
@@ -79,9 +79,8 @@ In `#character-sheets`, replace the `<link>` with the link of your character she
 If you have used standard array or point buy, declare so after you upload your sheet. 
 
 You DO NOT need to wait for your sheet to be approved.
-Once you've uploaded your sheet to `#character-sheets`, you will be automatically granted **Newbie** and **Level 1** roles, and the rest of the server should now be visible. If for some reason the bot fails, you can get the roles manually in `#roles`.
+
+Once you've uploaded your sheet to `#character-sheets`, you will be automatically granted **Newbie** and **Level 1** roles, and the rest of the server should now be visible. If for some reason the bot fails, send a message to `#⁠server-questions`, and a staff member will grant you the roles.
 
 ## Set Up the Character for the Server
-Follow the steps in **HOW_TO_START_PLAYING** to set up your character for the server.
-
-
+Follow the steps in [How to Start Playing](/dwguide/start-playing/start-playing/) to set up your character for the server.
