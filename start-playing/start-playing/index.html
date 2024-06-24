@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/dwguide">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.772509572342">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.772520398405">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-round.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.772509572342" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.772520398405" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.772509572342" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.772520398405" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.772509572342" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.772520398405" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -238,7 +238,7 @@
         <span>How to Start Playing</span>
     </h1>
 </doc-anchor-target>
-<p>This channel is to teach you what to do after creating your character. If you have not done so yet, check out <a href="/character-building/start-here.md">Start Here</a></p>
+<p>This channel is to teach you what to do after creating your character. If you have not done so yet, check out <a href="/dwguide/character-building/start-here/">Start Here</a></p>
 <doc-anchor-target id="setting-up-class-race-custom-counters-ccs">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#setting-up-class-race-custom-counters-ccs">#</doc-anchor-trigger>
@@ -267,7 +267,7 @@
         <span>Tracking Money</span>
     </h2>
 </doc-anchor-target>
-<p>Money and XP are tracked on the server. They are <strong>not</strong> synced with your sheet, so it does not matter if your sheet is updated with this info. (Tracking XP is explained later in this channel.)</p>
+<p>Money and XP are tracked on the server. They are <strong>not</strong> synced with your sheet, so it does not matter if your sheet is updated with this info (tracking XP is explained later in this channel).</p>
 <p><strong>Check Coin Purse</strong></p>
 <blockquote>
 <p>Use <code v-pre>!transaction</code> to check your coin purse.</p>
@@ -380,7 +380,7 @@
 <p>Wait for a DM to ping your level for a bounty in <code v-pre>#bounty-board</code> or an arena/hunt/pit fight in <code v-pre>#arena-board</code>.</p>
 </blockquote>
 <ol start="2">
-<li>Check if signups are still Open.</li>
+<li>Check if signups are still Open</li>
 </ol>
 <blockquote>
 <p>Event posts with a <span class="docs-emoji">&#x274C;</span> or <span class="docs-emoji">&#x274E;</span> reaction are closed for signups.</p>
@@ -405,7 +405,7 @@
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>How to check &quot;RPXP Stored&quot; and &quot;XP to Next Level&quot;</h5>
-<p>In <code v-pre>#bot-dump</code>: <code v-pre>!rpxp xp</code></p>
+<p>In <code v-pre>#bot-dump</code>, run <code v-pre>!rpxp xp</code></p>
         </div>
     </div>
 </div>
@@ -459,23 +459,16 @@
 <p><strong>[ ! ]</strong> Your character sheet needs to list your equipments.</p>
 <p>Bag management within the server is completely optional. Should you want to track your items, you may do so in <code v-pre>#bot-dump</code></p>
 <ul>
-<li><p><code v-pre>!bag ?</code> to see all available commands</p>
-</li>
-<li><p><code v-pre>!bag $ &quot;Backpack&quot;</code> to create a bag called &quot;Backpack&quot;</p>
-</li>
-<li><p><code v-pre>!bag &quot;Backpack&quot; + &quot;Item&quot;</code> to add an item to the &quot;Backpack&quot;</p>
-</li>
-<li><p><code v-pre>!bag &quot;Backpack&quot; - &quot;Item&quot;</code> to remove an item</p>
-</li>
-<li><p><code v-pre>!bag &quot;Backpack&quot; + 2 &quot;Item&quot;</code> to add multiple of the same item</p>
-</li>
-<li><p><code v-pre>!bag &quot;Backpack&quot; - 2 &quot;Item&quot;</code> to remove multiple of the same item</p>
-</li>
-<li><p><code v-pre>!bag pack &lt;pack type&gt;</code> to add a pack from the Player&#x27;s Handbook.</p>
-</li>
+<li><code v-pre>!bag ?</code> to see all available commands</li>
+<li><code v-pre>!bag $ &quot;Backpack&quot;</code> to create a bag called &quot;Backpack&quot;</li>
+<li><code v-pre>!bag &quot;Backpack&quot; + &quot;Item&quot;</code> to add an item to the &quot;Backpack&quot;</li>
+<li><code v-pre>!bag &quot;Backpack&quot; - &quot;Item&quot;</code> to remove an item</li>
+<li><code v-pre>!bag &quot;Backpack&quot; + 2 &quot;Item&quot;</code> to add multiple of the same item</li>
+<li><code v-pre>!bag &quot;Backpack&quot; - 2 &quot;Item&quot;</code> to remove multiple of the same item</li>
 </ul>
 <blockquote>
-<p>e.g. <code v-pre>!bag pack &quot;Explorer's Pack&quot;</code></p>
+<p><code v-pre>!bag pack &lt;pack type&gt;</code> to add a pack from the Player&#x27;s Handbook.
+e.g. <code v-pre>!bag pack &quot;Explorer's Pack&quot;</code></p>
 </blockquote>
 <doc-anchor-target id="lifestyle--downtime-optional">
     <h2>
