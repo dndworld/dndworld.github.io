@@ -7,7 +7,7 @@ order: 1000
 icon: ":sparkles:"
 ---
 :::banner
-![](/Images/banner-snowhaven.png)
+![](/resources/banner-snowhaven.png)
 :::
 
 # ✨ About Us
