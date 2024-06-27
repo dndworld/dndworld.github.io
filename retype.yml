@@ -11,7 +11,7 @@ branding:
     label:
       text: "#58180d"
       background: "#eee5ce"
-favicon: Images/logo-round.png
+favicon: Images/logo-circle.png
 links:
 - text: Welcome!
   link: /dwguide/
