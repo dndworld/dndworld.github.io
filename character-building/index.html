@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/dwguide">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.773441201675">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.773443505441">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../images/logo-circle.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.5.0.773441201675" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.773443505441" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.773441201675" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.773443505441" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.773441201675" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.773443505441" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -49,6 +49,13 @@
 
         if selector is a HTML tag, must append !important as Retype's styling will override
         */
+        @media (min-width: 960px) {
+          #docs-app > .container > div.dark\:bg-dark-850 > div.flex > div:nth-child(1).md\:px-16 {
+            --size: 5.9rem;
+            padding-left: var(--size);
+            padding-right: var(--size);
+          }
+        }
         .docs-markdown h2 {
           font-size:1.5rem;
         }
@@ -60,6 +67,16 @@
         }
         .docs-markdown h5 {
           font-size:.875rem;
+        }
+        
+        .docs-markdown h2 .header-anchor-trigger {
+          margin-top:.25rem
+        }
+        .docs-markdown h3 .header-anchor-trigger,
+        .docs-markdown h4 .header-anchor-trigger,
+        .docs-markdown h5 .header-anchor-trigger,
+        .docs-markdown h6 .header-anchor-trigger {
+          margin-top:0
         }
         /*.docs-markdown h6 {
           font-size:.875rem;
