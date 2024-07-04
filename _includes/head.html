@@ -9,6 +9,13 @@
 
     if selector is a HTML tag, must append !important as Retype's styling will override
     */
+    @media (min-width: 960px) {
+      #docs-app > .container > div.dark\:bg-dark-850 > div.flex > div:nth-child(1).md\:px-16 {
+        --size: 5.9rem;
+        padding-left: var(--size);
+        padding-right: var(--size);
+      }
+    }
     .docs-markdown h2 {
       font-size:1.5rem;
     }
