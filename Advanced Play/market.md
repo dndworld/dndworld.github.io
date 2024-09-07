@@ -3,7 +3,7 @@ label: Snowhaven Market Rules
 order: 10
 icon: ":dollar:"
 ---
-# Snowhaven Market Rules
+# Snowhaven Market
 
 The Snowhaven Market document can be found here: https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/edit
 

@@ -20,7 +20,7 @@ The Black Market document can be found here: https://docs.google.com/document/d/
 > ```
 
 ## Magic Item Benefactor Rules
-> ### 1) Level Limitations
+### 1) Level Limitations
 > - Characters (or guilds) may only give magic items of certain rarity to other characters based on the table below.
 > ```
 > Common: Level 1+
@@ -29,14 +29,13 @@ The Black Market document can be found here: https://docs.google.com/document/d/
 > Very Rare: Level 12+
 > Legendary: Level 16+
 > ```
-> ### 2) Lending/Borrowing
+### 2) Lending/Borrowing
 > - Characters (or guilds) may freely lend magic items if they are listed in the Black Market document, following the Level Limitations above.
 > - Homebrew items are not allowed to be lent/borrowed.
 > - Non-homebrew items that are not on the black market bin list can be borrowed for RP purposes following the Level Limitations above. For games, the DM running the game has the final say in whether the borrowed item is allowed in their game.
 > - You do not need to fill in the "Magic Item Transfer" form for borrowing an item.
-> 
-> ### 3) Ownership Transfer
-> - Transferring the ownership of a magic item needs to be recorded in <#531011819095982081> using the following form:
+### 3) Ownership Transfer
+> - Transferring the ownership of a magic item needs to be recorded in `#transaction-log` using the following form:
 > ```
 > **Magic Item Transfer Between Players Log**
 > **Item:** [Name], [Rarity]
