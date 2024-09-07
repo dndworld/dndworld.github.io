@@ -10,6 +10,18 @@ icon: ":sparkles:"
 ![](/Images/banner-snowhaven.png)
 :::
 
+<style>
+@media (max-width: 360px) {
+  .banner .content-center {
+    max-height: 11vh;
+  }
+  .banner img {
+    /* display: none; */
+    top: -140px;
+  }
+}
+</style>
+
 # ✨ About Us
 You are about to join a homebrew text-only server where you will take on bounties West Marches style, meet hundreds of new people, and live out an epic life of an adventurer. Crab was here!
 
