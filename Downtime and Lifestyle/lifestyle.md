@@ -11,10 +11,10 @@ icon:
 
 Depending on which lifestyle you choose, your character’s lodging option changes.
 
-- `⁠#community-center`: **Poor** and **Squalid** living for the masses and the less fortunate.
-- `⁠#cozy-yeti-estates`: **Modest** accommodations for those in need of a place to rest their head.
-- `⁠#cozy-yeti-upstairs` & `⁠#white-dragon-hotel`: **Comfortable** living for those that want a little extra luxury in their stay.
-- `⁠#white-dragon-hotel`: **Wealthy** and **Aristocratic** living for those that have only the highest standards and the deepest pockets.
+> - `⁠#community-center`: **Poor** and **Squalid** living for the masses and the less fortunate.
+> - `⁠#cozy-yeti-estates`: **Modest** accommodations for those in need of a place to rest their head.
+> - `⁠#cozy-yeti-upstairs` & `⁠#white-dragon-hotel`: **Comfortable** living for those that want a little extra luxury in their stay.
+> - `⁠#white-dragon-hotel`: **Wealthy** and **Aristocratic** living for those that have only the highest standards and the deepest pockets.
 
 - **Self-sufficient** lifestyle is an option for those well-versed in surviving in the wilds. In order to gain this lifestyle, follow the instructions of [Self-sufficient Living DTD](lifestyle#self-sufficient-living).
 - Some backgrounds provide free or discounted lifestyles for your character. Check [Lifestyle modifying backgrounds](lifestyle#lifestyle-modifying-backgrounds) for more information.
@@ -46,7 +46,7 @@ Aristocratic       70gp
 ‡) Self-sufficient lifestyle requires Self-sufficient Living DTD
 ```
 
-- Skip to [Step 2. "How to Set Up Lifestyle"](lifestyle#2-how-to-set-up-lifestyle-)
+- Skip to [Step 2. "How to Set Up Lifestyle"](lifestyle#2-how-to-set-up-lifestyle)
 
 #### Special Cases
 > - If your character does not require food to survive, you only need to pay for the lodging. Therefore, the lifestyle cost is halved. Add `-div 2` to the end of your `!lifestyle` command.
@@ -56,7 +56,7 @@ Aristocratic       70gp
 
 **First time only**
 
-1. Choose a lifestyle for your character from the previous section ☝️
+1. Choose a lifestyle for your character from the previous section 
 - Your background may give you an alternative lifestyle option. Check out [Lifestyle modifying backgrounds](lifestyle#lifestyle-modifying-backgrounds) section for more information. 
 
 2. In `#lifestyle-log`, type the following command:
