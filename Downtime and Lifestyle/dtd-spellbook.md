@@ -7,8 +7,8 @@ icon: ":book:"
 
 Spellbook DTDs are for spellcasters who require **Spellbook** for casting spells.
 
-> Class: Wizard, Cardmaster, Spellsword
-> Others: Pact of the Tome Warlock, Ritual Caster feat
+> - Class: Wizard, Cardmaster, Spellsword
+> - Others: Pact of the Tome Warlock, Ritual Caster feat
 
 
 ## Copying Spells

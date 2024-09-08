@@ -1,10 +1,10 @@
 ---
-label: Downtime Days
+label: Downtime Days (DTDs)
 order: 9
 icon: 
 ---
 # Downtime Days
-**DownTime Days (DTD)** activities can enable you to earn some extra gold, copy spells, and other neat features.
+**Downtime Day (DTD)** activities can enable you to earn some extra gold, copy spells, and other neat features.
 
 ## DownTime Days (DTD) Rules
 
@@ -78,8 +78,8 @@ RP: [describe how you are trying to impress your new boss!]
 - Make sure you add your tool proficiencies with `!tool` command.
 
 > Examples:
-> `!tool pro "Mason's Tools"` to add proficiency
-> `!tool exp "Thieves' Tools"` to add expertise
+> - `!tool pro "Mason's Tools"` to add proficiency
+> - `!tool exp "Thieves' Tools"` to add expertise
 
 !!!
 For the full help text, use `!help tool` in `#bot-dump`
@@ -149,7 +149,7 @@ For the full help text, use `!help ptw` in `#bot-dump`.
 
 *Some jobs, such as working for the local militia as a guard, involve risks. These jobs require multiple skills and come with a risk of injury for each failed check. However, they pay more, and are more forgiving when things go wrong.*
 
-​​- In order to do the High-Risk Work DTD, you need to first find the employer using [Find DTD](dtd#find).
+- In order to do the High-Risk Work DTD, you need to first find the employer using [Find DTD](dtd#find).
 - The starting wage for all HRW is **6gp** per day. You still get paid whether or not you pass the check, unless the output states otherwise.
 
 #### Raises and Pay Cuts
@@ -174,7 +174,7 @@ For the full help text, use `!help hrw` in `bot-dump`.
 *Random tasks, for the unskilled and the fearless. These jobs are readily available and do not require you to Find an employer. However they vary wildly in profitability and safety.*
 
 !!!
-For the full help text, use `!help odd <job name>` in `bot-dump`.
+For the full help text, use `!help odd <job name>` in `#bot-dump`.
 !!!
 
 ### Community Center Service
@@ -240,7 +240,7 @@ To pull up the help text for each guild DTD, use following command in `bot-dump`
 !help guild [Name of DTD]
 ```
 
-To join a guild, please refer to [Guilds](/dwguide/advanced-play/guilds/)
+For help in joining a guild, please refer to [Joining a Guild (Optional)](/dwguide/start-playing/start-playing#joining-a-guild-optional/)
 
 ## Business DTD
 

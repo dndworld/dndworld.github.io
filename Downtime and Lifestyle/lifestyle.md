@@ -1,5 +1,5 @@
 ---
-label: How to Earn XP
+label: Lifestyle
 order: 10
 icon: 
 ---
@@ -16,14 +16,14 @@ Depending on which lifestyle you choose, your character’s lodging option chang
 - `⁠#cozy-yeti-upstairs` & `⁠#white-dragon-hotel`: **Comfortable** living for those that want a little extra luxury in their stay.
 - `⁠#white-dragon-hotel`: **Wealthy** and **Aristocratic** living for those that have only the highest standards and the deepest pockets.
 
-- **Self-sufficient** lifestyle is an option for those well-versed in surviving in the wilds. In order to gain this lifestyle, follow the instructions of [Self-sufficient Living DTD](lifestyle.md#self-sufficient-living).
-- Some backgrounds provide free or discounted lifestyles for your character. Check [Lifestyle modifying backgrounds](lifestyle.md#lifestyle-modifying-backgrounds) for more information.
+- **Self-sufficient** lifestyle is an option for those well-versed in surviving in the wilds. In order to gain this lifestyle, follow the instructions of [Self-sufficient Living DTD](lifestyle#self-sufficient-living).
+- Some backgrounds provide free or discounted lifestyles for your character. Check [Lifestyle modifying backgrounds](lifestyle#lifestyle-modifying-backgrounds) for more information.
 
 ### What if I am not paying Lifestyle yet?
 
 Lifestyle and DTD are optional mechanics on this server. Any characters not paying lifestyle are considered to be benefiting from Snowhaven’s Full Time Adventurer scheme and stay in the `⁠#cozy-yeti-estates` with all expenses covered. As you are considered a "full time" adventurer, you may not do DTDs. 
 
-## Step-By-Step Guide to Lifestyle**
+## Step-By-Step Guide to Lifestyle
 
 In order to do DownTime Days (DTD) activities, you need to pay Lifestyle **weekly** for each character. You may log lifestyle once a week on Mondays. The two halves of the lifestyle costs are **Lodging** and **Food**. 
 
@@ -46,7 +46,7 @@ Aristocratic       70gp
 ‡) Self-sufficient lifestyle requires Self-sufficient Living DTD
 ```
 
-- Skip to [Step 2. "How to Set Up Lifestyle"](lifestyle.md#2-how-to-set-up-lifestyle-)
+- Skip to [Step 2. "How to Set Up Lifestyle"](lifestyle#2-how-to-set-up-lifestyle-)
 
 #### Special Cases
 > - If your character does not require food to survive, you only need to pay for the lodging. Therefore, the lifestyle cost is halved. Add `-div 2` to the end of your `!lifestyle` command.
@@ -57,7 +57,7 @@ Aristocratic       70gp
 **First time only**
 
 1. Choose a lifestyle for your character from the previous section ☝️
-- Your background may give you an alternative lifestyle option. Check out [Lifestyle modifying backgrounds](lifestyle.md#lifestyle-modifying-backgrounds) section for more information. 
+- Your background may give you an alternative lifestyle option. Check out [Lifestyle modifying backgrounds](lifestyle#lifestyle-modifying-backgrounds) section for more information. 
 
 2. In `#lifestyle-log`, type the following command:
 
@@ -92,12 +92,12 @@ Whenever you run `!lifestyle` with any arguments, it will save those arguments f
 
 - You don’t have to choose the lifestyle that comes with the background, but if you choose any other lifestyle, you do not get the benefit from the background. Therefore, you need to pay the full price for the lifestyle.
 
-> - **Acolyte**: Half of Modest lifestyle cost. You are assumed to stay at the <#542431801394855936>.
+> - **Acolyte**: Half of Modest lifestyle cost. You are assumed to stay at the `#temple-to-the-gods`.
 > - **Battlefield Medic**: Poor lifestyle for free. Troops and guards welcome you whenever you offer your assistance.
 > - **Entertainer / Gladiator**: Comfortable lifestyle for 2 DTD points. In exchange for your performances, you receive free lodging and food.
 > - **Faction Agent**: Modest lifestyle for free. Your lodging is covered by the faction you serve.
 > - **Fisher**: Modest lifestyle for 1 DTD point. In exchange for the fresh catch you bring, you receive free lodging and food.
-> - ** Folk Hero / Haunted One**: Poor lifestyle for free, thanks to the common folks helping you out.
+> - **Folk Hero / Haunted One**: Poor lifestyle for free, thanks to the common folks helping you out.
 > - **Guild Artisan**: Modest lifestyle for free, with your monthly membership payment of 5gp. Add `-background "guild artisan"` to your `!lifestyle`, which will make the weekly cost 1.25 gp.
 > - **Knight of the Order**: Half of Modest lifestyle cost. You only need to pay for food, as your lodging is covered..
 > - **Mercenary Veteran**: Comfortable lifestyle for 2 DTD points. In exchange for your mercenary work, you receive free loging and food.
@@ -123,13 +123,13 @@ For Lifestyle Modifying Backgrounds, `-div`, `null`, `-override`, `-dtd` are aut
 > - `!lifestyle poor -background "Folk Hero"`
 > - `!lifestyle modest -background "Outlander"`
 
-- Skip to [Step 3. "Logging Weekly"](lifestyle.md#3-logging-weekly)
+- Skip to [Step 3. "Logging Weekly"](lifestyle#3-logging-weekly)
 
 ## Self-sufficient Living
 
 *It is possible to survive in the forest outside of town if you are skilled enough to hunt and make your own shelter. This can take up much of your downtime and is not without risks, but it does allow you to survive for free.*
 
-Characters with **Outlander** or **Uthgardt Tribe Member** background do not need to go through the normal process of Self-sufficient Living DTD. More information in the [Lifestyle Modifying Backgrounds](lifestyle.md#lifestyle-modifying-backgrounds) section.
+Characters with **Outlander** or **Uthgardt Tribe Member** background do not need to go through the normal process of Self-sufficient Living DTD. More information in the [Lifestyle Modifying Backgrounds](lifestyle#lifestyle-modifying-backgrounds) section.
 
 For each week you choose to find your own shelter and food with self-sufficient living, follow the next steps.
 

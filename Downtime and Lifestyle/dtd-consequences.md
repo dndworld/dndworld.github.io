@@ -31,17 +31,17 @@ If the injury you gained is unsuitable for the character’s body type, reflavor
 
 Each injury requires a different amount of Recovery Points (RP).
 ```
-Injury      Recovery Point (RP)
+Injury            Recovery Point (RP)
 
-Slipped Disc          90
-Fractured hip         90
-Fractured ankle       75
-Fractured rib         75
+Slipped Disc             90
+Fractured hip            90
+Fractured ankle          75
+Fractured rib            75
 
-Fractured wrist       75
-Concussion            60
-Black eye/eye injury  45
-Infected wound        45
+Fractured wrist          75
+Concussion               60
+Black eye/eye injury     45
+Infected wound           45
 ```
 
 ## Injury Recovery Basics
@@ -64,8 +64,10 @@ In case you need to manually add the injuries, use `!injury add "<injury name>"`
 - The injury is automatically removed from your character when the Recovery Point is reached.
 - If a character is affected by **multiple injuries**, you recover one injury at a time. If the accumulated RP (Recovery Point) exceeds the first injury's required RP, it is automatically carried over to the next injury.
 - Because this represents the course of natural recovery, you may roll for any missed days after-the-fact. Please make sure that any penalty from the injuries were properly applied in any DM events or DTDs during the time.
- 
-- Note that the DTD aliases automatically impose disadvantage on the relevant rolls (or change the ability score used for tools, if advantageous) if you're injured.
+
+!!!
+Note that the DTD aliases automatically impose disadvantage on the relevant rolls (or change the ability score used for tools, if advantageous) if you're injured.
+!!!
 
 ### Injury Recovery by Spell
 - Casting the **Regenerate** spell on a character cures **all** injuries.
@@ -120,8 +122,9 @@ Then in `#dtd-injury-recovery-log`:
 ```
 !injury recover -b 10 -note "Bonus from Medical Help"
 ```
- 
+!!!warning
 This bonus does **not** stack with the bonus from the Forage for Herbs DTD.
+!!!
 
 ### Forage for Herbs
 
@@ -156,7 +159,7 @@ For the full help text, use `!help forage` in `#bot-dump`.
 
 ## Consequences of Crime
 
-## Infamy Point (IP)
+## Infamy Points (IP)
 
 Some DTD activities are considered crime or illegal, and there is a chance that you get caught in action and receive a number of **Infamy Points (IP)**.
 
