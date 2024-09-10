@@ -1,5 +1,5 @@
 ---
-label: About Me
+label: About Us
 authors: 
 - Jmac the Rat
 - Crab
@@ -11,6 +11,8 @@ icon: ":sparkles:"
 :::
 
 <style>
+h1:before { content: "✨ " }
+
 @media (max-width: 360px) {
   .banner .content-center {
     max-height: 11vh;
@@ -22,7 +24,7 @@ icon: ":sparkles:"
 }
 </style>
 
-# ✨ About Us
+# About Us
 You are about to join a homebrew text-only server where you will take on bounties West Marches style, meet hundreds of new people, and live out an epic life of an adventurer. Crab was here!
 
 ## Who We Are

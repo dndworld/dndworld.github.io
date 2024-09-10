@@ -3,6 +3,11 @@ label: How to Start Playing
 order: 10
 icon: ":game_die:"
 ---
+
+<style>
+h1:before { content: "🎲 " }
+</style> 
+
 # How to Start Playing
 
 This channel is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/dwguide/character-building/start-here/)

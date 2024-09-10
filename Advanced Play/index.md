@@ -3,6 +3,11 @@ order: 98
 icon: ":scroll:"
 expanded: true
 ---
+
+<style>
+h1:before { content: "📜 " }
+</style> 
+
 # Advanced Play
 
 Once you've got your character set up for the server, feel free to check out these guide:

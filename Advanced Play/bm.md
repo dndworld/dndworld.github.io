@@ -3,6 +3,11 @@ label: Magic Items
 order: 7
 icon: ":wind_chime:"
 ---
+
+<style>
+h1:before { content: "🎐 " }
+</style> 
+
 # Magic Items
 
 The Black Market document can be found here: https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM

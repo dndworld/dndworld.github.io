@@ -3,6 +3,11 @@ order: 100
 icon: ":gear:"
 expanded: true
 ---
+
+<style>
+h1:before { content: "⚙️ " }
+</style> 
+
 # Character Building
 
 To get your character set up for the server, have a look at the following tabs:

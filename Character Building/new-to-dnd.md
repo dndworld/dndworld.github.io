@@ -4,6 +4,10 @@ order: 9
 icon: ":beginner:"
 ---
 
+<style>
+h1:before { content: "🔰 " }
+</style> 
+
 # New to D&D
 ## Step-by-Step: Making your first character on DnD Beyond
 

@@ -3,6 +3,11 @@ label: Housing and Businesses
 order: 9
 icon: ":house:"
 ---
+
+<style>
+h1:before { content: "🏠 " }
+</style> 
+
 # Housing and Businesses
 
 Housing rules can be found here: https://docs.google.com/document/d/1woOTP_BGQ209CxCcj8YSwF6fGJbl8uGh7CLgtYp-qSE

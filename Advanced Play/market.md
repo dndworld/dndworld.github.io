@@ -3,6 +3,11 @@ label: Snowhaven Market
 order: 10
 icon: ":dollar:"
 ---
+
+<style>
+h1:before { content: "💵 " }
+</style> 
+
 # Snowhaven Market
 
 The Snowhaven Market document can be found here: https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/edit

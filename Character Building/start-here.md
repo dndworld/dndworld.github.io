@@ -3,6 +3,11 @@ label: Start Here
 order: 10
 icon: ":wave:"
 ---
+
+<style>
+h1:before { content: "👋 " }
+</style> 
+
 # Start Here
 
 This channel is a "Quick Start" guide for newcomers to the server.

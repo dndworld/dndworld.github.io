@@ -3,6 +3,11 @@ label: Guilds
 order: 8
 icon: ":office:"
 ---
+
+<style>
+h1:before { content: "🏢 " }
+</style> 
+
 # Guilds
 
 The Guild document can be found here: https://docs.google.com/document/d/1A8sVmnksKwb9MX98f7Z6lfmdDgfxft85JPaQKejxXj0

@@ -3,6 +3,11 @@ label: How to Earn XP
 order: 9
 icon: ":crossed_swords:"
 ---
+
+<style>
+h1:before { content: "⚔️ " }
+</style> 
+
 # How to Earn XP
 
 This channel explains different ways of gaining XP on the server.

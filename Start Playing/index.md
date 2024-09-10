@@ -3,6 +3,11 @@ order: 99
 icon: ":jigsaw:"
 expanded: true
 ---
+
+<style>
+h1:before { content: "🧩 " }
+</style> 
+
 # Start Playing
 
 Once you've created your character sheet, and imported them in `#character-sheets`, have a look at the following tabs:

@@ -3,6 +3,11 @@ label: DTD Consequences
 order: 8
 icon: ":adhesive_bandage:"
 ---
+
+<style>
+h1:before { content: "🩹 " }
+</style>
+
 # DTD Consequences
 
 *”High risk, high reward. High reward? High risk!”*
