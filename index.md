@@ -7,7 +7,7 @@ order: 1000
 icon: ":sparkles:"
 ---
 :::banner
-![](/Images/banner-snowhaven.png)
+![](https://uploads.worldanvil.com/uploads/images/24d0c14136145b62d821f3dbf9ef1611.jpg)
 :::
 
 <style>
