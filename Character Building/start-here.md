@@ -12,7 +12,7 @@ h1:before { content: "👋 " }
 
 This channel is a "Quick Start" guide for newcomers to the server.
 
-- World setting and server info: [About Us](/dwguide/))
+- World setting and server info: [About Us](/dwguide/)
 - If you need help or have questions about getting started on the server, please reach out to `#beginner-help`! 
 - If you have any other questions, please reach out to `#server-questions`!
 
@@ -27,25 +27,28 @@ It is entirely optional to roll for stats/gold/hp. However, once you have made t
 - All rolls must be made in `⁠#official-character-rolls` for it to be valid.
 
 ### Stats
-> You may use Standard Array / Point Buy / Rolling for the character stats.  
-> - For rolling, use `!rollstats` in `#official-character-rolls`.
-> 
-> You are only permitted one roll per character, and the command will give you stats that are to our server's minimum standard.
-> 
-> :icon-alert: Do not roll stats on DnD Beyond!
-> You cannot use Standard Array/Point Buy after rolling.
-> You can switch to rolling from Standard Array/Point Buy if you are still in the character creation stage.
+You may use Standard Array / Point Buy / Rolling for the character stats.  
+- For rolling, use `!rollstats` in `#official-character-rolls`.
+
+You are only permitted one roll per character, and the command will give you stats that are to our server's minimum standard.
+
+!!!warning
+Do not roll stats on D&D Beyond!
+You cannot use Standard Array/Point Buy after rolling.
+!!!
+
+You can switch to rolling from Standard Array/Point Buy if you are still in the character creation stage.
 
 ### Gold
 To roll for gold, follow the instructions pinned in `#official-character-rolls`. Please note that if you roll for gold, you cannot take equipment or gold from your class or background.
 
-> You may take starting equipment or roll for gold. 
-> - If you choose to take starting equipment, the item must be available in the regular market. The market document can be found here: [DW Snowhaven Market](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
->
-> Once you have rolled the gold and imported your sheet in `#character-sheets`, you may then purchase the equipment in the `#transaction-log`. The market document is linked in `#advanced-play-rules`.
+You may take starting equipment or roll for gold. 
+- If you choose to take starting equipment, the item must be available in the [Snowhaven Market document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/).
+
+Once you have rolled the gold and imported your sheet in `#character-sheets`, you may then purchase the equipment in the `#transaction-log`.
 
 ### HP
-> We recommend that you choose **fixed value HP** as described in PHB. You may choose to roll HP following the instructions pinned in `#⁠official-character-rolls`.
+We recommend that you choose **fixed value HP** as described in PHB. You may choose to roll HP following the instructions pinned in `#⁠official-character-rolls`.
 
 ## Character Sheet Options
 To play on the server, your character sheet needs to be compatible with Avrae Bot. 
@@ -61,18 +64,18 @@ For information on allowed/banned material as well as allowed UA and homebrew op
 - You are **not** allowed to possess any magic items starting out.
 
 When given options, choose following:
-> - Optional Class Features and Custom Origin are allowed (note: approved materials only).
-> - Select **Milestone**, not XP. This is because we use a slightly different XP progression, which is managed within the server through Avrae.
-> - Carrying capacity: Use Encumbrance
-> - Ignore coin weight: Off
+- Optional Class Features and Custom Origin are allowed (note: approved materials only).
+- Select **Milestone**, not XP. This is because we use a slightly different XP progression, which is managed within the server through Avrae.
+- Carrying capacity: Use Encumbrance
+- Ignore coin weight: Off
+- Character Privacy: **Public**
 
 ## Change Your Server Nickname
 Change your Server Nickname to **Name of Character (Race Class).**
 
-Examples:
-> Myrdin (Halfling Ranger) 
-> 
-> Panadol (Drow Warlock)
+> Examples:
+> - Myrdin (Halfling Ranger) 
+> - Panadol (Drow Warlock)
 
 ## Upload Your Character Sheet
 In `#character-sheets`, replace the `<link>` with the link of your character sheet.
