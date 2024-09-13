@@ -7,7 +7,7 @@ order: 400
 ## Abbreviations/Lingo
 
 ### DnD World Staff related
-More info in `#staff-roles`
+*More info in `#staff-roles`*
 
 - **FG**: FangirlCrazily, Server Owner
 - **TMod**: Trainee Moderator
@@ -24,7 +24,7 @@ More info in `#staff-roles`
 - **DP**: Demerit Points ([Rules](rules.md))
 
 ### Lifestyle & Downtime Days related
-More info in [Downtime and Lifestyle Rules](/dwguide/downtime-and-lifestyle/)
+*More info in [Downtime and Lifestyle Rules](/dwguide/downtime-and-lifestyle/)*
 
 - **LS**: Lifestyle
 - **DTD**: Downtime Days
@@ -61,31 +61,31 @@ More info in [Downtime and Lifestyle Rules](/dwguide/downtime-and-lifestyle/)
 ## More D&D Content: 
 ### YouTube Channels
 
-**Puffin Forest**: A Player/DM who frequently uploads videos on wacky tales of his D&D adventures: <https://www.youtube.com/channel/UCUpkp-6fXuG9dqfoJ99XTmw>
+[**Puffin Forest**](https://www.youtube.com/channel/UCUpkp-6fXuG9dqfoJ99XTmw): A Player/DM who frequently uploads videos on wacky tales of his D&D adventures.
 
-**JoCat**'s series: A Crap Guide to D&D, is a brief and fun summary of the various classes and how they use their abilities! <https://www.youtube.com/playlist?list=PLDnRMnDDjAzK5uZLidDUtHtD1iN06Qe0G>
+[**JoCat**](https://www.youtube.com/playlist?list=PLDnRMnDDjAzK5uZLidDUtHtD1iN06Qe0G)'s series: A Crap Guide to D&D, is a brief and fun summary of the various classes and how they use their abilities!
 
-**Critical Role**'s Handbooker Helper explains the rules regarding several mechanics in D&D 5e: <https://www.youtube.com/playlist?list=PL1tiwbzkOjQyr6-gqJ8r29j_rJkR49uDN>
+[**Critical Role**](https://www.youtube.com/playlist?list=PL1tiwbzkOjQyr6-gqJ8r29j_rJkR49uDN)'s Handbooker Helper explains the rules regarding several mechanics in D&D 5e.
 
-**Zee Bashew** covers underrated spells and mechanics! <https://www.youtube.com/user/zeebashew>
+[**Zee Bashew**](https://www.youtube.com/user/zeebashew) covers underrated spells and mechanics!
 
-**Dingo Doodles** produces funny animated videos about her D&D adventures! <https://www.youtube.com/channel/UCfPUcG3oCmXEYgdFuwlFh8w>
+[**Dingo Doodles**](https://www.youtube.com/channel/UCfPUcG3oCmXEYgdFuwlFh8w) produces funny animated videos about her D&D adventures!
 
-**Runesmith**'s Basically [ ] series is popular for covering D&D lore as well as character building material! <https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw>
+[**Runesmith**](https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw)'s Basically [ ] series is popular for covering D&D lore as well as character building material!
 
-**Davvy Chappy** covers the latest D&D news as well as offers newbie friendly tutorials! <https://www.youtube.com/channel/UC1r4Y0yjS1wjq6Yw1ybcJHA>
+[**Davvy Chappy**](https://www.youtube.com/channel/UC1r4Y0yjS1wjq6Yw1ybcJHA) covers the latest D&D news as well as offers newbie friendly tutorials!
 
 ### Podcasts & Streams
 
-**Critical Role** is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. Check it out here! <https://critrole.com/>
+[**Critical Role**](https://critrole.com/) is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. 
 
-**The Adventure Zone** is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Crit Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! <https://www.maximumfun.org/shows/adventure-zone>
+[**The Adventure Zone**](https://www.maximumfun.org/shows/adventure-zone) is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Critical Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! 
 
-**Not Another D&D Podcast** is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. Catch it over here!: <https://headgum.com/not-another-dandd-podcast>
+[**Not Another D&D Podcast**](https://headgum.com/not-another-dandd-podcast) is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. 
 
-**Dimension 20** is a comedic take on the setting of D&D campaigns by the cast of Collegehumor. The stream can be found on YouTube over here: <https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A>
+[**Dimension 20**](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A) is a comedic take on the setting of D&D campaigns by the cast of Dropout. 
 
-**High Rollers** is a popular Twitch stream, live every Sundays 5pm BST: <https://www.twitch.tv/highrollersdnd>
+[**High Rollers**](https://www.twitch.tv/highrollersdnd) is a popular Twitch stream, live every Sundays 5pm BST.
 
 ## Tutorials
 
