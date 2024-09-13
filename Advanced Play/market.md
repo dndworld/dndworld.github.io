@@ -10,7 +10,7 @@ h1:before { content: "💵 " }
 
 # Snowhaven Market
 
-The Snowhaven Market document can be found here: https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/edit
+## [Snowhaven Market Document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
 
 - To buy or sell items on the market, log the transaction in ⁠`#transaction-log` first, then add or remove the items from your character sheet.
 - The prices of non-magical, mundane items are as stated in PHB. Selling price is 50% of the buying price, rounded down.

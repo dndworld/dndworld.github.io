@@ -10,8 +10,20 @@ h1:before { content: "🎐 " }
 
 # Magic Items
 
-The Black Market document can be found here: https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM
+## [Black Market Document](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM)
 
+The Black Market offers a means of purchasing and selling magic items. The document above details how to make transactions with the Black market. Additionally, the Black Market Bin lists all the magic items available to be purchased or sold from the Black Market Bin, without needing to submit a form to the`#black-market-registry`.
+
+For transactions through the Black Market Bin: 
+- Once you've found the item you wish to purchase or sell, along with its associated costs, use the `!transaction` command in `#transaction-log` with all the pertinent information in the command. 
+- If you're purchasing an item, fill out the form below as well and send it into the `#transaction-log` channel.
+- Afterwards, react to it with the 🎐 emoji. 
+
+!!!Note
+- Not all items can be purchased from the Black Market. 
+- You cannot sell an item for both Black Marks and Gold. You must choose to trade for either one or the other. 
+- You cannot sell consumables to the Market.
+!!!
 
 ## Black Market Transaction Log Template
 > Post the following log detailing the transaction in `#transaction-log`.
