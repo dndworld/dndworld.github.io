@@ -231,14 +231,12 @@ To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/
 > - You are not allowed to create characters younger than adolescence, using the guidelines the below chart.
 > - You also may not play a character who behaves drastically younger than their actual age, i.e. overtly childish behavior.
 
-## Backstory
+## Character Backstory
 
 - It is important to note that your character's backstory will most likely not be explored here. Hence, the backstory is primarily for your roleplay.
 - By submitting your backstory and lore to this server, you agree that it becomes open to DM interpretation.
 
-### Rules for Character Backstory
-
-Level 1 Character in a Collaborative Story
+### Level 1 Character in a Collaborative Story
 
 > - What you did in your backstory must make sense for a Level 1 character's capabilities. For example, you cannot be famous or notorious at the world-wide scale, or have committed mass slaughter.
 > - Beware of Chosen One Syndrome. You are a part of the collaborative storytelling, not the main character of a novel.
@@ -314,22 +312,27 @@ Once your character participates in a DM event, all rebuilds must be submitted f
 
 ## Beyond 1st Level
 
-Gaining a Level
+### Gaining a Level
+
 > - [How to Earn XP](/dwguide/start-playing/earn-xp/) lists all the ways you can gain XP. Please note that RPXP is separate from XP. Full details can be found in the channel.
 > - Once you updated the character sheet, run `!update` and `!level` in `#bot-dump`. You may need to set the subclass manually by running `!level [class] [subclass]`.
 > - Once your character gains a level, make sure to change your reacts in `#roles` in order to receive the game post pings for the new level.
 > - Please note, "Changing Your Subclass" section from Tasha's Cauldron of Everything (TCoE) is not allowed. You may change the subclass of a character following the rebuild rules in `#rebuild-retire-log`.
 
-Multiclass
+### Multiclass
+
 > You are allowed to multiclass when you level up, as long as you meet the standard stat prerequisites.
 
-ASI/Feat
+### ASI/Feat
+
 > You are allowed to take a feat instead of taking Ability Score Improvement (ASI), when the class gives you the option at certain levels.
 
-Rebuild
+### Rebuild
+
 > Please refer to `#rebuild-retire-log` pin for full details on rebuild.
 
-Character Death / Retire
+### Character Death / Retire
+
 > - Character death needs to be recorded in `#list-of-the-fallen`. Full details on how to make the record, what to do next, and information on Cushion Rule can be found in the channel pin.
 > - You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on retire and Cushion Rule can be found in `#rebuild-retire-log` channel pin.
 
