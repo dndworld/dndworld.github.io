@@ -340,7 +340,17 @@ Once your character participates in a DM event, all rebuilds must be submitted f
 
 Whether you leave the server and return after some period of time, or you have been inactive on the server for some time, your characters do **not** automatically reset. You must keep all rolled results, as well as the characters created before the leave or inactivity. 
 
-#### Fresh Start
+### Invalid Stats Rebuild
+If you have a roll made before 11 August 2020, you may reroll for it provided you lack one of the following:
+- 70 or above in total stats
+- At least one 14 or above
+- Separate stat of at least one 15 or above
+
+To reroll, please declare which character you are rerolling for, then run `!generate` ONCE in <#513963351567499264>. You may choose between your new and previous roll:
+- To use your new roll, submit the [Invalid Stats rebuild form](<https://discord.com/channels/512870694883950598/542953099560615946/941343439428145223>) in ⁠<#542953099560615946> and wait for it to be processed.
+- To keep your previous roll, react ❌ on the new roll.
+
+### Fresh Start
 - In case you have been away for a significant amount of time, we allow you to mass retire all of your characters. In this case only one of them is eligible for the Cushion Rule. You are not required to do Fresh Start if you have been away, but if you choose to do fresh start, it applies to all characters you had.
 - Fresh Start is approved on a case-by-case basis. Please fill in the following form and send it to `#rebuild-retire-log` and wait for the request to be reviewed.
 
