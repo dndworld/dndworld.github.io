@@ -8,8 +8,6 @@ icon: ":hammer_and_wrench:"
 h1:before { content: "🛠️ " }
 </style>
 
-# Character Creation Rules
-
 This channel contains the rules for character creation. For the starting guide to the server, please head over to [Start Here](start-here.md).
 
 ## Start
@@ -114,7 +112,7 @@ To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/
 
 ### [DnD World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
 
-> This document compiles all changes of official content and Variant Features we've added. 
+> This document along with the [Erratas and Clarifications page](/erratas.md) compile all changes of official content and Variant Features we've added.
 
 ## Character Creation
  
@@ -346,15 +344,15 @@ If you have a roll made before 11 August 2020, you may reroll for it provided yo
 - At least one 14 or above
 - Separate stat of at least one 15 or above
 
-To reroll, please declare which character you are rerolling for, then run `!generate` ONCE in <#513963351567499264>. You may choose between your new and previous roll:
-- To use your new roll, submit the [Invalid Stats rebuild form](<https://discord.com/channels/512870694883950598/542953099560615946/941343439428145223>) in ⁠<#542953099560615946> and wait for it to be processed.
+To reroll, please declare which character you are rerolling for, then run `!generate` ONCE in `#official-character-rolls`. You may choose between your new and previous roll:
+- To use your new roll, submit the [Invalid Stats rebuild form](<https://discord.com/channels/512870694883950598/542953099560615946/941343439428145223>) in `#rebuild-retire-log` and wait for it to be processed.
 - To keep your previous roll, react ❌ on the new roll.
 
 ### Fresh Start
 - In case you have been away for a significant amount of time, we allow you to mass retire all of your characters. In this case only one of them is eligible for the Cushion Rule. You are not required to do Fresh Start if you have been away, but if you choose to do fresh start, it applies to all characters you had.
 - Fresh Start is approved on a case-by-case basis. Please fill in the following form and send it to `#rebuild-retire-log` and wait for the request to be reviewed.
 
-```
+```md
 Fresh Start Request
 
 **How long you have been away:** 
