@@ -1,6 +1,6 @@
 ---
 label: Lifestyle
-order: 10
+order: 20
 icon: 
 ---
 # Lifestyle
