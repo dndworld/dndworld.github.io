@@ -7,7 +7,43 @@ label: Erratas and Clarifications
 </style>
 
 This is a channel for the staff to post rulings, changes, and erratas that have been made to the rules, compiled for easy access. Staff should follow the below template when posting rulings on edge cases, or full erratas to the rules, as well as the link(s) to relevant discussion. 
+<!--
+Ruling Template
+```
+=== **Clarification to Rule:** ..
+**Interpretation:** 
+**Link to discussion:** 
+```yaml **Tags**
+Race/Racefeat: 
+Class/Classfeat:
+Subclass/Subclassfeat:
+Feat:
+Background: 
+Spell: 
+Item: 
+Server Rule Keyword: <RPXP, XP, Level, DM Event, Roleplay>
+```
+===
+-->
 
+<!--
+Errata Template
+```
+=== **Errata to Rule:** ..
+**Changes:**
+**Link to discussion:** 
+```yaml **Tags**
+Race/Racefeat: 
+Class/Classfeat:
+Subclass/Subclassfeat:
+Feat:
+Background: 
+Spell: 
+Item: 
+Server Rule Keyword: <RPXP, XP, Level, DM Event, Roleplay>
+```
+===
+-->
 **Tags*/* should be added to the Ruling or Errata postings to make these decisions easy to search for the players. Add any and all applicable keywords that one may use to search for the post.
 
 === **Clarification to Rule:** Druids and metal equipment
