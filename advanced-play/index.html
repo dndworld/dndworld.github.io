@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/dwguide">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.779937793234">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.779967159690">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -32,16 +32,18 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../images/logo-circle.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.6.0.779937793234" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.6.0.779967159690" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.6.0.779937793234" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.6.0.779967159690" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.6.0.779937793234" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.6.0.779967159690" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
       <style>
         /*
+        GLOBAL/OVERRIDE STYLES
+        ======================
         SYNTAX:
           selector {
             property: value [!important];
@@ -109,13 +111,29 @@
           padding-left: 20px !important;
         }
         /*
-        if selector is a .class, create a container w/ that class by wrapping:
+        CLASS STYLES
+        ============
+        .class styles can be applied to a specific element.
+
+        HTML SYNTAX: Add the class attribute to the element's HTML tag.
+          <img class="">
+          <div class=""> .. </div>
+
+        If the element is meant to placed within plain body content use <span>
+          <span class=""> .. </span>
+
+        RETYPE SYNTAX: place the element in a .class container
           :::class
-          content to be styled by .class selector
+          ..
           :::
         
-        you can use "class > tag" or "class tag" to target the contained content itself.
-        - Including ">" will specify direct descendants of that tag while ommitting will target all content of tag; the difference might not matter much in this case
+        You may want to use .class tag to target the contained content.
+          .class * {
+            attributes applied to all content
+          }
+          .class > p {
+            attributes applied to paragraph content, excluding any p inside another tag
+          }
         */
 
         /*
@@ -143,9 +161,14 @@
           /*object-fit: cover !important;*/
         }
 
-          .mb-6.px-5.py-4.flex.justify-between.relative.border.border-gray-300.rounded.transition-colors.duration-150 > a {
-            z-index: 999 !important;
-          }
+        /*
+        <img class="emoji" src="..">
+        */
+        .emoji {
+          width: 1.2em;
+          position: relative;
+          bottom: 0.15em;
+        }
       </style>
     </head>
 </head>
