@@ -4,6 +4,8 @@ icon: ":computer:"
 order: 0
 ---
 
+[!ref Developer Documentation](/docs/index.md)
+
 This method is best for code changes and substantial content changes, as it lets you preview changes before even committing them.
 
 ## Background
@@ -142,9 +144,9 @@ git push origin main
 
 - `git status` shows new changes in the working tree and staged changes
 - `git add` stages files
-  - `git add .` stages all modified files, i.e. newly created files are ignored
+    - `git add .` stages all modified files, i.e. newly created files are ignored
 - `git commit` commits the staged files
-  - Bash recognizes `"` begins a quoted string and interprets `Enter` as a line break until it is closed, in case you want to add an extended description after the commit message
+    - Bash recognizes `"` begins a quoted string and interprets `Enter` as a line break until it is closed, in case you want to add an extended description after the commit message
 - `git push` sends the changes to the remote repository
 
 In this case, `git push` is to your GitHub fork, so at this point you will need your PAT. Paste it in as either username or password; if as username, you can leave the password blank, but the PAT won't be hidden.
@@ -171,7 +173,7 @@ code .
 Some nifty keyboard shortcuts in VS Code:
 - Highlight some text then `Ctrl`+`Shift`+`L` to select all instances of it. Useful for finding and replacing text
 - `Ctrl`+`Shift`+`UpArrow`/`DownArrow` to insert another text cursor above/below the current one
-  - Then if you paste text that has as many lines as you have text cursors, each line will be pasted in order at each cursor. Otherwise, the whole text is pasted at each cursor
+    - Then if you paste text that has as many lines as you have text cursors, each line will be pasted in order at each cursor. Otherwise, the whole text is pasted at each cursor
 
 ===
 
@@ -191,3 +193,5 @@ button#docs-edit-button { display: none; }
 ```
 
 The button can shift the position of the image, giving you an inaccurate preview of what the image will look like.
+
+[!ref Developer Documentation](/docs/index.md)

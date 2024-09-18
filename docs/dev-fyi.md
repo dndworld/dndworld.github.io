@@ -3,13 +3,15 @@ label: Developer FYI
 order: 20
 ---
 
+[!ref Developer Documentation](/docs/index.md)
+
 Check [Developing From Your Machine](/docs/local-dev.md) for FYI specific to the preview server.
 
-## Page Links
+=== **Page Links**
 
 Page links are derived by transforming the base file path to lowercase and replacing spaces with dashes, e.g. `Example Folder/Example File.md` -> `example-folder/example-file.md`. When you preview the site on your local computer, the link will still work if you only replace spaces with dashes, but not so on the GitHube Pages site. Be sure to use the latter format when linking internal files and images.
 
-## Creating New Files and Folders
+=== **Creating New Files**
 
 ### Metadata Boilerplate
 
@@ -28,7 +30,7 @@ See the [Page Configuration documentation](https://retype.com/configuration/page
 
 As a best practice, set `order` to a value with 1-2 zeroes at the end so it is easier to insert another page in between two existing pages.
 
-## Icons and Emojis
+==- **Icons and Emojis**
 
 Emojis are mainly used as icons alongside page titles and some headings.
 
@@ -37,13 +39,6 @@ Emojis are mainly used as icons alongside page titles and some headings.
 Emojis should not be placed in the title itself, but be added to the `icon` metadata field and prepended to the title via CSS using the `<style>` tag. `icon` will appear on the sidebar, the CSS on the page title, while the tab remains title-only. How this is implemented depends on the type of emoji, described below.
 
 `<style>` should preferably be placed right after the YAML metadata for visibility.
-
-
-All generic emojis are supported by Retype. 
-
-Octicons
-
-custom emojis
 
 ### Standard Emojis
 
@@ -105,10 +100,7 @@ icon: "/images/emoji-name.webp"
 ---
 ```
 
-To insert a custom emoji before the page title, use th
-
-
-The image must be downloaded and saved locally, use the template below and modify the `url()` argument as needed.
+To insert a custom emoji before the page title, use the template below and modify the `url()` argument as needed.
 
 ```html !#3
 <style>
@@ -129,9 +121,13 @@ Additional Notes:
 - `background` *must* precede `background-size`
 - to place after the title, replace `:before` and `margin-right` with `:after` and `margin-left` respectively
 
-## Styling
+==- **Styling**
 
 Outside of images, CSS is used to control how the page content looks. You only really need to learn foundational concepts like selectors and the box model, then be ready to look up and read up on CSS properties. And a lot of testing of course. You should also [set up a local fork on your machine](/docs/local-dev) to preview changes.
 
 `/_includes/head.html` contains some basic documentation.
 - Retype's own styling will override or be re-applied when the reader jumps to a different page, so values for global styles must be appended with `!important` to not be ignored.
+
+===
+
+[!ref Developer Documentation](/docs/index.md)

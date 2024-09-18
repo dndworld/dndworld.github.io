@@ -4,13 +4,15 @@ icon: mark-github
 order: 10
 ---
 
+[!ref Developer Documentation](/docs/index.md)
+
 ## On the Main Repository
 
 This method requires the least setup and suffices for quick text edits, such as to fix typos and editing the content of existing pages. You only need to know basic Markdown and follow the steps below if you don't know GitHub.
 
 1. Find the page's `.md` file on this repository. Follow the page url, mainly the part after `/dwguide/`; if it names a folder but no file, look for an `./index.md`.
 2. You should open to a page previewing the file's Markdown, though it won't look quite like the site. Click the pencil icon near the top-right corner of the preview.
-  - **First Time Only:** You will be prompted to make your own fork of the repository. Follow through as instructed.
+    - **First Time Only:** You will be prompted to make your own fork of the repository. Follow through as instructed.
 3. Edit the file, then (green) 'Commit changes...'.
 4. Write a short 'Commit message' describing what the change is for, then (green) 'Propose changes'.
 5. You should now see a summary of your commit. (green) 'Create pull request'.
@@ -41,3 +43,5 @@ Using the codespace should be mostly straightforward, but note the following:
 - It is recommended you only commit together files that are connected; a single commit message should competently explain them all.
 - If you 'Commit' without writing a message, 'COMMIT_EDITMSG' will open on the editor, and you will have to write the commit message as the first line, then click the check mark on the top right.
 - These Changes are only committed to the codespace's fork. Once everything has been committed, 'Sync Changes' (or '...' > 'Push' above the Message box) to your fork and proceed with the modified step 5 above.
+
+[!ref Developer Documentation](/docs/index.md)
