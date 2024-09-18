@@ -1,7 +1,7 @@
 ---
 label: Odd Jobs DTDs
 order: 10
-icon:  '💰'
+icon:  ':moneybag:'
 ---
 
 <style>

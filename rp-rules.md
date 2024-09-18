@@ -116,7 +116,7 @@ You may not sign a character up for a DM event until they receive all XP rewards
 Pending magic items or gold are acceptable. However, if you receive them from a previous DM event after you have been already accepted for a new event, you must inform that DM. They will decide if you may use them.
 ===
 
-## <img src="/dwguide/images/emoji-scam-love.webp" alt="" width="30"> **Server Etiquettes** <img src="/dwguide/images/emoji-scam-love.webp" alt="" width="30"> 
+## <img src="/dwguide/images/emoji-scam-love.webp" class="emoji"> **Server Etiquettes** <img src="/dwguide/images/emoji-scam-love.webp" class="emoji"> 
 
 ### Joining a Roleplay
 

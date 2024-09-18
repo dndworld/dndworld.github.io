@@ -16,7 +16,7 @@ h1:before {
 }
 </style>
 
-For a comment (either IC or OOC), that makes a player uncomfortable without being directly rule breaking, players may react to the post with a <img src="/dwguide/images/emoji-scam-x-card.webp" alt="" style="position: relative; bottom: 0.05rem;" width="24"> `scamXCard:`.
+For a comment (either IC or OOC), that makes a player uncomfortable without being directly rule breaking, players may react to the post with a <img src="/dwguide/images/emoji-scam-x-card.webp" class="emoji">  `scamXCard:`.
 - A way to anonymously state someone is feeling uncomfortable.
 - Useful if someone is not comfortable with speaking up at that moment, as it is a non-verbal communication of one's personal boundaries
 - Adds nuance and reduces hostility in grey areas. E.g. hugging is generally socially acceptable behavior. However, hugging someone who does not like being hugged is not.
@@ -29,8 +29,8 @@ Some of the subjects that we aim to address with the system include, but are not
 - Descriptions of violence (such as blood, injuries, disease, etc.)
 - Discussion of potentially triggering topics (e.g. insect phobias, death)
 
-## Steps if you want to use the <img src="/dwguide/images/emoji-scam-x-card.webp" alt="" style="position: relative; bottom: 0.05rem;" width="30"> 
-1. React with <img src="/dwguide/images/emoji-scam-x-card.webp" alt="" style="position: relative; bottom: 0.05rem;" width="24"> on a post which you feel crosses your comfort zone. 
+## Steps if you want to use the <img src="/dwguide/images/emoji-scam-x-card.webp" class="emoji">  
+1. React with <img src="/dwguide/images/emoji-scam-x-card.webp" class="emoji">  on a post which you feel crosses your comfort zone. 
     - The emoji will be replaced by a bot react to maintain anonymity
     - If for any reason you don't want it to be anonymous, sending the emoji as a message will show it as normal
 2. Wait for the other party to see the reaction
@@ -38,7 +38,7 @@ Some of the subjects that we aim to address with the system include, but are not
 4. Otherwise, you may change the topic or disengage until the topic has moved on.
 5. If the other party(s) continue their behavior despite the X-card, openly makes fun of the use of the X-card, or is otherwise demonstrating harassing behavior, please escalate the situation with a ❗.
 
-## Steps if your post has been <img src="/dwguide/images/emoji-scam-x-card.webp" alt="" style="position: relative; bottom: 0.05rem;" width="30"> 
+## Steps if your post has been <img src="/dwguide/images/emoji-scam-x-card.webp" class="emoji">  
 1. You may either tone down or change the topic entirely, depending on the situation
 2. If you are open to discussing why this was X-carded, you can put a message in the OOC inviting the person to reach out in PMs or elsewhere.
     - Sometimes people might not want to go into the specifics of why something made them uncomfortable, and this is not a reflection of your character
