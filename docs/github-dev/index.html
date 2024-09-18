@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/dwguide">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.779979978143">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.779980744862">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -12,7 +12,7 @@
     <!-- Primary Meta Tags -->
     <title>Developing From GitHub | DW Guide</title>
     <meta name="title" content="Developing From GitHub | DW Guide">
-    <meta name="description" content="This method requires the least setup and suffices for quick text edits, such as to fix typos and editing the content of existing pages.">
+    <meta name="description" content="Developer Documentation">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://jmac-0904.github.io/dwguide/docs/github-dev/">
@@ -21,22 +21,22 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://jmac-0904.github.io/dwguide/docs/github-dev/">
     <meta property="og:title" content="Developing From GitHub | DW Guide">
-    <meta property="og:description" content="This method requires the least setup and suffices for quick text edits, such as to fix typos and editing the content of existing pages.">
+    <meta property="og:description" content="Developer Documentation">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://jmac-0904.github.io/dwguide/docs/github-dev/">
     <meta property="twitter:title" content="Developing From GitHub | DW Guide">
-    <meta property="twitter:description" content="This method requires the least setup and suffices for quick text edits, such as to fix typos and editing the content of existing pages.">
+    <meta property="twitter:description" content="Developer Documentation">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.779979978143" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.779980744862" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.779979978143" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.779980744862" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.779979978143" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.779980744862" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -315,6 +315,20 @@
         <span>Developing From GitHub</span>
     </h1>
 </doc-anchor-target>
+<p>
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
+    <div class="flex items-center text-blue-500 dark:text-blue-400">
+        <span class="inline-block mb-px">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Developer Documentation</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>../</span>
+    </div>
+    <a href="../" class="absolute block inset-0"></a>
+</div>
+</p>
 <doc-anchor-target id="on-the-main-repository">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#on-the-main-repository">#</doc-anchor-trigger>
@@ -324,12 +338,11 @@
 <p>This method requires the least setup and suffices for quick text edits, such as to fix typos and editing the content of existing pages. You only need to know basic Markdown and follow the steps below if you don&#x27;t know GitHub.</p>
 <ol>
 <li>Find the page&#x27;s <code v-pre>.md</code> file on this repository. Follow the page url, mainly the part after <code v-pre>/dwguide/</code>; if it names a folder but no file, look for an <code v-pre>./index.md</code>.</li>
-<li>You should open to a page previewing the file&#x27;s Markdown, though it won&#x27;t look quite like the site. Click the pencil icon near the top-right corner of the preview.</li>
-</ol>
+<li>You should open to a page previewing the file&#x27;s Markdown, though it won&#x27;t look quite like the site. Click the pencil icon near the top-right corner of the preview.
 <ul>
 <li><strong>First Time Only:</strong> You will be prompted to make your own fork of the repository. Follow through as instructed.</li>
 </ul>
-<ol start="3">
+</li>
 <li>Edit the file, then (green) &#x27;Commit changes...&#x27;.</li>
 <li>Write a short &#x27;Commit message&#x27; describing what the change is for, then (green) &#x27;Propose changes&#x27;.</li>
 <li>You should now see a summary of your commit. (green) &#x27;Create pull request&#x27;.</li>
@@ -366,6 +379,20 @@
 <li>If you &#x27;Commit&#x27; without writing a message, &#x27;COMMIT_EDITMSG&#x27; will open on the editor, and you will have to write the commit message as the first line, then click the check mark on the top right.</li>
 <li>These Changes are only committed to the codespace&#x27;s fork. Once everything has been committed, &#x27;Sync Changes&#x27; (or &#x27;...&#x27; &gt; &#x27;Push&#x27; above the Message box) to your fork and proceed with the modified step 5 above.</li>
 </ul>
+<p>
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
+    <div class="flex items-center text-blue-500 dark:text-blue-400">
+        <span class="inline-block mb-px">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Developer Documentation</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>../</span>
+    </div>
+    <a href="../" class="absolute block inset-0"></a>
+</div>
+</p>
 
                                 
                                 <!-- Required only on API pages -->
