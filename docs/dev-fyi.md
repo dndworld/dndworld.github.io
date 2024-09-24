@@ -42,7 +42,7 @@ Emojis should not be placed in the title itself, but be added to the `icon` meta
 
 ### Standard Emojis
 
-Standard emojis are Unicode characters and thus supported by default, both by Retype and Discord.
+Standard emojis are provided by [Mojee](https://mojee.io/emojis/). The list is largely similar but not the same as Discord's.
 
 Retype uses the same `:name:` syntax as Discord to insert emojis by name into page content.
 
