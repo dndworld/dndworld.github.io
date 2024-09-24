@@ -12,6 +12,9 @@ This channel contains the rules for character creation. For the starting guide t
 
 ## Start
 
+- :warning: We use the **2014 D&D 5e ruleset**. :warning: 
+ - If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
+
 - Your characters start at **Level 1**.
 
 ### Transferring Characters from Other Servers/Campaigns
@@ -37,8 +40,9 @@ There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd.md
 Character Preferences (settings)
 > - **Sources**: Homebrew Content, Expanded Rules, Legacy, Critical Role Content
 > 
-> :warning: Not everything from these sources is allowed to be used in the server. Please refer to the later "Sources" section of this channel for full details.
-> 
+> !!!warning Not everything from these sources is allowed to be used in the server.
+> Please refer to the later "Sources" section of this channel for full details.
+> !!!
 > - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
 > - **Optional Features**: On
 > - **Advancement Type**: Milestone
@@ -81,7 +85,13 @@ To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/
 
 ### Official Material
 
-:warning: When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to `#changelog`, followed by the update on this channel.
+!!!warning **Please Note: we are using the 2014 D&D 5e ruleset.**
+If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
+!!!
+
+!!!warning When a new official material is published,
+it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to `#changelog`, followed by the update on this channel.
+!!!
 
 > **Disallowed Books**
 > - Explorer's Guide to Wildemount
@@ -205,7 +215,7 @@ To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/
 > - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
 
 ### Backgrounds
-> Please note that some of the background features cannot be in effect without DM or NPC Master's presence, e.g. The Retainers feature for the Knight and Noble background variant. Players are still allowed to select the backgrounds.
+> Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.
 
 **Disallowed Backgrounds**
 - Custom Background rule
@@ -332,7 +342,7 @@ Once your character participates in a DM event, all rebuilds must be submitted f
 ### Character Death / Retire
 
 > - Character death needs to be recorded in `#list-of-the-fallen`. Full details on how to make the record, what to do next, and information on Cushion Rule can be found in the channel pin.
-> - You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on retire and Cushion Rule can be found in `#rebuild-retire-log` channel pin.
+> - You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on Retiring can be found in `#rebuild-retire-log` channel pin and Cushion Rule in `#claims-log`.
 
 ## :warning: Returning Players/Inactivity
 

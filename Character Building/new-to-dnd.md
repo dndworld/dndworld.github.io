@@ -33,6 +33,10 @@ h1:before { content: "🔰 " }
 > 
 > - Leave the rest of the options as they are. Make sure **Character Privacy** is set to "Public"
 
+!!!warning **Please Note: we are using the 2014 D&D 5e ruleset.**
+If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
+!!!
+
 ### Getting access to paid material (Optional)
 > The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For the rules please refer to the pinned messages in `#ddb-link-request`.
 

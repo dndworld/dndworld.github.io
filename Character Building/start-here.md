@@ -22,6 +22,10 @@ Head over to [New to D&D](new-to-dnd.md), which has a step-by-step guide for mak
 ## Server Rules for Character Creation
 Character creation rules can be found in [Character Creation Rules](cc-rules.md).
 
+!!!warning **Please Note: we are using the 2014 D&D 5e ruleset.**
+If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
+!!!
+
 ## Stats/Gold/HP
 It is entirely optional to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results. 
 - All rolls must be made in `⁠#official-character-rolls` for it to be valid.
