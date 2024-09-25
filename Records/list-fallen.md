@@ -1,7 +1,7 @@
 ---
 label: List of the Fallen
-order: 9
-icon: ":diya-lamp:"
+order: 7
+icon: ":diya_lamp:"
 ---
 # List of the Fallen
 ## Character Death

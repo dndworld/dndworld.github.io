@@ -1,7 +1,7 @@
 ---
 order: 98
 icon: ":scroll:"
-expanded: true
+expanded: false
 ---
 
 <style>

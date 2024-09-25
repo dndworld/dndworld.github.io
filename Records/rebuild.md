@@ -6,22 +6,22 @@ order: 9
 # Rebuild Retire Log
 ## Rebuild Rules
 
-- Please fill in and submit the Rebuild Request Template.
+> - Please fill in and submit the Rebuild Request Template.
 > Make a copy of your character sheet, and apply the changes in your rebuild request to the copy.
 
-- All rebuilds must first be reviewed and approved for them to be valid. You will be pinged in `#character-records-discussion`.
-- You cannot sign up for any DM Events with a character with a pending rebuild request. You must also remove any pending signups before submitting the rebuild request. This also applies after you have been accepted into a game, and the rebuild will have to be made after the game is completed. You may however, continue to do DTDs and roleplay as your old character during this period.
+> - All rebuilds must first be reviewed and approved for them to be valid. You will be pinged in `#character-records-discussion`.
+> - You cannot sign up for any DM Events with a character with a pending rebuild request. You must also remove any pending signups before submitting the rebuild request. This also applies after you have been accepted into a game, and the rebuild will have to be made after the game is completed. You may however, continue to do DTDs and roleplay as your old character during this period.
 
-- You may submit up to 1 rebuild per month upon approval. This rule applies to the player, not per character.
-- You may only rebuild the characters that are Level 4 or below. 
-- Cushion rule characters can be rebuilt up to 1+ claimed New PC Level. If your cushion ruled character started at Level 5, you may submit the rebuild request while this character is Level 5-6. When you submit the rebuild, you must include the link to the claim message in `#claims-log`.
-- Changes to race and background must be retconned; changes to class and subclass may be justified IC
+> - You may submit up to 1 rebuild per month upon approval. This rule applies to the player, not per character.
+> - You may only rebuild the characters that are Level 4 or below. 
+> - Cushion rule characters can be rebuilt up to 1+ claimed New PC Level. If your cushion ruled character started at Level 5, you may submit the rebuild request while this character is Level 5-6. When you submit the rebuild, you must include the link to the claim message in `#claims-log`.
+> - Changes to race and background must be retconned; changes to class and subclass may be justified IC
 
-- As long as your rebuild request meets the above criteria, you may rebuild a character as many times as you wish.
+> - As long as your rebuild request meets the above criteria, you may rebuild a character as many times as you wish.
 
-- Before your character participates in a DM event, they are considered to be in the Character Creation Phase, and you do not need to submit the rebuilds in this channel in order to make changes. Please check [Character Creation Rules](/dwguide/character-building/cc-rules/) for the full details including the rules and limitations. 
+> - Before your character participates in a DM event, they are considered to be in the Character Creation Phase, and you do not need to submit the rebuilds in this channel in order to make changes. Please check [Character Creation Rules](/dwguide/character-building/cc-rules/) for the full details including the rules and limitations. 
 
-- A similar rule applies to when your character gains a level. If your character has gained a level and has not participated in a DM event, you may change any decisions you made during that particular level-up.
+> - A similar rule applies to when your character gains a level. If your character has gained a level and has not participated in a DM event, you may change any decisions you made during that particular level-up.
 
 You may request to change as many parts as necessary. Following rules apply:
 === OK to Rebuild
@@ -100,14 +100,14 @@ Previous part -> New part
 
 ## Retire Rules
 
-- Please fill in and submit the Retire Request Template.
-- All retires must first be reviewed and approved for them to be valid. You will be pinged in `#character-records-discussion`.
-- Once the retire request is submitted, you cannot sign up for any DM Events with the character, do DTDs, or RP. Therefore, any goodbye RPs or farewell gifts should be taken care of before submitting the retire request.
+> - Please fill in and submit the Retire Request Template.
+> - All retires must first be reviewed and approved for them to be valid. You will be pinged in `#character-records-discussion`.
+> - Once the retire request is submitted, you cannot sign up for any DM Events with the character, do DTDs, or RP. Therefore, any goodbye RPs or farewell gifts should be taken care of before submitting the retire request.
 
-- You may submit up to 1 retire per month.
-- You may retire characters only if they are Level 4 or above. 
-- Please note that retired characters cannot be unretired, except through the Special Request patron reward.
-- Please note that wills do not come into effect with retires.
+> - You may submit up to 1 retire per month.
+> - You may retire characters only if they are Level 4 or above. 
+> - Please note that retired characters cannot be unretired, except through the Special Request patron reward.
+> - Please note that wills do not come into effect with retires.
 
 ⚠️ If the staff team comes across any evidence that you intentionally killed your character outside of retiring, your slot for that character will be locked for 1 month, and you may be given a DP. This includes but is not limited to suicidal behavior, intentionally exposing oneself into a dangerous situation such as wandering into Do Not Enter zones, or making unreasonably reckless decisions during DM Events.
 

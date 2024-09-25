@@ -23,43 +23,6 @@ Lv 15-16 | 8 | Rare x1, Uncommon x1, 200gp
 Lv 17-18 | 9 | Rare x1, Uncommon x2, 250gp
 Lv 19-20 | 10 | Rare x1, Uncommon x2, 250gp
 
-
-```
-PC Death   New PC
-(Level)    Level    Bonuses
---------+---------+-----------
-Lv 1-2       1       -
---------+---------+-----------
-Lv 3-4       2       -
---------+---------+-----------
-Lv 5-6       3     Common x1
-                   15gp
---------+---------+-----------
-Lv 7-8       4     Common x1 
-                   30gp
---------+---------+-----------
-Lv 9-10      5     Uncommon x1
-                   100gp
---------+---------+-----------
-Lv 11-12     6     Uncommon x1
-                   125gp
---------+---------+-----------
-Lv 13-14     7     Rare x1
-                   150gp
---------+---------+-----------
-Lv 15-16     8     Rare x1
-                   Uncommon x1
-                   200gp
---------+---------+-----------
-Lv 17-18     9     Rare x1
-                   Uncommon x2
-                   250gp
---------+---------+-----------
-Lv 19-20     10    Rare x1
-                   Uncommon x2
-                   250gp
-```
-
 ==- For Common magic items, you can choose from the following list:
 
 - Boots of False Tracks
@@ -151,7 +114,7 @@ Link to Sheet: <link in the bracket>
 
 ## Reaching Level 20
 - When your character reaches Level 20, you have the option to retire them and benefit from the Cushion rule, or Legacy your character and make a new Level 1 PC.
-- If you choose to retire your character, your new character can start at Level 10 or below, with magic items decided by the Cushion rule [above](claims.md#cushion-rule).
+- If you choose to retire your character, your new character can start at Level 10 or below, with magic items decided by the [Cushion rule](claims.md#cushion-rule) above.
 - If you choose not to retire your character, your Level 20 character becomes a Legacy slot, and you free up a slot to create a new Level 1 character.
   - Legacy characters can continue to participate in games, roleplay, DTD, etc.
   - Legacy slots are special and do not count towards your slot total. Hence, if you later retire your Level 20 character, you cannot make another character or benefit from the Cushion rule. In order to claim your new Level 1 PC, you must submit the form below for approval.
@@ -160,11 +123,11 @@ Link to Sheet: <link in the bracket>
 
 Fill in the below template and wait for approval to claim your benefits. Please note that once you submit this form, you cannot create another new character if you subsequently retire your Level 20 character.
 
-```
+```md
 **Legacy Claim**
 Legacied Character's Name:
 New Character's Name:
-Link to Legacied Sheet: <link in the bracket>
+Link to Legacied Sheet: <link>
 ```
 
 ## Sheet Type Change
@@ -172,10 +135,10 @@ Sheet type change between D&D Beyond, GSheet, or Dicecloud. Wait for approval be
 
 ⚠️ All of the details must stay the same between the sheets.
 
-```
+```md
 **Sheet Type Change**
-Before: <link in the bracket>
-After: <link in the bracket>
+Before: <link>
+After: <link>
 ```
 
 ## Copying Sheet
@@ -183,8 +146,8 @@ Making a copy of your character sheet. Wait for approval before using your new s
 
 ⚠️ All of the details must stay the same between the sheets.
 
-```
+```md
 **Copying Sheet**
-Before: <link in the bracket>
-After: <link in the bracket>
+Before: <link>
+After: <link>
 ```

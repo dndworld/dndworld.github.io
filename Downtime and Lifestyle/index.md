@@ -1,7 +1,7 @@
 ---
 order: 97
 icon: 
-expanded: true
+expanded: false
 ---
 This category contains rules and guidelines for Lifestyle and DTD system.
 
