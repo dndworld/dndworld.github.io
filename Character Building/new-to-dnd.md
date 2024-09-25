@@ -22,7 +22,7 @@ h1:before { content: "🔰 " }
 > Read the help texts. As you go through the help texts, if anything is unclear or confusing, please direct your questions to `#⁠beginner-help`.
 
 ### Character Preferences (settings) 
-![](../Images/ddb-sources.png)
+![](https://i.imgur.com/Nh1T7Bz.png)
 > - **Dice Rolling**: Off 
 >   - We use Avrae Discord bot for this, not DnD Beyond 
 > - **Optional Features**: On 

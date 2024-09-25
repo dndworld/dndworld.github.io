@@ -312,7 +312,7 @@ After you create your character and before the character attends a DM event, the
 > - If any of the starting equipment were sold and you need to switch them, retcon the transaction before doing so.
 > - Keep RPXP and Experience counter values.
 
-> - You are still in the character creation phase after gaining XP from Combat Training DTD, or after claiming RPXP.
+> - You are still in the character creation phase after gaining XP from Combat Training DTD, an approved RPXP claim, or Avrae Tutorial XP.
 
 !!!warning 
 Once your character participates in a DM event, all rebuilds must be submitted for review in `#rebuild-retire-log`, following the rules in the pin.
