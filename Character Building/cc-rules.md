@@ -239,6 +239,8 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 > - You are not allowed to create characters younger than adolescence, using the guidelines the below chart.
 > - You also may not play a character who behaves drastically younger than their actual age, i.e. overtly childish behavior.
 
+![](/images/race-age-chart.png)
+
 ## Character Backstory
 
 - It is important to note that your character's backstory will most likely not be explored here. Hence, the backstory is primarily for your roleplay.
