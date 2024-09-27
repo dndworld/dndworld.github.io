@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jmac-0904.github.io/dwguide/sitemap.xml.gz
+Sitemap: https://dndworld.github.io/sitemap.xml.gz

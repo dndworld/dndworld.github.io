@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-root" content="/dwguide">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.780743512770">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.780750883101">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -15,29 +14,29 @@
     <meta name="description" content="Developer Documentation">
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://jmac-0904.github.io/dwguide/docs/dev-fyi/">
+    <link rel="canonical" href="https://dndworld.github.io/docs/dev-fyi/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://jmac-0904.github.io/dwguide/docs/dev-fyi/">
+    <meta property="og:url" content="https://dndworld.github.io/docs/dev-fyi/">
     <meta property="og:title" content="Developer FYI | DW Guide">
     <meta property="og:description" content="Developer Documentation">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://jmac-0904.github.io/dwguide/docs/dev-fyi/">
+    <meta property="twitter:url" content="https://dndworld.github.io/docs/dev-fyi/">
     <meta property="twitter:title" content="Developer FYI | DW Guide">
     <meta property="twitter:description" content="Developer Documentation">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.780743512770" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.780750883101" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.780743512770" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.780750883101" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.780743512770" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.780743512770" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.780750883101" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.780750883101" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -364,6 +363,10 @@ order: 0
 <p>See the <a href="https://retype.com/configuration/page/">Page Configuration documentation</a> for more options. Metadata syntax is based on YAML.</p>
 <p>As a best practice, set <code v-pre>order</code> to a value with 1-2 zeroes at the end so it is easier to insert another page in between two existing pages.</p>
    </doc-panel>
+   <doc-panel id="retype-components" collapsed>
+       <template #title><strong>Retype Components</strong></template>
+<p>A <code v-pre>&lt;style&gt;</code> tag should be placed outside of a Tab component, or its CSS properties will not be applied when the Tab is opened.</p>
+   </doc-panel>
    <doc-panel id="icons-and-emojis" collapsed>
        <template #title><strong>Icons and Emojis</strong></template>
 <p>Emojis are mainly used as icons alongside page titles and some headings.</p>
@@ -422,7 +425,7 @@ icon: thumbsup
 <p>For custom emojis, the image file must first be added to the source code, and the image file path is used to refer to it.</p>
 <p>To insert a custom emoji into page content, use the template below and modify the <code v-pre>src</code> attribute as needed. Look for <code v-pre>.emoji</code> in <code v-pre>/_includes/head.html</code> for the styles used.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-markdown"><code v-pre class="language-markdown">&lt;img class=&quot;emoji&quot; src=&quot;/dwguide/images/emoji-name.webp&quot;&gt;</code></pre>
+<pre class="language-markdown"><code v-pre class="language-markdown">&lt;img class=&quot;emoji&quot; src=&quot;/images/emoji-name.webp&quot;&gt;</code></pre>
 </doc-codeblock></div>
 <p>To insert a custom emoji as an <code v-pre>icon</code>, specify the file path:</p>
 <div class="codeblock-wrapper"><doc-codeblock>
@@ -434,7 +437,7 @@ icon: &quot;/images/emoji-name.webp&quot;
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-markup" data-line="3"><code v-pre class="language-markup">&lt;style&gt;
 h1:before { 
-  background: url('/dwguide/images/emoji-name.webp') no-repeat 0 0;
+  background: url('/images/emoji-name.webp') no-repeat 0 0;
   display: inline-block;
   content: &quot;&quot;;
   width: 48px;
