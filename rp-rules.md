@@ -19,7 +19,7 @@ h1:before {
 
 ## Roleplay and Game Rules
 
-==- 1. **Follow the rules of the game.**
+==- 1️ **Follow the rules of the game.**
 This includes:
 - DnD 5e ruleset
 <https://www.dndbeyond.com/sources/basic-rules>
@@ -28,13 +28,13 @@ This includes:
   - DnD World Content Errata/Variant Feature Document
 <https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/edit> 
 - Table rules your DM is using for their games
-==- 2. **Do not invent lore.**
+==- 2️ **Do not invent lore.**
 You or your characters should not imply the existence of any influential new locations, organizations, entities, NPCs, events, items, etc. which are not already established in the server. 
 
 Characters should not reference elements from outside the server's setting, such as other D&D realms like Faerûn, IRL countries, or any media franchise.
-==- 3. **Your RP should not make others uncomfortable.**
+==- 3️ **Your RP should not make others uncomfortable.**
 This includes harassment, intimidation, extortion, hate speech, excessive public displays of affection, behaving like a child, adopting other PCs, yelling or screeching constantly, or other behavior that weirds people out or makes it difficult for others to enjoy RP.
-==- 4. **PvP Rules.** 
+==- 4️ **PvP Rules.** 
 PvP is allowed with consent and following the stipulated rules.
 
 **4.1. All parties involved must consent.**
@@ -53,13 +53,13 @@ When deceiving other characters, you must clarify OOC that your character is lyi
   - Friendly spars may take place in [`#snowhaven-arena`](https://discord.com/channels/512870694883950598/524265517830242304) or [`#snowhaven-arena-2`](https://discord.com/channels/512870694883950598/586365553418043392). 
   - Fighting in any other place including [`#gladiator-pit`](https://discord.com/channels/512870694883950598/553741559431168030) must follow the rules of the [PvP document (Google Docs)](https://docs.google.com/document/d/1sOWEJMqXdpRejXRonx1iMhwZsJjN9vHZ-jYQdPJbUeo/).
 - Summoned creatures cannot participate in PvP without their summoner present.
-==- 5. **Don’t be a rules lawyer.**
+==- 5️ **Don’t be a rules lawyer.**
 When in DM events, DM has the final say with rulings. 
 
 Sometimes rules are bent for the sake of better storytelling and flow. Some DMs have House Rules pinned in their channel, which might differ from the usual rules. People make mistakes, but if it doesn’t make a huge impact on the game, it is entirely up to the DM to make an adjustment or let it go. 
 
 You may point out rules as you understand them in the appropriate OOC channel if you feel something was left out and it really matters to you. However, stubbornly arguing the precise interpretation of game rules with your DM negatively impacts the gameplay experience, and should be avoided. If the issue is severe enough to make a report, please send a `@-FanMail-` to file an official complaint.
-==- 6. **Don’t metagame.**
+==- 6️ **Don’t metagame.**
 **Metagaming** means using OOC knowledge to give yourself an IC advantage. 
 
 Examples include:
@@ -67,7 +67,7 @@ Examples include:
 - Using prior OOC knowledge to judge creature abilities, disregarding what your character knows
 - Asking another player in ooc for an action such as healing, when it should be handled in IC.
 - Taking advantage of DM mistakes, such as reading notes that are clearly not meant for the players in gsheet maps even if they are left there by mistake, viewing sheet modification history, etc.
-==- 7. **Use Proper RP format.**
+==- 7️ **Use Proper RP format.**
 - Narration: italics `* *` 
   - e.g. *The dragonborn walks in.*
 - Character speech: quotations `" "` 
@@ -81,35 +81,35 @@ Examples include:
 - Please do not use Discord's headers format for RP.
 
 - Please do not use Avrae's `embed` functionality for RP purposes, as this may give an impression of piloting an NPC.
-==- 8. **Character Rebuild and Retire**
+==- 8️ **Character Rebuild and Retire**
 Follow the instructions in the [`#rebuild-retire-log`](https://discord.com/channels/512870694883950598/542953099560615946) channel pins for the character rebuild and retire. 
 You should not delete a character without going through the proper process.
 
 It is prohibited to kill off your character intentionally for the purpose of retiring the character.
-==- 9. **Don’t set your own checks or DCs.**
+==- 9️ **Don’t set your own checks or DCs.**
 You may use dice rolls as a tool for RP improvisation. However, you cannot set a pass/fail DC for skill checks, tool checks, knowledge checks, or any actions against NPCs such as theft, persuasion, attacks, etc.
-==- 10. **Multiple signups for DM events**
+==- 1️0️ **Multiple signups for DM events**
 You may sign up to multiple DM events. However, once a character is accepted to an event, all other signups __with that character__ need to be removed.
 
 After a DM event, if you have sign-ups for other events, make sure to update the "last event" date.
-==- 11. **Only one character per player may sign up for each DM event.**
-==- 12. **Do not multitask during a DM event.**
+==- 1️1 **Only one character per player may sign up for each DM event.**
+==- 1️2️ **Do not multitask during a DM event.**
 When participating in a DM event, you are expected to be attentive. Do not simultaneously roleplay other characters. Likewise, DMs are expected to provide their full attention to their games.
-==- 13. **Do not desert a DM event.**
+==- 1️3️ **Do not desert a DM event.**
 Only sign up for events that you are confident you can show up on time, and participate for the full duration. 
 
 DMs are expected to report players failing to show up for games or disappearing part-way through their quests. Offenders may receive Demerit Points, receive the Deserter role (which will put them at the lowest priority when DMs choose participants for bounties), and have their rewards reduced or completely voided by their DM, in addition to other penalties associated with rule breaking.
 
 Exceptions may be made if you have made an effort to communicate with your DM, and they have opted to make accommodations for you, particularly if the game duration continued beyond expectations.
-==- 14. **If you die, die gracefully.**
+==- 1️4️ **If you die, die gracefully.**
 We understand that character death may be upsetting, but that does not justify stirring up arguments and drama OOC. You can make your mark on history by leaving a record of your character’s downfall at [`#list-of-the-fallen`](https://discord.com/channels/512870694883950598/544159624790671391).
 
 ⚠️ *If your character dies during an encounter mid-bounty, do not delete your character from Avrae until you have been removed from initiative. This has resulted in problems with the initiative tracker.*
-==- 15. **Intentional character death and self-harm are prohibited.**
+==- 1️5️ **Intentional character death and self-harm are prohibited.**
 If the staff come across evidence that you intentionally killed off your character for any reasons, your slot for that character will be locked for at least 1 month, likely in addition to other penalties associated with rule breaking.
 
 If you wish to rebuild or retire your character, please follow the instructions in the ⁠rebuild-retire-log channel pins.
-==- 16. **Signing up for DM events with pending rewards**
+==- 1️6️ **Signing up for DM events with pending rewards**
 You may not sign a character up for a DM event until they receive all XP rewards from any previous DM events they participated in.
 - Any pending RPXP claims are voided when accepted into a game and can then only be claimed if the game falls through last minute, or if the player retracts their sign up.
 

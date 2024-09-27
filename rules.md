@@ -6,7 +6,7 @@ order: 900
 
 ## General Conduct
 
-==- 1. **“I didn’t know that was the rule” doesn’t work here.**
+==- 1️️ **“I didn’t know that was the rule” doesn’t work here.**
 Ignorance is not an excuse for rule-breaking. We expect you to read, understand, and agree to adhere to the rules.
 
 **1.1. Read the channels containing rules covering specific topics.** Take your time to familiarize yourself with them.
@@ -19,7 +19,7 @@ Ignorance is not an excuse for rule-breaking. We expect you to read, understand,
 - [PVP and Crime](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/)
 
 **1.2. Check the pins** of the channels before posting. They contain guidelines, instructions, or restrictions.
-==- 2. **This is a family-friendly server.**
+==- 2️ **This is a family-friendly server.**
 When in doubt, err on the side of caution. The following are prohibited on this server:
 
 - Swearing (both in and out of character) and evading the auto moderator by adding letters, misusing bots, using emojis, special fonts, etc.
@@ -30,7 +30,7 @@ When in doubt, err on the side of caution. The following are prohibited on this 
 - Posting images depicting or suggesting any of the above topics
 
 ⚠️ Users (and their parents/guardians) are however advised that DnD games will generally involve descriptions of violent acts.
-==- 3. **Be Excellent to Each Other.**
+==- 3️ **Be Excellent to Each Other.**
 
 We reserve the right to remove you from the server if you are a nuisance, exhibit toxic behavior, or are otherwise ruining others' experiences on the server in any way. 
 
@@ -54,12 +54,12 @@ This includes but is not limited to:
 Public accusations and complaints, slander, doxing, hostile/passive aggressive behavior, manipulation, etc. 
 
 If you wish to report a problem, please see ["How to Report Rule-Breaking"](/rules/#how-to-report-rule-breaking) section below.
-==- 4. **Use the appropriate channels.**
+==- 4️ **Use the appropriate channels.**
 
 Use the [`#channel-guide`](https://discord.com/channels/512870694883950598/537506745916850176) to find the right place to post. If you’re not sure where to do something, ask in [`#server-questions`](https://discord.com/channels/512870694883950598/546725434608451584).
 
 Keep out-of-character discussions to OOC channels.
-==- 5. **Do Not Do the Staff's Jobs.**
+==- 5️ **Do Not Do the Staff's Jobs.**
 
 Our staff members are given the instructions and authority to do what is necessary. Other members of the server should not try to do the staff’s job for them.
 
@@ -72,44 +72,44 @@ You may point out a rule or two if it seems your DM has overlooked them, but ple
 Each DM may have a different threshold of what is considered as backseat DMing. The polite approach is to first ask if the DM would appreciate assistance or not.
 
 **5.3. Do not reply to queries in FAQ channels.**
-==- 6. **Do not interfere with disciplinary actions in `#courthouse` or `#lesser-courthouse`.**
+==- 6️ **Do not interfere with disciplinary actions in `#courthouse` or `#lesser-courthouse`.**
 
 Do not write messages in those channels unless you’ve been specifically called upon by a staff member to do so, or you are self-reporting issues. 
 
 If you have something to add to the discussion, send a message to the `@-FanMail-` bot.
-==- 7. **All forms of advertising are prohibited.**
+==- 7️ **All forms of advertising are prohibited.**
 
 This includes advertisement for art commissions. The only exceptions are officially sanctioned material, such as partner servers. The guidelines for establishing server partnership are pinned in [`#partner-servers`](https://discord.com/channels/512870694883950598/529249355748605952).
 
 For inquiries involving paid promotions and/or giveaways, please message `@-FanMail-`.
-==- 8. **Refrain from discussing divisive topics.**
+==- 8️ **Refrain from discussing divisive topics.**
 This server is not an appropriate place for discussing divisive topics, such as politics, religion, and current world events/issues.
-==- 9. **Do not ping roles or high-ranking staff members without explicit permission.**
+==- 9️ **Do not ping roles or high-ranking staff members without explicit permission.**
 If you need help:
 - Ask for help in [`#server-questions`](https://discord.com/channels/512870694883950598/546725434608451584). You will get an answer from a staff member, or be redirected to the right channel for further inquiries.
 - You may contact Welcomers via direct messages to get help with getting started on this server.
 - If you have a private or sensitive matter to discuss that you would prefer to avoid getting other staff involved with, send a private message to one of our Admin, Senior, or Mentor staff.
-==- 10. **This server does not endorse or allow discussion of piracy.**
+==- 1️️0️ **This server does not endorse or allow discussion of piracy.**
 This includes posting illegally shared content/documents, and links to websites that offer them.
 
 Instead, you are invited to make use of the server's DnDBeyond content sharing links (requested via [`#ddb-link-request`](https://discord.com/channels/512870694883950598/756319993616138310)), look it up on google, Roll20's compendium, or consider purchasing your own hardcopy of source materials.
-==- 11. **Multi-accounting is not permitted.**
+==- 1️️1️ **Multi-accounting is not permitted.**
 Especially for the purposes of ban evasion or stat rerolling.
-==- 12. **Comply with Staff's Requests.**
+==- 1️️2️ **Comply with Staff's Requests.**
 If a staff member, in an official capacity, asks you to either do or stop something, you are expected to comply.
 
 If you have an issue with such a request, again you may raise the matter by sending a message to `@-FanMail-`, or by messaging a higher ranking staff member.
-==- 13. **This is an English-speaking server.**
+==- 1️️3️ **This is an English-speaking server.**
 
 We disallow discussions in other languages due to difficulties in moderating, and so that everyone can understand each other.
-==- 14. **Use the proper nickname format.**
+==- 1️️4️ **Use the proper nickname format.**
 Newbies are expected to have their nicknames in the following format at all times:<br>
  `Name of Character (Race Class).`
 
 Active Players have more liberty with styling their nicknames. However, while participating in a DM event, they should also adopt the proper nickname format.
-==- 15. **No posting or discussion of AI art.**
+==- 1️️5️ **No posting or discussion of AI art.**
 Do not post, discuss, or promote AI art on the server, especially in [`#arts`](https://discord.com/channels/512870694883950598/522427573746008064). Users who state their portraits are AI generated must change them.
-==- 16. **No Spamming.**
+==- 1️️6️ **No Spamming.**
 Do not spam, which includes headers, images, gifs, etc.
 ===
 
