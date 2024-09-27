@@ -24,7 +24,7 @@ order: 400
 - **DP**: Demerit Points ([Rules](rules.md))
 
 ### Lifestyle & Downtime Days related
-*More info in [Downtime and Lifestyle Rules](/dwguide/downtime-and-lifestyle/)*
+*More info in [Downtime and Lifestyle Rules](/downtime-and-lifestyle/)*
 
 - **LS**: Lifestyle
 - **DTD**: Downtime Days
@@ -52,7 +52,7 @@ order: 400
 
 ### Other Commonly-Used Abbreviations
 
-- **QL**: Quest-Locked ([How to Earn XP](/dwguide/start-playing/earn-xp/))
+- **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
 - **CC**: Custom Counter (`#avrae-commands`)
 - **IC**: In Character ([Roleplay Rules](rp-rules.md))
 - **OOC**: Out Of Character ([Roleplay Rules](rp-rules.md))

@@ -19,7 +19,7 @@ order: 9
 
 > - As long as your rebuild request meets the above criteria, you may rebuild a character as many times as you wish.
 
-> - Before your character participates in a DM event, they are considered to be in the Character Creation Phase, and you do not need to submit the rebuilds in this channel in order to make changes. Please check [Character Creation Rules](/dwguide/character-building/cc-rules/) for the full details including the rules and limitations. 
+> - Before your character participates in a DM event, they are considered to be in the Character Creation Phase, and you do not need to submit the rebuilds in this channel in order to make changes. Please check [Character Creation Rules](/character-building/cc-rules/) for the full details including the rules and limitations. 
 
 > - A similar rule applies to when your character gains a level. If your character has gained a level and has not participated in a DM event, you may change any decisions you made during that particular level-up.
 

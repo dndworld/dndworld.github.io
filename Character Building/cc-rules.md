@@ -296,7 +296,7 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 
 > - You may make your additional characters any time, following the same procedure as your first character. 
 
-> - You cannot sign up for, or go on the same quest with both characters, as per [Roleplay Rules 11](/dwguide/rp-rules/). 
+> - You cannot sign up for, or go on the same quest with both characters, as per [Roleplay Rules 11](/rp-rules/). 
 > - If you are roleplaying more than one character at the same time, you can only gain RPXP for one of them during that period.
 > 
 > - Your characters cannot be in the same guild.
@@ -324,7 +324,7 @@ Once your character participates in a DM event, all rebuilds must be submitted f
 
 ### Gaining a Level
 
-> - [How to Earn XP](/dwguide/start-playing/earn-xp/) lists all the ways you can gain XP. Please note that RPXP is separate from XP. Full details can be found in the channel.
+> - [How to Earn XP](/start-playing/earn-xp/) lists all the ways you can gain XP. Please note that RPXP is separate from XP. Full details can be found in the channel.
 > - Once you updated the character sheet, run `!update` and `!level` in `#bot-dump`. You may need to set the subclass manually by running `!level [class] [subclass]`.
 > - Once your character gains a level, make sure to change your reacts in `#roles` in order to receive the game post pings for the new level.
 > - Please note, "Changing Your Subclass" section from Tasha's Cauldron of Everything (TCoE) is not allowed. You may change the subclass of a character following the rebuild rules in `#rebuild-retire-log`.

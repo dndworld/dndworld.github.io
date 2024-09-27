@@ -96,7 +96,7 @@ With all that set up, make sure you've navigated to your local `dwguide` fork an
 retype start
 ```
 
-This will set up a server at `http://localhost:5000/dwguide/` to preview your changes as you make them. This is a process which will keep the current terminal instance busy and unresponsive. Run `Ctrl`+`C` to kill the process.
+This will set up a server at `http://localhost:5000/` to preview your changes as you make them. This is a process which will keep the current terminal instance busy and unresponsive. Run `Ctrl`+`C` to kill the process.
 
 From here on, our only concern is adapting the steps from earlier tutorials to this workflow. Below are two ways to do this
 - The **Pure Git** method means learning/copypasting a few more commands

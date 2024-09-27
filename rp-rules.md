@@ -6,7 +6,7 @@ icon: "/images/emoji-scam-love.webp"
 
 <style>
 h1:before { 
-  background: url('/dwguide/images/emoji-scam-love.webp') no-repeat 0 0;
+  background: url('/images/emoji-scam-love.webp') no-repeat 0 0;
   display: inline-block;
   content: "";
   width: 48px;
@@ -116,7 +116,7 @@ You may not sign a character up for a DM event until they receive all XP rewards
 Pending magic items or gold are acceptable. However, if you receive them from a previous DM event after you have been already accepted for a new event, you must inform that DM. They will decide if you may use them.
 ===
 
-## <img src="/dwguide/images/emoji-scam-love.webp" class="emoji"> **Server Etiquettes** <img src="/dwguide/images/emoji-scam-love.webp" class="emoji"> 
+## <img src="/images/emoji-scam-love.webp" class="emoji"> **Server Etiquettes** <img src="/images/emoji-scam-love.webp" class="emoji"> 
 
 ### Joining a Roleplay
 

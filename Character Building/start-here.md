@@ -12,7 +12,7 @@ h1:before { content: "👋 " }
 
 This channel is a "Quick Start" guide for newcomers to the server.
 
-- World setting and server info: [About Us](/dwguide/)
+- World setting and server info: [About Us](/)
 - If you need help or have questions about getting started on the server, please reach out to `#beginner-help`! 
 - If you have any other questions, please reach out to `#server-questions`!
 
@@ -94,4 +94,4 @@ You DO NOT need to wait for your sheet to be approved.
 Once you've uploaded your sheet to `#character-sheets`, you will be automatically granted **Newbie** and **Level 1** roles, and the rest of the server should now be visible. If for some reason the bot fails, send a message to `#⁠server-questions`, and a staff member will grant you the roles.
 
 ## Set Up the Character for the Server
-Follow the steps in [How to Start Playing](/dwguide/start-playing/start-playing/) to set up your character for the server.
+Follow the steps in [How to Start Playing](/start-playing/start-playing/) to set up your character for the server.

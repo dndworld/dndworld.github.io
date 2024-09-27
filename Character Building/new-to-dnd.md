@@ -112,11 +112,11 @@ The following steps are for DnD World server, once you have created the characte
 > ```
 
 #### 3. Set Up Your Character for the Server
-> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/dwguide/start-playing/start-playing/)
+> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/start-playing/start-playing/)
 
 #### 4. Learn How to Earn RPXP and XP
 > RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. 
-> - More details and additional information in [How to Earn XP](/dwguide/start-playing/earn-xp/)
+> - More details and additional information in [How to Earn XP](/start-playing/earn-xp/)
 
 #### :icon-question:. Ask questions!
 > `⁠#beginner-help`

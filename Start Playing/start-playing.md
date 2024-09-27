@@ -10,7 +10,7 @@ h1:before { content: "🎲 " }
 
 # How to Start Playing
 
-This channel is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/dwguide/character-building/start-here/)
+This channel is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/character-building/start-here/)
 
 ## Setting up Class, Race, Custom Counters (CCs)
 

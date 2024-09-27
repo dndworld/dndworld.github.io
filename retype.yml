@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: https://jmac-0904.github.io/dwguide/
+url: https://dndworld.github.io/
 meta:
   title: " | DW Guide"
 branding:
@@ -14,8 +14,8 @@ branding:
 favicon: Images/logo-circle.png
 links:
 - text: Welcome!
-  link: /dwguide/
+  link: /
 - text: Start Here
-  link: /dwguide/character-building/start-here/
+  link: /character-building/start-here/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

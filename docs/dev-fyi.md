@@ -30,6 +30,10 @@ See the [Page Configuration documentation](https://retype.com/configuration/page
 
 As a best practice, set `order` to a value with 1-2 zeroes at the end so it is easier to insert another page in between two existing pages.
 
+==- **Retype Components**
+
+A `<style>` tag should be placed outside of a Tab component, or its CSS properties will not be applied when the Tab is opened.
+
 ==- **Icons and Emojis**
 
 Emojis are mainly used as icons alongside page titles and some headings.
@@ -89,7 +93,7 @@ For custom emojis, the image file must first be added to the source code, and th
 To insert a custom emoji into page content, use the template below and modify the `src` attribute as needed. Look for `.emoji` in `/_includes/head.html` for the styles used.
 
 ```md
-<img class="emoji" src="/dwguide/images/emoji-name.webp">
+<img class="emoji" src="/images/emoji-name.webp">
 ```
 
 To insert a custom emoji as an `icon`, specify the file path:
@@ -105,7 +109,7 @@ To insert a custom emoji before the page title, use the template below and modif
 ```html !#3
 <style>
 h1:before { 
-  background: url('/dwguide/images/emoji-name.webp') no-repeat 0 0;
+  background: url('/images/emoji-name.webp') no-repeat 0 0;
   display: inline-block;
   content: "";
   width: 48px;
