@@ -1,7 +1,7 @@
 ---
 order: 99
 icon: ":jigsaw:"
-expanded: true
+expanded: false
 ---
 
 <style>
