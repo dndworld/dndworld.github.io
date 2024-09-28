@@ -1,6 +1,6 @@
 # Dnd World Guide
 
-This is the repository for the DW Guide site, [hosted here on GitHub Pages](https://jmac-0904.github.io/).
+This is the repository for the DW Guide site, [hosted here on GitHub Pages](https:/dndworld.github.io/).
 
 ## Mission Statement
 
@@ -15,7 +15,7 @@ We highly encourage you to submit possible improvements using the [Issues](https
 
 While GitHub may seem intimidating, everything here is formatted using Markdown, which is the same system used by Discord! If you know Discord formatting, you can contribute too!
 
-We have some tutorials for how to draft changes to the source code and suggest them on GitHub. You will need to [make a GitHub account](https://github.com/signup) if you haven't already. You will want to use a desktop or laptop too. [Then check the developer docs](https://jmac-0904.github.io/docs/).
+We have some tutorials for how to draft changes to the source code and suggest them on GitHub. You will need to [make a GitHub account](https://github.com/signup) if you haven't already. You will want to use a desktop or laptop too. [Then check the developer docs](https:/dndworld.github.io/docs/).
 
 By-design, we exclude certain information from the guide:
 
