@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.781263152754">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.781267426143">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,12 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.781263152754" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.781267426143" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.781263152754" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.781267426143" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.781263152754" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.781267426143" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.781267426143" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -313,15 +314,15 @@
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="docs-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
-<style>
-h1:before { content: "🏢 " }
-</style> 
 <doc-anchor-target id="guilds" class="break-words">
     <h1>
         <doc-anchor-trigger class="header-anchor-trigger" to="#guilds">#</doc-anchor-trigger>
         <span>Guilds</span>
     </h1>
 </doc-anchor-target>
+<style>
+h1:before { content: "🏢 " }
+</style> 
 <doc-anchor-target id="guild-rules">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#guild-rules">#</doc-anchor-trigger>
@@ -332,6 +333,113 @@ h1:before { content: "🏢 " }
 <li>Joining a guild: You can see the list of available guilds under the GUILDS category. The guilds are player managed, and the requirements of joining a guild vary. Some guilds require members to be over a certain level threshold, or be of a certain class. Check their pinned messages for such requirements or inquire with their leader if they don&#x27;t specify any.</li>
 <li>All guilds created must be based in Snowhaven and cannot be branches of other guilds.</li>
 <li>When you submit a new guild in ⁠guild-registry, react to your proposal with <span class="docs-emoji">&#x1F3E2;</span> (<code v-pre>:office:</code>).</li>
+</ul>
+<doc-anchor-target id="guild-registry">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#guild-registry">#</doc-anchor-trigger>
+        <span>Guild Registry</span>
+    </h2>
+</doc-anchor-target>
+<p>See <a href="/advanced-play/tax-registration-log/">Tax Registration Log</a> for guild taxes.</p>
+<doc-anchor-target id="guild-member">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#guild-member">#</doc-anchor-trigger>
+        <span>Guild Member</span>
+    </h3>
+</doc-anchor-target>
+<p>The player that is joining a guild must log the following form. If the player is leaving, the the guild can log the form instead. A pending application can be cancelled by <code v-pre>~~crossing out~~</code> (registration fee, if applicable, is not refunded).</p>
+<p><strong>On the approval date</strong>, react to the Guild Member Form message with <span class="docs-emoji">&#x1F511;</span> <span class="docs-emoji">&#x1F511;</span> to beam it to a task list for staff, and the role will be given or taken away manually by a staff member.</p>
+<ul>
+<li>Please note, in order to lighten the load on our staff members, keeping track of the seven days is left as the guild members&#x27; responsibility. For this reason, the role is likely to not be granted or removed if the message gets beamed before the approval date. You do not have to be the sender of the original message to react with <span class="docs-emoji">&#x1F511;</span> <code v-pre>:key:</code>.</li>
+</ul>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-markdown"><code v-pre class="language-markdown">Guild Member Form
+
+**Guild Name:** 
+**Character Name:** 
+**Discord ID:** 
+**Action:** &lt;Joining | Leaving&gt;
+**Registration Fee Paid:** &lt;link | N/A&gt;
+**Submission Date:** 
+**Approval Date (Seven Days after Submission):** </code></pre>
+</doc-codeblock></div>
+<doc-anchor-target id="guild-registration">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#guild-registration">#</doc-anchor-trigger>
+        <span>Guild Registration</span>
+    </h3>
+</doc-anchor-target>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-markdown"><code v-pre class="language-markdown">Guild Registration Form
+@gradientx
+**Guild Name:** 
+**Initial Guild Tier:** 
+**Type:** 
+**Founders:** (must be 5+)
+- Kerr Actor, Co-Leader (@Example#0000)
+**Guild Channel Name:**  [#knights-exemplar-hall]
+**Permissions:** &lt;Public | Private&gt;
+**Cost for Charter and Labor to build Hall:** </code></pre>
+</doc-codeblock></div>
+<ul>
+<li>A private channel can only be entered by players with the appropriate guild role.</li>
+</ul>
+<doc-anchor-target id="guild-representative-form">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#guild-representative-form">#</doc-anchor-trigger>
+        <span>Guild Representative Form</span>
+    </h3>
+</doc-anchor-target>
+<p>For guilds that have more than one leader, whose leader is inactive/retired/left the server, or who relies on someone else other than the leader to carry out day to day functions such as making announcements/paying taxes/doing bookkeeping. The additional representative can apply to be granted manage messages/manage threads permissions within their guild channel. React with <span class="docs-emoji">&#x1F3E2;</span> (<code v-pre>:office:</code>) on your post.</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-markdown"><code v-pre class="language-markdown">Guild Representative Form
+
+**Guild Name:** 
+**Character Name:** 
+**Discord ID:** 
+**Reason for Needing Representative Permissions:** </code></pre>
+</doc-codeblock></div>
+<doc-anchor-target id="guild-management-forms">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#guild-management-forms">#</doc-anchor-trigger>
+        <span>Guild Management Forms</span>
+    </h3>
+</doc-anchor-target>
+<p>These forms must be submitted by a Guild Rep.</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-markdown"><code v-pre class="language-markdown">Module Form
+
+**Guild Name:** 
+**Module Name:** 
+**Building/Upgrading/Destroying:** 
+**Link to Payment:** 
+**Duration:** </code></pre>
+</doc-codeblock></div>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-markdown"><code v-pre class="language-markdown">Guild Type Change Form
+
+**Guild Name:** 
+**Guild Type Slot:** &lt;Main | 2nd | Both&gt;
+**Current Type(s):** 
+**New Type(s):** 
+**Submission Date:** 
+**Completion Date:** 
+**Link to Payment:** </code></pre>
+</doc-codeblock></div>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-markdown"><code v-pre class="language-markdown">Guild Info Change Form
+@gradientx
+**Current Channel Name:** 
+**Changing:** &lt;Guild Name | Channel Name | Channel Description&gt;
+**To:** </code></pre>
+</doc-codeblock></div>
+<ul>
+<li>Names must be appropriate and follow all other server rules
+<ul>
+<li>If the name of the <strong>guild</strong> as a whole is changing, react to the message with <span class="docs-emoji">&#x1F3E2;</span> <code v-pre>:office:</code>.</li>
+</ul>
+</li>
+<li>Add more Changing and To field pairs to the same post as needed</li>
 </ul>
 
                                 
@@ -399,6 +507,6 @@ h1:before { content: "🏢 " }
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Guilds", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Guilds", level: 2, icon: "file", hasPrism: true, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
