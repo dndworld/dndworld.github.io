@@ -1,0 +1,46 @@
+---
+label: "D&D Beyond for Character Making"
+icon: ":link:"
+order: 6
+---
+<style>
+h1:before { 
+  content: "🔗 ";
+}
+</style>
+
+DDB allows non-paying users access only to the Basic Rules for character creation, and it is even more limiting than just PHB. However, with the support of our patrons as well as a club account from D&D Beyond, we are able to provide you with all paid material via content sharing links. 
+
+To benefit from this, fill in the pinned template and post it here. A staff member will then send you a link via PMs. Posts marked with a ✅ indicate that they have been processed and the link sent out.
+
+As this is a community resource, you are required to abide by the below rules. 
+
+## Rules
+
+- For security and legal purposes, do not share these links with others, no matter in this server or outside.
+
+- These campaigns are merely placeholders, and all are the same. They do not guarantee spots in bounties.
+
+- Only use the campaign links for characters that you are using on this server. Only after you have achieved the Active Player role can you add characters from outside the server.
+
+- If you leave the server, your character will be removed from the campaigns/account
+
+- Do not reserve a slot for yourself for later. 
+
+- Please claim your characters. Unnamed/unassigned characters will be removed.
+
+- Inactivity (1 month with no messages. Messages in bot-dump don't count) will result in your character being removed
+
+- All your characters should be added to the same link. To retrieve the link of your current campaign, on the DDB website click "Collections", then "My Campaigns", then "View Campaign". You should see the link. (You need to have already use a campaign link for this to work)
+
+## Request Template
+
+```md 
+DnD Beyond (DDB) Username: 
+Character Names (indicate "TBD" if undecided): 
+I confirm that I will not use the link I am given for characters in home games or external servers (Yes/No): 
+I confirm that all my characters will begin at Level 1 (Yes/No): 
+I confirm that I will not share the link I am given (Yes/No): 
+I confirm that I have read and agreed to follow all the rules for using the DDB links (Yes/No): 
+I acknowledge that if I am found to break any of these rules, my access to the DDB links may be revoked without notice (Yes/No): 
+```
