@@ -9,24 +9,24 @@
     <meta name="generator" content="Retype 3.6.0">
 
     <!-- Primary Meta Tags -->
-    <title>Review Request | DW Guide</title>
-    <meta name="title" content="Review Request | DW Guide">
-    <meta name="description" content="👀 means it is being reviewed">
+    <title>XP Tracker | DW Guide</title>
+    <meta name="title" content="XP Tracker | DW Guide">
+    <meta name="description" content="Check XP: !dxp">
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://dndworld.github.io/character-building/review-request/">
+    <link rel="canonical" href="https://dndworld.github.io/records/xp-tracker/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dndworld.github.io/character-building/review-request/">
-    <meta property="og:title" content="Review Request | DW Guide">
-    <meta property="og:description" content="👀 means it is being reviewed">
+    <meta property="og:url" content="https://dndworld.github.io/records/xp-tracker/">
+    <meta property="og:title" content="XP Tracker | DW Guide">
+    <meta property="og:description" content="Check XP: !dxp">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://dndworld.github.io/character-building/review-request/">
-    <meta property="twitter:title" content="Review Request | DW Guide">
-    <meta property="twitter:description" content="👀 means it is being reviewed">
+    <meta property="twitter:url" content="https://dndworld.github.io/records/xp-tracker/">
+    <meta property="twitter:title" content="XP Tracker | DW Guide">
+    <meta property="twitter:description" content="Check XP: !dxp">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
@@ -36,7 +36,6 @@
     <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.781268840475" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
     <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.781268840475" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.781268840475" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -314,126 +313,267 @@
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="docs-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
-<doc-anchor-target id="review-request" class="break-words">
+<doc-anchor-target id="xp-tracker" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#review-request">#</doc-anchor-trigger>
-        <span>Review Request</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#xp-tracker">#</doc-anchor-trigger>
+        <span>XP Tracker</span>
     </h1>
 </doc-anchor-target>
 <style>
 h1:before { 
-  content: "✅ ";
+  content: "💪 ";
 }
 </style>
-<doc-anchor-target id="reacts">
+<doc-anchor-target id="xp-commands">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#reacts">#</doc-anchor-trigger>
-        <span>Reacts</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#xp-commands">#</doc-anchor-trigger>
+        <span>XP Commands</span>
+    </h2>
+</doc-anchor-target>
+<blockquote>
+<ul>
+<li>Check XP: <code v-pre>!dxp</code></li>
+<li>Add XP from Combat Training: <code v-pre>!dxp train &lt;amount&gt;</code><br>
+e.g. <code v-pre>!dxp train 25</code></li>
+<li>Add XP from DM Event: <code v-pre>!dxp game &lt;amount&gt; &lt;source&gt;</code><br>
+e.g. <code v-pre>!dxp game 100 &quot;Red Ruby Heist&quot;</code>
+<em>Note: This command automatically adds RPXP to XP.</em></li>
+<li>Fixing mistakes: <code v-pre>!help dxp fix</code></li>
+</ul>
+</blockquote>
+<doc-anchor-target id="rpxp-commands">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#rpxp-commands">#</doc-anchor-trigger>
+        <span>RPXP Commands</span>
+    </h2>
+</doc-anchor-target>
+<blockquote>
+<ul>
+<li>Check RPXP: <code v-pre>!rpxp</code></li>
+<li>Log RPXP: <code v-pre>!rpxp &lt;hours&gt; [note]</code> <br>
+e.g. <code v-pre>!rpxp 2.5 &quot;#the-library&quot;</code> or <code v-pre>!rpxp 3h &quot;#slums&quot;</code>
+<br><br></li>
+<li>Reset weekly cap (on Mondays): <code v-pre>!rpxp cap reset</code>
+<br><br></li>
+<li>Fixing mistakes (this reduces from both RPXP and Weekly Cap counters): <code v-pre>!help rpxp fix</code></li>
+</ul>
+</blockquote>
+<doc-anchor-target id="xp-required-for-level-up-dw">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#xp-required-for-level-up-dw">#</doc-anchor-trigger>
+        <span>XP Required for Level-UP (DW)</span>
+    </h2>
+</doc-anchor-target>
+<p>The XP required to gain a level has been adjusted as follows.</p>
+<p>(Each level lists the total amount required for advancing to that respective level, XP is <strong>not</strong> reset on level-up)</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Level</th>
+<th>XP Required</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>300</td>
+</tr>
+<tr>
+<td>3</td>
+<td>900</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2700</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5900</td>
+</tr>
+<tr>
+<td>6</td>
+<td>12700</td>
+</tr>
+<tr>
+<td>7</td>
+<td>21700</td>
+</tr>
+<tr>
+<td>8</td>
+<td>32700</td>
+</tr>
+<tr>
+<td>9</td>
+<td>46700</td>
+</tr>
+<tr>
+<td>10</td>
+<td>64700</td>
+</tr>
+<tr>
+<td>11</td>
+<td>85000</td>
+</tr>
+<tr>
+<td>12</td>
+<td>110000</td>
+</tr>
+<tr>
+<td>13</td>
+<td>141000</td>
+</tr>
+<tr>
+<td>14</td>
+<td>180000</td>
+</tr>
+<tr>
+<td>15</td>
+<td>229000</td>
+</tr>
+<tr>
+<td>16</td>
+<td>290000</td>
+</tr>
+<tr>
+<td>17</td>
+<td>364000</td>
+</tr>
+<tr>
+<td>18</td>
+<td>463000</td>
+</tr>
+<tr>
+<td>19</td>
+<td>558000</td>
+</tr>
+<tr>
+<td>20</td>
+<td>681000</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="rpxp-scales-by-level">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#rpxp-scales-by-level">#</doc-anchor-trigger>
+        <span>RPXP Scales by Level</span>
     </h2>
 </doc-anchor-target>
 <ul>
-<li><span class="docs-emoji">&#x1F440;</span> means it is being reviewed</li>
-<li><span class="docs-emoji">&#x1F4DD;</span> means it has been reviewed</li>
+<li>You can pull up this table with <code v-pre>!rpxp cap</code> command.</li>
 </ul>
-<doc-anchor-target id="for-requesters">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#for-requesters">#</doc-anchor-trigger>
-        <span>For Requesters</span>
-    </h2>
-</doc-anchor-target>
-<p>You can request a review of your character sheet from a volunteer experienced player. Whether you are new to the game, levelling up, or are trying out a new piece of homebrew, as long as you want a second pair of eyes, this is the place for you.</p>
-<p>Please note that a review is OPTIONAL and is NOT GUARANTEED. You do NOT need a review to RP, do DTD, or play a game. In addition, reviews are based on availability. Volunteers are busy and may not have time to review your sheet/are not familiar with your sheet type, so please do not harass them by pinging them or DMing them.</p>
-<doc-anchor-target id="template">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#template">#</doc-anchor-trigger>
-        <span>Template</span>
-    </h3>
-</doc-anchor-target>
-<p>Text in <code v-pre>[]</code> can be omitted unless required.</p>
-<p>Check <a href="../../use-discord/#server-history"><code v-pre>#how-to-use-discord</code> &gt; <strong>Server History</strong></a> for how to link Discord messages.</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-markdown"><code v-pre class="language-markdown">**Character Name:** 
-**Level:** 
-**Sheet Link:** &lt;insert link&gt; [Must be D&amp;D Beyond / Gsheet / Dicecloud]
-
-**Ability Score Generation Method:** [Standard Array / Point Buy / Rolled]
-[**If you rolled stats, link to the roll:**]
-[(Level 1) **If you rolled gold, link to the roll:**]
-[(Level 2+) **If you rolled HP, links to the roll(s):**]
-**Background:** [Example: Acolyte, Criminal, Folk Hero]
-**Any Homebrew Content:** [Must be approved content]
-
-[(Level 1) **Has this character been in a game since creation?**] [Yes / No]
-[(Level 2+) **Has this character been in a game since they leveled up?**] [Yes / No]
-**Notes:** [Example: Cushion Rule, sent by #courthouse]</code></pre>
-</doc-codeblock></div>
-<doc-anchor-target id="for-volunteers">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#for-volunteers">#</doc-anchor-trigger>
-        <span>For Volunteers</span>
-    </h2>
-</doc-anchor-target>
-<doc-anchor-target id="general-requirements">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#general-requirements">#</doc-anchor-trigger>
-        <span>General Requirements</span>
-    </h3>
-</doc-anchor-target>
-<p>While we do not have formal requirements for reviewing, we request volunteers self-appraise themselves to see if they think they are fit to review.</p>
-<ul>
-<li>Have intermediate knowledge on D&amp;D<br>
-You don&#x27;t have to know homebrew or the class features of every class, just have a good eye for spotting fishy numbers and be willing to look up features you don&#x27;t know.</li>
-<li>Have a patient temperament<br>
-If you find yourself quickly frustrated, reviewing may not be right for you</li>
-<li>Ability to read and process information<br>
-Since sheets consist of many parts, attention to detail is needed</li>
-</ul>
-<doc-anchor-target id="review-etiquette">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#review-etiquette">#</doc-anchor-trigger>
-        <span>Review Etiquette</span>
-    </h3>
-</doc-anchor-target>
-<p>Again, this is not strictly enforced, however, if repeated incidents occur, one may be banned from reviewing.</p>
-<ul>
-<li>When reviewing, please create a thread from the sheet and ping the requester in it</li>
-<li>Please review sheets in a chronological manner as much as possible<br>
-If you feel that a sheet is out of your realm of knowledge (such as if it is a sheet type you are not familiar with or a homebrew you have not used), please ping a Welcomer.</li>
-<li>Communicate in a clear and actionable manner<br>
-Please give detailed responses about mistakes. Rather than saying &quot;Your AC is wrong&quot;, describe what specifically is wrong, e.g. they forgot to account for dexterity bonus, and what it should be.</li>
-<li>Give accurate advice<br>
-Obviously, mistakes will happen. But if you find yourselves constantly miscalculating things, maybe you should look up more information or get more familiar with the game.</li>
-</ul>
-<doc-anchor-target id="sheet-review-checklist">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#sheet-review-checklist">#</doc-anchor-trigger>
-        <span>Sheet Review Checklist</span>
-    </h3>
-</doc-anchor-target>
-<ul>
-<li>Check armor and AC.</li>
-<li>What&#x27;s their HP? Assume average. If it doesn&#x27;t add up, check for rolls or ask them.</li>
-<li>Check skills and other proficiencies like tools &amp; languages. Class, race and background will contribute to these. Generally, class gives 2, Races give 1 sometimes, and Background gives 2<br>
-D&amp;D Beyond does not display background. This can sometimes be circumvented by hovering over their languages, which will state the source. If this does not work, directly ping them to ask.</li>
-<li>Spell save DC, bonus, and spells known. (If applicable)</li>
-<li>Inventory. Usually just have to see if they have anything outside of starting gear or crazy expensive. <br>
-This does not apply to characters that are already significantly levelled.</li>
-</ul>
-<div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-yellow-500"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
-        <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-yellow-500" width="22" height="22" viewBox="0 0 24 24" role="presentation">
-                <g fill="currentColor"><g>
-                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
-                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
-                </g></g>
-            </svg>
-        </div>
-        <div class="pr-5 ml-3 w-full">
-<p>If the character has already been in games since creation/levelling and you spot mistakes, please flag the sheet for Mod review. Do NOT further engage with the user or ping them informing them of their mistakes.</p>
-        </div>
-    </div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Lv</th>
+<th>RPXP/hr</th>
+<th>Weekly Cap</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>30</td>
+<td>300</td>
+</tr>
+<tr>
+<td>2</td>
+<td>40</td>
+<td>400</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>500</td>
+</tr>
+<tr>
+<td>4</td>
+<td>60</td>
+<td>600</td>
+</tr>
+<tr>
+<td>5</td>
+<td>80</td>
+<td>800</td>
+</tr>
+<tr>
+<td>6</td>
+<td>100</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>7</td>
+<td>120</td>
+<td>1200</td>
+</tr>
+<tr>
+<td>8</td>
+<td>140</td>
+<td>1400</td>
+</tr>
+<tr>
+<td>9</td>
+<td>170</td>
+<td>1700</td>
+</tr>
+<tr>
+<td>10</td>
+<td>200</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>11</td>
+<td>230</td>
+<td>2300</td>
+</tr>
+<tr>
+<td>12</td>
+<td>260</td>
+<td>2600</td>
+</tr>
+<tr>
+<td>13</td>
+<td>300</td>
+<td>3000</td>
+</tr>
+<tr>
+<td>14</td>
+<td>340</td>
+<td>3400</td>
+</tr>
+<tr>
+<td>15</td>
+<td>400</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>16</td>
+<td>460</td>
+<td>4600</td>
+</tr>
+<tr>
+<td>17</td>
+<td>540</td>
+<td>5400</td>
+</tr>
+<tr>
+<td>18</td>
+<td>620</td>
+<td>6200</td>
+</tr>
+<tr>
+<td>19</td>
+<td>720</td>
+<td>7200</td>
+</tr>
+</tbody>
+</table>
 </div>
 
                                 
@@ -444,20 +584,20 @@ This does not apply to characters that are already significantly levelled.</li>
                             
                                 <nav class="flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../character-building/character-biopic/">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../records/transaction-log/">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
                                                 <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
-                                                <span class="block mt-1">Character Biopic</span>
+                                                <span class="block mt-1">Transaction Log</span>
                                             </span>
                                         </a>
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../start-playing/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../game-planning/">
                                             <span>
                                                 <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
-                                                <span class="block mt-1">Start Playing</span>
+                                                <span class="block mt-1">Game Planning</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                         </a>
@@ -501,6 +641,6 @@ This does not apply to characters that are already significantly levelled.</li>
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Review Request", level: 2, icon: "file", hasPrism: true, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "XP Tracker", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
