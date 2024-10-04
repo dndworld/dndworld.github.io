@@ -92,7 +92,7 @@ You may use dice rolls as a tool for RP improvisation. However, you cannot set a
 You may sign up to multiple DM events. However, once a character is accepted to an event, all other signups __with that character__ need to be removed.
 
 After a DM event, if you have sign-ups for other events, make sure to update the "last event" date.
-==- 1️1 **Only one character per player may sign up for each DM event.**
+==- 1️1️ **Only one character per player may sign up for each DM event.**
 ==- 1️2️ **Do not multitask during a DM event.**
 When participating in a DM event, you are expected to be attentive. Do not simultaneously roleplay other characters. Likewise, DMs are expected to provide their full attention to their games.
 ==- 1️3️ **Do not desert a DM event.**
