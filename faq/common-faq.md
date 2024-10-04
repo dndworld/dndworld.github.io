@@ -129,4 +129,53 @@ Wild Shape specifies that you can turn into "a **beast** that **you have seen be
 Any infusions that are not your own are considered as prebuffs in the context of DM events. The DM of an event has the final say in whether such prebuff is allowed in their game.
 
 Any longterm recipient of an infusion needs to be of a character level equivalent to an artificer's level that would have the infusion.
+==- What exactly is "Customizing Your Origin" and how can I use it?
+Customizing your Origin allows you to do any and all of the following things at character creation:
+
+1. __Change the Ability Score Increases given by your race.__ You can take these and assign them to any other stats that you want. For example, if your race normally gives +2 Dexterity and +1 Wisdom, you can instead make that +2 Charisma and +1 Strength. The split of your Ability Score Increases must remain the same though, so you can't, for instance, combine a +2 and a +1 into a +3, and also can't split up a +2 into two +1s.
+
+2. __Change the languages learned from your race.__ You can take any of the languages your race normally knows, and replace them with different ones from this list:
+```markdown
+Abyssal, Celestial, Common, Deep Speech, Draconic, Dwarvish, Elvish, Giant, Gnomish, Goblin, Halfling, Infernal, Orc, Primordial, Sylvan, Undercommon
+```
+3. __Change proficiencies gained from your race.__ You can replace certain proficiencies your race grants, such as skills, tools, or weapons, with certain different ones, as seen below:
+
+
+Original                | Replacement
+---                     | ---
+Skill                   | Skill
+Simple weapon or tool   | Simple weapon or tool
+Martial weapon or armor | Simple/martial weapon or tool
+
+*Yes, that means you **can't** swap an armor proficiency for a different armor proficiency.*
+
+==- What is the difference between Hexblade and Pact Weapons?
+
+
+:::hexpact
+Weapon Type         | How to Create?                                | Properties                                      | Proficient?                       | Counts as magical?\*
+ ---                |  ---                                          |  ---                                            |  ---                              |  ---
+Hex Warrior Weapon  | Ritual while touching weapon, after long rest | Any without Two-Handed                          | You must have proficiency already | :x:                       
+Created Pact Weapon | Action, while a hand is empty                 | Any melee (can be changed each time you summon) | While you wield it                | :white_check_mark:  
+Pact Magic Weapon   | Ritual while holding magic weapon, after 1 hour (short rest) | Any, except artifacts and sentient weapons | If you have proficiency | :white_check_mark: (as magic weapon)
+
+Additional Features             | Charisma modifier?† | Can summon and dismiss?‡
+ ---                            |  ---               |  ---
+Hex Warrior only                | :white_check_mark: | :x:                
+Pact of the Blade only          | :x:                | :white_check_mark:     
+Hex Warrior + Pact of the Blade ⹋ | :white_check_mark: | :white_check_mark: (except Hex Warrior weapon)
+
+> \* Counts as magical for the purpose of overcoming magical resistance or immunity against nonmagical attacks and damage<br>
+> † Can use Charisma modifier for the attack and damage rolls<br>
+> ‡ Can summon as an action and dismiss at-will<br>
+> ⹋ As a reminder, if you have both features, you can have a Hex Weapon separate from your Pact Weapon. Your Pact Weapon always benefits from your Hex Warrior feature (being able to use your charisma modifier for attack and damage), but your Hex Weapon does not benefit from your Pact of the Blade features if it is not your Pact Weapon.<br>
+> **Improved Pact Weapon:** Pact Weapon becomes a spellcasting focus and a +1 weapon (unless it already has that bonus), and can be a melee weapon or a shortbow, longbow, light crossbow, or heavy crossbow.
+:::
 ==-
+
+<style>
+.hexpact table, .hexpact th {
+  text-align: center !important;
+}
+.hexpact tr > td:nth-of-type(1) { font-weight: bold; }
+</style>
