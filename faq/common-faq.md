@@ -3,7 +3,6 @@ label: Common FAQ
 order: 600
 icon: ":bell:"
 ---
-# Common FAQ
 
 This channel is for commonly asked questions.
 
