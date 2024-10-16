@@ -9,24 +9,24 @@
     <meta name="generator" content="Retype 3.6.0">
 
     <!-- Primary Meta Tags -->
-    <title>How to Start Playing | DW Guide</title>
-    <meta name="title" content="How to Start Playing | DW Guide">
-    <meta name="description" content="This channel is to teach you what to do after creating your character. If you have not done so yet, check out ">
+    <title>A Guide to Navigating Large Servers | DW Guide</title>
+    <meta name="title" content="A Guide to Navigating Large Servers | DW Guide">
+    <meta name="description" content="Aka “oh my god where do I start”">
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://dndworld.github.io/start-playing/start-playing/">
+    <link rel="canonical" href="https://dndworld.github.io/tips/navigating-large-servers/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dndworld.github.io/start-playing/start-playing/">
-    <meta property="og:title" content="How to Start Playing | DW Guide">
-    <meta property="og:description" content="This channel is to teach you what to do after creating your character. If you have not done so yet, check out ">
+    <meta property="og:url" content="https://dndworld.github.io/tips/navigating-large-servers/">
+    <meta property="og:title" content="A Guide to Navigating Large Servers | DW Guide">
+    <meta property="og:description" content="Aka “oh my god where do I start”">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://dndworld.github.io/start-playing/start-playing/">
-    <meta property="twitter:title" content="How to Start Playing | DW Guide">
-    <meta property="twitter:description" content="This channel is to teach you what to do after creating your character. If you have not done so yet, check out ">
+    <meta property="twitter:url" content="https://dndworld.github.io/tips/navigating-large-servers/">
+    <meta property="twitter:title" content="A Guide to Navigating Large Servers | DW Guide">
+    <meta property="twitter:description" content="Aka “oh my god where do I start”">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
@@ -325,268 +325,296 @@
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="docs-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
-<style>
-h1:before { content: "🎲 " }
-</style> 
-<doc-anchor-target id="how-to-start-playing" class="break-words">
+<doc-anchor-target id="a-guide-to-navigating-large-servers" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#how-to-start-playing">#</doc-anchor-trigger>
-        <span>How to Start Playing</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#a-guide-to-navigating-large-servers">#</doc-anchor-trigger>
+        <span>A Guide to Navigating Large Servers</span>
     </h1>
 </doc-anchor-target>
-<p>This channel is to teach you what to do after creating your character. If you have not done so yet, check out <a href="../../character-building/start-here/">Start Here</a></p>
-<doc-anchor-target id="setting-up-class-race-custom-counters-ccs">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#setting-up-class-race-custom-counters-ccs">#</doc-anchor-trigger>
-        <span>Setting up Class, Race, Custom Counters (CCs)</span>
-    </h2>
-</doc-anchor-target>
-<p><strong>Custom Counters</strong> are used to keep track of various resources, such as race ability (e.g. Half-Orc&#x27;s Relentless Endurance), class ability (Fighter&#x27;s use of Second Wind), ammunition, charges on a magic item, etc.</p>
-<p>For <strong>D&amp;D Beyond</strong> sheets, this is <strong>already done for you</strong>.</p>
-<p>For other sheets, setting up the class abilities is automated using Avrae. Run the commands below in <code v-pre>#bot-dump</code> for the setup.</p>
-<p>For abilities not covered by <code v-pre>!level</code>/your sheet, manual counter creation may be required. See <code v-pre>Other</code> below.</p>
-<p><strong>Class</strong></p>
-<blockquote>
-<p>This command will pick up any <strong>classes</strong> you currently have.</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">!level</code></pre>
-</doc-codeblock></div>
-<p><code v-pre>!level [class] [subclass]</code>  will set your <strong>subclasses</strong> for you (e.g. <code v-pre>!level warlock celestial</code>)</p>
-</blockquote>
-<p><strong>Other</strong></p>
-<blockquote>
-<p>Homebrew classes are not supported, and non-Beyond sheets may not have the necessary counters. See <code v-pre>!help cc create</code> for how to create your own CCs, and <code v-pre>!help cc</code> for general CC commands. If you are using a homebrew subclass, see <code v-pre>!level template</code> for instructions on how to create a proper gvar for <code v-pre>!level</code>.</p>
-</blockquote>
-<doc-anchor-target id="tracking-money">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#tracking-money">#</doc-anchor-trigger>
-        <span>Tracking Money</span>
-    </h2>
-</doc-anchor-target>
-<p>Money and XP are tracked on the server. They are <strong>not</strong> synced with your sheet, so it does not matter if your sheet is updated with this info (tracking XP is explained later in this channel).</p>
-<p><strong>Check Coin Purse</strong></p>
-<blockquote>
-<p>Use <code v-pre>!transaction</code> to check your coin purse.</p>
-</blockquote>
-<p><strong>Make Transaction</strong></p>
-<blockquote>
-<p>Log your monetary transactions in <code v-pre>#transaction-log</code> with:</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">!transaction &quot;reason for transaction&quot; +Xgp</code></pre>
-</doc-codeblock></div>
-<p><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Transactions logged outside of the appropriate channels are considered invalid.</p>
-<p>You can chain multiple currencies to the command like so:</p>
-<p><code v-pre>!transaction &quot;reason for transaction&quot; +Xgp +Xsp +Xcp</code></p>
-</blockquote>
-<p>[Example] Adding Starting Gold</p>
-<blockquote>
-<p><span class="docs-emoji">&#x2139;&#xFE0F;</span> For DDB importations, Avrae should automatically handle this step. Your coin purse may sync the first time you run <code v-pre>!import</code>, so check with <code v-pre>!transaction</code> first.</p>
-<p>In <code v-pre>#transaction-log</code>, replace <strong>#</strong> with the starting gold amount.</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">!transaction &quot;Starting Gold&quot; +#gp</code></pre>
-</doc-codeblock></div>
-<ul>
-<li><code v-pre>!transaction &quot;Folk Hero Starting Gold&quot; +10gp</code></li>
-<li><code v-pre>!transaction &quot;Haunted One Starting Gold&quot; +1sp</code></li>
-<li><code v-pre>!transaction &quot;Monk Rolled Gold&quot; +12gp</code></li>
-</ul>
-</blockquote>
-<doc-anchor-target id="roleplaying">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#roleplaying">#</doc-anchor-trigger>
-        <span>Roleplaying</span>
-    </h2>
-</doc-anchor-target>
-<p>Roleplaying (RP) gives your characters <strong>RPXP</strong>, which can later be turned into XP (The process is explained later in this channel).</p>
-<p><strong>RP Channels</strong></p>
-<p>You can go to any of the channels in the Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, and Arena categories to RP.</p>
-<ul>
-<li><code v-pre>#drunken-yeti-tavern</code> is the most popular channel to RP, and a great place to start.</li>
-<li><code v-pre>#rp-board</code> is where you can make a post to look for RP, or join one that is already posted.</li>
-</ul>
-<p><strong>Other Channels</strong></p>
-<ul>
-<li>You cannot go into any of the channels marked under the DO NOT ENTER category.</li>
-<li>All channels listed under GAME CHANNELS # as well as the channels listed under TRAINEE GAMES category are reserved for DM events only.</li>
-</ul>
-<p><strong>Entering the Town</strong></p>
-<p>You may want to RP your character entering Snowhaven in <code v-pre>#gates</code>. There is no set way to introduce yourself. However, most people write their introduction as if people are seeing them for the first time.</p>
-<p>They would describe how their character looks like and say what they are doing, which usually gives something other characters can interact with.</p>
-<p>[Example] <em>Zoey enters the gates, taking in the sights around her. She is a 6‘0 tall human with long red hair, her shiny metal armor making clinks as she walks. Seeing a welcoming puff of smoke in the distance, she heads towards the tavern looking for a drink.</em></p>
-<p><strong>Follow the Rules</strong></p>
-<p>Please use common sense and behave as you would in a public setting. Follow the <code v-pre>#rules</code>. Breaking things and crime will definitely get you thrown into jail as the RP channels are meant as a safe zone.</p>
-<doc-anchor-target id="rpxp">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#rpxp">#</doc-anchor-trigger>
-        <span>RPXP</span>
-    </h2>
-</doc-anchor-target>
-<p>Full explanation can be found in <a href="../earn-xp/">How to Earn XP</a></p>
-<p><strong>First time</strong></p>
-<blockquote>
-<p>Set up your counters: <code v-pre>!rpxp</code> in <code v-pre>#xp-tracker</code> (only need to do it once per character)</p>
-</blockquote>
-<p><strong>Steps</strong></p>
-<blockquote>
-<ol>
-<li><p>React to your first RP post with <span class="docs-emoji">&#x1F530;</span> <code v-pre>:beginner:</code> and last RP post with <span class="docs-emoji">&#x1F6D1;</span> <code v-pre>:stop:</code>. Get the person you are RPing with to react as well.</p>
-</li>
-<li><p>Find out how long the RP session was. <code v-pre>#rp-log</code> picks up the messages reacted with <span class="docs-emoji">&#x1F530;</span> &amp; <span class="docs-emoji">&#x1F6D1;</span>.</p>
-</li>
-<li><p>Log the RPXP in <code v-pre>#xp-tracker</code> by the increments of half an hour (rounded down)</p>
-</li>
-</ol>
-<p><code v-pre>!rpxp &lt;hours&gt; [message]</code></p>
-<p>Example:</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">!rpxp 1.5 &quot;#the-library&quot;</code></pre>
-</doc-codeblock></div>
-</blockquote>
-<p><strong>Weekly Cap</strong></p>
-<blockquote>
-<p><strong>Every Monday (EST)</strong> you can reset your Weekly RPXP Cap.</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">!rpxp cap reset</code></pre>
-</doc-codeblock></div>
-<p>in <code v-pre>#xp-tracker</code></p>
-</blockquote>
-<doc-anchor-target id="ooc-channels">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#ooc-channels">#</doc-anchor-trigger>
-        <span>OOC Channels</span>
-    </h2>
-</doc-anchor-target>
-<p>OOC stands for <strong>Out Of Character</strong>.</p>
-<p><strong>RP OOC channels</strong></p>
-<p>Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, Shops, and Arena categories have respective <code v-pre>#[category]-ooc</code> channels for out-of-character conversations.</p>
-<p><strong>Other OOC channels</strong></p>
-<p>When you aren&#x27;t RPing or taking part in events, you can chill in <code v-pre>#off-topic-general</code>/<code v-pre>#dnd-campaign-discussion</code> where you can talk about character builds, recent bounties, real life stuff, etc.</p>
-<p>There are channels for specific content under the <strong>DnD Chat</strong> category. Please try to keep posts related to those topics contained to those channels. Similarly, please keep bot commands to <code v-pre>#bot-dump</code>.</p>
-<doc-anchor-target id="signing-up-for-dm-events">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#signing-up-for-dm-events">#</doc-anchor-trigger>
-        <span>Signing up for DM events</span>
-    </h2>
-</doc-anchor-target>
-<p>Full explanation on the available game types on the server can be found in <a href="../earn-xp/">How to Earn XP</a>.</p>
-<ol>
-<li>Wait for Level pings</li>
-</ol>
-<blockquote>
-<p>Wait for a DM to ping your level for a bounty in <code v-pre>#bounty-board</code> or an arena/hunt/pit fight in <code v-pre>#arena-board</code>.</p>
-</blockquote>
-<ol start="2">
-<li>Check if signups are still Open</li>
-</ol>
-<blockquote>
-<p>Event posts with a <span class="docs-emoji">&#x274C;</span> or <span class="docs-emoji">&#x274E;</span> reaction are closed for signups.</p>
-</blockquote>
-<ol start="3">
-<li>Signup</li>
-</ol>
-<blockquote>
-<p>If the event is still open for signups, copy the <strong>template</strong> posted by that DM, fill it in, and post it in <code v-pre>#game-signup</code></p>
-</blockquote>
-<div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
-        <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
-                <g fill="currentColor"><g>
-                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
-                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
-                    <path fill="none" d="M0 0h24v24H0z"></path>
-                </g></g>
-            </svg>
-        </div>
-        <div class="pr-5 ml-3 w-full">
-            <h5>How to check &quot;RPXP Stored&quot; and &quot;XP to Next Level&quot;</h5>
-<p>In <code v-pre>#bot-dump</code>, run <code v-pre>!rpxp xp</code></p>
-        </div>
-    </div>
+<div class="subtitle"><p>Aka “oh my god where do I start”</p>
 </div>
-<ol start="4">
-<li>Acceptance</li>
-</ol>
-<blockquote>
-<p>Game acceptance is announced in <code v-pre>#game-signup</code>. If you are accepted, the DM will ping you to confirm your attendance. React with the appropriate emoji to confirm your acceptance.</p>
-</blockquote>
-<ol start="5">
-<li>Before the Game</li>
-</ol>
-<blockquote>
-<p>The DM will ping you again in the appropriate OOC (out of character) channel for the game.</p>
-</blockquote>
-<ol start="6">
-<li>After the Game: Tracking XP</li>
-</ol>
-<blockquote>
-<p><code v-pre>#xp-tracker</code> is used for you to track XP on this server.</p>
-<p>To add the XP from the game:</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">!dxp game &lt;amount&gt; &lt;source&gt;</code></pre>
-</doc-codeblock></div>
-<p>(e.g. <code v-pre>!dxp game 100 &quot;Red Ruby Heist&quot;</code>)</p>
-</blockquote>
-<p>All XP must be tracked in <code v-pre>#xp-tracker</code> with the <code v-pre>!dxp</code> alias.</p>
-<p>When you level up, adjust your sheet accordingly and run <code v-pre>!update</code> in <code v-pre>#bot-dump</code>. No sheet link is required.</p>
-<doc-anchor-target id="intoxication-counter-optional">
+<doc-anchor-target id="introduction">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#intoxication-counter-optional">#</doc-anchor-trigger>
-        <span>Intoxication Counter (Optional)</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#introduction">#</doc-anchor-trigger>
+        <span>Introduction</span>
     </h2>
 </doc-anchor-target>
-<p>Intoxication Counter follows a homebrew system which you can read more about in the pins of <code v-pre>#drunken-yet-tavern</code>. This determines your state of drunkenness.</p>
-<p>Running <code v-pre>!drink [name of drink]</code> will automatically setup the counters you need.</p>
-<blockquote>
-<p>e.g.: <code v-pre>!drink &quot;Dwarven Firewhiskey&quot;</code></p>
-</blockquote>
-<p><strong>Interacting with the Intoxication Counters</strong></p>
+<p>You’ve clicked on an ad for Dnd World and are now on the server. Great! However, if you’ve never been on a large server, your first reaction is probably “wow, there are a lot of channels here” Not to fear, this guide is made specifically for those of you who have only been in friend group servers with a couple of channels, or otherwise smaller West Marches servers.</p>
+<doc-anchor-target id="channels">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#channels">#</doc-anchor-trigger>
+        <span>Channels</span>
+    </h2>
+</doc-anchor-target>
+<p>Due to the complexity of D&amp;D, the age of the server, and the general number of rulings that have been made to standardize procedures across the server, there are a lot of channels. Most channels will be necessary at one point, but you can (and should) only read those that are relevant to you as you progress through the server. This means if you are just getting started on the server, you should just read the Welcome and Getting Started category.</p>
+<p>Channels are sorted into categories for easier navigation. As a rule of thumb, you should start from the top before going below, as they are roughly arranged in order of what you should read. <code v-pre>#channel-guide</code> is your best friend, as it has an overview of all the channels in the server.</p>
+<doc-anchor-target id="etiquette">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#etiquette">#</doc-anchor-trigger>
+        <span>Etiquette</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="pinging">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#pinging">#</doc-anchor-trigger>
+        <span>Pinging</span>
+    </h3>
+</doc-anchor-target>
+<p>In general, pinging someone, unless there is an urgency regarding the ping or you are explicitly given permission to, is considered bad manners. This is because for large servers, if people just pinged each other willy nilly, their mentions would get spammed. Most people do not enjoy being disturbed by things that are not urgent. Your best bet is to be patient and wait for them to come online and reply.</p>
+<p>Of course, if their status/about me says pings welcome, you can go ahead and ping them. If you become close to someone, you can ask them if they are ok with being pinged. Some people may give you explicit permission then.</p>
+<p>If you repeatedly ping people unnecessarily without permission, you may receive a warning.</p>
+<doc-anchor-target id="when-staff-ping-you">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#when-staff-ping-you">#</doc-anchor-trigger>
+        <span>When Staff Ping You</span>
+    </h3>
+</doc-anchor-target>
+<p>Staff may ping you in an official capacity when something directly concerns you. You are expected to respond or acknowledge as instructed. Here are some examples:</p>
 <ul>
-<li><code v-pre>!cc intox</code> to view the counter</li>
-<li><code v-pre>!cc intox set 0</code> to reset the counter</li>
-</ul>
-<doc-anchor-target id="bag-management-optional">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#bag-management-optional">#</doc-anchor-trigger>
-        <span>Bag Management (Optional)</span>
-    </h2>
-</doc-anchor-target>
-<p><strong>[ ! ]</strong> Your character sheet needs to list your equipments.</p>
-<p>Bag management within the server is completely optional. Should you want to track your items, you may do so in <code v-pre>#bot-dump</code></p>
+<li>DMs will ping you when you are accepted to a game
 <ul>
-<li><code v-pre>!bag ?</code> to see all available commands</li>
-<li><code v-pre>!bag $ &quot;Backpack&quot;</code> to create a bag called &quot;Backpack&quot;</li>
-<li><code v-pre>!bag &quot;Backpack&quot; + &quot;Item&quot;</code> to add an item to the &quot;Backpack&quot;</li>
-<li><code v-pre>!bag &quot;Backpack&quot; - &quot;Item&quot;</code> to remove an item</li>
-<li><code v-pre>!bag &quot;Backpack&quot; + 2 &quot;Item&quot;</code> to add multiple of the same item</li>
-<li><code v-pre>!bag &quot;Backpack&quot; - 2 &quot;Item&quot;</code> to remove multiple of the same item</li>
+<li>You should react to the acceptance post using the corresponding emoji as indicated by the DM</li>
+<li>Failure to react before the start of the game may result in your position being revoked</li>
+<li>You should also respond to the roll call when the game starts so that the DM knows you are there</li>
 </ul>
-<blockquote>
-<p><code v-pre>!bag pack &lt;pack type&gt;</code> to add a pack from the Player&#x27;s Handbook.</p>
-<p>e.g. <code v-pre>!bag pack &quot;Explorer's Pack&quot;</code></p>
-</blockquote>
-<doc-anchor-target id="lifestyle--downtime-optional">
+</li>
+<li>Mods will ping you to issue Demerit Points or warnings for offenses. You should respond politely and respectfully:
+<ul>
+<li>Refrain from one word answers (e.g. “ok” or “whatever”)</li>
+<li>Do not use a passive aggressive tone</li>
+<li>Do not personally attack the mod or staff or otherwise imply they are targeting you
+<ul>
+<li>No one mod is responsible for handing out warnings</li>
+</ul>
+</li>
+<li>Do not contest the existence of a rule
+<ul>
+<li>Rules are there to cultivate an environment we want, and have historical context due to past incidents behind them.</li>
+</ul>
+</li>
+<li>If you would like to appeal the ruling, please message FanMail so as not to clog the channel.</li>
+</ul>
+</li>
+<li>NPC Masters will ping you when they have time to run your encounter
+<ul>
+<li>Respond by letting them know whether or not you are available</li>
+<li>Please note if you do not respond your encounter may be skipped or deleted</li>
+</ul>
+</li>
+</ul>
+<doc-anchor-target id="role-pinging">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#role-pinging">#</doc-anchor-trigger>
+        <span>Role Pinging</span>
+    </h3>
+</doc-anchor-target>
+<p>Role pinging (such as <code v-pre>@DM</code> or <code v-pre>@NPC Master</code>) in general is a rule violation, due to the reason above. The only exception is a Mod ping, and only during time sensitive situations.</p>
+<p>Some examples when you should ping Mod include:</p>
+<ul>
+<li>Argument getting heated</li>
+<li>Player vs Player (PvP) fight about to happen</li>
+<li>Bot raid (if they have not been notified yet)</li>
+<li>Unpleasant person interrupting game</li>
+<li>When someone is about to do non-PG things (both OOC and IC)</li>
+</ul>
+<p>Some examples when you should not ping Mod include:</p>
+<ul>
+<li>When you want to ask a question
+<ul>
+<li>Please direct questions to <code v-pre>#server-questions</code> or <code v-pre>#server-questions-2</code> and patiently wait for a reply. If it gets buried, you can <span class="docs-emoji">&#x1F514;</span> react to your question to escalate it.</li>
+</ul>
+</li>
+<li>When you want to make a non-urgent report
+<ul>
+<li>Please react with an <span class="docs-emoji">&#x2757;</span> to the offending post, or if a series of posts, screenshot it and send to <code v-pre>@FanMail</code></li>
+</ul>
+</li>
+<li>When its a bot raid and someone else has already pinged them</li>
+<li>When you want to make a complaint
+<ul>
+<li>Please direct complaints to <code v-pre>@FanMail</code></li>
+</ul>
+</li>
+<li>When your log hasn’t been processed
+<ul>
+<li>Staff process logs on a volunteer basis. Please be patient and wait for them to process it, and only comment in the corresponding discussion channel if you feel like it has been buried.</li>
+</ul>
+</li>
+</ul>
+<doc-anchor-target id="never-ping-everyone">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#never-ping-everyone">#</doc-anchor-trigger>
+        <span>Never Ping <code v-pre>@everyone</code>!</span>
+    </h4>
+</doc-anchor-target>
+<p>This ping is turned off but you should nonetheless not try it. On smaller servers, this might be ok as it will only notify a small number of people, but for a server as large as ours it is disastrous. Regardless if the ping is well meaning, we may assume you are hacked and may take steps against you, such as a ban.</p>
+<doc-anchor-target id="pming">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#pming">#</doc-anchor-trigger>
+        <span>PMing</span>
+    </h3>
+</doc-anchor-target>
+<p>PMing or Private Messaging someone without permission, for reasons similar to pinging, is considered bad manners.</p>
+<p>There are a few exceptions:</p>
+<ul>
+<li>You are a new member and need help from a Welcomer</li>
+<li>You have a report about an upper staff (Assistant and above) and need a Mod to keep it confidential</li>
+</ul>
+<p>Otherwise, it is frowned upon, for several reasons:</p>
+<ul>
+<li>People may not enjoy being disturbed, as PMing automatically sets off a notification</li>
+<li>Scams are common in PMs. If they do not know you, they might ignore you to be safe.</li>
+<li>PMing puts them on a spot, whereas in a channel they can get help from other people to answer your question</li>
+<li>PMs are hard to track and can be taken out of context. To prevent misunderstandings, they may prefer to discuss in a public channel</li>
+</ul>
+<p>Dnd World has multiple avenues for you to reach personnel. Here are some examples:</p>
+<ul>
+<li><code v-pre>#bounty-discussion</code> for DMs
+<ul>
+<li>Here you can ask clarifications about games with DMs, notify them if you delete your signup, or let them know if you are unable to make it for a game.</li>
+</ul>
+</li>
+<li>FanMail bot for Mods
+<ul>
+<li>The FanMail bot is located on the right hand member sidebar, near the top under “Display Bots”</li>
+<li>You can send reports or grievances to them here</li>
+</ul>
+</li>
+<li><code v-pre>#homebrew-discussion</code> for Homebrewers
+<ul>
+<li>Here you can ask clarifications regarding usage of server homebrew</li>
+</ul>
+</li>
+<li>RP ooc channels for Events Committee
+<ul>
+<li>Usually this means whichever corresponding OOC for the channel the event is being held in.</li>
+</ul>
+</li>
+<li><code v-pre>#shop-ooc</code> or <code v-pre>#snowhaven-south-ooc</code> for NPC Masters
+<ul>
+<li>Usually NPC Masters will ping you first when it is your turn.</li>
+</ul>
+</li>
+<li><code v-pre>#dtd-ls-discussion</code> for Thralls
+<ul>
+<li>Here you can ask questions about how to do lifestyle or DTDs</li>
+</ul>
+</li>
+<li><code v-pre>#server-questions</code> and <code v-pre>#server-questions-2</code> for staff in general
+<ul>
+<li>Here you can ask questions that do not fit in the other channels</li>
+</ul>
+</li>
+</ul>
+<p>It should be noted that asking questions in different channels will usually result in you being redirected to the proper channel or your question being buried. This is not because you are being ignored; channels are simply made for organization, and different staff monitor different channels so that they can be better equipped to answer your question.</p>
+<doc-anchor-target id="when-staff-pm-you">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#when-staff-pm-you">#</doc-anchor-trigger>
+        <span>When Staff PM you</span>
+    </h4>
+</doc-anchor-target>
+<p>Staff may ping you in an official capacity when something directly concerns you. You are expected to respond or acknowledge as instructed. Here are some examples:</p>
+<ul>
+<li>DMs might PM you to ask secret questions pertaining to a bounty</li>
+<li>Mods might PM you when relating to an ongoing investigation</li>
+<li>Assistants might PM you to move your characters in a DDB link</li>
+<li>NPC Masters might PM you to seek further details regarding your character</li>
+<li>Welcomers might PM you to assist with making your character</li>
+</ul>
+<doc-anchor-target id="differences-from-smaller-serverscampaigns">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#lifestyle--downtime-optional">#</doc-anchor-trigger>
-        <span>Lifestyle &amp; Downtime (Optional)</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#differences-from-smaller-serverscampaigns">#</doc-anchor-trigger>
+        <span>Differences From Smaller Servers/Campaigns</span>
     </h2>
 </doc-anchor-target>
-<p>Full explanation on Lifestyle and Downtime can be found in <code v-pre>#lifestyle-dtd-rules</code>.</p>
-<p><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Note: Lifestyle is handled in the DW server (not in D&amp;D Beyond).</p>
-<p><strong>Lifestyle</strong> payment is a representation of your living costs. It is optional, but if you would like to do Downtime activities, you have to pay Lifestyle.</p>
-<p><strong>Downtime</strong> can enable you to earn some extra gold, copy spells, and other neat features.</p>
-<p>If you do not pay Lifestyle, you are considered to be benefiting from the Snowhaven Full Time Adventurer scheme and will stay in the <code v-pre>#cozy-yeti-estates</code> with your expenses covered for.</p>
-<p>As the name suggests, you spend your days looking for quests and being on call by the Senate rather than performing any other downtime activities.</p>
-<doc-anchor-target id="joining-a-guild-optional">
+<doc-anchor-target id="games-are-not-on-demand">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#games-are-not-on-demand">#</doc-anchor-trigger>
+        <span>Games Are Not On Demand</span>
+    </h3>
+</doc-anchor-target>
+<p>Some servers might allow players to request games when they want them, such as pinging a role or putting a request in a channel. This is not available on our server and asking for games is considered bad manners. This is for several reasons:</p>
+<ul>
+<li>With so many people in the server, it becomes spam</li>
+<li>DMs run games as a hobby when they want to. This puts pressure on them to churn out games and ruins their enjoyment of the game</li>
+<li>Games take time and energy, and availability varies from person to person</li>
+<li>It comes across as unappreciative, especially with the effort DMs put into their games</li>
+<li>Games take time and energy, and this varies from person to person</li>
+<li>Just because you aren’t able to attend a game does not mean games aren’t being held</li>
+<li>Not considering our server, for regular campaigns, most games are usually held max once a week, with a steady trend towards biweekly and once a month due to the state of the world. This trend should let you know how unavailable people generally are.</li>
+<li>Above all, it is out of our control. We cannot simply force DMs to run more games. We are not willing to lower our standards for staff entry so we can have the short term benefit of more games and sacrifice the long term benefits of quality control.</li>
+</ul>
+<doc-anchor-target id="backstory-is-mostly-for-player-to-player-roleplay">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#backstory-is-mostly-for-player-to-player-roleplay">#</doc-anchor-trigger>
+        <span>Backstory is Mostly for Player to Player Roleplay.</span>
+    </h3>
+</doc-anchor-target>
+<p>This is less of a breach of etiquette and more of managing expectations. In a regular campaign or a smaller server, your DM might integrate your backstory into the world. However, due to the West Marches rotational DM style, as well as the sheer number of players, this is unfeasible on the server.</p>
+<p>You can still write a backstory, and you are encouraged to in order to give your character more depth. It will simply be for inter-player roleplay opportunities.</p>
+<doc-anchor-target id="the-world-stays-mostly-consistent">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#the-world-stays-mostly-consistent">#</doc-anchor-trigger>
+        <span>The World Stays Mostly Consistent</span>
+    </h3>
+</doc-anchor-target>
+<p>Depending on the bounty content, your character can save the world from a powerful lich or stop a dragon from terrorizing villagers. This is not what this is referring to. This is referring to those who might want to overthrow the Senate within Snowhaven, or become a demigod.</p>
+<p>In general, achieving personal character goals that involve changing the setting is very rare. This is related to the point above about backstory. In addition, a part of the appeal of the server is the drop in and out style, and that relies on keeping the setting relatively consistent.</p>
+<doc-anchor-target id="game-plots-are-self-contained">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#game-plots-are-self-contained">#</doc-anchor-trigger>
+        <span>Game Plots are Self Contained</span>
+    </h3>
+</doc-anchor-target>
+<p>Occasionally, there will be interlinked story content, and those will be posted in <code v-pre>#world-events</code>. However, these function more like arcs and less like major overarching story plot. This is because the server is designed to have consistent play, and having an end goal defeats the purpose of the server.</p>
+<doc-anchor-target id="different-playstyles">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#different-playstyles">#</doc-anchor-trigger>
+        <span>Different Playstyles</span>
+    </h3>
+</doc-anchor-target>
+<p>In a regular campaign or small server, the DM might interview players to ensure all players have similar playstyles. On this server however, we accept people from many backgrounds in order to be as accommodating as possible. This means you will have to make compromises when it comes to playing with other people with different styles from you.</p>
+<p>In general, if you find that you do not mesh well with a certain player or character, you can either talk out these concerns with that player, or simply avoid them. However, if you feel like a rule has been breached or a line has been crossed, you should file a report to the FanMail bot and we will investigate accordingly.</p>
+<doc-anchor-target id="staff-hierarchy">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#staff-hierarchy">#</doc-anchor-trigger>
+        <span>Staff Hierarchy</span>
+    </h3>
+</doc-anchor-target>
+<p>Dnd World functions on a linear staff hierarchy. This means that almost every staff member has a limit on what they can do. Please address your concerns to the correct channels (see section on PMing) so that they can be addressed.
+Don’t complain to staff in public channels, especially lower ranking staff like Bookkeeping Assistants. They can’t enact changes to the system. Submit complaints to FanMail.
+Don’t ping or PM admins. See sections about them above.
+DMs, while being the main arbiter during games, are subject to guidelines by Mentors and Seniors. So don’t take it out on them if you are not satisfied with xp or gold given.</p>
+<doc-anchor-target id="changes-take-time">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#changes-take-time">#</doc-anchor-trigger>
+        <span>Changes Take Time</span>
+    </h3>
+</doc-anchor-target>
+<p>Even if you submit a reasonable suggestion in <code v-pre>#server-suggestions</code>, it may still take time to implement. Usually this can take 3 months, maybe even half a year. This is because we are often already working on a lot of projects, and have to prioritize. Suggestions need to be processed, meetings need to be deliberated over, and someone needs to sit down and make things happen. These factors make project developments take a long time.</p>
+<doc-anchor-target id="there-is-much-more-to-do-outside-games">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#there-is-much-more-to-do-outside-games">#</doc-anchor-trigger>
+        <span>There is Much More to Do Outside Games</span>
+    </h3>
+</doc-anchor-target>
+<p>Unlike campaigns, when you can only play when games are happening, there are all sorts of activities that you can do to further your experience. In fact, we encourage you to explore all the server has to offer, in order to avoid feeling bored waiting for games. Here are just some things you can do:</p>
+<ul>
+<li>Chat in OOC channels</li>
+<li>Roleplay with other characters</li>
+<li>Do DTD</li>
+<li>Join guilds</li>
+<li>Request NPC encounters</li>
+</ul>
+<doc-anchor-target id="conclusion">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#joining-a-guild-optional">#</doc-anchor-trigger>
-        <span>Joining a Guild (Optional)</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#conclusion">#</doc-anchor-trigger>
+        <span>Conclusion</span>
     </h2>
 </doc-anchor-target>
-<p>You can see the list of available guilds under the <strong>GUILDS</strong> category, as well as in this pinned message in <a href="https://discord.com/channels/512870694883950598/527458737892622361/941358894951825419"><code v-pre>#guild-ooc</code></a></p>
-<p>They are all player managed, and the requirements of joining a guild vary. Some guilds require members to be over a certain level threshold, or be of a certain class. Check their pinned messages for such requirements or inquire with their leader if they don&#x27;t specify any.</p>
-<p>Some guild channels are public: this indicates you may RP checking out the guild hall, but not use their facilities.</p>
+<p>So there you have it! This will hopefully help manage your expectations towards the server and help you assimilate into our culture better. If you have suggestions on what else we should include, please feel free to suggest in <code v-pre>#server-suggestions</code> or send a FanMail.</p>
+<p>If you read through this and feel that a personal campaign is more suited towards you, feel free to peruse our list of <code v-pre>#partner-servers</code>, where we have many amazing servers that will hopefully meet your tastes.</p>
+<p>Have fun!</p>
 
                                 
                                 <!-- Required only on API pages -->
@@ -596,20 +624,20 @@ h1:before { content: "🎲 " }
                             
                                 <nav class="flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../start-playing/">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../tips/roleplaying/">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
                                                 <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
-                                                <span class="block mt-1">Start Playing</span>
+                                                <span class="block mt-1">A Guide to Roleplaying</span>
                                             </span>
                                         </a>
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../start-playing/earn-xp/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../tips/start-guild/">
                                             <span>
                                                 <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
-                                                <span class="block mt-1">How to Earn XP</span>
+                                                <span class="block mt-1">So You Want To Start a Guild</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                         </a>
@@ -653,6 +681,6 @@ h1:before { content: "🎲 " }
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "How to Start Playing", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "A Guide to Navigating Large Servers", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
