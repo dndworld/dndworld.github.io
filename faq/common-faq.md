@@ -153,12 +153,14 @@ Martial weapon or armor | Simple/martial weapon or tool
 
 
 :::hexpact
+{.compact}
 Weapon Type         | How to Create?                                | Properties                                      | Proficient?                       | Counts as magical?\*
  ---                |  ---                                          |  ---                                            |  ---                              |  ---
 Hex Warrior Weapon  | Ritual while touching weapon, after long rest | Any without Two-Handed                          | You must have proficiency already | :x:                       
 Created Pact Weapon | Action, while a hand is empty                 | Any melee (can be changed each time you summon) | While you wield it                | :white_check_mark:  
 Pact Magic Weapon   | Ritual while holding magic weapon, after 1 hour (short rest) | Any, except artifacts and sentient weapons | If you have proficiency | :white_check_mark: (as magic weapon)
 
+{.compact}
 Additional Features             | Charisma modifier?† | Can summon and dismiss?‡
  ---                            |  ---               |  ---
 Hex Warrior only                | :white_check_mark: | :x:                
