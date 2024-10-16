@@ -1,4 +1,5 @@
 ---
+label: Downtime and Lifestyle
 order: 97
 icon: ':bookmark_tabs:'
 expanded: false
