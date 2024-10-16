@@ -1,7 +1,7 @@
 ---
 label: Server Rules
 order: 900
-# icon: ":sparkles:"
+icon: ":sparkles:"
 ---
 
 ## General Conduct

@@ -1,7 +1,7 @@
 ---
 label: Records
 order: 96
-# icon: ""
+# icon: ":pencil:"
 expanded: false
 ---
 

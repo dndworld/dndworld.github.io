@@ -1,5 +1,5 @@
 ---
-label: "D&D Beyond for Character Making"
+label: "D&D Beyond"
 icon: ":link:"
 order: 6
 ---
