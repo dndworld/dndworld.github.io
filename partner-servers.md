@@ -17,13 +17,13 @@ Partner servers are for server admins who mutually agree to advertise each other
 
 2) The server should not condone racism, sexism, homophobia or other forms of harassment.
 
-3) While your server does not need to be family friendly like ours, we will not partner with any servers that promote ERP. All NSFW content should be contained to locked channels and not in public chats. Servers that partner with ERP servers will also be denied partnership.
+3) While your server does not need to be family-friendly like ours, we will not partner with any servers that promote ERP. All NSFW content should be restricted to locked channels and not linked in public chats.
 
-4) Our advertisement should remain on your server for as long as the server is running, and in exchange we guarantee the same on our side. If there are any changes to your server's policy regarding partner servers and we become ineligible, we should receive some form of notice before our ad is taken down. If we discover that your side has not upheld this, we will remove the ad from our side.
+4) Our advertisement should remain on your server for as long as the server is active, and in exchange we guarantee the same. If there are any changes to your partner policy and our ad is taken down, please notify us.
 
-5) Our advertisement should be listed in an obvious place, preferably a public channel visible to all verified members. If your server uses partner bot or partners with such frequency that our ad will get lost, we will not partner.
+5) Our advertisement should be listed in an obvious place, preferably a public channel visible to all verified members. If your server uses a partner bot or partners with such frequency that our ad will get lost, we will not partner.
 
-6) Your server should be relatively active. We will not partner with dead servers that only have new messages once every few days. We will reconsider partnership if your server dies.
+6) Your server should be relatively active. In order to keep our list of partner servers relevant and up to date, we do not partner with inactive or on-hiatus servers. 
 
 7) We are not interested in partnering with non TTRPG related servers
 
