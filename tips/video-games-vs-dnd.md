@@ -1,7 +1,6 @@
 ---
 label: "Video Games vs D&D"
 author: fangirlcrazily
-icon: ":video_game:"
 order: 105
 ---
 <style>

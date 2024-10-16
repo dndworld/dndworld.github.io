@@ -1,7 +1,7 @@
 ---
 label: Resources
 order: 400
-# icon: "::"
+icon: ":page_facing_up:"
 ---
 # Resources
 ## Abbreviations/Lingo
