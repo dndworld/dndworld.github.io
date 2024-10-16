@@ -1,8 +1,5 @@
 ---
 label: About Us
-authors: 
-- Jmac the Rat
-- Crab
 order: 1000
 icon: ":sparkles:"
 ---
