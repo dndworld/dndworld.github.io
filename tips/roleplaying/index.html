@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782403144857">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 3.6.0">
+
+    <!-- Primary Meta Tags -->
+    <title>A Guide to Roleplaying | DW Guide</title>
+    <meta name="title" content="A Guide to Roleplaying | DW Guide">
+    <meta name="description" content="Written for the Dnd World Discord Server Unauthorised distribution is prohibited">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://dndworld.github.io/tips/roleplaying/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dndworld.github.io/tips/roleplaying/">
+    <meta property="og:title" content="A Guide to Roleplaying | DW Guide">
+    <meta property="og:description" content="Written for the Dnd World Discord Server Unauthorised distribution is prohibited">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://dndworld.github.io/tips/roleplaying/">
+    <meta property="twitter:title" content="A Guide to Roleplaying | DW Guide">
+    <meta property="twitter:description" content="Written for the Dnd World Discord Server Unauthorised distribution is prohibited">
+
+    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+
+    <link href="../../images/logo-circle.png" rel="icon">
+    <link href="../../resources/css/retype.css?v=3.6.0.782403144857" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782403144857" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782403144857" data-turbo-eval="false" defer></script>
+
+    <!DOCTYPE html>
+    <head>
+      <style>
+        /*
+        GLOBAL/OVERRIDE STYLES
+        ======================
+        SYNTAX:
+          selector {
+            property: value [!important];
+          }
+
+        if selector is a HTML tag, must append !important as Retype's styling will override
+        */
+        @media (min-width: 960px) { /* desktop */
+          /* choke width of page body content */
+          #docs-app > .container > div.dark\:bg-dark-850 > div.flex > div:nth-child(1).md\:px-16 {
+            --size: 5.9rem;
+            padding-left: var(--size);
+            padding-right: var(--size);
+          }
+        }
+        @media (max-width: 768px) {
+          html {
+            font-size: 14px;
+          }
+        }
+        .docs-markdown h2 {
+          font-size:1.5rem !important;
+        }
+        .docs-markdown h3 {
+          font-size:1.125rem !important;
+        }
+        .docs-markdown h4 {
+          font-size:1rem !important;
+        }
+        .docs-markdown h5 {
+          font-size:.875rem !important;
+        }
+        
+        .docs-markdown h2 .header-anchor-trigger {
+          margin-top:.25rem !important;
+        }
+        .docs-markdown h3 .header-anchor-trigger,
+        .docs-markdown h4 .header-anchor-trigger,
+        .docs-markdown h5 .header-anchor-trigger,
+        .docs-markdown h6 .header-anchor-trigger {
+          margin-top:0 !important;
+        }
+        /*.docs-markdown h6 {
+          font-size:.875rem !important;
+        }*/
+
+        a {
+          overflow-wrap: break-word !important;
+        }
+
+        li > p {
+          margin-bottom: 0 !important;
+        }
+        li > p + ul {
+          padding-bottom: 12px !important;
+        }
+
+        blockquote {
+          background: none !important;
+          padding-top: 12px !important;
+          padding-bottom: 12px !important;
+        }
+        html:not(.dark) blockquote {
+          color: grey !important;
+        }
+        blockquote > ul {
+         margin-bottom: 0px !important; 
+        }
+        blockquote ul {
+          padding-left: 20px !important;
+        }
+
+        div.codeblock-wrapper code {
+          white-space: pre-wrap;
+        }
+        /*
+        CLASS STYLES
+        ============
+        .class styles can be applied to a specific element.
+
+        HTML SYNTAX: Add the class attribute to the element's HTML tag.
+          <img class="">
+          <div class=""> .. </div>
+
+        If the element is meant to placed within plain body content use <span>
+          <span class=""> .. </span>
+
+        RETYPE SYNTAX: place the element in a .class container
+          :::class
+          ..
+          :::
+        
+        You may want to use .class tag to target the contained content.
+          .class * {
+            attributes applied to all content
+          }
+          .class > p {
+            attributes applied to paragraph content, excluding any p inside another tag
+          }
+        */
+        .subtitle {
+          font-size: 1.125rem !important;
+          opacity: 75% !important;
+          position: relative !important;
+          bottom: 1.25rem !important;
+        }
+        .subtitle p {
+          margin-bottom: 0.75rem !important;
+        }
+        /*
+        div.banner
+          p
+          figure.content-center
+            img
+            figcaption.caption
+          p
+        */
+        .banner .content-center {
+          display: block;
+          align-content: unset;
+
+          width: 100%;
+          max-height: 22vh;
+          overflow: clip;
+          border-radius: 0.125rem;
+        }
+
+        .banner img {
+          position: relative;
+          top: -250px;
+          /*aspect-ratio: 1990 / 480;*/
+          /*object-fit: cover !important;*/
+        }
+
+        /*
+        <img class="emoji" src="..">
+        */
+        .emoji {
+          width: 1.2em;
+          position: relative;
+          bottom: 0.15em;
+        }
+      </style>
+    </head>
+</head>
+<body>
+    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
+        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    
+        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+            <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="docs-sidebar-toggle"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="docs-site-logo" href="../../" class="flex items-center leading-snug text-2xl">
+                            <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo-circle.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../../images/logo-circle.png">
+                            </span>
+                            <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">DW Guide</span>
+                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v1.1</span>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                        </div>
+        
+                        <!-- Mobile search button -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placeholder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="docs-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+        <div class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            
+                <!-- Render this div, if config.showSidebarFilter is `true` -->
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                </div>
+            
+                <div class="pl-6 mt-1 mb-4">
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 dark:bg-dark-850">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div class="min-w-0 p-4 grow md:px-16">
+                        <main class="relative pb-12 lg:pt-2">
+                            <div class="docs-markdown" id="docs-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="docs-sidebar-right-toggle"></div>
+                                <!-- Page content  -->
+<doc-anchor-target id="a-guide-to-roleplaying" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#a-guide-to-roleplaying">#</doc-anchor-trigger>
+        <span>A Guide to Roleplaying</span>
+    </h1>
+</doc-anchor-target>
+<div class="-mt-3 mb-12 flex flex-wrap text-sm text-gray-400 dark:text-dark-350 items-center">
+    <div class="flex items-center">
+        <div>By</div>
+        <div class="ml-2 flex items-center">
+          <div class="shrink-0 w-8 h-8 overflow-hidden rounded-full">
+            <svg width="2rem" height="2rem" xmlns="http://www.w3.org/2000/svg" fill="white"><g><rect width="2rem" height="1.7rem" fill="#c5c5c5"/><circle r="0.44rem" cy="0.83rem" cx="1rem"/><ellipse ry="0.96rem" rx="0.77rem" cy="2.15rem" cx="1rem"/></g></svg>
+          </div>
+          <div class="ml-1 whitespace-nowrap text-gray-500 dark:text-dark-350">fangirlcrazily</div>
+        </div>
+    </div>
+</div>
+
+<style>
+  .subtitle {
+    font-size: 0.9rem !important;
+  }
+  
+  .gesture { background-color: #f0f; }
+  .dark .gesture {
+    color: #f0f;
+    background-color: unset;
+  }
+  .dialogue { background-color: #ff0; }
+  .dark .dialogue {
+    color: #ff0;
+    background-color: unset;
+  }
+  .action { background-color: #0ff; }
+  .dark .action {
+    color: #0ff;
+    background-color: unset;
+  }
+  .appearance { background-color: #ea9999; }
+  .dark .appearance {
+    color: #ea9999;
+    background-color: unset;
+  }
+  .thoughts { background-color: #f9cb9c; }
+  .dark .thoughts {
+    color: #f9cb9c;
+    background-color: unset;
+  }
+  .environment { background-color: #0f0; }
+  .dark .environment {
+    color: #0f0;
+    background-color: unset;
+  }
+</style>
+<div class="subtitle"><p>Written for the Dnd World Discord Server<br>
+Unauthorised distribution is prohibited</p>
+</div>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-300"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-300" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Disclaimer</h5>
+<p>Everything stated in this document is subjective and you can alter the techniques to suit your own preferences. You don’t have to use all the techniques to be a good RPer. This document is purely for educational purposes.</p>
+        </div>
+    </div>
+</div>
+<doc-anchor-target id="introduction">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#introduction">#</doc-anchor-trigger>
+        <span>Introduction</span>
+    </h2>
+</doc-anchor-target>
+<p>If you’re reading this, you might be a newcomer to DW and the roleplay (RP) scene, or you might be a seasoned veteran reading this out of interest. If you’re new, don’t worry about others’ RP being better than yours! RP is an acquired skill and not everyone is intuited enough to get it on their first try, or even their second or third. Heck, you can RP for years and continue to find room to improve. With that, I hope you will find this document useful and informative in your journey here at Dnd World.</p>
+<doc-anchor-target id="so-what-is-rp">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#so-what-is-rp">#</doc-anchor-trigger>
+        <span>So, what is RP?</span>
+    </h2>
+</doc-anchor-target>
+<p>According to Google, it is to “act out or perform the part of a person or character”. You are simply leaving your OOC self behind to take the skin of a character! In the DW context, a lot of the action takes place in our wide array of RP channels, where players RP their characters going about their mundane life and their interactions with other characters. You imagine yourself as your character in that specific channel’s setting, and react to what’s going on around you as if you were your character, writing in third person format.</p>
+<p>You also will need to RP during games, whether it is discussing tactics with your teammates, or interacting with NPCs your DM introduces. It can be as simple as pure dialogue and describing movement, or it can involve heart-wrenching character development that incorporates thoughts and motivations.</p>
+<doc-anchor-target id="why-do-people-enjoy-rp">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#why-do-people-enjoy-rp">#</doc-anchor-trigger>
+        <span>Why do people enjoy RP?</span>
+    </h2>
+</doc-anchor-target>
+<p>Roleplay is one of the three main pillars of D&amp;D after all, alongside Combat and Exploration. D&amp;D is a Tabletop Roleplaying Game (TTRPG), so if you’re playing D&amp;D it&#x27;s assumed that on some level you enjoy roleplaying, whether it&#x27;s for a super-charged power fantasy all the way down to having an actual social life. The freeform ability to control exactly what your character says and does is one of the traits that differentiates D&amp;D from your regular video game.</p>
+<p>Fundamentally, people have fun living out the lives and experiences of a different person, and when you throw magic into the mix, fun shenanigans can occur. You might have fun playing an altruistic hero full of powers to balance out that in real life you are stuck in a corporate job, or play a huffy noble elf to poke fun at your friends when in real life you are the kindest person that could be. There are really many different ways to enjoy RP.</p>
+<doc-anchor-target id="being-a-responsible-rper">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#being-a-responsible-rper">#</doc-anchor-trigger>
+        <span>Being a responsible RPer</span>
+    </h2>
+</doc-anchor-target>
+<p>However, you should remember that D&amp;D is also a cooperative game. While part of the magic is that you aren’t interacting with computer generated NPCs with three dialogue options (two of which get you killed), it comes with the caveat that you are interacting with actual people. People who have feelings and who may not enjoy what you enjoy. Hence, it&#x27;s important that you set boundaries and expectations.</p>
+<p>In DW, we display our basic RP guidelines as part of our rules. Some crucial elements that we maintain for the fun of the greater community, as after all, your RP is all public and can be seen by people of all ages. One of the main banned topics is erotic role-playing (ERP) due to our family friendly environment. Partly because we have members as young as 13, and partly because the community at large has decided that we do not enjoy bleaching our eyes.</p>
+<p>Other guidelines include asking for consent before casting spells on other characters or initiating player vs player (PVP) fights. The RP channels are considered a safe zone and some players may not be comfortable being beaten up by a character multiple levels above them, or having a memory crucial to their character modified.</p>
+<doc-anchor-target id="stay-safe-while-rping">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#stay-safe-while-rping">#</doc-anchor-trigger>
+        <span>Stay safe while RPing</span>
+    </h2>
+</doc-anchor-target>
+<p>All rules are there for a reason and we have plenty of history behind each of the rules. For your own safety, do not initiate ERP with DW members in PMs or accept ERP requests from them. It is against the rules of DW to do so. If you receive such requests, please report them to FanMail or PM a mod if you would prefer privacy. Rest assured that your report will be taken seriously regardless whether the member(s) you are reporting are popular and/or a staff/admin.</p>
+<p>You do not know the intentions of the people behind the screen nor their real ages. Screenshots from ERP scenes can be taken out of context and used against you. We do not want to ban people over a misunderstanding. Moreover, back before this rule, we had a history of ERP (thankfully long gone) quickly escalating into more severe matters such as soliciting nude pictures. It can get worse with stalking and blackmailing. In these cases, a violation of the Discord Terms of Service would have occurred and a formal report can be lodged. In the case of an underage victim, it will be considered a crime. Do not be a sexual predator.</p>
+<doc-anchor-target id="making-a-character-that-works-for-rp">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#making-a-character-that-works-for-rp">#</doc-anchor-trigger>
+        <span>Making a Character that works for RP</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="race">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#race">#</doc-anchor-trigger>
+        <span>Race</span>
+    </h3>
+</doc-anchor-target>
+<p>If you are a beginner RPer, I advise you not to start off with playing a race that explicitly has difficulty feeling emotions like Yuan-ti or Lizardfolk, despite the nice bonuses. That’s because naturally we as humans want to express emotions, so these races go against our intuitiveness and hence are more difficult to play. You might also want to try playing a race other than human if you are looking for flavor; elves and dwarves are chock full of it. Protip! Your race is beyond their bonuses. If they deviate from their race’s tendencies, they should have a reason for it.</p>
+<doc-anchor-target id="class">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#class">#</doc-anchor-trigger>
+        <span>Class</span>
+    </h3>
+</doc-anchor-target>
+<p>This portion is you are going for an RP focused build. Some classes by nature are more RP-focused than others, although it’s possible to have good RP with any class. It’s just that some classes have abilities that feed your character’s RP potential, such as outfitting you with many skills/expertises and/or utility spells, enabling you to more easily take charge in social situations. In general, pure martial builds will have less to offer in RP situations as compared to spellcasters (with the exception of rogue).</p>
+<doc-anchor-target id="backstory">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#backstory">#</doc-anchor-trigger>
+        <span>Backstory</span>
+    </h3>
+</doc-anchor-target>
+<p>You don’t need to have a complex backstory to have fun in DW. In fact, some might advise that due to the multitude of DMs in DW, to keep your backstory vague. There’s a couple of reasons for that, first is to not burden whichever DM you end up with who may not be familiar with your backstory, and second is to keep your character’s goals unfulfilled as long as possible (more below). Due to the rotating nature of West Marches, it is quite possible that your backstory will never be touched on. Though there have been occasions where RP bounties are made specifically to involve characters’ backstories. Ideally, your backstory affects more of your character’s personality, whether instilling a positive attitude to the world as a result of loving parents or a grim, edgy killer from yet another orphan backstory. Protip: Don’t spill your backstory to the first person you meet at the tavern! If you’re just getting to know each other they probably aren’t interested in hearing your life story, and besides, you want to leave some mystery to your character.</p>
+<doc-anchor-target id="personality">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#personality">#</doc-anchor-trigger>
+        <span>Personality</span>
+    </h3>
+</doc-anchor-target>
+<p>If you are fond of RP, you generally want to make your character have some form of social skills. It’s possible to pull off good RP with social awkwardness, but you risk acting out of character if you want to engage in more situations.</p>
+<doc-anchor-target id="answering-the-unspoken-question-is-it-weird-to-play-a-character-of-a-different-gender-than-in-real-life">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#answering-the-unspoken-question-is-it-weird-to-play-a-character-of-a-different-gender-than-in-real-life">#</doc-anchor-trigger>
+        <span>Answering the unspoken question: Is it weird to play a character of a different gender than in real life?</span>
+    </h4>
+</doc-anchor-target>
+<p>No! It is not. The main caveat is not to make it weird. Don’t make gender a restriction of what your character can do. You can try googling for writers’ guides for writing the genders, but well, it’s a fantasy setting, and you should not feel like your character is restricted by the societal developments of Earth and its cultures. Playing a different gender is less of a list of “Dos” and more of a list of “Don’ts”. You’ll be more or less on the right track with our rules in place, but mainly avoid playing into sexist stereotypes.</p>
+<doc-anchor-target id="initiating-rp">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#initiating-rp">#</doc-anchor-trigger>
+        <span>Initiating RP</span>
+    </h2>
+</doc-anchor-target>
+<p>So you’ve got a character, but how are you going to approach someone to RP? Well, your first step is to find a populated channel: commonly, the <code v-pre>#drunken-yeti-tavern</code> will fulfill this.</p>
+<doc-anchor-target id="determining-if-its-appropriate-to-join">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#determining-if-its-appropriate-to-join">#</doc-anchor-trigger>
+        <span>Determining if it’s appropriate to join</span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="there-are-people-currently-rping">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#there-are-people-currently-rping">#</doc-anchor-trigger>
+        <span>There are people currently RPing</span>
+    </h4>
+</doc-anchor-target>
+<p>Great! Now to determine if it’s suitable for you to join. Take a moment to observe the situation:</p>
+<ol>
+<li><p>Do you know these people? If yes, consider how close you are to them and how past interactions have panned out in the past, and act accordingly to your character’s nature. If no, it depends on what they are doing. If they are just sitting around drinking, that’s usually good to join! If not, see the next question.</p>
+</li>
+<li><p>Are the people currently involved in an emotional and/or tense scene? Examples include confrontations, heated debates and proposals. If yes, then you should probably not join. If no, you are probably good to join. Having had a conversation once or twice is likely not grounds to interrupt an emotional scene.</p>
+</li>
+</ol>
+<doc-anchor-target id="there-are-no-people-currently-rping">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#there-are-no-people-currently-rping">#</doc-anchor-trigger>
+        <span>There are no people currently RPing</span>
+    </h4>
+</doc-anchor-target>
+<p>It’s time to see if you can convince someone to RP with you! You can either post a request in <code v-pre>#rp-board</code>, or ask in the channels ending with “OOC” if anyone would like to RP with you. Then just be patient and wait.</p>
+<doc-anchor-target id="introducing-your-character">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#introducing-your-character">#</doc-anchor-trigger>
+        <span>Introducing your character</span>
+    </h3>
+</doc-anchor-target>
+<p>The general approach is to go for a paragraph on appearance in <code v-pre>#gates</code>, however you may also do this in any other channel. The <code v-pre>#drunken-yeti-tavern</code> or any active channel will suffice, as you need people to bounce RP off of.</p>
+<p>Since you only have one shot at introducing your character to the world (though you can always repeat this process albeit with less detail when meeting new people) you might as well make it count. Tell a story through their appearance. I tend to imagine how it would look like if a camera were to shoot the character as if they were making a dramatic entrance in a movie. The camera angles will usually focus on the most prominent parts of the character before showing their face. Such as:</p>
+<ul>
+<li>A close up on their shoes: are they worn, scruffy with mud, or new, freshly polished by a family’s butler? Beyond their appearance, how do the footfalls sound like, are they aggressively stomping leaving footprints on the road, a weary trudge through the mud, a nimble skip?</li>
+<li>The camera moves up: what are they wearing? Flowing wizard robes or shining armor? A hooded cloak or a bright purple cape? Does their armor/clothing fit them or do they look like hand-me-downs? Does their clothing have any interesting details, such as holy symbols sewn into robes or encrusted gems?</li>
+<li>What kind of posture do they carry themselves in? Hunched over, standing tall, a relaxed sashay?</li>
+<li>What race are they, and if they are an exotic race, how does the traits of their race present themselves? You can scatter these details throughout the description</li>
+<li>You may take an interlude to describe if they have any weapons on them. What kind, and in what condition are they? Does the character keep one hand on the hilt at all times, or swagger about letting it swing in its sheath?</li>
+<li>If they don’t have weapons, do they carry a staff or rod that gives away their spellcasting powers, or do they keep their wand up their sleeve?</li>
+<li>You might want to take the focus on hands to talk about skin texture: Is it pale and unmarred, or tan and leathery from the sun? Are there signs of callouses and scars?</li>
+<li>How much are they carrying on their backs? Does their packs look like they’re burdening them?</li>
+<li>What ornaments do they wear, if any? Amulets around the neck, dangling earrings, hair pins?</li>
+<li>How does their hair look like? You can describe its length by long/short/medium, or you could talk about where it falls to, and how it frames the character’s face. What color is it? Does their hairstyle complement them with a elaborately styled do, or is it haphazard and choppy, clearly an amateur job done with a blade?</li>
+<li>What color are their eyes? This one is especially prominent if they are a tiefling or aasimar or any races with notable differences. How do they perceive the world: are they constantly flitting around, accustomed to looking for the nearest danger, or relaxed and dreamy like that of a charlatan? How does this pair with the rest of their face: do cold eyes match a falsely warm smile?</li>
+<li>The angles of their face: broad and square-jawed, soft and round, or narrow and sharp?</li>
+<li>Lastly, what expression do they have? Do they regard Snowhaven with wonder, for finally reaching their destination, or are they indifferent, regarding it just another stopover in their long lifespan? Do they look excited to meet new people, or are they just going with the crowd so as not to feel alone?</li>
+</ul>
+<p>You can mix and match the above pointers, omitting whichever you think is unnecessary and adding anything you can think of. If this is not your first time introducing your character, you can usually just keep the points for race+outfit+expression/mood.</p>
+<doc-anchor-target id="sliding-into-the-conversation">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#sliding-into-the-conversation">#</doc-anchor-trigger>
+        <span>Sliding into the conversation</span>
+    </h3>
+</doc-anchor-target>
+<p>How do you seamlessly slip into the conversation without sounding too awkward? Pick one or more of these tips to try</p>
+<ol>
+<li><p>Identify a common topic in the conversation<br>
+For example, if someone is talking about drow, you can say something like, “I knew a drow once. Wasn’t actually all that bad.” and go from there</p>
+</li>
+<li><p>Act interested in the conversation topic<br>
+You might not always relate to the conversation topic, but if let’s say they are talking about dragons, you can go “Wow! You’ve fought a dragon?”</p>
+</li>
+<li><p>Offer to buy a drink or food item for someone<br>
+The way to the heart is through the stomach! This offer is hard to refuse, and it also works as a substitute for asking to join if your character is socially awkward</p>
+</li>
+</ol>
+<doc-anchor-target id="techniques-of-rp">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#techniques-of-rp">#</doc-anchor-trigger>
+        <span>Techniques of RP</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="general-tips">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#general-tips">#</doc-anchor-trigger>
+        <span>General Tips</span>
+    </h3>
+</doc-anchor-target>
+<p>Again, disclaimer! You might not think all these work for you or even believe this is good RP, so do what works for you!</p>
+<ol>
+<li><p>Develop a memorable character<br>
+Create a unique concept that differentiates them from the throngs of other characters. You can showcase this via a unique race-class combo, backstory, or personality. It need not necessarily be something no one has ever done before, as after all there have been so many games of D&amp;D played. As long as you are able to remember them and want to play them again, that’s what matters. You can tailor their build to help you enforce a particular concept you are looking for.</p>
+</li>
+<li><p>Build off other people’s RP<br>
+There are other people sharing the same environment as you, and it will be easier to have character development if your character builds relationships with those people. But in the same vein, having monologues on your own in a corner will lessen your chances of being approached by a friendly stranger. As you seek development in RP with other players, also show concern towards their own character, such as by asking questions. This will also enable you to keep the conversation going.</p>
+</li>
+<li><p>Have consistent characterisation<br>
+This does not mean “this is what my character would do”, which is usually said as an excuse to antagonize another character or trouble the DM. This means sometimes taking the less ideal choice because you are thinking as that character. It also means giving any character development meaning.</p>
+</li>
+<li><p>When you end RP, leave the location<br>
+Narcolepsy in the middle of the tavern, realistically without the PVP rules, would get you robbed. Specifying which location you head to will also help a character that is looking for you find you.</p>
+</li>
+<li><p>Continue finding ways to improve your RP<br>
+I recommend reading more books in general to expand your vocabulary. It will also help your imagination in developing your character. Though, be careful not to develop “main character syndrome” as books tend to focus on a protagonist. Watch fight scenes from your favorite shows and observe the moves they do to dramaticize the act and make it interesting for the audience.</p>
+</li>
+</ol>
+<doc-anchor-target id="styles-of-rp">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#styles-of-rp">#</doc-anchor-trigger>
+        <span>Styles of RP</span>
+    </h3>
+</doc-anchor-target>
+<p>Most RP in DW can be broken down to four styles: Basic Form, Short Form, Medium Form and Long Form. Most RPers have a mix of all four styles for different occasions.</p>
+<doc-anchor-target id="basic-form">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#basic-form">#</doc-anchor-trigger>
+        <span>Basic Form</span>
+    </h4>
+</doc-anchor-target>
+<p>Basic form is the most common type of RP encountered. It consists of a <span class="gesture">gesture</span>: a small body movement that doesn’t involve them moving out of their space, along with a line of <span class="dialogue">dialogue</span>, or just dialogue. It is suitable for fast-paced settings such as the ever-popular <code v-pre>#drunken-yeti-tavern</code> or in combat. Generally most people settle into this form of RP after establishing their character’s presence. Some people like short form RP because it’s to the point and faster to type. However, others might feel that it isn’t able to convey tone or emotional turmoil as well.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><span class="gesture"><em>Looks to Sada</em></span></span> <code v-pre>[Quick gesture, serves to clarify who they are speaking to]</code> <span class="dialogue">&quot;I would leave if she could speak and in her current condition i have to insist against it. She has had a very bad day. And slowly getting her grips on what happened to her.&quot;</span></span> <code v-pre>[Lines of Dialogue.]</code>
+<br>- <em>Kellam, Drunken Yeti Tavern, 19 August 2020.</em></p>
+</doc-panel>
+<doc-anchor-target id="short-form">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#short-form">#</doc-anchor-trigger>
+        <span>Short Form</span>
+    </h4>
+</doc-anchor-target>
+<p>Short form RP is simply put, an average of 2 short sentences of RP. It typically consists of one line of <span class="dialogue">dialogue</span> accompanied with descriptions of <span class="gesture">gestures</span> and <span class="action">actions</span>. It is also suitable for fast-paced settings. It is a balance between basic and medium form, being more descriptive while still being relatively fast to type.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><span class="gesture">Vanya gives Callie</span></span> <code v-pre>[Clarifies who the expression is directed at by naming them]</code> <span class="gesture">a sympathetic look,</span></span> <code v-pre>[shows insight to character’s feelings from facial expressions]</code> <span class="action">and moves to hug her.</span></span> <code v-pre>[Feelings trigger reactionary movement. Displays characterisation as caring and expressive inspanidual]</code> <span class="dialogue">&quot;You&#x27;ve been having trouble managing alone, huh?&quot;</span></span> <code v-pre>[Line of dialogue. Dialogue is open ended, allowing RP partner to interact]</code>
+<br>- <em>Vanya, Drunken Yeti Tavern, 19 August 2020</em></p>
+</doc-panel>
+<doc-anchor-target id="medium-form">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#medium-form">#</doc-anchor-trigger>
+        <span>Medium Form</span>
+    </h4>
+</doc-anchor-target>
+<p>Medium form RP often has 4-5 lines or a small paragraph, consisting of descriptions of a few or all of the following elements:</p>
+<ol>
+<li>Gestures</li>
+<li>Several actions</li>
+<li>Character’s thoughts</li>
+<li>The immediate environment</li>
+<li>The character’s appearance</li>
+</ol>
+<p>This method allows for greater establishment of tone and the character’s emotions. Generally, people expect RP more towards this quality when in play by post campaigns (PBP), as they allow you more time to construct your responses. They are often used in introductory scenes when you are describing your character’s first appearance or when leaving a particularly tumultuous bounty.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><span class="gesture">He looks back toward</span> <code v-pre>[Gesture suggests a sense of melancholy]</code> <span class="environment">the crowd on the beach,</span> <code v-pre>[Describes the environment]</code> <span class="appearance">then back at his bag of holding which is filled to the brim with free alcohol.</span> <code v-pre>[Description of character’s possessions]</code> <span class="thoughts">He thinks of the depressed god, those trying to comfort him as well as others that seem to be having their own problems.</span> <code v-pre>[Character’s thoughts, offers sense of reflection]</code> <span class="dialogue">“Yea...this is the right thing to do,”</span> <code v-pre>[Line of dialogue, although this instance has it as extension of thoughts]</code> <span class="action">he thinks to himself, as he swings the bag over his shoulder,</span> <code v-pre>[Action 1, interacting with previously mentioned possession]</code> <span class="action">grabbing another bottle from the bar</span> <code v-pre>[Action 2: enforces characterisation by showing love for alcohol/free stuff despite already having so many bottles]</code> <span class="action">as he gives one last curtsey</span> <code v-pre>[Action 3: Display of character’s humor for the “audience” despite no one watching]</code> <span class="appearance">in his pink tutu</span> <code v-pre>[Description of character’s appearance; the added specification calls for the reader to find out the cause]</code> <span class="action">and merrily heads through the portal.</span> <code v-pre>[Action 4: Location switch: Announces that the character has left the scene to inform potential RP partners where to find him.]</code>
+<br>- <em>Artreides, Raid Summer 2020, 21 July 2020</em></p>
+</doc-panel>
+<doc-anchor-target id="long-form">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#long-form">#</doc-anchor-trigger>
+        <span>Long Form</span>
+    </h4>
+</doc-anchor-target>
+<p>Long form RP is also known as paragraph RPing or text walling. It is when you write a few paragraphs when RPing, covering everything from your character’s outward reaction and appearance to their thoughts. It reads like a novel, and is often used for describing your character’s reaction to a huge revelation. This method gives the most leeway for establishing tone and environment. It is best used in RP with just another person so that you aren’t interrupted mid-paragraph. It is not suitable for fast-paced settings such as combat unless you are able to quickly pre-type your turns while still reacting to changes in the battlefield. This style is difficult to pull off because your character goes into their own world, which makes it harder for other people to engage with. It’s recommended that you don’t exceed one Discord message (2000 characters) unless you are a DM because past that it can be very wordy.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><span class="environment">It is snowing</span> <code v-pre>[Description of environment]</code> <span class="gesture">when Camara rouses from her trance,</span> <code v-pre>[Establishes how character enters the scene. Specification of trance tells any reader unfamiliar with her character that she is an elf]</code> <span class="appearance">swathed within the sheets of the new house.</span> <code v-pre>[Character appearance gives reader insight to the context of the scene]</code> <span class="environment">The chill hanging in the morning air nips at the tips of her fingers as the hand dangles off the edge of the bed, bringing clarity amidst the remnants of the memories.</span> <code v-pre>[Describes how environment and weather affects the character]</code> <span class="gesture">She slowly lifts herself from where she lies.</span> <code v-pre>[Pace of movement suggests that she is still sleepy]</code></p>
+<p><span class="gesture">Looking around, she takes in the sight of the room,</span> <code v-pre>[Enforces that the house is still unfamiliar to her]</code> <span class="environment">eyes drawn to where the morning light filters through glass panes. Imperceptibly, a frown settles over her features as she notes the frost on the windowsill. </span><code v-pre>[References seasonal changes affecting character as well as time.]</code> <span class="dialogue">&quot;It&#x27;s getting cold again.&quot; She mumbles, a ghost of longing in the tone.</span> <code v-pre>[Dialogue accompanied by description of tone, allowing reader to insight that she misses the summer]</code> <span class="thoughts">She harkens back to the artificial warmth of the summer festival,</span> <code v-pre>[Thoughts draw on character’s previous experiences]</code> <span class="gesture">sighing.</span> <code v-pre>[Further reinforcement of feelings]</code></p>
+<p><span class="action">Not wasting any more time, she slips out of bed, taking care to not wake her partner.</span> <code v-pre>[Action 1: Enforces characterisation that she is not one to be lazy. Gives context to readers unfamiliar about the scene. Gives an impression of a caring and considerate character]</code> <span class="action">Steps light, almost by reflex, she navigates her way to the kitchen.</span> <code v-pre>[Action 2: The specification of reflex allows the readers who are familiar to know how her job as a rogue impacts her lifestyle, and invites unfamiliar readers to question]</code> <span class="action">There, she sets a kettle over the stove and waits for the water to boil. Setting out two mugs, she seats herself on one of the chairs, idly wondering as she stares into space.</span> <code v-pre>[Action 3: Specification of two mugs reinforces impression of considerate character, as it tells readers that the other is for her previously mentioned partner]</code>
+<br>- <em>Camara, Camara’s Roadtrip, 16 August 2020</em></p>
+</doc-panel>
+<doc-anchor-target id="genres-of-rp">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#genres-of-rp">#</doc-anchor-trigger>
+        <span>Genres of RP</span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="action">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#action">#</doc-anchor-trigger>
+        <span>Action</span>
+    </h4>
+</doc-anchor-target>
+<p>Can you RP in combat? Yes you can! It’s definitely harder, however, as there are only so many ways you can describe swinging a sword. A tip to give variety is to focus on your character’s reactions to what is going around them, as opposed to a mindless charge. For spellcasters, you can also use visuals for inspiration, such as incorporating sigils into your casting, patterns to move your limbs in, poses to strike, and other things to give a magical effect. Otherwise, look at how others RP their moves will give you ideas of what to do. Here are some suggestions to describe them:</p>
+<p>On a hit:</p>
+<ul>
+<li>Arrows/Bolts:
+<ul>
+<li>Hitting true</li>
+<li>Racing through the air to strike <code v-pre>[insert weak spot]</code> not covered by armor.</li>
+<li>Whisked through the air to hit the <code v-pre>[target]</code> right in the head</li>
+<li><code v-pre>[character]</code> stuck their tongue out as they aimed carefully and managed to hit right in a chink in the armor</li>
+</ul>
+</li>
+<li>Blades:
+<ul>
+<li>Cutting through armor like paper sending blood gushing everywhere</li>
+<li>Carving through the air to strike against the <code v-pre>[target]</code></li>
+<li>A quick flash of bladeworks deciminated their enemy to scraps</li>
+<li><code v-pre>[character]</code> got into an offensive stance and swung their <code v-pre>[weapon]</code>, putting their weight on the blade and beamed satisfactly as it met its mark</li>
+</ul>
+</li>
+<li>Spells:
+<ul>
+<li>A <code v-pre>[insert thematic color]</code> sigil appeared in the air as <code v-pre>[character]</code> drew power from <code v-pre>[within/patron/their god/the tunes flicking within their melody/the spirits of nature/their commitment to justice/recalled their long arduous studying and channelled it towards </code>[target]&#x60;</li>
+<li>Watching their friends being harmed sent a fury of energy coursing through <code v-pre>[character’s bones]</code> as they instinctively reached within for the spell to the job and shouted <code v-pre>[insert appropriate line for spell]</code>,</li>
+<li>With a flash of their robes, <code v-pre>[character]</code> pointed at the <code v-pre>[target]</code> and sent a bolt of crackling elements/energy towards them</li>
+<li>(If spell focus is a staff) <code v-pre>[character]</code> wraps their hands around their staff and slams it into the ground, sending a magic dome of energy out from them before disappearing (alter to fit the spell)</li>
+<li>(If spell focus is component pouch) <code v-pre>[character]</code> digs into their pocket, feeling in their pouch for the right component and...found it! Holding up the <code v-pre>[spell component]</code> triumphantly, they toss it into the air as they mutter incantations, (if applicable, watching as the component is consumed) as the effects of the spell begin assaulting their target.</li>
+<li>Moving their hands in the form of a sphere, <code v-pre>[character]</code> gathers magical energy between their palms before glaring at <code v-pre>[enemy]</code> and sending the ball of inferno hurling towards them</li>
+</ul>
+</li>
+</ul>
+<p>On a miss: (note: Some DMs RP how the miss goes, so this depends on the DM)</p>
+<ul>
+<li><p>Arrows/Bolts:</p>
+<ul>
+<li>Despite the careful aiming the arrow/bolt missed its mark as the enemy dodged out of the way just in time and nailed the innocent tree behind them instead</li>
+<li><code v-pre>[character]</code> was impeccable with their aim, yet the arrow/bolt bounced off the <code v-pre>[target]</code>’s armor without even making a dent</li>
+<li>Unfortunately, <code v-pre>[character]</code> was distracted by <code v-pre>[insert other event that occurred before their turn]</code> and their arrow/bolt went pitifully off course</li>
+</ul>
+</li>
+<li><p>Blades:</p>
+<ul>
+<li>(only works if enemy also has a weapon) <code v-pre>[character]</code>’s swing was full of gusto, yet its course was thwarted by a well placed parry from the <code v-pre>[enemy]</code>’s blade</li>
+<li><code v-pre>[character]</code> glared determinely at <code v-pre>[enemy]</code> and charged mindlessly to swing their weapon, then stared in disbelief as their blade bounced off their target’s armor with a loud CLANG.</li>
+<li><code v-pre>[character]</code> struck down at their enemy, yet they stepped away from their blade as easy as pie</li>
+</ul>
+</li>
+<li><p>Spells</p>
+<ul>
+<li>The beam hit the <code v-pre>[enemy]</code> with a loud CRACK, yet somehow it didn’t seem to affect the enemy as much as they thought (also works for resistances/immunities)</li>
+<li>Unfortunately, <code v-pre>[enemy]</code> was able to shrug off the powerful spell easily, much to <code v-pre>[character]</code>’s disappointment</li>
+<li><code v-pre>[character]</code> gritted their teeth as they watched their carefully constructed spell get sidestepped by their elusive enemy</li>
+</ul>
+</li>
+</ul>
+<p>If the DM you encounter is the type that wants you to roll before you RP, then mix and match the options above.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p>Oriphi <span class="dialogue">grits her teeth </span> <code v-pre>[Sets the character’s mood]</code> <span class="dialogue">and lifts her Longbow up, aiming clear and true</span> <code v-pre>[Description of interaction with weapon]</code> <span class="dialogue">towards the one that&#x27;s still moving. </span><code v-pre>[clearly specifies target]</code> <span class="dialogue">Seeing Jex on the ground pains her,</span> <code v-pre>[shows character affected by battlefield going ons, demonstrates paying attention]</code> <span class="dialogue">but she trudges on through wide eyes and a silent heat that creeps up the back of her neck.</span> <code v-pre>[Movement gives insight to character’s determination and unspoken anger]</code> <span class="dialogue">&quot;Marked.&quot;</span> <code v-pre>[On point reference to the spell Hunter’s Mark]</code>
+<br>- <em>Oriphi, Red Mist, 29 August 2020</em></p>
+</doc-panel>
+<doc-anchor-target id="comedy">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#comedy">#</doc-anchor-trigger>
+        <span>Comedy</span>
+    </h4>
+</doc-anchor-target>
+<p>Fair note: Comedy is incredibly subjective. It’s worth noting that people on DW generally don’t really appreciate destructive “comedy” or comedy for the sake of shock value, that is to say doing meaningless damage like ripping up someone else’s spellbook or anything involving defecation. Intentions being funny but the jokes falling flat is a very quick way to be promoted to banned. But jokes in good humor end up on the starboard! What’s their secret? Well, generally people in DW enjoy:</p>
+<ol>
+<li>Puns <br>
+In order to properly punish the populace, one must always be on the look out for the optimal moment for the gut punch effect. The best puns are subtle in their punctuation. One needs to have spun many puns to achieve maximum punitiveness.<br><br></li>
+</ol>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><em>Assist just runs up and tries to force tea in front of [Juvius]</em> “TEA DRINK IT PLEASE!”
+Juvius: &quot;Sorry I&#x27;m allergic to positivitea&quot;
+<br>- <em>Juvius, Thronsgiving, 29 November 2019</em></p>
+</doc-panel>
+<ol start="2">
+<li>References to memes or pop culture<br>
+What can I say, we have a young server demographic. Limit this to avoid breaking too much immersion though.</li>
+</ol>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><em>&quot;He stole my dad joke! Alright that&#x27;s it I&#x27;m gonna &#x27;yeet&#x27; Ragor, whatever that means.&quot; Thron &quot;yeets&quot; Ragor.</em>
+<br>- <em>Thron, Thronsgiving, 29 November 2019</em></p>
+</doc-panel>
+<ol start="3">
+<li>Something surprising</li>
+</ol>
+<p>Fresh comedy hits especially well and can create a gimmick for your character. Does your character have any phobias, especially irrational ones? That can give a human-like touch to an otherwise plain-seeming character.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p>Salvador: <em>He offers the bird a sip from his flask offhandedly.</em><br>
+Narrator: <em>The bird drinks from the flask.</em><br>
+Salvador: <em>The flask is full of sea water.</em><br>
+Narrator: <em>The bird spits it on Pyro&#x27;s face.</em><br>
+<br>- <em>Sea water, Birds and Betrayal, Raid Summer 2020, 1 July 2020</em></p>
+</doc-panel>
+<ol start="4">
+<li>Timing</li>
+</ol>
+<p>You can’t really plan this, but dropping the right remark at the right time can enhance a phrase’s comedic value. There’s also the aspect of not dragging out a joke for too long, else there’s the risk of depleting its comedic value through overuse.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p>Marxus: &quot;How did that feel?&quot;<br>
+Tylenol: &quot;Actually, I feel great.&quot; <em>He said with a smile.</em> &quot;Thank goodness it&#x27;s pretty late in the evening, so no way she would have actually heard that.&quot;<br>
+<em>A minute ago in lake-prudence</em><br>
+*From the distance, a faint voice coming from the shrines can be heard. *<br>
+&quot;I HAVE EXTREME FEELING OF DEEP AFFECTION FOR CAMARA!&quot;<br>
+<em>It was very clearly Tylenol&#x27;s voice.</em><br>
+Camara: <em>Zither music stops</em>
+<br>- <em>Tylenol’s first Marxus shrine, Shrine to the Gods, 16 December 2019</em></p>
+</doc-panel>
+<ol start="5">
+<li>Witty Comebacks</li>
+</ol>
+<p>“If you want to clown on someone, you gotta use what they said against them” - Mint 2020.</p>
+<p>Witty comebacks are used to break tension in emotional scenes. In order to have more opportunities for witty comebacks, you should also be aware of what’s going on around you. Combine this with puns for maximum effect.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><em>Hizentra [a dullahan, a headless horseman] has a snarl on her face as she held it, &quot;Why&#x27;d you just yell at me, you little—&quot; She realized she just took off her own head. In the middle of this packed tavern.</em></p>
+<p>&quot;Dont loose your head over it.&quot; K<em>evin says to Hizentra with a straight face.</em>
+<br>- <em>Hizentra and Kevin, Drunken Yeti Tavern, 13 February 2020</em></p>
+</doc-panel>
+<ol start="6">
+<li>Dad Jokes</li>
+</ol>
+<p>Bad jokes can be funny if done on purpose and are especially bad. This more or less requires the character who says it to be a slightly awkward but tries hard to be charming person to pull off. You can google for more dad joke ideas.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p>&quot;I would love to! I&#x27;m more of a baker, but man I gotta tell you, something about this grill just strikes up a fire in me&quot;
+<br>- <em>Artreides, Raid Summer 2020, 6 July 2020</em></p>
+</doc-panel>
+<doc-anchor-target id="drama">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#drama">#</doc-anchor-trigger>
+        <span>Drama</span>
+    </h4>
+</doc-anchor-target>
+<p>Drama functions, at its core, when there is tension. You will likely be exploring this genre sparsely compared to the others because high tension events don’t occur that often. RPing a dramatic scene can be broken down to the 4 steps:</p>
+<ol>
+<li><p>The Set up<br>
+There should be a good reason for the drama to take place, whether its a confrontation of a long kept secret finally let out of the bag, some major revelation, a confession of feelings, or something else. Pick a good venue. Ideally move out of crowded channels such as the <code v-pre>#drunken-yeti-tavern</code> to somewhere quieter like a residence or Nature channel so you don’t get interrupted. A combat is not a good time to have such a scene so keep it to Medium length RP.</p>
+</li>
+<li><p>The Build Up<br>
+Begin having some back and forth with your RP partner. Exposition of untold events, releasing inner feelings, generally waiting for a good moment to move to the next stage. The important thing is to keep the momentum going. You can pad the build up with questioning where it makes sense. Be sure to add plenty of gesticulating and other actions that interact with the environment like sinking to their knees or kicking an innocent stalagmite.<br><br>
+If you’re on your own, you’re gonna have to do an internal monologue. What you can do to make it less monotonous is pan in to the character’s feelings, pan out to how their expression changes, pan back in, pan out to show how they start interacting with the environment due to their feelings, and so on.</p>
+</li>
+<li><p>The Climax<br>
+Ah, the climax. For this part, you want to keep it short and punchy unlike the build up. Focus on delivering smarter wordplay by carefully analysing what the other party is saying. Keep sentences short to allow a faster exchange: this simulates speaking quicker in a text based environment. Ideally, move onto the Resolution when you or the other person get a good, indisputable line in.<br><br></p>
+</li>
+</ol>
+<p>If you’re on your own, this is the time where you cut off the monologue, and interact with the DM’s NPC/Monster (if applicable) or start doing something drastic, like burning all your books or writing an angry letter of retribution.</p>
+<ol start="4">
+<li>The Resolution<br>
+An angry storming off, a comforting hug, or something else are all examples of a resolution. This dictates the tone of how the scene ends. If it ends on a good note, it’ll likely be a wholesome reconciliation scene full of hugging, tears, and gifts to curry forgiveness. A natural ending point would be when you either run out of things to say and settle into peaceful silence or one party has to leave. If it ends on a bad note, you might just skip this stage altogether and end the scene with the characters reacting in private to the incident.</li>
+</ol>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><code v-pre>[Set up]</code> <span class="dialogue">Kevin comes stomping in</span> <code v-pre>[Instigator is introduced. Moved to less crowded channel so they aren’t interrupted]</code> <span class="dialogue">and looks for a good rock to sit on. He gives a side glance to the slime and robot thing but doesn’t mind them further.</span> <code v-pre>[Environment is acknowledged and character relationship to it established]</code> <span class="dialogue">Eventually he finds a fine enough rock to sit on.</span> <code v-pre>[Pose has been established]</code> <span class="dialogue">He opens his bag and gets out a loaf of bread which he promptly starts consuming.</span> <code v-pre>[Character’s actions established]</code></p>
+<p><span class="dialogue">Elicia followed Kevin here,</span> <code v-pre>[Other party is introduced]</code> <span class="dialogue">and sits down on a nearby rock.</span> <code v-pre>[Other party’s pose established]</code></p>
+<p><span class="dialogue">He is so focused on eating that he doesn’t seem to notice Elicia. He seems to already have finished one loaf and a half, he then takes the container of sugar and eats some of it by essential drinking. He hastily puts it away and finishes off the second one. And goes for the third.</span></p>
+<p><code v-pre>[Build up]</code> <span class="gesture">Elicia: &quot;...that&#x27;s sugar you know?&quot;</span> <code v-pre>[Build up properly begins as parties begin interacting. Conversation is set into motion with a question.]</code></p>
+<p><span class="gesture">Kevin: &quot;...Hm?...I know it is.&quot; He grumbles and takes another &quot;swig&quot; of sugar before tearing away the third bread. &quot;...I guess I forgot to tell you to leave me alone for a moment...&quot; He pauses eating for a moment to say that and then carries on.</span></p>
+<p><span class="gesture">Elicia: &quot;Mhm, that you did.&quot; Elicia pulls out her wineskin and takes a swig of an actual drink </span> <code v-pre>[When posed with a statement rather than a question, they turn it into an opportunity to show they care. They also begin turning to other avenues to continue the RP, in this case interacting with their character’s possessions]</code></p>
+<p><span class="gesture">Kevin: &quot;Why are you here?&quot; Loaf number 4...heck it...number 4 AND 5. Sugar for good measure.</span> <code v-pre>[Instigator manages to keep the ball rolling by directing a question at them instead. Allows for other party to give exposition.]</code></p>
+<p><span class="gesture">Elicia: Still no good at holding her drink it seems &quot;Just here to make sure you don&#x27;t do anything stupid.&quot;</span> <code v-pre>[While they reply with a statement, its more of a playful remark that allows the other to play off it. Slightly diverges from original topic for a bit of banter]</code></p>
+<p><span class="gesture">Kevin: &quot;...You can leave I will be done in a second.&quot; he grumbles. He stuffs his mouth some more and follows it up with another portion of sugar. &quot;Portion&quot;</span> <code v-pre>[other party plays off the remark]</code></p>
+<p><span class="gesture">Elicia: &quot;Or to talk...if you still wish to.&quot;</span> <code v-pre>[Addresses the elephant in the room, gives instigator room to give exposition]</code></p>
+<p><span class="gesture">Kevin: &quot;...&quot; He stops in his voracious tracks for a moment.</span> <code v-pre>[Lightens up drama with a bit of comedic relief by self-acknowledging]</code> <span class="gesture">&quot;...Later...all you need to know is that I messed up...&quot; He looks down. &quot;And seems like that’s...gonna cost me...&quot; he says that last part in pain so immense that he doesn’t manage to hide all of it. He slightly starts quivering but then just shakes his head violently. He eats some more sugar and takes another big chunk out of bread 5, which seems to help some.</span> <code v-pre>[Shows plenty of gesticulating and movements in reaction to drama, punctuated with character’s inner thoughts]</code></p>
+<p><span class="gesture">Elicia: &quot;Sure yes, you messed up, and I&#x27;m still irritated a tad bit, as is Argo. Give it some time.&quot;</span> <code v-pre>[Attempt at resolution]</code></p>
+<p><span class="gesture">Kevin: He bops his leg &quot;...I cant...!” He curls up a little. &quot;Else it will be too late....! ...Please leave. I’ll be back in the house in around half an hour.&quot; He gets the last loaf and chugs a major portion of the sugar.</span> <code v-pre>[Disagreement with other party, feeds the fire of the drama and begins escalating to the climax. Reflected in actions.]</code></p>
+<p><span class="gesture">Elicia: Sighs &quot;Too late for what...?&quot;</span> <code v-pre>[Another question is posed to allow for exposition]</code></p>
+<p><span class="gesture">Kevin: He squirms. &quot;...Mandy and Argo will get together by then...&quot; He starts shaking slightly. &quot;...! Dont tell them that! Aghhh...&quot;</span> <code v-pre>[Instigates the climax by revealing new information to the other party]</code></p>
+<p><span class="gesture">Elicia: &quot;...oh? So you are interested in Mandy then.&quot;</span> <code v-pre>[Continue to prod the subject of the drama]</code></p>
+<p><span class="gesture">Kevin: He scratches his head and just straight up finishes the sugar. &quot;......Grghh...no one gets it then...?&quot; He eats the last loaf in quiet desperation...he should have gotten more... he scratches his head and just straight up finishes the sugar.</span> <code v-pre>[Cue to start the climax: Instigator runs out of new material to introduce to the scene. Reflected in actions.]</code></p>
+<p><span class="gesture">Elicia: &quot;Well, I certainly won&#x27;t get it if you don&#x27;t explain.&quot;</span> <code v-pre>[Beat drop. With the prior actions, the readers know that the climax is coming. Instigator is now in prime position to deliver climax.]</code></p>
+<p><code v-pre>[Climax]</code> <span class="appearance">Kevin: &quot;...&quot; he sighs. He finishes up the last loaf and then tries to get more sugar. He looks disappointed as he sees there is nothing left. He gets out his waterflask and drinks it all in one go. Gulping it down quick and heavily. Some of it spills down his neck.</span> <code v-pre>[Fast paced, short and choppy sentences to reflect the mood]</code> He prepares to release emotions &quot;...Not Mandy! Argo....!&quot; He jumps off the rock and…<code v-pre>[Cut off to build tension]</code></p>
+<p><span class="appearance">Elicia: “...ah.&quot;</span> <code v-pre>[Minor comic relief]</code></p>
+<p><span class="appearance">Kevin: <span  style="word-break: break-all;"> &quot;ARRGGGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH&quot;</span> He lets out the loudest goddamn scream he ever screamed.</span> <code v-pre>[Resolution]</code> <span class="environment">He has released enough emotion. He looks actually somewhat better. &quot;I’ll be back in half an hour.&quot; He stomps off.</span> <code v-pre>[Character exits the scene]</code></p>
+<p><span class="environment">Elicia: Elicia sighs and glances down at Rolly, before standing up  and making her way back home.</span> <code v-pre>[Character exits the scene]</code>
+<br>- <em>Kevin and Elicia, river, 13 January 2020</em></p>
+<p><code v-pre>[Kevin would later get into a happy relationship with Zovia, albeit with the looming threat of Cleo over him. His player, Kimi, inadvertently fulfilled Kevin’s goal when his other character NyanNyan started dating Argo after they broke up with Mandy.]</code></p>
+</doc-panel>
+<doc-anchor-target id="romance">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#romance">#</doc-anchor-trigger>
+        <span>Romance</span>
+    </h4>
+</doc-anchor-target>
+<p>A lot of people enjoy having fictitious romances. But roleplaying romances comes with a sort of commitment as well, although much less than its real life counterpart. Hence, before I get into discussing actual RP tips, I should first give you some warnings:</p>
+<ol>
+<li><p>Don’t attach yourself to the first person you meet at the tavern!<br>
+As the saying goes, there are a lot of fish in the sea! Have a look around first before settling, it will save you from IC break up drama (unless you are looking for that).</p>
+</li>
+<li><p>Know the activity of the other party<br>
+Ideally the player(s) of your character’s romantic interest are of similar activity as yours, and online around the same time. Romances have ended due to one party not being able to see the other as often due to OOC reasons.</p>
+</li>
+<li><p>Be mindful of the level gap<br>
+Level gaps have also disturbed romances because the couple will never be able to adventure together and the power gap may cause the lower levelled party to feel insecure. It’s possible to have a good romance even with a level gap but be aware of this potential issue!</p>
+</li>
+<li><p>Mind the PDA<br>
+You’ll be restricted from the nastier things by our rules, but cuddling too much or making weird sounds can make the people around you uncomfortable (just like in real life!), not to mention its not something they can build off on (remember #2 of General RP Tips). So avoid doing that in public channels.</p>
+</li>
+</ol>
+<p>Going onto actual romance RP tips, you generally want to showcase a slower relationship development or you’re going to run out of material very quickly. Be sure to continue to develop your character beyond interactions with their partner, so that you will have stories to tell each other, and also because a character that can stand on their own feet safeguards you from losing the purpose of your character in the event your significant other dies.</p>
+<doc-panel id="example">
+    <template #title>Example</template>
+<p><em>She considers many things--and under the new lens of morals imposed upon her, she sees...that this isn&#x27;t...too bad perhaps. The aversion of eye contact prompts her to chuckle at the reaction.</em> &quot;Jumpy as always, huh?&quot; <em>She hums for a bit and comes to a resolution.</em> &quot;If....you don&#x27;t understand...and I don&#x27;t as well....why don&#x27;t we try and figure this out....together?&quot; <em>Her voice trails off at the end, face burning a bright and loud red.</em></p>
+<p>&quot;Huh?&quot; <em>His face drops into the most blankest expression seen on a man. This man just became a changeling within the span of a minisecond. His fake glasses crack and shattered..... quietly....</em></p>
+<p><em>She smirks at the glasses, but even though the expression is smug, she&#x27;s very much embarrassed.</em></p>
+<p><em>Tylenol.exe has stopped working. His cheeks turn red and he steams from pure emotional haywire. His hands are shaking as he reaches into his bag for a spare set of fake glasses, but they shatter instantly the 4 seconds they spend in his fingers.</em></p>
+<p>&quot;....Uhhh.....You.... You want to.... er... pursue this....?....&quot; <em>He shyly looks at her</em> &quot;W-Well.... If that&#x27;s what you want.... I do not see any reason to say no....&quot;</p>
+<p><em>She lets out a breath that she had been holding, and shakily looks back up.</em> &quot;...really?&quot;</p>
+<p>“Of course.&quot; <em>The first few words he says with general confidence. Then he reaches for her hand to gently hold in between his own gloved hands as he says softly,</em> &quot;I would be happy to be your first experience with the concept of love.&quot;</p>
+<p><em>She looks taken aback for a hot sec before she uneasily returns the grasp, her fingers trailing on the hand like she does with her zither. Softly, with as much strength as she can muster, she squeezes the palm and looks up to the doc with a grin</em> &quot;Let&#x27;s figure this out then, alright?&quot; <em>Another squeeze.</em> &quot;T-together?&quot;</p>
+<p><em>He replies with a confident smile,</em> &quot;Together.&quot;
+<br>- <em>Tylenol’s first Marxus shrine, Shrine to the Gods, 16 December 2019</em></p>
+</doc-panel>
+<doc-anchor-target id="keeping-it-fresh">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#keeping-it-fresh">#</doc-anchor-trigger>
+        <span>Keeping it fresh</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="common-reasons-for-losing-interest-in-a-character">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#common-reasons-for-losing-interest-in-a-character">#</doc-anchor-trigger>
+        <span>Common Reasons for Losing Interest in a Character</span>
+    </h3>
+</doc-anchor-target>
+<p>It is very normal that after a while, you might lose interest in your character’s RP. There are usually a couple of reasons for this:</p>
+<ol>
+<li><p>The players of the characters who your character interacted with regularly have gone inactive.<br>
+There is quite little you can do about this except move on and find new players to RP with. Reminisce the past, but keep an open mind for new opportunities</p>
+</li>
+<li><p>A new, more fun and exciting concept has entered your head<br>
+Speaking as someone who has watched countless players cycle out concept after concept, I can confidently tell you that there will always be something more fun and exciting out there, because the excitement of getting a new thing often trumps the old. The rebuilding/retiring rules allow you to cycle out concepts, so there’s less of a risk of you getting caught in a concept you don’t like. However, retiring will still cause you to lose progress, not to mention the loss of character relationships. Hence, I advise that you give it a good thought before you start on a new concept. Play a character that you are invested in and will have fun playing with long-term, that you think you can keep RPing, beyond the calculation of their DPS or AC or attack bonus. As such, I would advise you to avoid making meme characters, because that kind of fun is usually short-lived once you’ve tired of their gimmick.</p>
+</li>
+<li><p>Your character has accomplished all their goals and you don’t see any reason for them to continue adventuring.<br>
+Ideally, you want to have several goals that your character wants to accomplish. The reason being that if you accomplish the one and only goal your character has, you can quickly find yourself losing interest and meaning in RPing that character. For example, you can have one goal from your backstory, like avenging your parents’ deaths. Then you have another you gain along the way through quests, like finding the truth to a BBEG. And finally you have one that you develop on your own, such as keeping your friends safe after your character witnesses a death in the party.</p>
+</li>
+</ol>
+<doc-anchor-target id="tips-to-prevent-rp-burnout">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tips-to-prevent-rp-burnout">#</doc-anchor-trigger>
+        <span>Tips to prevent RP burnout</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><p>Take a break<br>
+By far the easiest and most effective way is to take a step back. You can try RPing a different character or step away from RPing altogether if you are starting to feel like RP is losing its luster. It may take time to rejuvenate the joy you used to feel after doing it too much. In the meantime you can chat in general or if you’re a staff, focus on staff work, and when you start to miss RPing, you can jump back in</p>
+</li>
+<li><p>Interact with new people<br>
+Expanding your social circle is especially important in DW where people often come and go. With the passage of time, it can be hard to maintain relationships. Continuously interacting with the newer generations will prevent you from feeling out of touch with the community.</p>
+</li>
+<li><p>Have a good balance of IRL and online<br>
+Doing too much of anything will make anyone feel queasy. Especially if you are a younger member of the server, there might be more important things in life that you need to focus on. Making sure you are not falling behind in terms of school, work, or IRL relationships. Maintaining a healthy balance will keep the hobby sustainable. It’s important to maintain your IRL friendships as your DW friends are limited by the fact that they’re online and can’t physically help you. Maintaining a good mental health will alleviate your enjoyment of the server. DW isn’t going anywhere. We don’t want you to neglect IRL, get overwhelmed and end up having to leave the server altogether.</p>
+</li>
+</ol>
+<doc-anchor-target id="conclusion">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#conclusion">#</doc-anchor-trigger>
+        <span>Conclusion</span>
+    </h2>
+</doc-anchor-target>
+<p>And there we have it! I hope this document was able to at the very least be an entertaining read. If you study these tips, you should generally be able to do basic RP. If you still can’t, you might want to reevaluate how you are approaching RP, such as by asking others on an evaluation of your RP.</p>
+<doc-anchor-target id="footnotes">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#footnotes">#</doc-anchor-trigger>
+        <span>Footnotes:</span>
+    </h4>
+</doc-anchor-target>
+<p>Q: Why is everything dated from 2020?<br>
+A: Because the document was written in 2020 and then I forgot about it</p>
+
+                                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+                            </div>
+                            <footer class="clear-both">
+                            
+                                <nav class="flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../tips/video-games-vs-dnd/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block mt-1">Video Games vs D&​D</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../tips/start-guild/">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block mt-1">So You Want To Start a Guild</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between">
+                                <div>
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                    </ul>
+                                </div>
+                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2024. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="docs-overlay-target"></div>
+
+    <script data-cfasync="false">window.__DOCS__ = { "title": "A Guide to Roleplaying", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+</body>
+</html>

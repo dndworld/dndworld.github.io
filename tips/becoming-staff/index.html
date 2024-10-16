@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782403144857">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 3.6.0">
+
+    <!-- Primary Meta Tags -->
+    <title>So You Want to be Staff | DW Guide</title>
+    <meta name="title" content="So You Want to be Staff | DW Guide">
+    <meta name="description" content="A Supplementary Document to #staff-roles">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://dndworld.github.io/tips/becoming-staff/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dndworld.github.io/tips/becoming-staff/">
+    <meta property="og:title" content="So You Want to be Staff | DW Guide">
+    <meta property="og:description" content="A Supplementary Document to #staff-roles">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://dndworld.github.io/tips/becoming-staff/">
+    <meta property="twitter:title" content="So You Want to be Staff | DW Guide">
+    <meta property="twitter:description" content="A Supplementary Document to #staff-roles">
+
+    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+
+    <link href="../../images/logo-circle.png" rel="icon">
+    <link href="../../resources/css/retype.css?v=3.6.0.782403144857" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782403144857" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782403144857" data-turbo-eval="false" defer></script>
+
+    <!DOCTYPE html>
+    <head>
+      <style>
+        /*
+        GLOBAL/OVERRIDE STYLES
+        ======================
+        SYNTAX:
+          selector {
+            property: value [!important];
+          }
+
+        if selector is a HTML tag, must append !important as Retype's styling will override
+        */
+        @media (min-width: 960px) { /* desktop */
+          /* choke width of page body content */
+          #docs-app > .container > div.dark\:bg-dark-850 > div.flex > div:nth-child(1).md\:px-16 {
+            --size: 5.9rem;
+            padding-left: var(--size);
+            padding-right: var(--size);
+          }
+        }
+        @media (max-width: 768px) {
+          html {
+            font-size: 14px;
+          }
+        }
+        .docs-markdown h2 {
+          font-size:1.5rem !important;
+        }
+        .docs-markdown h3 {
+          font-size:1.125rem !important;
+        }
+        .docs-markdown h4 {
+          font-size:1rem !important;
+        }
+        .docs-markdown h5 {
+          font-size:.875rem !important;
+        }
+        
+        .docs-markdown h2 .header-anchor-trigger {
+          margin-top:.25rem !important;
+        }
+        .docs-markdown h3 .header-anchor-trigger,
+        .docs-markdown h4 .header-anchor-trigger,
+        .docs-markdown h5 .header-anchor-trigger,
+        .docs-markdown h6 .header-anchor-trigger {
+          margin-top:0 !important;
+        }
+        /*.docs-markdown h6 {
+          font-size:.875rem !important;
+        }*/
+
+        a {
+          overflow-wrap: break-word !important;
+        }
+
+        li > p {
+          margin-bottom: 0 !important;
+        }
+        li > p + ul {
+          padding-bottom: 12px !important;
+        }
+
+        blockquote {
+          background: none !important;
+          padding-top: 12px !important;
+          padding-bottom: 12px !important;
+        }
+        html:not(.dark) blockquote {
+          color: grey !important;
+        }
+        blockquote > ul {
+         margin-bottom: 0px !important; 
+        }
+        blockquote ul {
+          padding-left: 20px !important;
+        }
+
+        div.codeblock-wrapper code {
+          white-space: pre-wrap;
+        }
+        /*
+        CLASS STYLES
+        ============
+        .class styles can be applied to a specific element.
+
+        HTML SYNTAX: Add the class attribute to the element's HTML tag.
+          <img class="">
+          <div class=""> .. </div>
+
+        If the element is meant to placed within plain body content use <span>
+          <span class=""> .. </span>
+
+        RETYPE SYNTAX: place the element in a .class container
+          :::class
+          ..
+          :::
+        
+        You may want to use .class tag to target the contained content.
+          .class * {
+            attributes applied to all content
+          }
+          .class > p {
+            attributes applied to paragraph content, excluding any p inside another tag
+          }
+        */
+        .subtitle {
+          font-size: 1.125rem !important;
+          opacity: 75% !important;
+          position: relative !important;
+          bottom: 1.25rem !important;
+        }
+        .subtitle p {
+          margin-bottom: 0.75rem !important;
+        }
+        /*
+        div.banner
+          p
+          figure.content-center
+            img
+            figcaption.caption
+          p
+        */
+        .banner .content-center {
+          display: block;
+          align-content: unset;
+
+          width: 100%;
+          max-height: 22vh;
+          overflow: clip;
+          border-radius: 0.125rem;
+        }
+
+        .banner img {
+          position: relative;
+          top: -250px;
+          /*aspect-ratio: 1990 / 480;*/
+          /*object-fit: cover !important;*/
+        }
+
+        /*
+        <img class="emoji" src="..">
+        */
+        .emoji {
+          width: 1.2em;
+          position: relative;
+          bottom: 0.15em;
+        }
+      </style>
+    </head>
+</head>
+<body>
+    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
+        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    
+        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+            <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="docs-sidebar-toggle"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="docs-site-logo" href="../../" class="flex items-center leading-snug text-2xl">
+                            <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo-circle.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../../images/logo-circle.png">
+                            </span>
+                            <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">DW Guide</span>
+                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v1.1</span>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                        </div>
+        
+                        <!-- Mobile search button -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placeholder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="docs-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+        <div class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            
+                <!-- Render this div, if config.showSidebarFilter is `true` -->
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                </div>
+            
+                <div class="pl-6 mt-1 mb-4">
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 dark:bg-dark-850">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div class="min-w-0 p-4 grow md:px-16">
+                        <main class="relative pb-12 lg:pt-2">
+                            <div class="docs-markdown" id="docs-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="docs-sidebar-right-toggle"></div>
+                                <!-- Page content  -->
+<doc-anchor-target id="so-you-want-to-be-staff" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#so-you-want-to-be-staff">#</doc-anchor-trigger>
+        <span>So You Want to be Staff</span>
+    </h1>
+</doc-anchor-target>
+<div class="-mt-3 mb-12 flex flex-wrap text-sm text-gray-400 dark:text-dark-350 items-center">
+    <div class="flex items-center">
+        <div>By</div>
+        <div class="ml-2 flex items-center">
+          <div class="shrink-0 w-8 h-8 overflow-hidden rounded-full">
+            <svg width="2rem" height="2rem" xmlns="http://www.w3.org/2000/svg" fill="white"><g><rect width="2rem" height="1.7rem" fill="#c5c5c5"/><circle r="0.44rem" cy="0.83rem" cx="1rem"/><ellipse ry="0.96rem" rx="0.77rem" cy="2.15rem" cx="1rem"/></g></svg>
+          </div>
+          <div class="ml-1 whitespace-nowrap text-gray-500 dark:text-dark-350">fangirlcrazily</div>
+        </div>
+    </div>
+</div>
+
+<div class="subtitle"><p>A Supplementary Document to <a href="https://discord.com/channels/512870694883950598/877373177381126144"><code v-pre>#staff-roles</code></a></p>
+</div>
+<style>
+.bka h3, .wc h3, .tech h3, .am h3, .tdm h3, .tmod h3, .ast h3, .npcm h3, .hb h3, .lk h3 {
+    border-bottom: 0.25rem solid !important; 
+    display: block;
+}
+.bka  h3 { border-color: #b1ee69 !important; }
+.wc   h3 { border-color: #dbff6e !important; }
+.tech h3 { border-color: #aacfae !important; }
+.am   h3 { border-color: #ffbfd5 !important; }
+.tdm  h3 { border-color: #3b95ef !important; }
+.tmod h3 { border-color: #cc6 !important; }
+.ast  h3 { border-color: #0c0 !important; }
+.npcm h3 { border-color: #c39 !important; }
+.hb   h3 { border-color: #dea98e !important; }
+.lk   h3 { border-color: #ce94f2 !important; }
+</style>
+<doc-anchor-target id="introduction">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#introduction">#</doc-anchor-trigger>
+        <span>Introduction</span>
+    </h2>
+</doc-anchor-target>
+<p>So you’ve been looking at all the cool kids with their funky rainbow color roles and thinking about joining the staff. Great! We are always welcome to have more staff join our team. In fact, joining staff is one of the best ways you can help us! After all, we’re always in need of more hands for implementing changes, helping players and increasing activity, all while helping as well yourself by increasing the server’s quality of life!</p>
+<p>However, we do our best to make sure applicants are a good fit, and that might mean delaying or rejecting an application that we feel need more time. We like to make sure all staff are productive additions to our team and bring a positive attitude. That being said, this document is designed to give you a more in-depth overview of the various staff roles so that you can pick the one that suits you best. It also gives you tips on how to write your application so that you don’t undersell yourself.</p>
+<doc-anchor-target id="minimum-criteria">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#minimum-criteria">#</doc-anchor-trigger>
+        <span>Minimum Criteria</span>
+    </h2>
+</doc-anchor-target>
+<p>This criteria is what we look out for when vetting for all staff role applications. There are some exceptions to this criteria depending on the role you are applying for. If you aren’t sure, you can go ahead and apply, but be warned that these exceptions are quite rare.</p>
+<ul>
+<li>No recent Demerit Points
+<ul>
+<li>Having no DPs at all is an advantage, but we take into account context and the role applied.</li>
+</ul>
+</li>
+<li>No lesser courthouses <strong>relevant to the role applied for</strong>
+<ul>
+<li>E.g. If you are applying for Thrall and were recently lessered for DTD mistakes, we may decline the application on the basis of needing better familiarity.</li>
+</ul>
+</li>
+<li>No demonstration of hostile or passive aggressive attitude</li>
+<li>Not removed from staff before due to poor performance</li>
+<li>Sufficient recent activity</li>
+<li>Has not submitted a denied application recently</li>
+</ul>
+<doc-anchor-target id="tips-on-writing-your-application">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tips-on-writing-your-application">#</doc-anchor-trigger>
+        <span>Tips on Writing Your Application</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="attention-to-detail">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#attention-to-detail">#</doc-anchor-trigger>
+        <span>Attention to Detail</span>
+    </h3>
+</doc-anchor-target>
+<p>This may seem obvious, but your application is judged for the amount of care you put into it. Here are some simple errors to avoid making so that your application isn’t rejected right off the bat.</p>
+<ul>
+<li>Spelling/Grammatical Errors
+<ul>
+<li>Especially for role names, staff names, and lore-related names</li>
+</ul>
+</li>
+<li>Using the wrong application format
+<ul>
+<li>For staff, please use the one in <code v-pre>#staff-guide</code></li>
+</ul>
+</li>
+<li>Not using the application format at all
+<ul>
+<li>If you send a FanMail saying “I’d like to apply for staff!” you will be directed to <code v-pre>#staff-roles</code></li>
+</ul>
+</li>
+<li>Not filling out all fields in an application</li>
+</ul>
+<doc-anchor-target id="length">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#length">#</doc-anchor-trigger>
+        <span>Length</span>
+    </h3>
+</doc-anchor-target>
+<p>Try to give us as many relevant details as you can, but don’t overdo it. Avoid giving one liners as this does not really tell us much about you and can make it seem like you didn’t put much effort into it. If you do not have experience, try to talk about why you are passionate about helping, or what you plan to do if given the role.</p>
+<p>In general, keeping it within one message and filling out the space with useful information is a good call. If your application looks very short or empty, this might be a sign to write more. Don’t extend into a second message</p>
+<p>Please note: We get a lot of applications for DM roles that list home campaigns as relevant experience. While this can be useful, we are more interested in knowing the “soft” skills you learned from DMing. This is because traditional campaigns are very different from West Marches, and can vary in quality. Tell us about how you might have learned to resolve conflict at the table, or when a game went badly and how you grew from that experience.</p>
+<doc-anchor-target id="relevant-experience">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#relevant-experience">#</doc-anchor-trigger>
+        <span>Relevant Experience</span>
+    </h3>
+</doc-anchor-target>
+<p>This is what you can include in your application when asked about your experience. If you have not done anything from this section, it may be worth trying them out. This will both give you an idea of whether the role suits you, and give us a better idea of how you are like. It’s worth noting that you can include experience even if you don’t plan on applying to a similar role, as it may still be relevant.</p>
+<doc-anchor-target id="on-server">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#on-server">#</doc-anchor-trigger>
+        <span>On Server</span>
+    </h4>
+</doc-anchor-target>
+<ul>
+<li>Helping newbies, whether in PMs, OOC channels, or IC channels</li>
+<li>Reviewing sheets</li>
+<li>Welcoming new members in <code v-pre>#introductions</code></li>
+<li>Reports in <code v-pre>#community-efforts</code></li>
+<li>Custom aliases</li>
+</ul>
+<doc-anchor-target id="off-server">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#off-server">#</doc-anchor-trigger>
+        <span>Off Server</span>
+    </h4>
+</doc-anchor-target>
+<ul>
+<li>DMing in private campaigns (In person or digital)</li>
+<li>DMing for game stores</li>
+<li>Custom original maps</li>
+<li>Equivalent roles in other servers</li>
+<li>Personal writing</li>
+<li>Personal projects</li>
+<li>Related work experience (e.g. spreadsheets)</li>
+<li>Related school work (e.g. essays or clubs)</li>
+</ul>
+<doc-anchor-target id="misc-tips">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#misc-tips">#</doc-anchor-trigger>
+        <span>Misc. Tips</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Don’t spam applications
+<ul>
+<li>Send a maximum of two at one time and wait for a reply</li>
+<li>Do not send more applications if you have not received a response</li>
+<li>Consistently applying to multiple roles is a surefire way to get your app rejected. We want people who are passionate about their role and not just wanting to be staff for the power.</li>
+</ul>
+</li>
+<li>Don’t harass staff about the status of your application, especially in public
+<ul>
+<li>Staff often need time to consider an application, especially if a lot of the review committee is busy that week.</li>
+</ul>
+</li>
+<li>Don’t try to guilt trip staff about your application
+<ul>
+<li>No one staff is responsible for the result of your application. Complaining in front of them is just inconsiderate.</li>
+</ul>
+</li>
+</ul>
+<doc-anchor-target id="rating-system">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#rating-system">#</doc-anchor-trigger>
+        <span>Rating System</span>
+    </h3>
+</doc-anchor-target>
+<p>The overview of the roles below will be based on 6 criteria. This is a subjective opinion and may not be representative of your experience; however, they are general enough to provide you an idea of what to expect. A low or high score is not necessarily a good or bad thing; it depends on what you want out of the role.</p>
+<p>The 6 criteria are:</p>
+<ul>
+<li><strong>Time Commitment</strong>
+<ul>
+<li>This refers to the amount of prolonged periods you are expected to spend on a task for the role</li>
+<li>A score of 1 means 5 minutes or less at a time while a score of 5 means 6 hours or more.</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>
+<ul>
+<li>This represents the amount of effort needed to pick up and improve on the role</li>
+<li>A score of 1 means you can start right away, while a score of 5 means you will spend most of your time honing your skill.</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>
+<ul>
+<li>This refers to the amount of time you will be spent working on your own vs with other staff.</li>
+<li>A score of 1 means you will be almost always working on your own, while a score of 5 means everything you do will be in a team.</li>
+</ul>
+</li>
+<li><strong>Variety</strong>
+<ul>
+<li>This refers to the variety of tasks available within a role</li>
+<li>A score of 1 means tasks are relatively repetitive, while a score of 5 means you will constantly need to learn and pick up new things</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>
+<ul>
+<li>This refers to the amount of work that requires you to deal with the player base outside of staff</li>
+<li>A score of 1 means that you will never need to work with the public, while a score of 5 means that you need to consider your responses very carefully.</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>
+<ul>
+<li>This refers to the amount of proactiveness you need to have in order to perform your job to its maximum</li>
+<li>A score of 1 means that the role is reactive depending on what is needed, while a score of 5 means you need to constantly source for your own tasks.</li>
+</ul>
+</li>
+</ul>
+<div class="bka"><doc-anchor-target id="bookkeeping-assistant">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bookkeeping-assistant">#</doc-anchor-trigger>
+        <span>Bookkeeping Assistant</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><strong>Time Commitment</strong>: 1
+<ul>
+<li>Thralls are expected to take a few minutes out of their week to process any backlog</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>: 3
+<ul>
+<li>Thralls need to read and comprehend a document detailing how to process manual DTDs</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>: 1
+<ul>
+<li>Thralls do not work with other Thralls to process the same DTD</li>
+<li>However, they should ask questions if they are unsure about anything</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 1
+<ul>
+<li>Manual DTDs tend to be restricted to a few common ones</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 1
+<ul>
+<li>Thralls are only required to post results of player’s checks; flavor is optional</li>
+<li>They should answer questions about DTD if able</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 3
+<ul>
+<li>Thralls should check relevant channels frequently to identify when there is a backlog and help out</li>
+</ul>
+</li>
+</ul>
+<p>Players who like this role also apply for: Arena Master</p>
+<div class="wc"><doc-anchor-target id="welcomer">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#welcomer">#</doc-anchor-trigger>
+        <span>Welcomer</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><strong>Time Commitment</strong>: 1
+<ul>
+<li>Welcomers are expected to take a few minutes out of their day to greet newcomers and answer questions</li>
+<li>Prolonged help sessions with completely new players can take a few hours</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>: 1
+<ul>
+<li>Welcomers are given templates to use</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>: 1
+<ul>
+<li>Welcomers are not required to work with other Welcomers</li>
+<li>However, they can help Welcomers who they see are struggling</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 2
+<ul>
+<li>Welcomers can help newbies in whichever way they are best at</li>
+<li>This tends to come in the form of greeting in <code v-pre>#introductions</code>, helping in <code v-pre>#server-questions</code> or <code v-pre>#off-topic-general,</code> or PMing them to help</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 4
+<ul>
+<li>Welcomers are the face of the server and the first impression of new players</li>
+<li>As such, they should have a friendly and patient disposition</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 4
+<ul>
+<li>Welcomers should be proactive when approaching new players and extending help</li>
+</ul>
+</li>
+</ul>
+<p>Players who like this role also apply for: Arena Master, Assistant</p>
+<div class="tech"><doc-anchor-target id="tech-support">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tech-support">#</doc-anchor-trigger>
+        <span>Tech Support</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><strong>Time Commitment</strong>: 3
+<ul>
+<li>Tech Supports are expected to code new aliases in line with changes or releases</li>
+<li>When none of those are happening, they are free to pursue their own projects that they think might be beneficial to the server</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>: 5
+<ul>
+<li>Tech Supports requires prior knowledge of Python which needs self-study or experience</li>
+<li>Tech Supports should be patient, as the coding process requires constant revisions and bug fixing</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>: 5
+<ul>
+<li>Tech Supports are required to collaborate with other Tech Supports to ship complex aliases</li>
+<li>Seniors and Admins regularly consult Tech Supports about bot matters and feasibility</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 3
+<ul>
+<li>Tech Supports mostly work with Avrae</li>
+<li>They primarily work on DTD aliases, however occasionally are tapped on to make quality of life aliases</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 1
+<ul>
+<li>Tech Supports are not required to communicate with the public other than release notes</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 3
+<ul>
+<li>Tech Supports should pick up projects and actively communicate their status on them</li>
+</ul>
+</li>
+</ul>
+<p>Players who like this role also apply for: Mod</p>
+<div class="am"><doc-anchor-target id="arena-master">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#arena-master">#</doc-anchor-trigger>
+        <span>Arena Master</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><strong>Time Commitment</strong>: 4
+<ul>
+<li>Arena Masters can choose when they want to run their sessions</li>
+<li>Arena Master has comparatively less time commitment needed than a Trainee DM, but still has to spend time planning their games, getting them approved, and taking at least 2 hours out of their schedule to run them.</li>
+<li>However, as arenas take comparatively shorter to run than bounties, it may be suitable for those with more limited schedules.</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>: 4
+<ul>
+<li>As DMing has an infinite skill ceiling and there are thousands of monsters, self improvement is a necessary skill. TDMs will need to work on their gamesense, rules knowledge, balance, player engagement, supplementary materials, and more.</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>: 4
+<ul>
+<li>Arena Masters will be consistently working with Mentor DMs and Senior DMs to fine tune games. They are expected to take their advice on areas of improvement.</li>
+<li>Arena Masters are not expected to collaborate with other AMs or staff roles, but can choose to do so.</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 4
+<ul>
+<li>Arena Masters can decide what they want to run as long as it follows DM guidelines</li>
+<li>Game content is limited to the arena itself</li>
+<li>Arena Masters can customize arena and pit maps</li>
+<li>Arena Masters cannot do elaborate storylines, give magic items, or make NPCs outside of pit masters</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 4
+<ul>
+<li>Arena Masters will be consistently working with players, not against them, to achieve their objective. A friendly personality is a must.</li>
+<li>When AMs run low level events, they will encounter many newbies who will require guidance. They are expected to help them to the best of their ability in a polite manner.</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 5
+<ul>
+<li>Arena Masters are expected to take initiative in thinking of ideas, doing research online for inspiration, and planning encounters</li>
+<li>While Mentor DMs and Senior DMs can offer advice on specific ideas, they cannot come up with ideas or create encounters.</li>
+</ul>
+</li>
+</ul>
+<p>People who like this role also apply for: Trainee DM, NPC Master</p>
+<div class="tdm"><doc-anchor-target id="trainee-dm">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#trainee-dm">#</doc-anchor-trigger>
+        <span>Trainee DM</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Time:::
+<ul>
+<li>Trainee DMs can choose when they want to run their sessions</li>
+<li>Being a DM requires the most time commitment out of all the roles due to the length of time bounties take. TDMs have the option of making them multisession, but are responsible for organizing scheduling.</li>
+<li>Other than running the game itself, TDMs also need to set aside time for planning the game, getting them approved, and calculating rewards.</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>: 4
+<ul>
+<li>As DMing has an infinite skill ceiling and there are thousands of monsters, self improvement is a necessary skill. TDMs will need to work on their gamesense, rules knowledge, balance, player engagement, supplementary materials, and more.</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>: 4
+<ul>
+<li>Trainee DMs will be consistently working with Mentor DMs and Senior DMs to fine tune games. They are expected to take their advice on areas of improvement.</li>
+<li>Trainee DMs are not expected to collaborate with other TDMs or staff roles, but can choose to do so.</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 5
+<ul>
+<li>Trainee DMs can decide what they want to run as long it fits DM guidelines</li>
+<li>Game content can take place anywhere in Icris, but must follow DM guidelines</li>
+<li>Trainee DMs can customize their own maps</li>
+<li>Trainee DMs can do elaborate storylines, give magic items, and make NPCs</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 4
+<ul>
+<li>Trainee DMs will be consistently working with players, not against them, to achieve their objective. A friendly personality is a must.</li>
+<li>When TDMs run low level events, they will encounter many newbies who will require guidance. They are expected to help them to the best of their ability in a polite manner.</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 5
+<ul>
+<li>TDMs are expected to take initiative in thinking of ideas, doing research online for inspiration, and planning encounters</li>
+<li>While Mentor DMs and Senior DMs can offer advice on specific ideas, they cannot come up with ideas or create encounters.</li>
+</ul>
+</li>
+</ul>
+<p>People who like this role also apply for: NPC Master</p>
+<div class="tmod"><doc-anchor-target id="trainee-mod">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#trainee-mod">#</doc-anchor-trigger>
+        <span>Trainee Mod</span>
+    </h3>
+</doc-anchor-target>
+</div>
+</div>
+<ul>
+<li><p><strong>Time Commitment</strong>: 3</p>
+<ul>
+<li>Trainee Mods are required to dedicate time in inputting on discussions as well as processing reports.</li>
+<li>However, these tasks on their own usually only need a few minutes, with a few hours max if a complex investigation needs to be carried out. As long as the TMod checks the mod channels frequently and responds, they should be fine.</li>
+</ul>
+</li>
+<li><p><strong>Learning Curve</strong>: 3</p>
+<ul>
+<li>Extensive time in the role will be needed to learn about how different types of cases are handled</li>
+<li>TMods will need to learn concepts such as why a rule is enforced, the spirit of a rule, and when it is time for rules to get an update.</li>
+</ul>
+</li>
+<li><p><strong>Collaborativeness</strong>: 5</p>
+<ul>
+<li>All Mods and TMods are expected to contribute to discussions</li>
+<li>TMods are expected to write drafts and undergo peer review before sending</li>
+</ul>
+</li>
+<li><p><strong>Variety</strong>: 3</p>
+<ul>
+<li>There are many types of situations that mods will encounter</li>
+<li>That said, they cannot choose which cases to handle, unless they believe they would be biased or the case would impact their mental health.</li>
+</ul>
+</li>
+<li><p><strong>Public Facing</strong>: 5</p>
+<ul>
+<li>Mods are the most public facing of the staff roles</li>
+<li>Extreme sensitivity is required so that rulings are presented in the most unbiased and fair way possible</li>
+<li>TMods need to be very careful about their words and how it can be construed, whether conducting official mod business or just chatting casually</li>
+<li>TMods must be very careful about not revealing details in ongoing cases.</li>
+</ul>
+</li>
+<li><p><strong>Initiative</strong>: 2</p>
+<ul>
+<li>Mods is a generally reactive role, meaning that they handle reports as they come</li>
+<li>TMods should flag any suspicious content they see, like all staff members</li>
+<li>That said, proactiveness is a plus.</li>
+</ul>
+</li>
+<li><p>People who like this role also like to apply for: Assistant</p>
+</li>
+</ul>
+<div class="ast"><doc-anchor-target id="assistant">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#assistant">#</doc-anchor-trigger>
+        <span>Assistant</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><p><strong>Time Commitment</strong>: 2</p>
+<ul>
+<li>Assistants are expected to pick up tasks they can handle</li>
+<li>They can schedule these tasks in their own time, so long as it is done within a reasonable timeframe</li>
+<li>They should still have a reasonable amount of free time if they wish to be active in the role due to frequency and volume of tasks</li>
+</ul>
+</li>
+<li><p><strong>Learning Curve</strong>: 3</p>
+<ul>
+<li>Training sessions are held to familiarize Assistants with software</li>
+<li>Assistants will need to pick up a variety of processes on the fly</li>
+<li>Assistants need to be willing to learn simple software</li>
+</ul>
+</li>
+<li><p><strong>Collaborativeness</strong>: 2</p>
+<ul>
+<li>Assistants can collaborate with other Assistants on tasks, but are not required to do so</li>
+<li>Assistants should however give input on questions if prompted</li>
+</ul>
+</li>
+<li><p><strong>Variety</strong>: 2</p>
+<ul>
+<li>Most of Assistant work revolves around one of three things: spreadsheets, Zeppelin (post editing), and revamps</li>
+</ul>
+</li>
+<li><p><strong>Public Facing</strong>: 1</p>
+<ul>
+<li>Assistants work almost entirely on the backend: if they require interaction, it is limited to processing logs, and even then it is minimal</li>
+</ul>
+</li>
+<li><p><strong>Initiative</strong>: 4</p>
+<ul>
+<li>Assistants are encouraged to seek out and suggest work they would be interested in doing.</li>
+<li>Assistants should pick up tasks when they are announced</li>
+</ul>
+</li>
+<li><p>People who like this role also like to apply for: Trainee Mod, Arena Master</p>
+</li>
+</ul>
+<div class="npcm"><doc-anchor-target id="npc-master">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#npc-master">#</doc-anchor-trigger>
+        <span>NPC Master</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><strong>Time Commitment</strong>: 2
+<ul>
+<li>NPC Masters are expected to participate in events as well as roam RP channels when able</li>
+<li>They can schedule encounters in their own time</li>
+<li>They should still have a reasonable amount of free time if they wish to be active in the role as encounters can take some time</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>: 3
+<ul>
+<li>NPC Masters should get to know the personalities of various public NPCs as well as their own and master them</li>
+<li>NPC Masters should ensure their NPCs and encounters abide by server limits</li>
+<li>NPC Masters are expected to ask questions if they are unsure about something</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>: 3
+<ul>
+<li>NPC Masters are expected to collaborate with Events Committee to plan encounters around events</li>
+<li>NPC Masters are expected to ask other NPC Masters to learn about their NPCs’ personalities</li>
+<li>Individual encounters however can be done on their own</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 3
+<ul>
+<li>NPC Master encounters are usually either self-initiated, player-initiated, or event-initiated</li>
+<li>They have the option of opening pop up shops if they wish, as well as assisting in existing shops</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 4
+<ul>
+<li>NPC Masters spend most of their time with other players</li>
+<li>That said, this role does not require much public speaking skills, as NPC Masters are talking using characters</li>
+<li>They should still exercise basic common sense in gauging whether an encounter would be fun or unfun to a player</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 2
+<ul>
+<li>NPC Masters can mostly work around events if they wish</li>
+<li>NPC Masters should respond to <code v-pre>#npc-registry</code> requests if they have permissions for that NPC</li>
+<li>Roaming RP channels on their own accord is a plus</li>
+</ul>
+</li>
+</ul>
+<p>People who like this role also like to apply for: Trainee DM</p>
+<div class="hb"><doc-anchor-target id="homebrewer">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#homebrewer">#</doc-anchor-trigger>
+        <span>Homebrewer</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><strong>Time Commitment</strong>: 3
+<ul>
+<li>Homebrewers are expected to convene in a timely manner when new official material is released</li>
+<li>Homebrewers can process homebrew submissions at their leisure</li>
+</ul>
+</li>
+<li><strong>Learning Curve</strong>: 5
+<ul>
+<li>Being able to balance material requires intricate and extensive knowledge of D&amp;D 5e</li>
+<li>Homebrewers must also be able to adapt with changing design directions on the part of WOTC, and decide the best course of action to handle homebrew moving forward</li>
+</ul>
+</li>
+<li><strong>Collaborativeness</strong>: 5
+<ul>
+<li>Homebrewers are required to discuss with other Homebrewers about material</li>
+<li>They must able to do so in a civil manner, and settle disputes in accordance with what would be the best direction for the server</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 4
+<ul>
+<li>As WOTC tends to put out content of varying quality, Homebrewers will have much to discuss about</li>
+<li>Homebrewers are also free to start their own initiatives in creating their own material or revamping existing ones</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 3
+<ul>
+<li>Homebrewers conduct most of their work in private</li>
+<li>However, they should still possess minimal communication skills when relaying reasons why material is denied or banned to the public</li>
+<li>Homebrewers should answer questions by the public about homebrew</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 4
+<ul>
+<li>Homebrewers should take initiative to review new content and the homebrew submissions backlog</li>
+</ul>
+</li>
+</ul>
+<p>People who like this role also apply for: Mod</p>
+<div class="lk"><doc-anchor-target id="lore-keeper">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#lore-keeper">#</doc-anchor-trigger>
+        <span>Lore Keeper</span>
+    </h3>
+</doc-anchor-target>
+</div>
+<ul>
+<li><strong>Time Commitment</strong>: 3
+-Lore Keepers are expected to write lore in their own time</li>
+<li><strong>Learning Curve</strong>: 3
+-Lore Keepers are expected to learn about the world through experience and asking questions</li>
+<li><strong>Collaborativeness</strong>: 3
+<ul>
+<li>Lore Keepers can collaborate with other LKs on lore, but are not required to</li>
+<li>Lore Keepers are required to design material such that it is easy for other staff roles to use</li>
+</ul>
+</li>
+<li><strong>Variety</strong>: 3
+<ul>
+<li>Lore Keepers are given topics to write about, but can also write about what they like if inspiration strikes them</li>
+</ul>
+</li>
+<li><strong>Public Facing</strong>: 2
+<ul>
+<li>Lore Keepers spend most of their time not interacting with the public
+However, they may be called on to answer lore questions</li>
+</ul>
+</li>
+<li><strong>Initiative</strong>: 4
+-Lore Keepers are expected to respond to topics and prompts
+-Lore Keepers are expected to identify and fill gaps in lore</li>
+</ul>
+<p>Players who like this role also apply for: DM</p>
+
+                                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+                            </div>
+                            <footer class="clear-both">
+                            
+                                <nav class="flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../tips/disband-guild/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block mt-1">So You Want To Disband Your Guild</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../avrae/">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block mt-1">Avrae Commands</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between">
+                                <div>
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                    </ul>
+                                </div>
+                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2024. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="docs-overlay-target"></div>
+
+    <script data-cfasync="false">window.__DOCS__ = { "title": "So You Want to be Staff", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+</body>
+</html>
