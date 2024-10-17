@@ -1,11 +1,11 @@
 input: .
 output: .retype
-url: https://dndworld.github.io/
+url: https://jmac0904.github.io/
 meta:
   title: " | DW Guide"
 branding:
   title: DW Guide
-  label: v1.1
+  label: v1.Jmac
   logo: Images/logo-circle.png
   colors:
     label:
