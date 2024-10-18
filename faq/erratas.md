@@ -51,14 +51,19 @@ Server Rule Keyword: <RPXP, XP, Level, DM Event, Roleplay>
 ## Rulings Clarifications
 
 ### General:
-
+==- **Can you refer to classes in character?**
+**Interpretation:** The idea of character classes is a meta concept. A character belonging to a class does not necessarily identify themselves with the word the rules use for that class.<br>
+**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/621035485690724369/826215429629280296)
+```yaml **Tags**
+Class/Classfeat: Class
+Server Rule Keyword: Roleplay
+```
 ==- **Leveling between game acceptance and game start**
 **Interpretation:** XP from combat training (and likely other sources) is applied immediately but it's up to each individual dm to either replace the one who leveled or let them stay, even if the game is out of their new level range.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/796859071915360297)
 ```yaml **Tags**
 Server Rule Keyword: XP, Level, DM Event
 ```
-===
 ==- **Using your shield arm for somatic components**
 **Description:** Performing somatic components for spells as a Paladin or Cleric, using your shield arm due to your shield being your focus.
 - Interpretation: If your Holy Symbol is on your shield, you may use that hand to perform somatic components of spells that have a material component that do not have a gold cost for their material component and do not have their material component consumed.<br>
@@ -93,14 +98,6 @@ Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongu
 
 ### Classes:
 
-==- **Can you refer to classes in character?**
-**Interpretation:** The idea of character classes is a meta concept. A character belonging to a class does not necessarily identify themselves with the word the rules use for that class.<br>
-**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/621035485690724369/826215429629280296)
-```yaml **Tags**
-Class/Classfeat: Class
-Server Rule Keyword: Roleplay
-```
-===
 ==- **Artificer: Replicate Magic Item**
 **Description**
 > Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
@@ -149,7 +146,6 @@ Item: Metal equipment
 Class/Classfeat: Monk
 Item: Dart, thrown weapon
 ```
-===
 ===
 ==- **Monk: Shields, Magic Shields, and the Martial Arts class feature**
 **Interpretation:** For the purposes of a shield (specifically magic shields), "holding" a shield is the same thing as "wearing" or "wielding" said shield.<br>
