@@ -1,14 +1,8 @@
 ---
 label: Odd Jobs DTDs
 order: 10
-icon:  ':moneybag:'
+icon: ":ninja:"
 ---
-
-<style>
-h1:before { 
-  content: "💰 ";
-}
-</style>
 
 *Random tasks, for the unskilled and the fearless. These jobs are readily available and do not require you to Find an employer. However they vary wildly in profitability and safety.*
 

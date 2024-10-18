@@ -1,7 +1,7 @@
 ---
 label: Downtime Days (DTDs)
 order: 14
-icon: 
+icon: ":moneybag:"
 ---
 
 **Downtime Day (DTD)** activities can enable you to earn some extra gold, copy spells, and other neat features.

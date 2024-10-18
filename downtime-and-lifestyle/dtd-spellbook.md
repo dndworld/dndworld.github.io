@@ -3,6 +3,10 @@ label: Spellbook DTDs
 order: 7
 icon: ":book:"
 ---
+<style>
+h1:before { content: "📖 " }
+</style>
+
 # Spellbook DTDs
 
 Spellbook DTDs are for spellcasters who require **Spellbook** for casting spells.
