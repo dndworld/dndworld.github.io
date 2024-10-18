@@ -1,5 +1,5 @@
 ---
-label: "Will Log"
+label: "Wills"
 icon: ":scroll:"
 order: 0
 ---

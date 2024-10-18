@@ -1,7 +1,7 @@
 ---
 label: Downtime and Lifestyle
 order: 97
-icon: ":coin:"
+icon: ":moneybag:"
 expanded: false
 ---
 This category contains rules and guidelines for Lifestyle and DTD system.
