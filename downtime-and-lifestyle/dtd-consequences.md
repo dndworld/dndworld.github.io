@@ -1,5 +1,5 @@
 ---
-label: DTD Consequences
+label: Consequences
 order: 8
 icon: ":adhesive_bandage:"
 ---
@@ -8,7 +8,7 @@ icon: ":adhesive_bandage:"
 h1:before { content: "🩹 " }
 </style>
 
-# DTD Consequences
+# Consequences
 
 *”High risk, high reward. High reward? High risk!”*
 

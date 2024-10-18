@@ -1,5 +1,5 @@
 ---
-label: Odd Jobs DTDs
+label: Odd Jobs
 order: 10
 icon: ":supervillain:"
 ---

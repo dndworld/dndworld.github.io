@@ -9,15 +9,15 @@ h1:before { content: "📖 " }
 
 # Spellbook DTDs
 
-Spellbook DTDs are for spellcasters who require **Spellbook** for casting spells.
+Spellbook DTDs are for spellcasters who require a **Spellbook** for casting spells.
 
-> - Class: Wizard, Cardmaster, Spellsword
+> - Classes: Wizard, Cardmaster, Spellsword
 > - Others: Pact of the Tome Warlock, Ritual Caster feat
 
 
 ## Copying Spells
 
-A few things for Copying Spells in **DnD World** are different from D&D 5e Basic Rule.
+A few things for Copying Spells in **Dnd World** are different from the D&D 5e Basic Rules.
 
 - For copying a new spell into your spellbook, the process takes 2 hours and costs **20 gp** per spell level (Basic Rule is 50gp).
 - For copying a spell you’ve already learned, the process takes 1 hour and costs **5gp** per spell level (Basic Rule is 10gp). This includes copying from one spellbook of yours to another spellbook of yours, as well as copying from your own research note (info is in Spell Research DTD) to your own spellbook.
