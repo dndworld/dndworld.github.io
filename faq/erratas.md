@@ -1,6 +1,6 @@
 ---
 label: Erratas
-icon: :black_nib:
+icon: ":black_nib:"
 ---
 
 <style>
