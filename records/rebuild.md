@@ -1,9 +1,9 @@
 ---
-label: Rebuild Retire Log
+label: Rebuilding & Retiring
 order: 9
 icon: ":building_construction:"
 ---
-# Rebuild Retire Log
+# Rebuilding & Retiring
 ## Rebuild Rules
 
 > - Please fill in and submit the Rebuild Request Template.

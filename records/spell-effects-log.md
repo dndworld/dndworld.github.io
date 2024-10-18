@@ -1,5 +1,5 @@
 ---
-label: "Spell Effects Log"
+label: "Special Spells"
 icon: ":crystal_ball:"
 order: 0
 ---
@@ -9,7 +9,7 @@ h1:before {
 }
 </style>
 
-Some spells produce effects that last over a period of time or majorly impact the world, such as Magnificent Mansion, Magic Mouth, Teleportation Circle, etc. A select number of these spells can be used in RP channels as long as they’re logged here, while others can only be cast while in games. As long as the spell has an effect duration of 24 hours or more, it should be logged.
+Some spells produce effects that last over a period of time or majorly impact the world, such as Magnificent Mansion, Magic Mouth, Teleportation Circle, etc. A select number of these spells can be used in RP channels as long as they’re logged in [#spell-effects-log](https://discordapp.com/channels/512870694883950598/579612493345980447), while others can only be cast while in games. As long as the spell has an effect duration of 24 hours or more, it should be logged.
 
 Please note that the casting of these spells must still obey server PVP rules and not affect the general population. Misuse of spells, especially to harm other PCs/NPCs, will not be tolerated and will be retconned. Note that just because an NPC Master or Mod does not immediately step in to retcon it, does not mean that such instances will not be eventually reported and retconned.
 

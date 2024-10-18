@@ -1,7 +1,7 @@
 ---
 label: Odd Jobs DTDs
 order: 10
-icon: ":ninja:"
+icon: ":supervillain:"
 ---
 
 *Random tasks, for the unskilled and the fearless. These jobs are readily available and do not require you to Find an employer. However they vary wildly in profitability and safety.*

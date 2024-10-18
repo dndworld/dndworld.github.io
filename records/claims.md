@@ -1,5 +1,5 @@
 ---
-label: Claiming
+label: Claims
 order: 10
 # icon: "::"
 ---

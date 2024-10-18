@@ -9,6 +9,8 @@ h1:before {
 }
 </style>
 
+All XP and RPXP should be redeemed in [#xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481).
+
 ## XP Commands
 
 > - Check XP: `!dxp`

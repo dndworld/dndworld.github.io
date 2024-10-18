@@ -1,5 +1,5 @@
 ---
-label: "Transaction Log"
+label: "Transactions"
 icon: ":money_with_wings:"
 order: 0
 ---
@@ -8,6 +8,8 @@ h1:before {
   content: "💸 ";
 }
 </style>
+
+All purchases, sales, and trades should be recorded in [#transaction-log](https://discordapp.com/channels/512870694883950598/531011819095982081).
 
 ## Making Transactions
 
