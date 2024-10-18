@@ -87,7 +87,7 @@ Race/Racefeat: Awakened Cat, Awakened Dog
 Class/Classfeat: Druid, Ranger
 Item: Spellcasting focus, Druidic focus
 ```
-==- **Feral Tiefling from MTOF and Tiefling Bloodlines from SCAG.**
+==- **Feral Tiefling from MTOF and Tiefling Bloodlines from SCAG**
 **Interpretation:** you cannot play a feral tiefling with a different bloodline than the Bloodline of Asmodeus subrace from the PHB, meaning that feral tieflings are only compatible with the Winged, Devil's Tongue, and Hellfire variant traits.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/871745695491715173)
 ```yaml **Tags**
@@ -295,7 +295,7 @@ Spell: Cantrips
 Class/Classfeat: Cleric, Paladin, Holy Symbol
 Item: Spellcasting Focus, Holy Symbol
 ```
-==- **Rogue (Soulknife): Psychic Blades and Extra Attack**
+==- **Rogue—Soulknife: Psychic Blades and Extra Attack**
 **Interpretation:** If you have Extra Attack, you can use the Soulknife rogue's Psychic Blades feature for all attacks made as part of an Attack action, making a new blade for each attack.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/814181477910577154)
 ```yaml **Tags**
@@ -378,16 +378,20 @@ Item: Spellcasting focus, Druidic focus, Staff
 
 
 ## Erratas
-
-==- **Drow Sunlight Sensitivity**
+==- **Drow: Sunlight Sensitivity**
 **Changes:** Sunlight Sensitivity is an optional feature, and is no longer required.<br>
 **Link to discussion:** [!badge variant="info" text="Discord (staff channel)" icon="link"](https://discord.com/channels/512870694883950598/803192028200304660/1203409654034472960)
 ```yaml **Tags**
 Race/Racefeat: Drow Sunlight Sensitivity
 ```
-===
-
-==- **Cartomancer Feat**
+==- **Equipment: Ring of Spell Storing** 
+**Changes:** Any benefits or changes granted by a spell or spell effect, including instantaneous effects such as Find Familiar and Find (Greater) Steed, cast from the Ring of Spell Storing end when a creature other than you attunes to the item.<br>
+**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1102977200556355644)
+```yaml **Tags**
+Class/Classfeat: Spellcasting
+Item: Ring of Spell Storing
+```
+==- **Feat: Cartomancer**
 **Changes:**
 - The spell cast as a bonus action via *Hidden Ace* still requires a spell slot (or some other means of circumventing that requirement, like casting a spell which is both on your spell list and something you know as a racial spell) to be cast.
 - You may only designate one spell as your Hidden Ace per long rest, and may only use your Hidden Ace to cast a spell as a BA once per long rest -- no, you cannot abuse this feat by multiclassing and acquiring multiple spell lists.
@@ -396,8 +400,20 @@ Race/Racefeat: Drow Sunlight Sensitivity
 ```yaml **Tags**
 Spell: Cartomancer
 ```
-===
-==- **Casting Spells While Transformed (e.g. Polymorph)**
+==- **Feat: Divinely Favored**
+**Changes:** The feat's 1st-level spell list is determined by the character's alignment at the time they take the feat. Changing the spell list requires a rebuild.<br>
+**Link to discussion:** [!badge variant="info" text="Discord (staff channel)" icon="link"](https://discord.com/channels/512870694883950598/740436215547035729/1101506310563954729)
+```yaml **Tags**
+Divinely Favoured, Feat
+```
+==- **Monk: Unarmored Defense**
+**Description:** If you already have the Unarmored Defense feature, you can't gain it again from another class.
+**Changes:** If you have acquired the Unarmored Defense feature from two different classes, you get to choose which Unarmored Defense you benefit from.<br>
+**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/838636813710393385)
+```yaml **Tags**
+Class/Classfeat: Barbarian, Monk, Unarmored Defense, Multiclass
+```
+==- **Spell: Casting Spells While Transformed (e.g. Polymorph)**
 **Description:** Some spells, such as True Polymorph, allow a spellcaster to transform a creature into a different creature or summon a creature, which may respectively gain or have the ability to cast particular spells without requiring spell components.
 **Changes:** The transformed creature must still provide any material components that has a cost and/or is consumed for the casting of these spells. If the creature was summoned, the spellcaster who summoned it must provide such components instead. If the component is consumed by the spell, the component must be provided for each casting of the spell.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/740436215547035729/1153809815068475433) (FanMail)
@@ -405,9 +421,13 @@ Spell: Cartomancer
 Class/Classfeat: True Polymorph, Summon Spells
 Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasting, Psionics
 ```
-===
-
-==- **Chaos Features**
+==- **Spell: Reincarnate Targets**
+**Changes:** Reincarnate is capable of targeting and affecting dead *Player Characters* only, regardless of if they are humanoid or not. This does not affect non-player characters such as pets or other creatures. <br>
+**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1153458254794461184)
+```yaml **Tags**
+Spell: Reincarnate
+```
+==- **Sorcerer—Wild Magic: Chaos Features**
 **Description:** Cohort of Chaos' "Chaotic Flare" feature as well as the Wild Magic sorcerer's "Wild Magic Surge," "Tides of Chaos," and  "Controlled Chaos" features.
 **Changes:** Chaotic Flares and Wild Magic rolls can only cause damage to other creatures within the confines of the arena or while a DM is supervising the interaction. If a Chaotic Flare of Wild Magic Surge would deal damage outside of these circumstances, the player may choose to either reroll the effect or ignore the roll entirely.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/1237261298493034506/1237435142629228615)
@@ -415,49 +435,10 @@ Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasti
 Subclass/Subclassfeat: Wild Magic sorcerer.
 Feat: Cohort of Chaos, Chaotic Flare
 ```
-===
-
-==- **Reincarnate Targets**
-**Changes:** Reincarnate is capable of targeting and affecting dead *Player Characters* only, regardless of if they are humanoid or not. This does not affect non-player characters such as pets or other creatures. <br>
-**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1153458254794461184)
-```yaml **Tags**
-Spell: Reincarnate
-```
-===
-
-==- **Feat: Divinely Favored**
-**Changes:** The feat's 1st-level spell list is determined by the character's alignment at the time they take the feat. Changing the spell list requires a rebuild.<br>
-**Link to discussion:** [!badge variant="info" text="Discord (staff channel)" icon="link"](https://discord.com/channels/512870694883950598/740436215547035729/1101506310563954729)
-```yaml **Tags**
-Divinely Favoured, Feat
-```
-===
-==- **Ring of Spell Storing (Ring, Rare) (Requires Attunement)** 
-**Changes:** Any benefits or changes granted by a spell or spell effect, including instantaneous effects such as Find Familiar and Find (Greater) Steed, cast from the Ring of Spell Storing end when a creature other than you attunes to the item.<br>
-**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1102977200556355644)
-```yaml **Tags**
-Class/Classfeat: Spellcasting
-Item: Ring of Spell Storing
-```
-===
-==- **Errata to Rule:** If you already have the Unarmored Defense feature, you can't gain it again from another class.
-**Changes:** If you have acquired the Unarmored Defense feature from two different classes, you get to choose which Unarmored Defense you benefit from.<br>
-**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/838636813710393385)
-```yaml **Tags**
-Class/Classfeat: Barbarian, Monk, Unarmored Defense, Multiclass
-```
-===
 ==- **Spell: Plane Shift**
 **Changes:** You can only use a specific tuning fork material component for transport to the plane that it is tuned to.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/828514093563379753)
 ```yaml **Tags**
 Spell: Plane Shift
-```
-===
-==- **Haunted One Background**
-**Changes:** The version from D&D Beyond is used. This means that a Haunted One character gains two languages, at least one of which must be exotic. They also start with 1 sp.<br>
-**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/828091815738736723)
-```yaml **Tags**
-Background: Haunted One
 ```
 ===
