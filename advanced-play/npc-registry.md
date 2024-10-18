@@ -97,11 +97,10 @@ Notes:
 ### Praying
 
 - You must RP your prayer before rolling
-- If your roll
+- If your prayer has failed to catch the attention of any deity, you **do not** need to log it. This happens when your roll
   - does not meet the DC or higher
   - is not a Nat 1
-  - is not a negative result<br>
-<span style="margin-left:-2rem">you **do not** need to log it as your prayer has failed to catch the attention of any deity.</span>
+  - is not a negative result
 <br><br>
 - Don't log for petty matters such as:
   - Asking for blessings
@@ -119,7 +118,7 @@ Notes:
 - You can only pray to **one** god at any time
 - This system only works in the temple/shrine channels, unless otherwise specified.
 <br><br>
-- If you pray with someone else for the same god, only one person should roll and log, but they can make their roll at an advantage. Note this in the `#npc-registry` form
+- If you pray with someone else for the same god, only one person should roll and log, but they can make their roll at an advantage. Note this in the [`#npc-registry`](https://discord.com/channels/512870694883950598/545107769951518740) form
 - Nat 1s/negatives result in catching the attention of another deity. Vice versa, a Nat 20 might result in the appearance of more than one god.
 - Indicate in the notes if your prayer is time urgent
 
