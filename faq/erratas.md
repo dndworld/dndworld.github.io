@@ -87,7 +87,6 @@ Race/Racefeat: Awakened Cat, Awakened Dog
 Class/Classfeat: Druid, Ranger
 Item: Spellcasting focus, Druidic focus
 ```
-===
 ==- **Feral Tiefling from MTOF and Tiefling Bloodlines from SCAG.**
 **Interpretation:** you cannot play a feral tiefling with a different bloodline than the Bloodline of Asmodeus subrace from the PHB, meaning that feral tieflings are only compatible with the Winged, Devil's Tongue, and Hellfire variant traits.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/871745695491715173)
@@ -106,7 +105,6 @@ Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongu
 ```yaml **Tags**
 Class/Classfeat: Artificer, Infuse Item, Replicate Magic Item
 ```
-===
 ==- **Bard: Spells learned from Magical Secrets can benefit from DW variant spell versatility feature.**
 **Interpretation:** If a feature expands a class spell list (e.g. in Magical Secret's case), those spells can benefit from DW variant spell versatility feature. If a feature adds a specific list spells (e.g. in Draconic Spells' case), they cannot benefit from DW variant spell versatility feature.<br>
 **Link to discussion:** [!badge variant="info" text="Discord (staff channel)" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1108408169031536742)
@@ -115,7 +113,6 @@ Class/Classfeat: Bard, Magical Secrets
 Subclass/Subclassfeat: College of Lore Bard, Additional Magical Secrets
 Server Rule Keyword: DW Variant Spell Versatility
 ```
-===
 ==- **Blood Hunter: If you have the Polearm Master Feat, does the BA attack also get crimson rite damage?**
 **Interpretation:** Yes, it does<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/927765438392311818)
@@ -123,14 +120,12 @@ Server Rule Keyword: DW Variant Spell Versatility
 Class/Classfeat: Blood Hunter, Crimson Rite
 Feat: Polearm Master
 ```
-===
 ==- **Druid: Injuries (and similar conditions) carry over into Wildshape**
 **Interpretation:** A druid can't use wildshape to ignore the effects of an injury or illness gained from downtime<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/693302580092076033)
 ```yaml **Tags**
 Class/Classfeat: Druid, wild shape
 ```
-===
 ==- **Druid: Metal Equipment**
 **Interpretation:** Druids can use metal equipment<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/766828046002683925)<br>
@@ -138,7 +133,6 @@ Class/Classfeat: Druid, wild shape
 Class/Classfeat: Druid
 Item: Metal equipment
 ```
-===
 ==- **Monk: Dedicated Weapon**
 **Interpretation:** If the one weapon is a dart, then you can treat all darts as monk weapons. May extend to other thrown weaponry.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/783022392544985179)
@@ -146,7 +140,6 @@ Item: Metal equipment
 Class/Classfeat: Monk
 Item: Dart, thrown weapon
 ```
-===
 ==- **Monk: Shields, Magic Shields, and the Martial Arts class feature**
 **Interpretation:** For the purposes of a shield (specifically magic shields), "holding" a shield is the same thing as "wearing" or "wielding" said shield.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/832993547275862077)
@@ -154,14 +147,12 @@ Item: Dart, thrown weapon
 Class/Classfeat: Monk, Martial Arts
 Item: Shield, Magic Shield
 ```
-===
 ==- **Paladin: Divine Smites with Unarmed Strikes**
 **Interpretation:** A paladin can use a divine smite when attacking with an unarmed strike or natural weapon<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/582100197329469440/775929675158388736)
 ```yaml **Tags**
 Class/Classfeat: Paladin, divine smite
 ```
-===
 ==- **Paladin: Smite Spells with Unarmed Strikes**
 **Interpretation:** Smite spells like Thunderous Smite can be applied to melee attacks made using unarmed strikes or natural weapons without requiring the caster to hold a weapon.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/899327893098889268)
@@ -169,7 +160,6 @@ Class/Classfeat: Paladin, divine smite
 Class/Classfeat: Paladin
 Spell: Smite, Thunderous smite
 ```
-===
 ==- **Sorcerer: Aberrant Mind Sorcerers Swapping Psionic Spells**
 **Interpretation:** You can swap out a psionic spell on the same level on which you gain it.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/901284342804910110)
@@ -178,13 +168,13 @@ Class: Sorcerer
 Subclass/Subclassfeat: Aberrant Mind, Psionic Spells
 Server Rule Keyword: Leve
 ```
-===
 ==- **Warlock: Replacing your Book of Shadows**
 **Interpretation:** If a warlock with the Pact of the Tome feature uses the ritual to receive a replacement for their Book of Shadows from their patron, it has the same contents as before, including miscellaneous content not related to your warlock class features.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/713284277181349990) [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/886982902125043762)</br>
 ```yaml **Tags**
 Class/Classfeat: Warlock, Pact of the Tome, Book of Shadows
 ```
+===
 
 ### Feats
 
@@ -201,7 +191,6 @@ Cooking supplies consist of various foods, spices, seasonings and other ingredie
 Feat: Chef
 Item: Cooking ingredients
 ```
-===
 ==- **Durable feat and Periapt of Wound Closure**
 **Interpretation:** The phrase "Hit points you regain from the [Hit Die] roll" refers to dice roll + CON mod<br>
 
@@ -214,7 +203,6 @@ Item: Cooking ingredients
 Feat: Durable
 Item: Periapt of Wound Closure
 ```
-===
 ==- **Scythes and Polearm Master Feat**
 **Interpretation** The homebrew scythe weapon is considered a glaive and works with the Polearm Master feat.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/1138591406798143529)
@@ -238,7 +226,6 @@ Spell: Animate Dead
 ```yaml **Tags**
 Item: Weapons/Equipment, Proficiency
 ```
-===
 ==- **Animate Dead: Killing undead created by the spell** 
 **RAW:** The remains of the undead created by Animate Dead do not disappear without being explicitly destroyed.
 **Interpretation:** If an undead created by Animate Dead is killed, their remains do not disappear (unless explicitly destroyed by an effect such as Disintegration) and can thus be reanimated with another casting of Animate Dead.<br>
@@ -247,14 +234,12 @@ E.g. The summoner can kill their undead servants and then reanimate them at no a
 ```yaml **Tags**
 Spell: Animate Dead
 ```
-===
 ==- **Command: Does the command "Daydream" break concentration?**
 **Interpretation:** No, since nothing in the spell's description specifies it breaking concentration nor inflicting the incapacitated condition (which does break concentration).<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/927269017188720670)
 ```yaml **Tags**
 Spell: Command
 ```
-===
 ==- **Goodberry: Combining Goodberry with the Life Cleric feature Disciple of Life**
 **Interpretation:** Each berry created by goodberry gains the benefit of Disciple of Life if you have that feature.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/704652209773609018)
@@ -263,7 +248,6 @@ Class/Classfeat: Druid, Ranger, Cleric
 Subclass/Subclassfeat: Life Domain, Disciple of Life
 Spell: Goodberry
 ```
-===
 ==- **Mage Armor being used with shields**
 **Interpretation:** A shield is in the armor section, but not considered armor for the purposes of ending Mage Armor<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/781550250229235712)
@@ -271,7 +255,6 @@ Spell: Goodberry
 Spell: Mage Armor
 Item: Shield
 ```
-===
 ==- **Protection from Evil and Good: Component Costs**
 **Interpretation:** The amount of holy water consumed per casting is negligible, but it's not possible to replace the holy water with a spellcasting focus.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/694402377075392583)
@@ -281,7 +264,6 @@ Subclass/Subclassfeat: Oath of Devotion
 Spell: Protection from Evil and Good
 Item: Spell component, holy water
 ```
-===
 ==- **Revivify, Reincarnation, Resurrection, etc.: Can Diamond Dust Be Used as a Material Component?**
 **Interpretation:** If the spell specifies "A Diamond" it needs a singular diamond. If it says "Diamonds", then Diamond Dust is fine.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/927743658235666523)
@@ -299,7 +281,6 @@ Item: Diamonds
 ```yaml **Tags**
 Class/Classfeat: Jack of All Trades, Reliable Talent
 ```
-===
 ==- **Cleric: Can the 8th-level Blessed Strikes Cleric feature be used on non-Cleric cantrips?**
 **Interpretation:** Yes, Blessed Strikes can be used on any cantrip of yours<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/927007291272728596)
@@ -307,7 +288,6 @@ Class/Classfeat: Jack of All Trades, Reliable Talent
 Class/Classfeat: Cleric, 8th-level Blessed Strikes
 Spell: Cantrips
 ```
-===
 ==- **Cleric/Paladin: Using a Holy Symbol as a Spellcasting Focus for multiple classes**
 **Interpretation:** Both Paladins and Clerics can use a Holy Symbol as their Spellcasting Focus, but no other class can.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/928120968168218685)
@@ -315,7 +295,6 @@ Spell: Cantrips
 Class/Classfeat: Cleric, Paladin, Holy Symbol
 Item: Spellcasting Focus, Holy Symbol
 ```
-===
 ==- **Rogue (Soulknife): Psychic Blades and Extra Attack**
 **Interpretation:** If you have Extra Attack, you can use the Soulknife rogue's Psychic Blades feature for all attacks made as part of an Attack action, making a new blade for each attack.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/814181477910577154)
@@ -323,14 +302,12 @@ Item: Spellcasting Focus, Holy Symbol
 Class/Classfeat: Rogue, Extra attack
 Subclass/Subclassfeat: Soulknife, Psychic blades
 ```
-===
-==- **Spell Versatility with Multiclassing PCs**
+==- **Spell Versatility when multiclassing**
 **Interpretation:** You can only switch out one spell via spell versatility on a LR no matter how many classes you MC into.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/823809735295500329)
 ```yaml **Tags**
 Class/Classfeat: Spell versatility, Multiclass
 ```
-===
 ==- **Spellcasting Foci and multiclassing, material components and free hands**
 **Interpretation:** When multiclassed between 2 caster classes that require different types of Spellcasting Focuses, you must have a separate focus for each class's spells. E.G. A Cleric/Warlock would need a Holy Symbol and an Arcane Focus; a Sorcerer/Warlock would only need one Arcane Focus.<br>
 
@@ -339,14 +316,12 @@ Additionally, if you are casting a spell that has a GP cost as a material compon
 ```yaml **Tags**
 Class/Classfeat: Multiclassing, Material Costs
 ```
-===
 ==- **Using magical spellcasting foci for different classes**
 **Interpretation:**  If a magic item says "If you're a spellcaster, you can use this item as a spellcasting focus", you can use it as a spellcasting focus even if it isn't a type of item your class can normally use as a focus.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/698083830380232704)
 ```yaml **Tags**
 Item: Spellcasting Focus
 ```
-===
 ==- **Wizard: Using a book gained from another class feature as a spellbook**
 **Interpretation:** A book such as a Pact of the Tome warlock's Book of Shadows or a Ritual Caster's ritual book can be used as a spellbook. However, spells inscribed into it using such a feature don't count as wizard spells known.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/886980479172091904)
@@ -364,7 +339,6 @@ Feat: Ritual Caster
 ```yaml **Tags**
 Item: Dragonchess set
 ```
-===
 ==- **Cape / Cloak Magic item slot**
 **Interpretation:** A PC may only have one slot for a cape or a cloak. They cannot benefit from more than 1 at a time.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/1216866330830049483/1216900780263473182)
@@ -372,7 +346,6 @@ Item: Dragonchess set
 Item: Cloak / Cape
 Server Rule Keyword: Item Slots, Magic Item, Stacking Item slots
 ```
-===
 ==- **Making Toys Using Woodcarvers Tools** 
 **Description:** Buying materials from the market and/or making toys out of wood with woodcarvers tools without being in a guild that has Crafting DTD
 **Interpretation:** If you're proficient with woodworking tools and have them, you can make toys without being in a guild that has Crafting DTD. Additionally, you do not need to buy materials from the market to make said toys either.<br>
@@ -380,14 +353,12 @@ Server Rule Keyword: Item Slots, Magic Item, Stacking Item slots
 ```yaml **Tags**
 Item: Woodworking tools
 ```
-===
 ==- **Picking a ranged weapon as starting equipment**
 **Interpretation:** If you start with a ranged weapon from starting equipment by picking one from a "any simple/martial weapon" option, you also start with 20 of the weapon's ammunition.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/546725434608451584/799099180752437288) [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/799106178624782366)
 ```yaml **Tags**
 Item: Ranged weapon, starting equipment
 ```
-===
 ==- **Ring of Regeneration Interactions with Downtime Injuries**
 **Interpretation:** It takes __3 days__ for Ring of Regeneration to heal one downtime injury. You can heal multiple injuries at the same time, with separate timer for each.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1135440988987457566)<br>
@@ -396,7 +367,6 @@ For the ease of tracking, instead of the original 1d6 + 1 days, we have decided 
 Item: Ring of Regeneration (Very Rare)
 Server Rule Keyword: DTD, Downtime, Injury
 ```
-===
 ==- **Staffs as arcane and druidic foci**
 **Interpretation:** If a staff intended to be used as an arcane focus is made of wood, it can also be used as a druidic focus.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/722187796147601558)
