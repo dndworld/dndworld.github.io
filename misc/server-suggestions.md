@@ -1,11 +1,11 @@
 ---
 label: "Server Suggestions"
-icon: ":bulb:"
+icon: ":ballot_box:"
 order: 0
 ---
 <style>
 h1:before { 
-  content: "💡 ";
+  content: "🗳️ ";
 }
 </style>
 

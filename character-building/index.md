@@ -1,5 +1,4 @@
-visibility: hidden
-
+---
 order: 100
 icon: ":gear:"
 expanded: true
@@ -8,6 +7,7 @@ expanded: true
 <style>
 h1:before { content: "⚙️ " }
 </style> 
+
 
 # Character Building
 
