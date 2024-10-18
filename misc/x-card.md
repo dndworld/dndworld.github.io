@@ -51,4 +51,5 @@ Some of the subjects it covers include:
 
 We want to emphasize that if your post is reacted on, this does not mean you have done something bad. 
 
-!!!Please note that while the react is not sent to Mods, it should not be used for memes, in a joking manner, or any other purpose other than as an X-card.!!!
+!!!Please note that while the react is not sent to Mods, it should not be used for memes, in a joking manner, or any other purpose other than as an X-card.
+!!!
