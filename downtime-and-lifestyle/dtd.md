@@ -1,5 +1,5 @@
 ---
-label: Downtime Days (DTDs)
+label: Downtime Days
 order: 14
 icon: ":bed:"
 ---
