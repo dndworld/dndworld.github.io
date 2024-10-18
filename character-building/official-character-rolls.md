@@ -9,15 +9,15 @@ h1:before {
 }
 </style>
 !!!
-> ## Important
-> - It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you **must** use the rolled results.
-> <br><br>
-> - You only get one roll per character.
-> - Only the rolls made in #official-character-rolls are valid.<br>
-> ⚠️ **Do not roll stats/HP/gold on D&D Beyond.**
-> <br><br>
-> - All test rolls should be done in `#bot-dump`.
-> - Upload your character sheets in `#character-sheets`, not #official-character-rolls.
+## Important
+- It is **optional** to roll for stats/gold/hp. However, once you have made the rolls, you **must** use the rolled results.
+<br><br>
+- You only get one roll per character.
+- Only the rolls made in #official-character-rolls are valid.<br>
+⚠️ **Do not roll stats/HP/gold on D&D Beyond.**
+<br><br>
+- All test rolls should be done in `#bot-dump`.
+- Upload your character sheets in `#character-sheets`, not #official-character-rolls.
 !!!
 
 ## Rolling for Stats
@@ -27,12 +27,12 @@ h1:before {
 > - You can arrange the rolled stats into ability scores in any order.
 > - You can only roll stats for character slots you have available. Any excess stats rolled in this channel will be deleted.
 
-==- For D&D Beyond Users
+==- **For D&D Beyond Users**
 
 !!!danger
-> **Do not roll stats/HP/gold on DnD Beyond.**
-> 
-> Change your stat generation method to "Manual/Rolled" and put your scores in the boxes on the top. Racial bonus and any other bonuses get automatically applied. Do **not** put the numbers in the override scores.
+**Do not roll stats/HP/gold on DnD Beyond.**
+
+Change your stat generation method to "Manual/Rolled" and put your scores in the boxes on the top. Racial bonus and any other bonuses get automatically applied. Do **not** put the numbers in the override scores.
 !!!
 
 <img src="https://i.imgur.com/ycxHtLw.png">
