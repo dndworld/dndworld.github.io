@@ -4,7 +4,9 @@ order: 600
 icon: ":bell:"
 ---
 
-This channel is for commonly asked questions.
+# Common FAQ
+
+This page is for commonly asked questions.
 
 ==- "Gee, this is a lot of channels!"
 
