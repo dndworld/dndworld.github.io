@@ -1,11 +1,11 @@
 ---
 label: "Transaction Log"
-icon: ":moneybag:"
+icon: ":money_with_wings:"
 order: 0
 ---
 <style>
 h1:before { 
-  content: "💰 ";
+  content: "💸";
 }
 </style>
 
