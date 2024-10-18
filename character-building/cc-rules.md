@@ -241,6 +241,7 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 
 ![](/images/race-age-chart.png)
 
+{.compact}
 Life Stage   | Dragonborn | Dwarf | Elf | Gnome | Half-Elf | Human |
 ---    | --- | --- | --- | --- | --- | --- | 
 Childhood | 1-4 | 6-13 | 6-25 | 6-13 | 6-13 | 6-13 | 
