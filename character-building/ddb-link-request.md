@@ -9,7 +9,7 @@ h1:before {
 }
 </style>
 
-D&D Beyond (DDB) is one of the three character sheet tools we accept on the server. However, it only allows non-paying users access to the Basic Rules for character creation, which is even more limiting than just PHB. 
+D&D Beyond (DDB) is one of the three character sheet creators we accept on our server. However, it limits non-paying users to the Basic Rules for character creation, which is just a fraction of the content we allow you to play on the server.
 
 With the support of our patrons as well as a club account from D&D Beyond, we are able to provide you with all paid material via content sharing links. We highly encourage you to donate any amount you can afford so we can purchase more links.
 
