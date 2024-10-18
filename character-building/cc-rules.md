@@ -241,6 +241,14 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 
 ![](/images/race-age-chart.png)
 
+Life Stage   | Dragonborn | Dwarf | Elf | Gnome | Half-Elf | Human |
+---    | --- | --- | --- | --- | --- | --- | 
+Childhood | 1-4 | 6-13 | 6-25 | 6-13 | 6-13 | 6-13 | 
+Adolescence | 4-15 | 13-18 | 25-100 | 13-18 | 13-20 | 13-18 |
+Young Adult | 15-20 | 18-50 | 100-350 | 18-40 | 20-30 | 18-30 |
+Settled Adult | 20-50 | 50-200 | 350-600 | 40-200 | 30-150 | 30-65 |
+Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
+
 ## Character Backstory
 
 - It is important to note that your character's backstory will most likely not be explored here. Hence, the backstory is primarily for your roleplay.
