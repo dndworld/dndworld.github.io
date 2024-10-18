@@ -1,6 +1,6 @@
 ---
 label: Resources
-order: 400
+order: 0
 icon: ":page_facing_up:"
 ---
 # Resources

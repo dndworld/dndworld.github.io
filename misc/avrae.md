@@ -1,6 +1,7 @@
 ---
 label: Avrae Commands
 icon: ":game_die:"
+order: 0
 ---
 
 This page lists the most commonly used Avrae commands along with a few examples.

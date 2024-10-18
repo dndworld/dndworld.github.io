@@ -1,7 +1,7 @@
 ---
 label: "Transactions"
 icon: ":money_with_wings:"
-order: 0
+order: 9
 ---
 <style>
 h1:before { 

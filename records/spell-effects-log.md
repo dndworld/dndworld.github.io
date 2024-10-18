@@ -1,13 +1,15 @@
 ---
 label: "Special Spells"
 icon: ":crystal_ball:"
-order: 0
+order: 7
 ---
 <style>
 h1:before { 
   content: "🔮 ";
 }
 </style>
+
+# Special Spells
 
 Some spells produce effects that last over a period of time or majorly impact the world, such as Magnificent Mansion, Magic Mouth, Teleportation Circle, etc. A select number of these spells can be used in RP channels as long as they’re logged in [#spell-effects-log](https://discordapp.com/channels/512870694883950598/579612493345980447), while others can only be cast while in games. As long as the spell has an effect duration of 24 hours or more, it should be logged.
 

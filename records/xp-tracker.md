@@ -1,7 +1,7 @@
 ---
 label: "XP Tracker"
 icon: ":muscle:"
-order: 0
+order: 10
 ---
 <style>
 h1:before { 

@@ -1,8 +1,13 @@
 ---
 label: Rebuilding & Retiring
-order: 9
+order: 10
 icon: ":building_construction:"
 ---
+<style>
+h1:before { 
+  content: "🏗️ ";
+}
+</style>
 # Rebuilding & Retiring
 ## Rebuild Rules
 
