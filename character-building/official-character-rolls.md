@@ -1,5 +1,5 @@
 ---
-label: "Rolling for Stats"
+label: "Stat Rolling"
 icon: ":bar_chart:"
 order: 7
 ---
@@ -13,11 +13,11 @@ h1:before {
 - It is **optional** to roll for stats/gold/hp. However, once you have made the rolls, you **must** use the rolled results.
 <br><br>
 - You only get one roll per character.
-- Only the rolls made in #official-character-rolls are valid.<br>
+- Only the rolls made in [#official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264) are valid.<br>
 ⚠️ **Do not roll stats/HP/gold on D&D Beyond.**
 <br><br>
 - All test rolls should be done in `#bot-dump`.
-- Upload your character sheets in `#character-sheets`, not #official-character-rolls.
+- Upload your character sheets in `https://discordapp.com/channels/512870694883950598/512872392377499661`, not [#official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264).
 !!!
 
 ## Rolling for Stats
