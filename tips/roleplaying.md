@@ -40,7 +40,7 @@ order: 100
   }
 </style>
 :::subtitle
-Written for the Dnd World Discord Server<br>
+Wri**tten for the Dnd World Discord Server**<br>
 Unauthorised distribution is prohibited
 :::
 
@@ -116,11 +116,11 @@ Great! Now to determine if it’s suitable for you to join. Take a moment to obs
 
 #### There are no people currently RPing
 
-It’s time to see if you can convince someone to RP with you! You can either post a request in `#rp-board`, or ask in the channels ending with “OOC” if anyone would like to RP with you. Then just be patient and wait.
+It’s time to see if you can convince someone to RP with you! You can either post a request in [`#rp-board`](https://discord.com/channels/512870694883950598/893946822404493392), or ask in the channels ending with “OOC” if anyone would like to RP with you. Then just be patient and wait.
 
 ### Introducing your character
 
-The general approach is to go for a paragraph on appearance in `#gates`, however you may also do this in any other channel. The `#drunken-yeti-tavern` or any active channel will suffice, as you need people to bounce RP off of. 
+The general approach is to go for a paragraph on appearance in [`#gates`](https://discord.com/channels/512870694883950598/611385612351569920), however you may also do this in any other channel. The [`#drunken-yeti-tavern`](https://discord.com/channels/512870694883950598/551901424276078602) or any active channel will suffice, as you need people to bounce RP off of. 
 
 Since you only have one shot at introducing your character to the world (though you can always repeat this process albeit with less detail when meeting new people) you might as well make it count. Tell a story through their appearance. I tend to imagine how it would look like if a camera were to shoot the character as if they were making a dramatic entrance in a movie. The camera angles will usually focus on the most prominent parts of the character before showing their face. Such as:
 
@@ -144,13 +144,13 @@ You can mix and match the above pointers, omitting whichever you think is unnece
 
 How do you seamlessly slip into the conversation without sounding too awkward? Pick one or more of these tips to try
 
-1. Identify a common topic in the conversation<br>
+1. **Identify a common topic in the conversation**<br>
 For example, if someone is talking about drow, you can say something like, “I knew a drow once. Wasn’t actually all that bad.” and go from there
 
-2. Act interested in the conversation topic<br>
+2. **Act interested in the conversation topic**<br>
 You might not always relate to the conversation topic, but if let’s say they are talking about dragons, you can go “Wow! You’ve fought a dragon?”
 
-3. Offer to buy a drink or food item for someone<br>
+3. **Offer to buy a drink or food item for someone**<br>
 The way to the heart is through the stomach! This offer is hard to refuse, and it also works as a substitute for asking to join if your character is socially awkward
 
 ## Techniques of RP
@@ -159,19 +159,19 @@ The way to the heart is through the stomach! This offer is hard to refuse, and i
 
 Again, disclaimer! You might not think all these work for you or even believe this is good RP, so do what works for you!
 
-1. Develop a memorable character<br>
+1. **Develop a memorable character**<br>
 Create a unique concept that differentiates them from the throngs of other characters. You can showcase this via a unique race-class combo, backstory, or personality. It need not necessarily be something no one has ever done before, as after all there have been so many games of D&D played. As long as you are able to remember them and want to play them again, that’s what matters. You can tailor their build to help you enforce a particular concept you are looking for.
 
-2. Build off other people’s RP<br>
+2. **Build off other people’s RP**<br>
 There are other people sharing the same environment as you, and it will be easier to have character development if your character builds relationships with those people. But in the same vein, having monologues on your own in a corner will lessen your chances of being approached by a friendly stranger. As you seek development in RP with other players, also show concern towards their own character, such as by asking questions. This will also enable you to keep the conversation going.
 
-3. Have consistent characterisation<br>
+3. **Have consistent characterisation**<br>
 This does not mean “this is what my character would do”, which is usually said as an excuse to antagonize another character or trouble the DM. This means sometimes taking the less ideal choice because you are thinking as that character. It also means giving any character development meaning.
 
-4. When you end RP, leave the location<br>
+4. **When you end RP, leave the location**<br>
 Narcolepsy in the middle of the tavern, realistically without the PVP rules, would get you robbed. Specifying which location you head to will also help a character that is looking for you find you.
 
-5. Continue finding ways to improve your RP<br>
+5. **Continue finding ways to improve your RP**<br>
 I recommend reading more books in general to expand your vocabulary. It will also help your imagination in developing your character. Though, be careful not to develop “main character syndrome” as books tend to focus on a protagonist. Watch fight scenes from your favorite shows and observe the moves they do to dramaticize the act and make it interesting for the audience. 
 
 ### Styles of RP
@@ -280,7 +280,7 @@ Oriphi <span class="dialogue">grits her teeth </span> `[Sets the character’s m
 
 Fair note: Comedy is incredibly subjective. It’s worth noting that people on DW generally don’t really appreciate destructive “comedy” or comedy for the sake of shock value, that is to say doing meaningless damage like ripping up someone else’s spellbook or anything involving defecation. Intentions being funny but the jokes falling flat is a very quick way to be promoted to banned. But jokes in good humor end up on the starboard! What’s their secret? Well, generally people in DW enjoy:
 
-1. Puns <br>
+1. **Puns **<br>
 In order to properly punish the populace, one must always be on the look out for the optimal moment for the gut punch effect. The best puns are subtle in their punctuation. One needs to have spun many puns to achieve maximum punitiveness.<br><br>
 
 === Example
@@ -289,7 +289,7 @@ Juvius: "Sorry I'm allergic to positivitea"
 <br>\- *Juvius, Thronsgiving, 29 November 2019*
 ===
 
-2. References to memes or pop culture<br>
+2. **References to memes or pop culture**<br>
 What can I say, we have a young server demographic. Limit this to avoid breaking too much immersion though.
 
 === Example
@@ -302,10 +302,10 @@ What can I say, we have a young server demographic. Limit this to avoid breaking
 Fresh comedy hits especially well and can create a gimmick for your character. Does your character have any phobias, especially irrational ones? That can give a human-like touch to an otherwise plain-seeming character.
 
 === Example
-Salvador: *He offers the bird a sip from his flask offhandedly.*<br>
-Narrator: *The bird drinks from the flask.*<br>
-Salvador: *The flask is full of sea water.*<br>
-Narrator: *The bird spits it on Pyro's face.*<br>
+Sal**vador: *He offers the bird a sip from his flask offhandedly.***<br>
+Nar**rator: *The bird drinks from the flask.***<br>
+Sal**vador: *The flask is full of sea water.***<br>
+Nar**rator: *The bird spits it on Pyro's face.***<br>
 <br>\- *Sea water, Birds and Betrayal, Raid Summer 2020, 1 July 2020*
 ===
 
@@ -352,19 +352,19 @@ Bad jokes can be funny if done on purpose and are especially bad. This more or l
 
 Drama functions, at its core, when there is tension. You will likely be exploring this genre sparsely compared to the others because high tension events don’t occur that often. RPing a dramatic scene can be broken down to the 4 steps:
 
-1. The Set up<br>
+1. **The Set up**<br>
 There should be a good reason for the drama to take place, whether its a confrontation of a long kept secret finally let out of the bag, some major revelation, a confession of feelings, or something else. Pick a good venue. Ideally move out of crowded channels such as the `#drunken-yeti-tavern` to somewhere quieter like a residence or Nature channel so you don’t get interrupted. A combat is not a good time to have such a scene so keep it to Medium length RP.
 
-2. The Build Up<br>
+2. **The Build Up**<br>
 Begin having some back and forth with your RP partner. Exposition of untold events, releasing inner feelings, generally waiting for a good moment to move to the next stage. The important thing is to keep the momentum going. You can pad the build up with questioning where it makes sense. Be sure to add plenty of gesticulating and other actions that interact with the environment like sinking to their knees or kicking an innocent stalagmite.<br><br>
 If you’re on your own, you’re gonna have to do an internal monologue. What you can do to make it less monotonous is pan in to the character’s feelings, pan out to how their expression changes, pan back in, pan out to show how they start interacting with the environment due to their feelings, and so on.
 
-3. The Climax<br>
+3. **The Climax**<br>
 Ah, the climax. For this part, you want to keep it short and punchy unlike the build up. Focus on delivering smarter wordplay by carefully analysing what the other party is saying. Keep sentences short to allow a faster exchange: this simulates speaking quicker in a text based environment. Ideally, move onto the Resolution when you or the other person get a good, indisputable line in.<br><br>
 
 If you’re on your own, this is the time where you cut off the monologue, and interact with the DM’s NPC/Monster (if applicable) or start doing something drastic, like burning all your books or writing an angry letter of retribution.
 
-4. The Resolution<br>
+4. **The Resolution**<br>
 An angry storming off, a comforting hug, or something else are all examples of a resolution. This dictates the tone of how the scene ends. If it ends on a good note, it’ll likely be a wholesome reconciliation scene full of hugging, tears, and gifts to curry forgiveness. A natural ending point would be when you either run out of things to say and settle into peaceful silence or one party has to leave. If it ends on a bad note, you might just skip this stage altogether and end the scene with the characters reacting in private to the incident.
 
 === Example
@@ -422,16 +422,16 @@ An angry storming off, a comforting hug, or something else are all examples of a
 
 A lot of people enjoy having fictitious romances. But roleplaying romances comes with a sort of commitment as well, although much less than its real life counterpart. Hence, before I get into discussing actual RP tips, I should first give you some warnings: 
 
-1. Don’t attach yourself to the first person you meet at the tavern!<br>
+1. **Don’t attach yourself to the first person you meet at the tavern!**<br>
 As the saying goes, there are a lot of fish in the sea! Have a look around first before settling, it will save you from IC break up drama (unless you are looking for that).
 
-2. Know the activity of the other party<br>
+2. **Know the activity of the other party**<br>
 Ideally the player(s) of your character’s romantic interest are of similar activity as yours, and online around the same time. Romances have ended due to one party not being able to see the other as often due to OOC reasons. 
 
-3. Be mindful of the level gap<br>
+3. **Be mindful of the level gap**<br>
 Level gaps have also disturbed romances because the couple will never be able to adventure together and the power gap may cause the lower levelled party to feel insecure. It’s possible to have a good romance even with a level gap but be aware of this potential issue!
 
-4. Mind the PDA<br>
+4. **Mind the PDA**<br>
 You’ll be restricted from the nastier things by our rules, but cuddling too much or making weird sounds can make the people around you uncomfortable (just like in real life!), not to mention its not something they can build off on (remember #2 of General RP Tips). So avoid doing that in public channels.
 
 Going onto actual romance RP tips, you generally want to showcase a slower relationship development or you’re going to run out of material very quickly. Be sure to continue to develop your character beyond interactions with their partner, so that you will have stories to tell each other, and also because a character that can stand on their own feet safeguards you from losing the purpose of your character in the event your significant other dies.
@@ -463,24 +463,24 @@ Going onto actual romance RP tips, you generally want to showcase a slower relat
 
 It is very normal that after a while, you might lose interest in your character’s RP. There are usually a couple of reasons for this:
 
-1. The players of the characters who your character interacted with regularly have gone inactive.<br>
+1. **The players of the characters who your character interacted with regularly have gone inactive.**<br>
 There is quite little you can do about this except move on and find new players to RP with. Reminisce the past, but keep an open mind for new opportunities
 
-2. A new, more fun and exciting concept has entered your head<br>
+2. **A new, more fun and exciting concept has entered your head**<br>
 Speaking as someone who has watched countless players cycle out concept after concept, I can confidently tell you that there will always be something more fun and exciting out there, because the excitement of getting a new thing often trumps the old. The rebuilding/retiring rules allow you to cycle out concepts, so there’s less of a risk of you getting caught in a concept you don’t like. However, retiring will still cause you to lose progress, not to mention the loss of character relationships. Hence, I advise that you give it a good thought before you start on a new concept. Play a character that you are invested in and will have fun playing with long-term, that you think you can keep RPing, beyond the calculation of their DPS or AC or attack bonus. As such, I would advise you to avoid making meme characters, because that kind of fun is usually short-lived once you’ve tired of their gimmick.
 
-3. Your character has accomplished all their goals and you don’t see any reason for them to continue adventuring.<br>
+3. **Your character has accomplished all their goals and you don’t see any reason for them to continue adventuring.**<br>
 Ideally, you want to have several goals that your character wants to accomplish. The reason being that if you accomplish the one and only goal your character has, you can quickly find yourself losing interest and meaning in RPing that character. For example, you can have one goal from your backstory, like avenging your parents’ deaths. Then you have another you gain along the way through quests, like finding the truth to a BBEG. And finally you have one that you develop on your own, such as keeping your friends safe after your character witnesses a death in the party.
 
 ### Tips to prevent RP burnout
 
-1. Take a break<br>
+1. **Take a break**<br>
 By far the easiest and most effective way is to take a step back. You can try RPing a different character or step away from RPing altogether if you are starting to feel like RP is losing its luster. It may take time to rejuvenate the joy you used to feel after doing it too much. In the meantime you can chat in general or if you’re a staff, focus on staff work, and when you start to miss RPing, you can jump back in
 
-2. Interact with new people<br>
+2. **Interact with new people**<br>
 Expanding your social circle is especially important in DW where people often come and go. With the passage of time, it can be hard to maintain relationships. Continuously interacting with the newer generations will prevent you from feeling out of touch with the community.
 
-3. Have a good balance of IRL and online<br>
+3. **Have a good balance of IRL and online**<br>
 Doing too much of anything will make anyone feel queasy. Especially if you are a younger member of the server, there might be more important things in life that you need to focus on. Making sure you are not falling behind in terms of school, work, or IRL relationships. Maintaining a healthy balance will keep the hobby sustainable. It’s important to maintain your IRL friendships as your DW friends are limited by the fact that they’re online and can’t physically help you. Maintaining a good mental health will alleviate your enjoyment of the server. DW isn’t going anywhere. We don’t want you to neglect IRL, get overwhelmed and end up having to leave the server altogether.
 
 ## Conclusion
@@ -490,5 +490,5 @@ And there we have it! I hope this document was able to at the very least be an e
 
 #### Footnotes:
 
-Q: Why is everything dated from 2020?<br>
+Q: **Why is everything dated from 2020?**<br>
 A: Because the document was written in 2020 and then I forgot about it
