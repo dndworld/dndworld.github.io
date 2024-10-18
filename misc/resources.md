@@ -1,8 +1,13 @@
 ---
 label: Resources
 order: 0
-icon: ":page_facing_up:"
+icon: ":card_file_box:"
 ---
+<style>
+h1:before { 
+  content: "🗃️ ";
+}
+</style>
 # Resources
 ## Abbreviations/Lingo
 

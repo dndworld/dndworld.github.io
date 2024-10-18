@@ -1,13 +1,15 @@
 ---
-label: "NPC Registry"
-icon: ":busts_in_silhouette:"
+label: "NPC Encounters"
+icon: ":performing_arts:"
 order: 0
 ---
 <style>
 h1:before { 
-  content: "👥 ";
+  content: "🎭 ";
 }
 </style>
+
+# NPC Encounters
 
 !!!info NOTE: Please be sure to read the rules before logging any registries.
 In particular:

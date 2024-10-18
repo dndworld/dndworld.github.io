@@ -1,11 +1,11 @@
 ---
 order: 98
-icon: ":scroll:"
+icon: ":video_game:"
 expanded: false
 ---
 
 <style>
-h1:before { content: "📜 " }
+h1:before { content: "🎮 " }
 </style> 
 
 # Advanced Play

@@ -1,11 +1,11 @@
 ---
 label: "Wills"
-icon: ":skull_and_crossbones:"
+icon: ":coffin:"
 order: 0
 ---
 <style>
 h1:before { 
-  content: "☠️ ";
+  content: "⚰️ ";
 }
 </style>
 

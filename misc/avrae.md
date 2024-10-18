@@ -3,8 +3,15 @@ label: Avrae Commands
 icon: ":game_die:"
 order: 0
 ---
+<style>
+h1:before { 
+  content: "🎲 ";
+}
+</style>
 
-This page lists the most commonly used Avrae commands along with a few examples.
+# Avrae Commands
+
+Avrae is our virtual dice bot that we use to make all dice rolls on the server. This page lists the most commonly used Avrae commands along with a few examples.
 
 For the complete list of the commands, visit:
 <https://avrae.io/commands/>

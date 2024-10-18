@@ -1,12 +1,12 @@
 ---
 label: "Game Difficulty Tags"
-icon: ":crossed_swords:"
+icon: ":bookmark:"
 order: 7
 ---
 
 <style>
 h1:before { 
-  content: "⚔️ ";
+  content: "🔖 ";
 }
 </style>
 
