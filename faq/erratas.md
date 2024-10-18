@@ -413,6 +413,14 @@ Divinely Favoured, Feat
 ```yaml **Tags**
 Class/Classfeat: Barbarian, Monk, Unarmored Defense, Multiclass
 ```
+==- **Sorcerer—Wild Magic: Chaos Features**
+**Description:** Cohort of Chaos' "Chaotic Flare" feature as well as the Wild Magic sorcerer's "Wild Magic Surge," "Tides of Chaos," and  "Controlled Chaos" features.
+**Changes:** Chaotic Flares and Wild Magic rolls can only cause damage to other creatures within the confines of the arena or while a DM is supervising the interaction. If a Chaotic Flare of Wild Magic Surge would deal damage outside of these circumstances, the player may choose to either reroll the effect or ignore the roll entirely.<br>
+**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/1237261298493034506/1237435142629228615)
+```yaml **Tags**
+Subclass/Subclassfeat: Wild Magic sorcerer.
+Feat: Cohort of Chaos, Chaotic Flare
+```
 ==- **Spell: Casting Spells While Transformed (e.g. Polymorph)**
 **Description:** Some spells, such as True Polymorph, allow a spellcaster to transform a creature into a different creature or summon a creature, which may respectively gain or have the ability to cast particular spells without requiring spell components.
 **Changes:** The transformed creature must still provide any material components that has a cost and/or is consumed for the casting of these spells. If the creature was summoned, the spellcaster who summoned it must provide such components instead. If the component is consumed by the spell, the component must be provided for each casting of the spell.<br>
@@ -426,14 +434,6 @@ Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasti
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1153458254794461184)
 ```yaml **Tags**
 Spell: Reincarnate
-```
-==- **Sorcerer—Wild Magic: Chaos Features**
-**Description:** Cohort of Chaos' "Chaotic Flare" feature as well as the Wild Magic sorcerer's "Wild Magic Surge," "Tides of Chaos," and  "Controlled Chaos" features.
-**Changes:** Chaotic Flares and Wild Magic rolls can only cause damage to other creatures within the confines of the arena or while a DM is supervising the interaction. If a Chaotic Flare of Wild Magic Surge would deal damage outside of these circumstances, the player may choose to either reroll the effect or ignore the roll entirely.<br>
-**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/1237261298493034506/1237435142629228615)
-```yaml **Tags**
-Subclass/Subclassfeat: Wild Magic sorcerer.
-Feat: Cohort of Chaos, Chaotic Flare
 ```
 ==- **Spell: Plane Shift**
 **Changes:** You can only use a specific tuning fork material component for transport to the plane that it is tuned to.<br>
