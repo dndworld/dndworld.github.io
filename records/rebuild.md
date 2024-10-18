@@ -1,7 +1,7 @@
 ---
 label: Rebuild Retire Log
 order: 9
-# icon: "::"
+icon: ":building_construction:"
 ---
 # Rebuild Retire Log
 ## Rebuild Rules
