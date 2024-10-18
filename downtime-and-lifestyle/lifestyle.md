@@ -1,7 +1,7 @@
 ---
 label: Lifestyle
 order: 20
-icon: 
+icon: ":bread:"
 ---
 # Lifestyle
 
