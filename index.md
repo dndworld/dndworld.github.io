@@ -9,16 +9,6 @@ icon: ":sparkles:"
 
 <style>
 h1:before { content: "✨ " }
-
-@media (max-width: 360px) {
-  .banner .content-center {
-    max-height: 11vh;
-  }
-  .banner img {
-    /* display: none; */
-    top: -140px;
-  }
-}
 </style>
 
 # About Us

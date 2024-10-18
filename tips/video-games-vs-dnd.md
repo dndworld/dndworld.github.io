@@ -12,9 +12,9 @@ h1:before {
 
 Hello gamers! Ok that title was mostly a joke, but if you’re someone who just got into D&D and are struggling to assimilate to how D&D is played as compared to video games or just struggling in general, then you have come to the right place. 
 
-This document is designed to explain the differences between more conventional modes of entertainment and D&D, so that you can manage your expectations when you play. You are advised to check out [[A Guide to Navigating Large Servers]] if you are also unfamiliar with large servers in general.
+This document is designed to explain the differences between more conventional modes of entertainment and D&D, so that you can manage your expectations when you play. You are advised to check out [A Guide to Navigating Large Servers](/tips/navigating-large-servers.md) if you are also unfamiliar with large servers in general.
 
-Please note that this won’t actually teach you how to play D&D; for that, you should check out the Basic Rules PDF in [`#new-to-dnd`](/character-building/new-to-dnd.md).
+Please note that this won’t actually teach you how to play D&D; for that, you should check out the [Basic Rules](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf).
 
 Let’s get started!
 
@@ -38,7 +38,7 @@ The result is in the following:
 - Rulings that are still unclear or the server deems are interpreted incorrectly are overridden in [the Erratas and Clarifications page](/faq/erratas.md).
 - DMs may have their own house rules if they choose to rule something differently
 
-As such, a lot of the game requires reading. We recommend you start with [the Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Please ask questions in `#server-questions`, as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
+As such, a lot of the game requires reading. We recommend you start with [the Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Please ask questions in [`#server-questions`](https://discord.com/channels/512870694883950598/546725434608451584), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
 
 ### Games Emphasize Teamwork
 
@@ -70,7 +70,7 @@ Unlike games, where video game characters are programmed to do a certain set of 
 
 Now for the fun stuff! In multiplayer games, you may be familiar with certain concepts of character roles. We will go over those basic concepts and how they interact with D&D’s rule system. 
 
-It should be noted that with how many subclasses and feats have been released since D&D 5e’s original publication, every class can be built to fulfill tankiness, damage, or support roles. Some are just designed to do it better than others; Other classes can do this but only with specific builds.. This guide is just to give you a simplistic idea.
+It should be noted that with how many subclasses and feats have been released since D&D 5e’s original publication, every class can be built to fulfill tankiness, damage, or support roles. Some are just designed to do it better than others; Other classes can do this but only with specific builds. This guide is just to give you a simplistic idea.
 
 Contents:
 - Tank
@@ -89,15 +89,15 @@ Also be sure to increase your **Armor Class** (AC) as much as possible. This det
 
 Dexterity determines how agile you are and in turn how hard you are to hit. As with Constitution, the higher the stat you allocate for this, the better. Your Dexterity modifier (not to be confused with score) is added to your base armor to give your final AC. For example, if you are wearing Leather armor, and you have a Dexterity score of 14, your AC is 
 
-```
-11 [Base Armor for Leather] +2 [Dexterity modifier] =13
-```
+
+> `11 [Base Armor for Leather] +2 [Dexterity modifier] =13`
+
 
 Classes designed to be tanky such as Barbarian and Fighter will give you access to medium or heavy armor, which allows you to have higher AC. Barbarian also has Unarmored Defense, which allows you to forgo armor and instead only use your Dexterity modifier. As you level and save more money, you will also be able to afford more expensive armor, which will increase your AC.
 
 ### DPS
 
-A DPS is someone who does a lot of damage but sacrifices other aspects such as health and utility. This role relies on good movement as well as builds that have both reliable damage and features/spells that mitigates hits. Although many classes in D&D fit this category, it is most evident in **Fighter, **Rogue, Monk, Paladin, Sorcerer, Warlock, and Wizard**.
+A DPS is someone who does a lot of damage but sacrifices other aspects such as health and utility. This role relies on good movement as well as builds that have both reliable damage and features/spells that mitigates hits. Although many classes in D&D fit this category, it is most evident in **Fighter, Rogue, Monk, Paladin, Sorcerer, Warlock, and Wizard**.
 
 To maximize your damage, be sure to sink your highest stats into the stat you use to attack. For Rogues and Monks, this is Dexterity, and for spellcasters, this is referred to as your casting stat and defers by class.
 

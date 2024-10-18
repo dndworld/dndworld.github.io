@@ -6,12 +6,12 @@ meta:
 branding:
   title: DW Guide
   label: v1.1
-  logo: Images/logo-circle.png
+  logo: images/logo-circle.png
   colors:
     label:
       text: "#58180d"
       background: "#eee5ce"
-favicon: Images/logo-circle.png
+favicon: images/logo-circle.png
 links:
 - text: Welcome!
   link: /

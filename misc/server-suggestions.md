@@ -1,6 +1,6 @@
 ---
 label: "Server Suggestions"
-icon: ":ballot_box:"
+icon: ":ballot_box_with_ballot:"
 order: 0
 ---
 <style>
