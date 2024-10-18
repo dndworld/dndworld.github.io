@@ -123,7 +123,7 @@ While this could technically fall under DPS, it gets a special mention because o
 
 That said, if you really want to play a Summoner, the **Druid** is the best example of this, as it gives you access to most spells that start with “Conjure” or “Summon”. To a lesser extent, **Ranger** also gives you access to “Conjure Animals”, the lowest level and most commonly used summoning spell. The Ranger subclass Beast Master also gives you access to an animal companion at 3rd level.
 
-For summoners, as your need to maintain concentration is impertinent, you may consider taking feats such as War Caster or 
+For summoners, as your need to maintain concentration is impertinent, you may consider taking feats such as War Caster or Resilient: Constitution.
 
 ### Healer
 

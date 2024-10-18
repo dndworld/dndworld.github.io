@@ -1,11 +1,11 @@
 ---
 label: "Official Character Rolls"
-icon: ":game_die:"
-order: 4
+icon: ":bar_chart:"
+order: 7
 ---
 <style>
 h1:before { 
-  content: "🎲 ";
+  content: "📊";
 }
 </style>
 ## Important

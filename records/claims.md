@@ -1,9 +1,9 @@
 ---
-label: Claims Log
+label: Claiming
 order: 10
 # icon: "::"
 ---
-# Claims Log
+# Claiming
 ## Cushion Rule
 
 Upon the death or retirement of your character, you may choose to start the next character at a higher level than 1, following the table below. They may also gain magical items and wealth, determined by the table below. If you wish to start at a lower level than offered by the Cushion Rule, you are free to do so.
