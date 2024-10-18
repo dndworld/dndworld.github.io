@@ -1,7 +1,7 @@
 ---
 label: Employment DTDs
 order: 12
-icon: 
+icon: ":briefcase:"
 ---
 
 ## Job Interview Checks
