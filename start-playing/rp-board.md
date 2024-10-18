@@ -1,7 +1,7 @@
 ---
 label: "RP Board"
 icon: ":left_speech_bubble:"
-order: 10
+order: 8
 ---
 <style>
 h1:before { 

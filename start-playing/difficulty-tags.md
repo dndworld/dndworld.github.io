@@ -1,7 +1,7 @@
 ---
-label: "Game Planning"
+label: "Game Difficulty Tags"
 icon: ":crossed_swords:"
-#order: 0
+order: 7
 ---
 
 <style>
