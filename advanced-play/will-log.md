@@ -1,13 +1,15 @@
 ---
 label: "Wills"
-icon: ":scroll:"
+icon: ":skull_and_crossbones:"
 order: 0
 ---
 <style>
 h1:before { 
-  content: "📜 ";
+  content: "☠️ ";
 }
 </style>
+
+# Wills
 You may write wills dedicating equipment, property, and wealth to someone else (the beneficiary) in the event your character (the testator) dies, under certain conditions:
 
 - The will must be written and logged here before the time of the testator's death

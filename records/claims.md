@@ -1,7 +1,7 @@
 ---
 label: Claims
 order: 8
-# icon: ":postbox:"
+icon: ":postbox:"
 ---
 <style>
 h1:before { 
