@@ -42,6 +42,78 @@ Put this command with the information in `#dtd-manual-log`:
 
 You will receive a ping in `#dtd-results` when your log is processed.
 
+
+## Learning
+
+*Ever curious what those people in the tavern were whispering to one another or wanted to pick up a hobby? With Learning DTD you can learn to play new instruments, use new tools, and even speak a new language!*
+
+Learning DTD gives you __proficiency in instruments, tools, or languages__. Each subset requires a different amount of learning points.
+```
+Instrument           75 Learning Points
+Gaming Set           75 Learning Points
+Artisan Tool         85 Learning Points
+Misc. Tool          100 Learning Points
+Standard Language    90 Learning Points
+Exotic Language     125 Learning Points
+```
+- [List of tools/instruments](https://www.dndbeyond.com/sources/basic-rules/equipment#Tools)
+- [List of languages](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Languages)
+
+- *[Koume Sign Language (KSL)](<https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/edit?tab=t.0#heading=h.3msemhbc7iyt>) has been added to the list of languages that can be learnt.*
+- *Note that Thieves' Cant and Druidic cannot be learnt through the Learning DTD without a specific Guild Perk.*
+
+
+### Learning Cap
+
+> - You may learn a total number of instruments, tools, and languages equal to 1 + your **natural** Intelligence modifier. You cannot gain additional proficiencies using Learn DTD if you have a negative intelligence modifier.
+
+> - If a character's learning cap has been reached, one of the learned instruments/gaming sets/tools/languages may be replaced by learning a new one.
+
+### Learning DTD Command
+
+> In [`#dtd-automated-log`](https://discord.com/channels/512870694883950598/579777361117970465):<br>
+> ```
+> !learn <Subject>
+> ```
+> Example: `!learn "Smith's Tools" [options]`
+
+> - **Subject**: the instrument/gaming set/tool/language you wish to learn
+> - By default, this command rolls an Intelligence check. For __instruments and gaming sets__, you can choose between Intelligence and Charisma. To use charisma score, add `cha` in the command.
+
+> ℹ️ For the full help text including the options, use `!help learn` in [`#bot-dump`](https://discord.com/channels/512870694883950598/519131071502221313).
+
+### Learning Bonuses
+
+> - Items such as a *Headband of Intellect* do not increase the number of instruments/tools/languages you can learn, but you may apply the bonuses when making the learning checks.
+
+> - If you have the **Anthropologist** background, you have advantage on learning languages.
+
+> - If you know a subset of Primordial (Auran, Aquan, Ignan, or Terran), you have advantage on learning the full language of Primordial.
+
+
+
+
+## Combat Training
+
+*"Practice makes perfect!"*
+
+Combat Training DTD provides a small amount of XP depending on success rate.
+
+- The cost is **1gp per character level**. This is automatically deducted from the coin purse when you use the alias.
+- Some guild modules and aides may provide a bonus to the combat training DTD. For more information, please refer to the pinned messages of each guild’s channel.
+- ⚠️ You **cannot** transfer RPXP to XP with combat training. This can only be done after the character has participated in a DM sanctioned event.
+
+1️⃣ In [`#dtd-automated-log`](https://discord.com/channels/512870694883950598/579777361117970465):
+```
+!train [arguments]
+```
+2️⃣ Add the earned XP in [`#xp-tracker`](https://discord.com/channels/512870694883950598/531014104098537481), following the output of the combat training.
+```
+!dxp train <xp>
+```
+
+ℹ️ For the full help text, use `!help train` in [`#bot-dump`](https://discord.com/channels/512870694883950598/519131071502221313).
+
 ## Guild DTDs
 
 Each guild has one or two Guild Types. Depending on the type(s) of the guild, different DTDs are available to the members of the guild. For more information on guild types and DTD, please refer to the [Guild doc](https://docs.google.com/document/d/1A8sVmnksKwb9MX98f7Z6lfmdDgfxft85JPaQKejxXj0/edit).
