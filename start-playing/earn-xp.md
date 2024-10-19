@@ -14,11 +14,12 @@ This channel explains different ways of gaining XP on the server.
 
 ## Overview
 
-There are three main ways of earning XP:
+There are four main ways of earning XP:
 
 1. [RPXP](earn-xp#1-rpxp) (transferred later as XP)
 2. [Combat Training DTD](earn-xp#2-combat-training-dtd)
 3. [DM Events](earn-xp#3-dm-events)
+4. [Avrae Tutorial XP](earn-xp#4-avrae-tutorial-xp)
 
 ## 1. RPXP
 
@@ -95,29 +96,29 @@ The following table is how much RPXP per hour you can gain depending on your lev
 
 - You can get RPXP for each __half hour__ of active RP, rounded down.
 
-```
- Lv | RPXP/hr | Weekly Cap
-----+---------+-----------
-  1 |    30   |    300
-  2 |    40   |    400
-  3 |    50   |    500
-  4 |    60   |    600
-  5 |    80   |    800
-  6 |   100   |   1000
-  7 |   120   |   1200
-  8 |   140   |   1400
-  9 |   170   |   1700
- 10 |   200   |   2000
- 11 |   230   |   2300
- 12 |   260   |   2600
- 13 |   300   |   3000
- 14 |   340   |   3400
- 15 |   400   |   4000
- 16 |   460   |   4600
- 17 |   540   |   5400
- 18 |   620   |   6200
- 19 |   720   |   7200
- ```
+{.compact}
+Lv | RPXP/hr | Weekly Cap
+--- | --- | ---
+1 | 30 | 300
+2 | 40 | 400
+3 | 50 | 500
+4 | 60 | 600
+5 | 80 | 800
+6 | 100 | 1000
+7 | 120 | 1200
+8 | 140 | 1400
+9 | 170 | 1700
+10 | 200 | 2000
+11 | 230 | 2300
+12 | 260 | 2600
+13 | 300 | 3000
+14 | 340 | 3400
+15 | 400 | 4000
+16 | 460 | 4600
+17 | 540 | 5400
+18 | 620 | 6200
+19 | 720 | 7200
+
 
 **Transferring RPXP to XP**
 
@@ -265,3 +266,24 @@ After attending a DM event, RPXP is transferred to XP when you run the following
 > Example: `!dxp game 100 "Pit Fight: The Pitmaster Returns 2022-02-25"`
 
 **Reminder**: This does **not** reset the weekly cap.
+
+## 4. Avrae Tutorial XP
+
+You can earn Avrae Tutorial XP by roleplaying with other players for at least half an hour in the one of the Arena channels or threads. It is a way to learn Avrae commands and encourage sparring among new players. 
+
+Following rules apply to Avrae Tutorials:
+- There's a maximum limit of 6 Avrae Tutorials **per character**.
+- Avrae Tutorial XP tracked separately for each character you have. 
+- If you are RPing more than one character at the same time, you can only gain Avrae Tutorial XP for one of them during that period.
+- All modification of XP must be made in `#xp-tracker`
+- XP can only be redeemed for **active** spars between players. These spars should use Avrae's initiative tracker and involve multiple attacks, skill checks, etc. It's considered cheating to redeem Avrae Tutorial XP when you've only sent 2 messages, for example.
+- You can gain Avrae Tutorial XP and RPXP from the same RP session.
+
+- You cannot log and gain Avrae Tutorial XP from DM Events.
+
+- If you forget the reactions to mark the beginning and end of the RP, you can still mark them afterwards and gain the Avrae Tutorial XP retroactively, as long as it is within 24 hours since you ended the RP.
+- It is considered “cheating” to add more XP than you should, add invalid XP, etc., and it results in the same consequences as any other cheating behaviors, according to its severity.
+
+### Step By Step Guide for Avrae Tutorial XP
+
+Follow the steps in the [Step by Step Guide for RPXP](earn-xp#step-by-step-guide-for-rpxp), but for step 4, run `!dxp tutorial` before the `!rpxp` command.
