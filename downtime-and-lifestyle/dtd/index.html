@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782656930667">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782657746687">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782656930667" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782657746687" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782656930667" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782657746687" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782656930667" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782657746687" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -369,6 +369,113 @@
 <p>Example: <code v-pre>!find &quot;Employment at a smithy&quot; &quot;Market District&quot; &quot;Searching the market district for any signs of a forge by checking the skies for smoke and listening for the sounds of hammers on metal.&quot; &quot;Investigation&quot;</code></p>
 </blockquote>
 <p>You will receive a ping in <code v-pre>#dtd-results</code> when your log is processed.</p>
+<doc-anchor-target id="learning">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#learning">#</doc-anchor-trigger>
+        <span>Learning</span>
+    </h2>
+</doc-anchor-target>
+<p><em>Ever curious what those people in the tavern were whispering to one another or wanted to pick up a hobby? With Learning DTD you can learn to play new instruments, use new tools, and even speak a new language!</em></p>
+<p>Learning DTD gives you <strong>proficiency in instruments, tools, or languages</strong>. Each subset requires a different amount of learning points.</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">Instrument           75 Learning Points
+Gaming Set           75 Learning Points
+Artisan Tool         85 Learning Points
+Misc. Tool          100 Learning Points
+Standard Language    90 Learning Points
+Exotic Language     125 Learning Points</code></pre>
+</doc-codeblock></div>
+<ul>
+<li><p><a href="https://www.dndbeyond.com/sources/basic-rules/equipment#Tools">List of tools/instruments</a></p>
+</li>
+<li><p><a href="https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Languages">List of languages</a></p>
+</li>
+<li><p><em><a href="https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/edit?tab=t.0#heading=h.3msemhbc7iyt">Koume Sign Language (KSL)</a> has been added to the list of languages that can be learnt.</em></p>
+</li>
+<li><p><em>Note that Thieves&#x27; Cant and Druidic cannot be learnt through the Learning DTD without a specific Guild Perk.</em></p>
+</li>
+</ul>
+<doc-anchor-target id="learning-cap">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#learning-cap">#</doc-anchor-trigger>
+        <span>Learning Cap</span>
+    </h3>
+</doc-anchor-target>
+<blockquote>
+<ul>
+<li>You may learn a total number of instruments, tools, and languages equal to 1 + your <strong>natural</strong> Intelligence modifier. You cannot gain additional proficiencies using Learn DTD if you have a negative intelligence modifier.</li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>If a character&#x27;s learning cap has been reached, one of the learned instruments/gaming sets/tools/languages may be replaced by learning a new one.</li>
+</ul>
+</blockquote>
+<doc-anchor-target id="learning-dtd-command">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#learning-dtd-command">#</doc-anchor-trigger>
+        <span>Learning DTD Command</span>
+    </h3>
+</doc-anchor-target>
+<blockquote>
+<p>In <a href="https://discord.com/channels/512870694883950598/579777361117970465"><code v-pre>#dtd-automated-log</code></a>:<br></p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">!learn &lt;Subject&gt;</code></pre>
+</doc-codeblock></div>
+<p>Example: <code v-pre>!learn &quot;Smith's Tools&quot; [options]</code></p>
+</blockquote>
+<blockquote>
+<ul>
+<li><strong>Subject</strong>: the instrument/gaming set/tool/language you wish to learn</li>
+<li>By default, this command rolls an Intelligence check. For <strong>instruments and gaming sets</strong>, you can choose between Intelligence and Charisma. To use charisma score, add <code v-pre>cha</code> in the command.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p><span class="docs-emoji">&#x2139;&#xFE0F;</span> For the full help text including the options, use <code v-pre>!help learn</code> in <a href="https://discord.com/channels/512870694883950598/519131071502221313"><code v-pre>#bot-dump</code></a>.</p>
+</blockquote>
+<doc-anchor-target id="learning-bonuses">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#learning-bonuses">#</doc-anchor-trigger>
+        <span>Learning Bonuses</span>
+    </h3>
+</doc-anchor-target>
+<blockquote>
+<ul>
+<li>Items such as a <em>Headband of Intellect</em> do not increase the number of instruments/tools/languages you can learn, but you may apply the bonuses when making the learning checks.</li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>If you have the <strong>Anthropologist</strong> background, you have advantage on learning languages.</li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>If you know a subset of Primordial (Auran, Aquan, Ignan, or Terran), you have advantage on learning the full language of Primordial.</li>
+</ul>
+</blockquote>
+<doc-anchor-target id="combat-training">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#combat-training">#</doc-anchor-trigger>
+        <span>Combat Training</span>
+    </h2>
+</doc-anchor-target>
+<p><em>&quot;Practice makes perfect!&quot;</em></p>
+<p>Combat Training DTD provides a small amount of XP depending on success rate.</p>
+<ul>
+<li>The cost is <strong>1gp per character level</strong>. This is automatically deducted from the coin purse when you use the alias.</li>
+<li>Some guild modules and aides may provide a bonus to the combat training DTD. For more information, please refer to the pinned messages of each guild’s channel.</li>
+<li><span class="docs-emoji">&#x26A0;&#xFE0F;</span> You <strong>cannot</strong> transfer RPXP to XP with combat training. This can only be done after the character has participated in a DM sanctioned event.</li>
+</ul>
+<p><span class="docs-emoji">&#x0031;&#xFE0F;&#x20E3;</span> In <a href="https://discord.com/channels/512870694883950598/579777361117970465"><code v-pre>#dtd-automated-log</code></a>:</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">!train [arguments]</code></pre>
+</doc-codeblock></div>
+<p><span class="docs-emoji">&#x0032;&#xFE0F;&#x20E3;</span> Add the earned XP in <a href="https://discord.com/channels/512870694883950598/531014104098537481"><code v-pre>#xp-tracker</code></a>, following the output of the combat training.</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">!dxp train &lt;xp&gt;</code></pre>
+</doc-codeblock></div>
+<p><span class="docs-emoji">&#x2139;&#xFE0F;</span> For the full help text, use <code v-pre>!help train</code> in <a href="https://discord.com/channels/512870694883950598/519131071502221313"><code v-pre>#bot-dump</code></a>.</p>
 <doc-anchor-target id="guild-dtds">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#guild-dtds">#</doc-anchor-trigger>
