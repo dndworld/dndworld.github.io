@@ -18,6 +18,8 @@ For the complete list of the commands, visit:
 
 - `!help`: sends you a full list of commands to PM.
 - `!tutorial quickstart`: starts a step-by-step guide.
+<br><br>
+- Our partner server The Starry Shore have created [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), a short YouTube video to help with some basic Avrae commands.
 
 
 !!!warning

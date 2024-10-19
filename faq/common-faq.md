@@ -93,18 +93,18 @@ We also have a `feedback` form for reporting errors such as typos, outdated info
 ## Common FAQ for Character Creation
 These are some of the more frequently asked questions we gathered over the years.
 
-==- Can I start with any pets/creatures?
-No, unless your background specifies having one. You can later purchase one in from the market in the `#market-district`.
+==- Can I start with any pets/creatures? (`!faq pets`)
+No, unless your background specifies having one. You can later purchase one in from the market in the [`#market-district`](https://discord.com/channels/512870694883950598/523139404726927370).
 
 ==- Why can I not choose Boomerang (or other options) as a starting equipment?
-Only non-exotic items listed in the Market Doc can be part of your starting equipment.
+Boomerangs are classified as exotic weapons on the server, and are not eligible as starting equipment. You can purchase them separately through the [Market Doc](<https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/>).
 
-==- (For Warlocks) Do I have to specify who my warlock patron is? 
+==- (For Warlocks) Do I have to specify who my warlock patron is?  (`!faq warlock-patron`)
 For your patron, they are unnamed unless they can be found in the existing lore.
 
 As a player, you can define your patron as long as they are not lore-breaking or lore-defining. For example, you cannot replace or create powerful devils, celestials, etc. They cannot interact with your character physically, unless propagated by a DM.
 
-==- Can my new PC be an undead version of my old, dead PC? 
+==- Can my new PC be an undead version of my old, dead PC? (`!faq undead-pc`)
 No.
 
 ==- My character has the soldier background, what are some wars they could have taken part in? 

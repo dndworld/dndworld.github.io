@@ -94,6 +94,8 @@ h1:before {
 
 ## Tutorials
 
+> If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore! <:welcomerMouse:942967479083339777>
+
 ### How to make offhand attacks on D&D Beyond
 
 - Add the weapon to the Inventory and equip it by clicking the box next to it.

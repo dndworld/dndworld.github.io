@@ -143,6 +143,7 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 - Adept of the White Robes feat
 - Initiate of High Sorcery feat
 - Gunner
+- Opportunistic Thief
 - Planar Wanderer
 - Poisoner
 - Strixhaven Initiate
@@ -166,6 +167,8 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 
 **Disallowed Subclasses**
 - College of Eloquence (Bard)
+- College of the Road (Bard)
+- Night Domain (Cleric)
 - Echo Knight (Fighter)
 - Clockwork Soul (Sorcerer)
 - The Undead (Warlock)

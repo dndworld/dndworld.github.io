@@ -19,10 +19,12 @@ h1:before { content: "🔰 " }
 > - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
 >   - You could use "Quick Build" as well, which will make a generic character for you.
 
-> Read the help texts. As you go through the help texts, if anything is unclear or confusing, please direct your questions to `#⁠beginner-help`.
+!!!info Read the help texts.
+As you go through the help texts, if anything is unclear or confusing, please direct your questions to [`#⁠beginner-help`](https://discord.com/channels/512870694883950598/621035485690724369).
+!!!
 
 ### Character Preferences (settings) 
-![](https://i.imgur.com/Nh1T7Bz.png)
+![](https/i.imgur.com/xLF2bk4.png)
 > - **Dice Rolling**: Off 
 >   - We use Avrae Discord bot for this, not DnD Beyond 
 > - **Optional Features**: On 
@@ -106,7 +108,9 @@ The following steps are for DnD World server, once you have created the characte
 
 #### 2. Import Your Character to Discord
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
-> - Post in `#⁠character-sheets` by running the following, where `<link>` is replaced by your character sheet link.
+> Make sure your character sheet is set to PUBLIC first
+>   - If you're on the mobile D&D Beyond app, check out [this resource](misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
+> - Post in [`#⁠character-sheets`](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 > ```
 > !import <link>
 > ```
@@ -119,7 +123,9 @@ The following steps are for DnD World server, once you have created the characte
 > - More details and additional information in [How to Earn XP](/start-playing/earn-xp/)
 
 #### :icon-question:. Ask questions!
-> `⁠#beginner-help`
+> [`⁠#beginner-help`](https://discord.com/channels/512870694883950598/621035485690724369)
+> 
+> 💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 
 ---
 

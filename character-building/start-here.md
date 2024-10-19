@@ -67,6 +67,7 @@ For information on allowed/banned material as well as allowed UA and homebrew op
 - You are **not** allowed to possess any magic items starting out.
 
 When given options, choose following:
+> - Sources: Homebrew Content, Expanded Rules, Legacy, Critical Role Content, Humblewood
 > - Optional Class Features and Custom Origin are allowed (note: approved materials only).
 > - Select **Milestone**, not XP. This is because we use a slightly different XP progression, which is managed within the server through Avrae.
 > - Carrying capacity: Use Encumbrance
@@ -81,17 +82,16 @@ Change your Server Nickname to **Name of Character (Race Class).**
 > - Panadol (Drow Warlock)
 
 ## Upload Your Character Sheet
-In `#character-sheets`, replace the `<link>` with the link of your character sheet.
+In [`#character-sheets`](https://discord.com/channels/512870694883950598/512872392377499661), replace the `<link>` with the link of your character sheet.
 
 ```
 !import <link>
 ```
 
 If you have used standard array or point buy, declare so after you upload your sheet. 
+- You DO NOT need to wait for your sheet to be approved.
 
-You DO NOT need to wait for your sheet to be approved.
-
-Once you've uploaded your sheet to `#character-sheets`, you will be automatically granted **Newbie** and **Level 1** roles, and the rest of the server should now be visible. If for some reason the bot fails, send a message to `#⁠server-questions`, and a staff member will grant you the roles.
+Once you've uploaded your sheet to [`#character-sheets`](https://discord.com/channels/512870694883950598/512872392377499661), you will be automatically granted **Newbie** and **Level 1** roles, and the rest of the server should now be visible. If for some reason the bot fails, send a message to [`#⁠server-questions`](https://discord.com/channels/512870694883950598/546725434608451584), and a staff member will grant you the roles.
 
 ## Set Up the Character for the Server
 Follow the steps in [How to Start Playing](/start-playing/start-playing/) to set up your character for the server.
