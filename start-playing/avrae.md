@@ -1,7 +1,7 @@
 ---
-label: Avrae Commands
+label: Rolling Dice
 icon: ":game_die:"
-order: 0
+order: 100
 ---
 <style>
 h1:before { 

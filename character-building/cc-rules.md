@@ -128,7 +128,7 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 
 ### Disallowed Content:
 
-==-Races/Species
+==- Races/Species
 - Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
 
 For the full list of allowed and disallowed official races, please refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
@@ -156,7 +156,7 @@ For the full list of allowed and disallowed official races, please refer to [thi
 - Potency Mutagen (Blood Hunter)
 - Sagacity Mutagen (Blood Hunter)
 
-==-Feats
+==- Feats
 - Aberrant Dragonmarks
 - Adept of the Black Robes feat
 - Adept of the Red Robes feat
@@ -172,6 +172,23 @@ For the full list of allowed and disallowed official races, please refer to [thi
 - Ember of the Fire Giant (refer to the DW Homebrew version)
 - Guile of the Cloud Giant (refer to the DW Homebrew version)
 - Soul of the Storm Giant (refer to the DW Homebrew version)
+
+==- Backgrounds
+
+- Custom Backgrounds
+
+Backgrounds from the following books:
+- *Baldur's Gate*(except Faceless)
+- *Guildmaster's Guide to Ravnica*
+- *The Wild Beyond the Witchlight*
+- *Strixhaven*
+- *Spelljammer*
+- *Dragonlance*
+- *Glory of the Giants*
+- *Planescape*
+- *The Book of Many Things*
+
+Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.
 
 ==- Spells
 
@@ -210,21 +227,6 @@ For the full list of allowed and disallowed official races, please refer to [thi
 > 
 > - You cannot use Standard Array/Point Buy after rolling. 
 > - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
-
-### Backgrounds
-> Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.
-
-**Disallowed Backgrounds**
-- Custom Background rule
-- *Baldur's Gate* backgrounds (except Faceless)
-- *Guildmaster's Guide to Ravnica* backgrounds
-- *The Wild Beyond the Witchlight* backgrounds
-- *Strixhaven* backgrounds
-- *Spelljammer* backgrounds
-- *Dragonlance* backgrounds
-- *Glory of the Giants* backgrounds
-- *Planescape* backgrounds
-- *The Book of Many Things* backgrounds
 
 ### Character Details
 
@@ -338,45 +340,3 @@ Once your character participates in a DM event, all rebuilds must be submitted f
 ### ASI/Feat
 
 > You are allowed to take a feat instead of taking Ability Score Improvement (ASI), when the class gives you the option at certain levels.
-
-### Rebuild
-
-> Please refer to `#rebuild-retire-log` pin for full details on rebuild.
-
-### Character Death / Retire
-
-> - Character death needs to be recorded in `#list-of-the-fallen`. Full details on how to make the record, what to do next, and information on Cushion Rule can be found in the channel pin.
-> - You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on Retiring can be found in `#rebuild-retire-log` channel pin and Cushion Rule in `#claims-log`.
-
-## :warning: Returning Players/Inactivity
-
-Whether you leave the server and return after some period of time, or you have been inactive on the server for some time, your characters do **not** automatically reset. You must keep all rolled results, as well as the characters created before the leave or inactivity. 
-
-### Invalid Stats Rebuild
-If you have a roll made before 11 August 2020, you may reroll for it provided you lack one of the following:
-- 70 or above in total stats
-- At least one 14 or above
-- Separate stat of at least one 15 or above
-
-To reroll, please declare which character you are rerolling for, then run `!generate` ONCE in `#official-character-rolls`. You may choose between your new and previous roll:
-- To use your new roll, submit the [Invalid Stats rebuild form](<https://discord.com/channels/512870694883950598/542953099560615946/941343439428145223>) in `#rebuild-retire-log` and wait for it to be processed.
-- To keep your previous roll, react ❌ on the new roll.
-
-### Fresh Start
-- In case you have been away for a significant amount of time, we allow you to mass retire all of your characters. In this case only one of them is eligible for the Cushion Rule. You are not required to do Fresh Start if you have been away, but if you choose to do fresh start, it applies to all characters you had.
-- Fresh Start is approved on a case-by-case basis. Please fill in the following form and send it to `#rebuild-retire-log` and wait for the request to be reviewed.
-
-```md
-Fresh Start Request
-
-**How long you have been away:** 
-**Character Name(s):** 
-**Level(s):** 
-**Race(s):** 
-**Class(es)(if multiclass, specify levels of each class):** 
-**Subclass(es):** 
-**Link to Stat Roll if Rolled:** 
-**Link to Character Sheet:** 
-**Date of Last Game (optional):** 
-**Date of Leaving the Server (if applicable):** 
-```
