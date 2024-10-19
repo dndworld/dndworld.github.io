@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782655463954">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782655936656">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782655463954" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782655936656" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782655463954" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782655936656" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782655463954" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782655936656" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -331,11 +331,12 @@ h1:before { content: "⚔️ " }
         <span>Overview</span>
     </h2>
 </doc-anchor-target>
-<p>There are three main ways of earning XP:</p>
+<p>There are four main ways of earning XP:</p>
 <ol>
 <li><doc-anchor-trigger to="#1-rpxp">RPXP</doc-anchor-trigger> (transferred later as XP)</li>
 <li><doc-anchor-trigger to="#2-combat-training-dtd">Combat Training DTD</doc-anchor-trigger></li>
 <li><doc-anchor-trigger to="#3-dm-events">DM Events</doc-anchor-trigger></li>
+<li><doc-anchor-trigger to="#4-avrae-tutorial-xp">Avrae Tutorial XP</doc-anchor-trigger></li>
 </ol>
 <doc-anchor-target id="1-rpxp">
     <h2>
@@ -424,29 +425,114 @@ There is maximum RPXP you can gain each week (See the table below).</li>
 <ul>
 <li>You can get RPXP for each <strong>half hour</strong> of active RP, rounded down.</li>
 </ul>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none"> Lv | RPXP/hr | Weekly Cap
-----+---------+-----------
-  1 |    30   |    300
-  2 |    40   |    400
-  3 |    50   |    500
-  4 |    60   |    600
-  5 |    80   |    800
-  6 |   100   |   1000
-  7 |   120   |   1200
-  8 |   140   |   1400
-  9 |   170   |   1700
- 10 |   200   |   2000
- 11 |   230   |   2300
- 12 |   260   |   2600
- 13 |   300   |   3000
- 14 |   340   |   3400
- 15 |   400   |   4000
- 16 |   460   |   4600
- 17 |   540   |   5400
- 18 |   620   |   6200
- 19 |   720   |   7200</code></pre>
-</doc-codeblock></div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Lv</th>
+<th>RPXP/hr</th>
+<th>Weekly Cap</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>30</td>
+<td>300</td>
+</tr>
+<tr>
+<td>2</td>
+<td>40</td>
+<td>400</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>500</td>
+</tr>
+<tr>
+<td>4</td>
+<td>60</td>
+<td>600</td>
+</tr>
+<tr>
+<td>5</td>
+<td>80</td>
+<td>800</td>
+</tr>
+<tr>
+<td>6</td>
+<td>100</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>7</td>
+<td>120</td>
+<td>1200</td>
+</tr>
+<tr>
+<td>8</td>
+<td>140</td>
+<td>1400</td>
+</tr>
+<tr>
+<td>9</td>
+<td>170</td>
+<td>1700</td>
+</tr>
+<tr>
+<td>10</td>
+<td>200</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>11</td>
+<td>230</td>
+<td>2300</td>
+</tr>
+<tr>
+<td>12</td>
+<td>260</td>
+<td>2600</td>
+</tr>
+<tr>
+<td>13</td>
+<td>300</td>
+<td>3000</td>
+</tr>
+<tr>
+<td>14</td>
+<td>340</td>
+<td>3400</td>
+</tr>
+<tr>
+<td>15</td>
+<td>400</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>16</td>
+<td>460</td>
+<td>4600</td>
+</tr>
+<tr>
+<td>17</td>
+<td>540</td>
+<td>5400</td>
+</tr>
+<tr>
+<td>18</td>
+<td>620</td>
+<td>6200</td>
+</tr>
+<tr>
+<td>19</td>
+<td>720</td>
+<td>7200</td>
+</tr>
+</tbody>
+</table>
+</div>
 <p><strong>Transferring RPXP to XP</strong></p>
 <blockquote>
 <p>See under <doc-anchor-trigger to="#3-dm-events">DM Events</doc-anchor-trigger> section below.</p>
@@ -672,6 +758,41 @@ There is maximum RPXP you can gain each week (See the table below).</li>
 <p>Example: <code v-pre>!dxp game 100 &quot;Pit Fight: The Pitmaster Returns 2022-02-25&quot;</code></p>
 </blockquote>
 <p><strong>Reminder</strong>: This does <strong>not</strong> reset the weekly cap.</p>
+<doc-anchor-target id="4-avrae-tutorial-xp">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#4-avrae-tutorial-xp">#</doc-anchor-trigger>
+        <span>4. Avrae Tutorial XP</span>
+    </h2>
+</doc-anchor-target>
+<p>You can earn Avrae Tutorial XP by roleplaying with other players for at least half an hour in the one of the Arena channels or threads. It is a way to learn Avrae commands and encourage sparring among new players.</p>
+<p>Following rules apply to Avrae Tutorials:</p>
+<ul>
+<li><p>There&#x27;s a maximum limit of 6 Avrae Tutorials <strong>per character</strong>.</p>
+</li>
+<li><p>Avrae Tutorial XP tracked separately for each character you have.</p>
+</li>
+<li><p>If you are RPing more than one character at the same time, you can only gain Avrae Tutorial XP for one of them during that period.</p>
+</li>
+<li><p>All modification of XP must be made in <code v-pre>#xp-tracker</code></p>
+</li>
+<li><p>XP can only be redeemed for <strong>active</strong> spars between players. These spars should use Avrae&#x27;s initiative tracker and involve multiple attacks, skill checks, etc. It&#x27;s considered cheating to redeem Avrae Tutorial XP when you&#x27;ve only sent 2 messages, for example.</p>
+</li>
+<li><p>You can gain Avrae Tutorial XP and RPXP from the same RP session.</p>
+</li>
+<li><p>You cannot log and gain Avrae Tutorial XP from DM Events.</p>
+</li>
+<li><p>If you forget the reactions to mark the beginning and end of the RP, you can still mark them afterwards and gain the Avrae Tutorial XP retroactively, as long as it is within 24 hours since you ended the RP.</p>
+</li>
+<li><p>It is considered “cheating” to add more XP than you should, add invalid XP, etc., and it results in the same consequences as any other cheating behaviors, according to its severity.</p>
+</li>
+</ul>
+<doc-anchor-target id="step-by-step-guide-for-avrae-tutorial-xp">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#step-by-step-guide-for-avrae-tutorial-xp">#</doc-anchor-trigger>
+        <span>Step By Step Guide for Avrae Tutorial XP</span>
+    </h3>
+</doc-anchor-target>
+<p>Follow the steps in the <doc-anchor-trigger to="#step-by-step-guide-for-rpxp">Step by Step Guide for RPXP</doc-anchor-trigger>, but for step 4, run <code v-pre>!dxp tutorial</code> before the <code v-pre>!rpxp</code> command.</p>
 
                                 
                                 <!-- Required only on API pages -->
