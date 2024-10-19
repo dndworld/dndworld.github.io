@@ -157,12 +157,15 @@ There are channels for specific content under the **DnD Chat** category. Please 
 Full explanation on the available game types on the server can be found in [How to Earn XP](earn-xp.md).
 
 1. Wait for Level pings
+
 Wait for a DM to ping your level for a bounty in `#bounty-board` or an arena/hunt/pit fight in `#arena-board`. 
 
 2. Check if signups are still Open
+
 Event posts with a :x: or :negative_squared_cross_mark: reaction are closed for signups.
 
 3. Signup
+
 If the event is still open for signups, copy the **template** posted by that DM, fill it in, and post it in `#game-signup`
 
 !!! How to check "RPXP Stored" and "XP to Next Level"
@@ -170,12 +173,15 @@ In `#bot-dump`, run `!rpxp xp`
 !!!
 
 4. Acceptance
+
 Game acceptance is announced in `#game-signup`. If you are accepted, the DM will ping you to confirm your attendance. React with the appropriate emoji to confirm your acceptance.
 
 5. Before the Game
+
 The DM will ping you again in the appropriate OOC (out of character) channel for the game.
 
 6. After the Game: Tracking XP
+
 `#xp-tracker` is used for you to track XP on this server.
 
 To add the XP from the game:

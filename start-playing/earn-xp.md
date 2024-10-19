@@ -27,9 +27,9 @@ RPXP is separate from XP, but can be converted to XP after attending DM events. 
 
 You can earn RPXP by roleplaying with other players for half an hour or more in a RP channel. It is the most reliable way to gain XP, as you can stack up RPXP outside events and convert it to XP after each DM event.
 
-### RPXP Rules:
+### RPXP Rules
 
-**Active RP**
+#### Active RP
 RPXP can only be added for **active RP.** Players are required to interact with other player(s) in a meaningful and engaged way, such that a reasonable person could tell they are actively RPing (and not, say, sending a few words over the course of 3 hours to farm RPXP).
 
 As a rule of thumb, there should be no more than ≈30 mins between your own messages in a normal- or fast-paced setting such as the `#drunken-yeti-tavern`.
@@ -38,33 +38,33 @@ As a rule of thumb, there should be no more than ≈30 mins between your own mes
 It is NOT considered active RP if a player's only contribution to a session is a few gestures or words, such as *they take a sip from their mug* or *they nod in agreement*.
 - If there are unreasonably large gaps of time between messages, Mods may rule that this is not considered active RP.
 
-**Tracking & Logging**
+#### Tracking & Logging
 - RPXP is tracked separately for each character you have. 
 - If you are RPing more than one character at the same time, you can only gain RPXP for one of them during that period.
 - All changes to RPXP must be made in `#xp-tracker`
 - If you are in the middle of RPing, you don't need to use the :octagonal_sign: react when switching channels.
 
-**DM Events & Redeeming**
+#### DM Events & Redeeming
 - RPXP can be transferred to the character's XP total, only **AFTER** the character has completed a DM sanctioned event.
 - Transferring RPXP to XP after a DM event does **not** reset the weekly cap.
 - After attending a DM event, you **must** add any RPXP you have.
 - You cannot log and gain RPXP from DM Events.
 
-**Misc.**
+#### Misc.
 - If you forget to react to mark the start and end of the RP but it is still within 24 hours since it ended, you can still mark them and gain RPXP retroactively.
 - It is considered “cheating”, to add more RPXP than you should, add invalid RPXP, or add RPXP to your main XP tracker without a DM event, etc., and it results in the same consequences as any other cheating behaviors, according to its severity.
 
-**Spar RP.**
+#### Spar RP
 You can spar (PvP) with other players in the snowhaven-arena or snowhaven-arena-2 for the same amount of RPXP as RPing. Arena is a safe place to fight, as death is not permanent due to the healing constructs being on stand-by. For any other PvP, please refer to section 2.4 of rules.
 
-**Time Bubbled RP.**
+#### Time Bubbled RP
 The server runs in real time, but sometimes, real life stops a RP from being completed. You are allowed to pause to continue this RP in what we call a Time Bubble. 
 
 Time bubble RPs exist out of the server's time. You can still earn RPXP for them following the RPXP rules.
 
 ### Step By Step Guide for RPXP
 
-**Gaining RPXP**
+#### Gaining RPXP
 
 1) When you begin roleplaying, react to your first post with :beginner: `:beginner:` and get the person you are RPing with to react as well.
 
@@ -73,7 +73,7 @@ Time bubble RPs exist out of the server's time. You can still earn RPXP for them
 3) Find out how long the RP session was. You can find your :beginner: and :octagonal_sign: messages posted to `#rp-log`.
 
 4) Log RPXP in `#xp-tracker`.
-> - You can get RPXP for each **half hour** of active RP, rounded down.
+> You can get RPXP for each **half hour** of active RP, rounded down.
 > 
 > ```
 > !rpxp <hour> [message]
@@ -98,7 +98,7 @@ The following table is how much RPXP per hour you can gain depending on your lev
 
 {.compact}
 Lv | RPXP/hr | Weekly Cap
-:---: | :---: | ---:
+:---: | :---: | ---
 1 | 30 | 300
 2 | 40 | 400
 3 | 50 | 500
@@ -135,12 +135,12 @@ Lv | RPXP/hr | Weekly Cap
 
 Combat Training DTD provides a small amount of XP depending on success rate.
 
-**Step 1.** Set up the Lifestyle
+1. Set up the Lifestyle
 > In order to do Downtime Days (DTD) activities, you must first pay the lifestyle cost. 
 > 
 > Please check out `#lifestyle-dtd-rules` for more details and how to set up your lifestyle.
 
-**Step 2.** Do the Combat Training
+2. Do the Combat Training
 > Note that combat training has a cost of 1gp per character level. This is automatically deducted from the coin purse when you use the `!train` alias.
 > 
 > In `#dtd-automated-log`, run the following command.
@@ -151,7 +151,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 > 
 > The full explanation of Combat Training DTD can be found in `#lifestyle-dtd-rules`, and the command description and argument options can be found by running `!help train` in `#bot-dump`. You can do 1 DTD per day, up to 5 per week.
 
-**Step 3.** Log the XP
+3. Log the XP
 > Go to `#xp-tracker` and log the XP
 > 
 > ```
