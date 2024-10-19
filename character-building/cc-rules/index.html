@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782684733072">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782685763336">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -33,12 +33,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782684733072" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782685763336" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782684733072" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782685763336" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782684733072" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.782684733072" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782685763336" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -554,12 +553,14 @@ h1:before { content: "🛠️ " }
         <span>Disallowed Content:</span>
     </h3>
 </doc-anchor-target>
-<p>==-Races/Species</p>
+<doc-panels>
+   <doc-panel id="races-species" collapsed>
+       <template #title>Races/Species</template>
 <ul>
 <li>Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.</li>
 </ul>
 <p>For the full list of allowed and disallowed official races, please refer to <a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY">this doc</a>. For races with multiple versions, please make sure you are using a version that is allowed.</p>
-<doc-panels>
+   </doc-panel>
    <doc-panel id="classes-subclasses" collapsed>
        <template #title>Classes/Subclasses</template>
 <p><strong>General</strong></p>
@@ -590,7 +591,8 @@ h1:before { content: "🛠️ " }
 <li>Sagacity Mutagen (Blood Hunter)</li>
 </ul>
    </doc-panel>
-<p>==-Feats</p>
+   <doc-panel id="feats" collapsed>
+       <template #title>Feats</template>
 <ul>
 <li><p>Aberrant Dragonmarks</p>
 </li>
@@ -621,7 +623,26 @@ h1:before { content: "🛠️ " }
 <li><p>Soul of the Storm Giant (refer to the DW Homebrew version)</p>
 </li>
 </ul>
-<doc-panels>
+   </doc-panel>
+   <doc-panel id="backgrounds" collapsed>
+       <template #title>Backgrounds</template>
+<ul>
+<li>Custom Backgrounds</li>
+</ul>
+<p>Backgrounds from the following books:</p>
+<ul>
+<li><em>Baldur&#x27;s Gate</em>(except Faceless)</li>
+<li><em>Guildmaster&#x27;s Guide to Ravnica</em></li>
+<li><em>The Wild Beyond the Witchlight</em></li>
+<li><em>Strixhaven</em></li>
+<li><em>Spelljammer</em></li>
+<li><em>Dragonlance</em></li>
+<li><em>Glory of the Giants</em></li>
+<li><em>Planescape</em></li>
+<li><em>The Book of Many Things</em></li>
+</ul>
+<p>Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.</p>
+   </doc-panel>
    <doc-panel id="spells" collapsed>
        <template #title>Spells</template>
 <ul>
@@ -683,28 +704,6 @@ h1:before { content: "🛠️ " }
 </li>
 </ul>
 </blockquote>
-<doc-anchor-target id="backgrounds">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#backgrounds">#</doc-anchor-trigger>
-        <span>Backgrounds</span>
-    </h3>
-</doc-anchor-target>
-<blockquote>
-<p>Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.</p>
-</blockquote>
-<p><strong>Disallowed Backgrounds</strong></p>
-<ul>
-<li>Custom Background rule</li>
-<li><em>Baldur&#x27;s Gate</em> backgrounds (except Faceless)</li>
-<li><em>Guildmaster&#x27;s Guide to Ravnica</em> backgrounds</li>
-<li><em>The Wild Beyond the Witchlight</em> backgrounds</li>
-<li><em>Strixhaven</em> backgrounds</li>
-<li><em>Spelljammer</em> backgrounds</li>
-<li><em>Dragonlance</em> backgrounds</li>
-<li><em>Glory of the Giants</em> backgrounds</li>
-<li><em>Planescape</em> backgrounds</li>
-<li><em>The Book of Many Things</em> backgrounds</li>
-</ul>
 <doc-anchor-target id="character-details">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#character-details">#</doc-anchor-trigger>
@@ -995,75 +994,6 @@ h1:before { content: "🛠️ " }
 <blockquote>
 <p>You are allowed to take a feat instead of taking Ability Score Improvement (ASI), when the class gives you the option at certain levels.</p>
 </blockquote>
-<doc-anchor-target id="rebuild">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#rebuild">#</doc-anchor-trigger>
-        <span>Rebuild</span>
-    </h3>
-</doc-anchor-target>
-<blockquote>
-<p>Please refer to <code v-pre>#rebuild-retire-log</code> pin for full details on rebuild.</p>
-</blockquote>
-<doc-anchor-target id="character-death--retire">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#character-death--retire">#</doc-anchor-trigger>
-        <span>Character Death / Retire</span>
-    </h3>
-</doc-anchor-target>
-<blockquote>
-<ul>
-<li>Character death needs to be recorded in <code v-pre>#list-of-the-fallen</code>. Full details on how to make the record, what to do next, and information on Cushion Rule can be found in the channel pin.</li>
-<li>You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on Retiring can be found in <code v-pre>#rebuild-retire-log</code> channel pin and Cushion Rule in <code v-pre>#claims-log</code>.</li>
-</ul>
-</blockquote>
-<doc-anchor-target id="warning-returning-playersinactivity">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#warning-returning-playersinactivity">#</doc-anchor-trigger>
-        <span><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Returning Players/Inactivity</span>
-    </h2>
-</doc-anchor-target>
-<p>Whether you leave the server and return after some period of time, or you have been inactive on the server for some time, your characters do <strong>not</strong> automatically reset. You must keep all rolled results, as well as the characters created before the leave or inactivity.</p>
-<doc-anchor-target id="invalid-stats-rebuild">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#invalid-stats-rebuild">#</doc-anchor-trigger>
-        <span>Invalid Stats Rebuild</span>
-    </h3>
-</doc-anchor-target>
-<p>If you have a roll made before 11 August 2020, you may reroll for it provided you lack one of the following:</p>
-<ul>
-<li>70 or above in total stats</li>
-<li>At least one 14 or above</li>
-<li>Separate stat of at least one 15 or above</li>
-</ul>
-<p>To reroll, please declare which character you are rerolling for, then run <code v-pre>!generate</code> ONCE in <code v-pre>#official-character-rolls</code>. You may choose between your new and previous roll:</p>
-<ul>
-<li>To use your new roll, submit the <a href="https://discord.com/channels/512870694883950598/542953099560615946/941343439428145223">Invalid Stats rebuild form</a> in <code v-pre>#rebuild-retire-log</code> and wait for it to be processed.</li>
-<li>To keep your previous roll, react <span class="docs-emoji">&#x274C;</span> on the new roll.</li>
-</ul>
-<doc-anchor-target id="fresh-start">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#fresh-start">#</doc-anchor-trigger>
-        <span>Fresh Start</span>
-    </h3>
-</doc-anchor-target>
-<ul>
-<li>In case you have been away for a significant amount of time, we allow you to mass retire all of your characters. In this case only one of them is eligible for the Cushion Rule. You are not required to do Fresh Start if you have been away, but if you choose to do fresh start, it applies to all characters you had.</li>
-<li>Fresh Start is approved on a case-by-case basis. Please fill in the following form and send it to <code v-pre>#rebuild-retire-log</code> and wait for the request to be reviewed.</li>
-</ul>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-markdown"><code v-pre class="language-markdown">Fresh Start Request
-
-**How long you have been away:** 
-**Character Name(s):** 
-**Level(s):** 
-**Race(s):** 
-**Class(es)(if multiclass, specify levels of each class):** 
-**Subclass(es):** 
-**Link to Stat Roll if Rolled:** 
-**Link to Character Sheet:** 
-**Date of Last Game (optional):** 
-**Date of Leaving the Server (if applicable):** </code></pre>
-</doc-codeblock></div>
    </doc-panel>
 
                                 
@@ -1131,6 +1061,6 @@ h1:before { content: "🛠️ " }
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Character Creation Rules", level: 2, icon: "file", hasPrism: true, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Character Creation Rules", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
