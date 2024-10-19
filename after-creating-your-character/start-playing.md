@@ -17,7 +17,7 @@ This page is to teach you what to do after creating your character. If you have 
 **Custom Counters** are used to keep track of various resources, such as race ability (e.g. Half-Orc's Relentless Endurance), class ability (Fighter's use of Second Wind), ammunition, charges on a magic item, etc.
 
 !!!success
-For **D&D Beyond** sheets, this is **already done for you**.
+For **D&D Beyond** sheets, this is **already done for you**. You can skip to [!button variant="success" text="Tracking Money"](start-playing/#tracking-money.md)
 !!!
 
 For other sheets, setting up the class abilities is automated using Avrae. Run the commands below in `#bot-dump` for the setup.

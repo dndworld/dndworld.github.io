@@ -14,7 +14,6 @@ h1:before {
 <br><br>
 - You only get one roll per character.
 - Only the rolls made in [#official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264) are valid.<br>
-⚠️ **Do not roll stats/HP/gold on D&D Beyond.**
 <br><br>
 - All test rolls should be done in `#bot-dump`.
 - Upload your character sheets in [#character-sheets](https://discordapp.com/channels/512870694883950598/512872392377499661), not [#official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264).

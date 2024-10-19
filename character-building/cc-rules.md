@@ -39,13 +39,12 @@ You cannot transfer characters from other places. However, you can create a vers
 There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd.md).
 
 Character Preferences (settings)
-- **Sources**: Homebrew Content, Expanded Rules, Legacy, Critical Role Content
+- **Sources**: Expanded Rules, Legacy, Critical Role Content
 
 !!!warning Not everything from these sources is allowed to be used in the server.
 Please refer to the "Sources" section below for full details.
 !!!
 
-!!!
 - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
 - **Optional Features**: On
 - **Advancement Type**: Milestone
@@ -53,7 +52,6 @@ Please refer to the "Sources" section below for full details.
 - **Encumbrance Type**: Use Encumbrance
 - **Ignore Coin Weight**: Off
 - **Character Privacy**: Public
-!!!
 
 Leave the rest of the options as they are.
 
