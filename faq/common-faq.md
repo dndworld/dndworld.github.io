@@ -108,11 +108,8 @@ As a player, you can define your patron as long as they are not lore-breaking or
 No.
 
 ==- My character has the soldier background, what are some wars they could have taken part in? 
-- Within the last decade, there is the war between the Republic of Taffeta and the rebels.
-- Decades ago, there was the elves vs. the frost giant.
-- Centuries ago, dwarfs vs. orcs.
-- And thousands of years ago, when only a PC's ancestors could have fought, the Great War between devils and gods.
-- You can find out more in `#lore`.
+> If your character is from Icris, they might have fought in the Taffetan War. You can read more about the war’s progress by heading to [#lore](https://discordapp.com/channels/512870694883950598/740905255201669161), typing `in:lore taffeta` in your search bar and sorting by Oldest first.
+> If your character is from Eo, they might have fought in the Time of Darkness. You can read more about it [here](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/edit?usp=sharing)
 
 ==- What are the Warforged origins in this server? 
 God of Knowledge, Cheong created the first warforged during the last Great War. However, his original blueprints were lost when the Labyrinth collapsed. Now, most modern warforged are replications made by powerful artificers. As such, not all warforged need to be built for war.
@@ -120,12 +117,11 @@ God of Knowledge, Cheong created the first warforged during the last Great War. 
 ==- Do you get a spellbook if you multiclass to wizard? 
 Yes
 
-==- Can I wild shape into X?
-Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/character-building/cc-rules/). Here are some noteworthy specifications:
-
-- Dinosaur: No. Dinosaurs do not exist in Icris so you couldn't have seen one. Even if you later see a dinosaur-like creature in-game, they are considered aberrations on this server rather than beasts.
-- If a beast is not native to Icris, then our rules governing backstories in [Character Creation Rules](/character-building/cc-rules/) prevent you from having seen them in your backstory. If you later see them in-game, then you might be able to transform into them at your respective DMs' discretion.
-- Attempting to transform into an awakened animal results in you transforming into the non-awakened version of the animal.
+==- Can I wild shape into X? (`!faq wildshape`)
+> Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/cc-rules.md). Here are some noteworthy specifications:
+> - Dinosaur: Dinosaurs only exist in the Pelgara Archipelago on the continent of Eo. Hence, your character must have originated from there or previously traveled there.
+> - Some beasts are not native to Icris (for example creatures from supplementary adventures like Tome of Annihilation), hence you would not have seen them before. If you later see them in-game, then you might be able to transform into them at your respective DMs' discretion.
+> - Attempting to transform into an awakened animal results in you transforming into the non-awakened version of the animal.
 
 ==- "How does this server handle Artificer infusions?"
 Any infusions that are not your own are considered as prebuffs in the context of DM events. The DM of an event has the final say in whether such prebuff is allowed in their game.

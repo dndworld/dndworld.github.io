@@ -267,25 +267,22 @@ Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 
 ### World Setting
 
-> - The world map and general world setting information can be found in `#lore` 
-> - If you have any lore questions for your backstory, message `@FanMail` with the specific question and motive. 
-> - The pantheon of Icris can be found in `#pantheon`, and the Members of the Council (Archdevils) can be found in `#hell-inc`
-> 
-> !!!warning
-> No guns or firearm lookalikes exist in this world. No sci-fi, no references to other franchises, no urban technology, no references to events on Earth.
-> !!!
-> 
-> For more DnD World lore, please visit our [World Anvil page](https://www.worldanvil.com/w/icris-dnd-world).
-> 
-> - Your backstory must take place in Icris. You cannot be a planeshifter, come from another plane such as the Feywild/Shadowfell/Elemental Planes, or come from another continent or Underdark.
-> - You cannot invent major world changing events such as natural disasters or war.
+__World Setting__
+
+> - The world map and general world setting information can be found in [About Us](/index.md)
+> - If you have any lore questions for your backstory, message @FanMail with the specific question and intention.
+> - The pantheon of Icris can be found in [#pantheon](https://discordapp.com/channels/512870694883950598/535362293144223744), and the archdevils can be found in [#hell-inc](https://discordapp.com/channels/512870694883950598/640104532042317834).
+>   - If you are a cleric, you must follow god(s) from the Icris pantheon.
+>    - Alternatively, you can follow the Eodian faith system as set out [here](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/edit?usp=sharing).
+>   - You cannot follow a god from another pantheon (e.g. Forgotten Realms) and you cannot invent your own god or worship an illusory god.
+> - For more DnD World lore, please visit our World Anvil page: <https://www.worldanvil.com/w/icris-dnd-world>
+>   - You can also find new lore about other continents [here](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/edit?usp=sharing)
+> - For characters that intend to originate from planes other than the Feywild or Shadowfell, please message @FanMail for approval. 
+
+### Please Avoid
+> - ⚠️ No guns or firearm lookalikes exist in this world. No sci-fi, no references to other franchises, no urban technology, no references to events on Earth.
+> - Your backstory should take place within our world; you cannot be transported or “isekai-ed” from an alternate universe or IRL.
 > - You cannot be in a current/former position of royalty, e.g. King/Queen, Prince/Princess.
-> 
-> - You cannot follow a god from another pantheon (e.g. Forgotten Realms) and you cannot invent your own god.
-> - If you are a cleric, you must follow god(s) from Icris pantheon: `#pantheon`.
-
-### Miscellaneous
-
 > - Your backstory cannot be based off religious text such as the Bible, or directly pulled from a video game/book series/franchise. 
 > - Your backstory cannot have far-fetched concepts like being frozen in time, or contain powerful or legendary magic items.
 > 
