@@ -1,5 +1,5 @@
 ---
-label: "Scheduling RP"
+label: "Scheduling Roleplay"
 icon: ":busts_in_silhouette:"
 order: 8
 ---
@@ -9,7 +9,7 @@ h1:before {
 }
 </style>
 
-# Scheduling RP
+# Scheduling Roleplay
 
 Most roleplay (RP) in our server happens spontaneously. You can just walk into any open RP channel and find someone you'd like to talk to. However, we also provide the option to plan your roleplay. [The RP Board](https://discord.com/channels/512870694883950598/893946822404493392) is for you to indicate to other players that you are seeking RP. Use that channel to request for:
 

@@ -193,7 +193,7 @@ Please note that some background features will have no effect on this server, e.
 - Tasha's Otherwordly Guise
 - Tasha's Mind Whip
 
-===
++++
 
 ### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
 

@@ -1,5 +1,5 @@
 ---
-label: Joining Games & Roleplaying
+label: Joining Games
 order: 9
 icon: ":crossed_swords:"
 ---
@@ -8,7 +8,7 @@ icon: ":crossed_swords:"
 h1:before { content: "⚔️ " }
 </style> 
 
-# Joining Games & Roleplaying
+# Joining Games & Earning XP
 
 This guide explains different ways of gaining XP on the server.
 
