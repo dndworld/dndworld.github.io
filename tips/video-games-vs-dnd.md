@@ -2,6 +2,7 @@
 label: "Video Games vs D&D"
 author: fangirlcrazily
 order: 0
+visibility: hidden
 ---
 <style>
 h1:before { 
