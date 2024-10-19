@@ -10,7 +10,7 @@ h1:before { content: "⚔️ " }
 
 # How to Earn XP
 
-This channel explains different ways of gaining XP on the server.
+This guide explains different ways of gaining XP on the server.
 
 ## Overview
 

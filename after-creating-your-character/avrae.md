@@ -1,7 +1,7 @@
 ---
 label: Rolling Dice
 icon: ":game_die:"
-order: 100
+order: 90
 ---
 <style>
 h1:before { 

@@ -1,6 +1,6 @@
 ---
-label: How to Start Playing
-order: 10
+label: Next Steps
+order: 100
 icon: ":game_die:"
 ---
 
@@ -8,9 +8,9 @@ icon: ":game_die:"
 h1:before { content: "🎲 " }
 </style> 
 
-# How to Start Playing
+# Next Steps
 
-This channel is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/character-building/start-here/)
+This page is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/character-building/start-here/)
 
 ## Setting up Class, Race, Custom Counters (CCs)
 

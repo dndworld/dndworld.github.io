@@ -89,6 +89,14 @@ DiceCloud v1 tutorials
 If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 !!!
 
+> For the full list of the allowed and disallowed official materials, please refer to [this doc](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
+ >-  For the full list of allowed races/species, you may alternatively refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY).
+
+> Getting access to paid material (Optional)
+> - The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions in the `#ddb-link-request` pins.
+
+### Disallowed Content:
+
 !!!warning When a new official material is published,
 it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to `#changelog`, followed by the update on this channel.
 !!!
@@ -100,33 +108,6 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 > 
 > **Under Review**
 > - Critical Role: Tal'Dorei Reborn
-
-> For the full list of the allowed and disallowed official materials, please refer to the following doc. The rest of this channel also includes the breakdowns of all officially published disallowed materials by race, class, etc.
-> - [Banned/Allowed DnD World](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k)
- 
-> For the full list of allowed official races, you may alternatively refer to the following doc:
-> - [Dnd World Allowed Offical Races v2](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY)
-
-> Getting access to paid material (Optional)
-> - The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions in the `#ddb-link-request` pins.
-
-### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
-
-> - UA that gets officially released or revisited later in another UA is banned.
-> - Any UA content that hasn't been vetted for approval yet isn't allowed. Therefore, if it is not in the approved UA section, it is not allowed. 
-> - Charity content, planeshift content, content released by developers outside the official website, and Critical Role content is considered unofficial and only approved for use if they are in the homebrew document (i.e. the Blood Hunter class).
-
-> - You cannot multiclass with Homebrew and UA classes/subclasses due to balance reasons.
-> - If you plan on using Homebrew or UA content, we highly recommend you to use GSheet or DiceCloud sheets due to various limitations of D&D Beyond's Homebrew system.
-
-
-### [DnD World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
-
-> This document along with the [Erratas and Clarifications page](/erratas.md) compile all changes of official content and Variant Features we've added.
-
-## Character Creation
-
-### Disallowed Content:
 
 ==- Races/Species
 - Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
@@ -210,6 +191,23 @@ Please note that some background features will have no effect on this server, e.
 ==- Other
 - Supernatural Gifts
 - Sidekicks
+===
+
+### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
+
+> - UA that gets officially released or revisited later in another UA is banned.
+> - Any UA content that hasn't been vetted for approval yet isn't allowed. Therefore, if it is not in the approved UA section, it is not allowed. 
+> - Charity content, planeshift content, content released by developers outside D&D Beyond, and Critical Role content is considered unofficial and only approved for use if they are in the homebrew document (i.e. the Blood Hunter class).
+> - You cannot multiclass with Homebrew and UA classes/subclasses due to balance reasons.
+>   - For approved third party content released on D&D Beyond, we will specify if it is eligible for multiclass e.g. Humblewood 
+> - If you plan on using Homebrew or UA content, we highly recommend you to use GSheet or DiceCloud sheets due to various limitations of D&D Beyond's Homebrew system.
+
+
+### [DnD World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
+
+> This document along with the [Erratas and Clarifications page](/erratas.md) compile all changes of official content and Variant Features we've added.
+
+## Character Creation
 
 ### Ability Scores
 
@@ -218,7 +216,6 @@ Please note that some background features will have no effect on this server, e.
 ### HP
 
 > At 1st level, as per RAW you take max of your hit die, determined by your class, and add your Constitution modifier.
-
 
 ### :warning: Rolling for Stats/HP/Gold
 
@@ -231,8 +228,7 @@ Please note that some background features will have no effect on this server, e.
 ### Character Details
 
 **Name**
-> - Your nickname, character name, as well as username must be easily pingable by the staff members and not something with over repetition of characters (e.g. Caaaaaallum), key-smashes (e.g. jahfjbqwubwqu), difficult to search (e.g. "Copy" or "Backup" as a name), use special font, etc. 
-> - Try not to double up on character names with an Active Player to minimize confusion. Use the Discord search function to see if someone else has a similar or especially the exact same name, and preferably use a different one.
+> - Your nickname, character name, as well as username must be easily pingable by the staff members and not something with over repetition of characters (e.g. Caaaaaallum), key-smashes (e.g. jahfjbqwubwqu), difficult to search (e.g. "Copy" or "Backup" as a name), use special font, etc.
 
 **Age**
 > - You are not allowed to create characters younger than adolescence, using the guidelines the below chart.
@@ -249,40 +245,6 @@ Young Adult | 15-20 | 18-50 | 100-350 | 18-40 | 20-30 | 18-30 |
 Settled Adult | 20-50 | 50-200 | 350-600 | 40-200 | 30-150 | 30-65 |
 Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 
-## Character Backstory
-
-- It is important to note that your character's backstory will most likely not be explored here. Hence, the backstory is primarily for your roleplay.
-- By submitting your backstory and lore to this server, you agree that it becomes open to DM interpretation.
-
-### Level 1 Character in a Collaborative Story
-
-> - What you did in your backstory must make sense for a Level 1 character's capabilities. For example, you cannot be famous or notorious at the world-wide scale, or have committed mass slaughter.
-> - Beware of Chosen One Syndrome. You are a part of the collaborative storytelling, not the main character of a novel.
-> 
-> - Your backstory cannot contain any non-family-friendly topics such as sexual assault of any degree, slavery, pedophilia, etc. When in doubt, err on the side of caution, or in case you are unsure, send a message to `@FanMail` for confirmation.
-
-### World Setting
-
-> - The world map and general world setting information can be found in [About Us](/index.md)
-> - If you have any lore questions for your backstory, message @FanMail with the specific question and intention.
-> - The pantheon of Icris can be found in [#pantheon](https://discordapp.com/channels/512870694883950598/535362293144223744), and the archdevils can be found in [#hell-inc](https://discordapp.com/channels/512870694883950598/640104532042317834).
->   - If you are a cleric, you must follow god(s) from the Icris pantheon.
->    - Alternatively, you can follow the Eodian faith system as set out [here](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/edit?usp=sharing).
->   - You cannot follow a god from another pantheon (e.g. Forgotten Realms) and you cannot invent your own god or worship an illusory god.
-> - For more DnD World lore, please visit our World Anvil page: <https://www.worldanvil.com/w/icris-dnd-world>
->   - You can also find new lore about other continents [here](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/edit?usp=sharing)
-> - For characters that intend to originate from planes other than the Feywild or Shadowfell, please message @FanMail for approval. 
-
-### Please Avoid
-
-> - ⚠️ No guns or firearm lookalikes exist in this world. No sci-fi, no references to other franchises, no urban technology, no references to events on Earth.
-> - Your backstory should take place within our world; you cannot be transported or “isekai-ed” from an alternate universe or IRL.
-> - You cannot be in a current/former position of royalty, e.g. King/Queen, Prince/Princess.
-> - Your backstory cannot be based off religious text such as the Bible, or directly pulled from a video game/book series/franchise. 
-> - Your backstory cannot have far-fetched concepts like being frozen in time, or contain powerful or legendary magic items.
-> 
-> - It is optional, but recommended, that you write your backstory in `#character-biopic`.
-
 ## Equipment
 
 > - You may take starting equipment **__or__** roll for gold.
@@ -293,18 +255,6 @@ Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 >   - After you have rolled the gold, you may then purchase the equipment from the above document, and by logging the transactions in the `#transaction-log`. 
 > 
 > - You are **__not__** allowed to possess any magic items starting out.
-
-## Rules for Multiple Characters
-
-> - You start with **2 character slots** on this server. You can gain extra character slots by becoming a [patron](https://www.patreon.com/Dndworld) or taking on certain staff roles.
-
-> - You may make your additional characters any time, following the same procedure as your first character. 
-
-> - You cannot sign up for, or go on the same quest with both characters, as per [Roleplay Rules 11](/rp-rules/). 
-> - If you are roleplaying more than one character at the same time, you can only gain RPXP for one of them during that period.
-> 
-> - Your characters cannot be in the same guild.
-> - Your characters cannot benefit from each other's presence, e.g. they cannot give each other items or gold.
 
 ## Character Creation Phase
 
@@ -340,3 +290,15 @@ Once your character participates in a DM event, all rebuilds must be submitted f
 ### ASI/Feat
 
 > You are allowed to take a feat instead of taking Ability Score Improvement (ASI), when the class gives you the option at certain levels.
+
+## Multiple Characters
+
+> - You start with **2 character slots** on this server. You can gain extra character slots by becoming a [Patron](https://www.patreon.com/Dndworld) or taking on certain staff roles.
+
+> - You may make your second character any time, following the same procedure as your first character. 
+
+> - You cannot sign up for, or go on the same quest with both characters, as per [Roleplay Rules 11](/rp-rules/). 
+> - If you are roleplaying more than one character at the same time, you can only gain RPXP for one of them during that period.
+> 
+> - Your characters cannot be in the same guild.
+> - Your characters cannot benefit from each other's presence, e.g. they cannot give each other items or gold.

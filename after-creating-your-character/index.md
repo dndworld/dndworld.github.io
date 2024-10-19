@@ -8,7 +8,7 @@ expanded: false
 h1:before { content: "🧩 " }
 </style> 
 
-# Start Playing
+# After Creating Your Character
 
 Once you've created your character sheet, and imported them in `#character-sheets`, have a look at the following tabs:
 
