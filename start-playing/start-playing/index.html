@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782656635664">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782656930667">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782656635664" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782656930667" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782656635664" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782656930667" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782656635664" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782656930667" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -555,16 +555,17 @@ h1:before { content: "🎲 " }
 </doc-anchor-target>
 <p>Full explanation on the available game types on the server can be found in <a href="../earn-xp/">How to Earn XP</a>.</p>
 <ol>
-<li><p>Wait for Level pings
-Wait for a DM to ping your level for a bounty in <code v-pre>#bounty-board</code> or an arena/hunt/pit fight in <code v-pre>#arena-board</code>.</p>
-</li>
-<li><p>Check if signups are still Open
-Event posts with a <span class="docs-emoji">&#x274C;</span> or <span class="docs-emoji">&#x274E;</span> reaction are closed for signups.</p>
-</li>
-<li><p>Signup
-If the event is still open for signups, copy the <strong>template</strong> posted by that DM, fill it in, and post it in <code v-pre>#game-signup</code></p>
-</li>
+<li>Wait for Level pings</li>
 </ol>
+<p>Wait for a DM to ping your level for a bounty in <code v-pre>#bounty-board</code> or an arena/hunt/pit fight in <code v-pre>#arena-board</code>.</p>
+<ol start="2">
+<li>Check if signups are still Open</li>
+</ol>
+<p>Event posts with a <span class="docs-emoji">&#x274C;</span> or <span class="docs-emoji">&#x274E;</span> reaction are closed for signups.</p>
+<ol start="3">
+<li>Signup</li>
+</ol>
+<p>If the event is still open for signups, copy the <strong>template</strong> posted by that DM, fill it in, and post it in <code v-pre>#game-signup</code></p>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
     <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
@@ -584,16 +585,17 @@ If the event is still open for signups, copy the <strong>template</strong> poste
     </div>
 </div>
 <ol start="4">
-<li><p>Acceptance
-Game acceptance is announced in <code v-pre>#game-signup</code>. If you are accepted, the DM will ping you to confirm your attendance. React with the appropriate emoji to confirm your acceptance.</p>
-</li>
-<li><p>Before the Game
-The DM will ping you again in the appropriate OOC (out of character) channel for the game.</p>
-</li>
-<li><p>After the Game: Tracking XP
-<code v-pre>#xp-tracker</code> is used for you to track XP on this server.</p>
-</li>
+<li>Acceptance</li>
 </ol>
+<p>Game acceptance is announced in <code v-pre>#game-signup</code>. If you are accepted, the DM will ping you to confirm your attendance. React with the appropriate emoji to confirm your acceptance.</p>
+<ol start="5">
+<li>Before the Game</li>
+</ol>
+<p>The DM will ping you again in the appropriate OOC (out of character) channel for the game.</p>
+<ol start="6">
+<li>After the Game: Tracking XP</li>
+</ol>
+<p><code v-pre>#xp-tracker</code> is used for you to track XP on this server.</p>
 <p>To add the XP from the game:</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">!dxp game &lt;amount&gt; &lt;source&gt;</code></pre>

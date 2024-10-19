@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782656635664">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782656930667">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782656635664" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782656930667" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782656635664" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782656930667" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782656635664" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782656930667" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -349,11 +349,16 @@ h1:before { content: "⚔️ " }
 <doc-anchor-target id="rpxp-rules">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#rpxp-rules">#</doc-anchor-trigger>
-        <span>RPXP Rules:</span>
+        <span>RPXP Rules</span>
     </h3>
 </doc-anchor-target>
-<p><strong>Active RP</strong>
-RPXP can only be added for <strong>active RP.</strong> Players are required to interact with other player(s) in a meaningful and engaged way, such that a reasonable person could tell they are actively RPing (and not, say, sending a few words over the course of 3 hours to farm RPXP).</p>
+<doc-anchor-target id="active-rp">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#active-rp">#</doc-anchor-trigger>
+        <span>Active RP</span>
+    </h4>
+</doc-anchor-target>
+<p>RPXP can only be added for <strong>active RP.</strong> Players are required to interact with other player(s) in a meaningful and engaged way, such that a reasonable person could tell they are actively RPing (and not, say, sending a few words over the course of 3 hours to farm RPXP).</p>
 <p>As a rule of thumb, there should be no more than ≈30 mins between your own messages in a normal- or fast-paced setting such as the <code v-pre>#drunken-yeti-tavern</code>.</p>
 <ul>
 <li>If the players involved are replying with long, multi-paragraph messages, some flexibility is allowed.</li>
@@ -362,29 +367,54 @@ RPXP can only be added for <strong>active RP.</strong> Players are required to i
 <ul>
 <li>If there are unreasonably large gaps of time between messages, Mods may rule that this is not considered active RP.</li>
 </ul>
-<p><strong>Tracking &amp; Logging</strong></p>
+<doc-anchor-target id="tracking--logging">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tracking--logging">#</doc-anchor-trigger>
+        <span>Tracking &amp; Logging</span>
+    </h4>
+</doc-anchor-target>
 <ul>
 <li>RPXP is tracked separately for each character you have.</li>
 <li>If you are RPing more than one character at the same time, you can only gain RPXP for one of them during that period.</li>
 <li>All changes to RPXP must be made in <code v-pre>#xp-tracker</code></li>
 <li>If you are in the middle of RPing, you don&#x27;t need to use the <span class="docs-emoji">&#x1F6D1;</span> react when switching channels.</li>
 </ul>
-<p><strong>DM Events &amp; Redeeming</strong></p>
+<doc-anchor-target id="dm-events--redeeming">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#dm-events--redeeming">#</doc-anchor-trigger>
+        <span>DM Events &amp; Redeeming</span>
+    </h4>
+</doc-anchor-target>
 <ul>
 <li>RPXP can be transferred to the character&#x27;s XP total, only <strong>AFTER</strong> the character has completed a DM sanctioned event.</li>
 <li>Transferring RPXP to XP after a DM event does <strong>not</strong> reset the weekly cap.</li>
 <li>After attending a DM event, you <strong>must</strong> add any RPXP you have.</li>
 <li>You cannot log and gain RPXP from DM Events.</li>
 </ul>
-<p><strong>Misc.</strong></p>
+<doc-anchor-target id="misc">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#misc">#</doc-anchor-trigger>
+        <span>Misc.</span>
+    </h4>
+</doc-anchor-target>
 <ul>
 <li>If you forget to react to mark the start and end of the RP but it is still within 24 hours since it ended, you can still mark them and gain RPXP retroactively.</li>
 <li>It is considered “cheating”, to add more RPXP than you should, add invalid RPXP, or add RPXP to your main XP tracker without a DM event, etc., and it results in the same consequences as any other cheating behaviors, according to its severity.</li>
 </ul>
-<p><strong>Spar RP.</strong>
-You can spar (PvP) with other players in the snowhaven-arena or snowhaven-arena-2 for the same amount of RPXP as RPing. Arena is a safe place to fight, as death is not permanent due to the healing constructs being on stand-by. For any other PvP, please refer to section 2.4 of rules.</p>
-<p><strong>Time Bubbled RP.</strong>
-The server runs in real time, but sometimes, real life stops a RP from being completed. You are allowed to pause to continue this RP in what we call a Time Bubble.</p>
+<doc-anchor-target id="spar-rp">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#spar-rp">#</doc-anchor-trigger>
+        <span>Spar RP</span>
+    </h4>
+</doc-anchor-target>
+<p>You can spar (PvP) with other players in the snowhaven-arena or snowhaven-arena-2 for the same amount of RPXP as RPing. Arena is a safe place to fight, as death is not permanent due to the healing constructs being on stand-by. For any other PvP, please refer to section 2.4 of rules.</p>
+<doc-anchor-target id="time-bubbled-rp">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#time-bubbled-rp">#</doc-anchor-trigger>
+        <span>Time Bubbled RP</span>
+    </h4>
+</doc-anchor-target>
+<p>The server runs in real time, but sometimes, real life stops a RP from being completed. You are allowed to pause to continue this RP in what we call a Time Bubble.</p>
 <p>Time bubble RPs exist out of the server&#x27;s time. You can still earn RPXP for them following the RPXP rules.</p>
 <doc-anchor-target id="step-by-step-guide-for-rpxp">
     <h3>
@@ -392,7 +422,12 @@ The server runs in real time, but sometimes, real life stops a RP from being com
         <span>Step By Step Guide for RPXP</span>
     </h3>
 </doc-anchor-target>
-<p><strong>Gaining RPXP</strong></p>
+<doc-anchor-target id="gaining-rpxp">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#gaining-rpxp">#</doc-anchor-trigger>
+        <span>Gaining RPXP</span>
+    </h4>
+</doc-anchor-target>
 <ol>
 <li><p>When you begin roleplaying, react to your first post with <span class="docs-emoji">&#x1F530;</span> <code v-pre>:beginner:</code> and get the person you are RPing with to react as well.</p>
 </li>
@@ -404,9 +439,7 @@ The server runs in real time, but sometimes, real life stops a RP from being com
 </li>
 </ol>
 <blockquote>
-<ul>
-<li>You can get RPXP for each <strong>half hour</strong> of active RP, rounded down.</li>
-</ul>
+<p>You can get RPXP for each <strong>half hour</strong> of active RP, rounded down.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">!rpxp &lt;hour&gt; [message]</code></pre>
 </doc-codeblock></div>
@@ -431,104 +464,104 @@ There is maximum RPXP you can gain each week (See the table below).</li>
 <tr>
 <th style="text-align: center;">Lv</th>
 <th style="text-align: center;">RPXP/hr</th>
-<th style="text-align: right;">Weekly Cap</th>
+<th>Weekly Cap</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align: center;">1</td>
 <td style="text-align: center;">30</td>
-<td style="text-align: right;">300</td>
+<td>300</td>
 </tr>
 <tr>
 <td style="text-align: center;">2</td>
 <td style="text-align: center;">40</td>
-<td style="text-align: right;">400</td>
+<td>400</td>
 </tr>
 <tr>
 <td style="text-align: center;">3</td>
 <td style="text-align: center;">50</td>
-<td style="text-align: right;">500</td>
+<td>500</td>
 </tr>
 <tr>
 <td style="text-align: center;">4</td>
 <td style="text-align: center;">60</td>
-<td style="text-align: right;">600</td>
+<td>600</td>
 </tr>
 <tr>
 <td style="text-align: center;">5</td>
 <td style="text-align: center;">80</td>
-<td style="text-align: right;">800</td>
+<td>800</td>
 </tr>
 <tr>
 <td style="text-align: center;">6</td>
 <td style="text-align: center;">100</td>
-<td style="text-align: right;">1000</td>
+<td>1000</td>
 </tr>
 <tr>
 <td style="text-align: center;">7</td>
 <td style="text-align: center;">120</td>
-<td style="text-align: right;">1200</td>
+<td>1200</td>
 </tr>
 <tr>
 <td style="text-align: center;">8</td>
 <td style="text-align: center;">140</td>
-<td style="text-align: right;">1400</td>
+<td>1400</td>
 </tr>
 <tr>
 <td style="text-align: center;">9</td>
 <td style="text-align: center;">170</td>
-<td style="text-align: right;">1700</td>
+<td>1700</td>
 </tr>
 <tr>
 <td style="text-align: center;">10</td>
 <td style="text-align: center;">200</td>
-<td style="text-align: right;">2000</td>
+<td>2000</td>
 </tr>
 <tr>
 <td style="text-align: center;">11</td>
 <td style="text-align: center;">230</td>
-<td style="text-align: right;">2300</td>
+<td>2300</td>
 </tr>
 <tr>
 <td style="text-align: center;">12</td>
 <td style="text-align: center;">260</td>
-<td style="text-align: right;">2600</td>
+<td>2600</td>
 </tr>
 <tr>
 <td style="text-align: center;">13</td>
 <td style="text-align: center;">300</td>
-<td style="text-align: right;">3000</td>
+<td>3000</td>
 </tr>
 <tr>
 <td style="text-align: center;">14</td>
 <td style="text-align: center;">340</td>
-<td style="text-align: right;">3400</td>
+<td>3400</td>
 </tr>
 <tr>
 <td style="text-align: center;">15</td>
 <td style="text-align: center;">400</td>
-<td style="text-align: right;">4000</td>
+<td>4000</td>
 </tr>
 <tr>
 <td style="text-align: center;">16</td>
 <td style="text-align: center;">460</td>
-<td style="text-align: right;">4600</td>
+<td>4600</td>
 </tr>
 <tr>
 <td style="text-align: center;">17</td>
 <td style="text-align: center;">540</td>
-<td style="text-align: right;">5400</td>
+<td>5400</td>
 </tr>
 <tr>
 <td style="text-align: center;">18</td>
 <td style="text-align: center;">620</td>
-<td style="text-align: right;">6200</td>
+<td>6200</td>
 </tr>
 <tr>
 <td style="text-align: center;">19</td>
 <td style="text-align: center;">720</td>
-<td style="text-align: right;">7200</td>
+<td>7200</td>
 </tr>
 </tbody>
 </table>
@@ -549,12 +582,16 @@ There is maximum RPXP you can gain each week (See the table below).</li>
     </h2>
 </doc-anchor-target>
 <p>Combat Training DTD provides a small amount of XP depending on success rate.</p>
-<p><strong>Step 1.</strong> Set up the Lifestyle</p>
+<ol>
+<li>Set up the Lifestyle</li>
+</ol>
 <blockquote>
 <p>In order to do Downtime Days (DTD) activities, you must first pay the lifestyle cost.</p>
 <p>Please check out <code v-pre>#lifestyle-dtd-rules</code> for more details and how to set up your lifestyle.</p>
 </blockquote>
-<p><strong>Step 2.</strong> Do the Combat Training</p>
+<ol start="2">
+<li>Do the Combat Training</li>
+</ol>
 <blockquote>
 <p>Note that combat training has a cost of 1gp per character level. This is automatically deducted from the coin purse when you use the <code v-pre>!train</code> alias.</p>
 <p>In <code v-pre>#dtd-automated-log</code>, run the following command.</p>
@@ -563,7 +600,9 @@ There is maximum RPXP you can gain each week (See the table below).</li>
 </doc-codeblock></div>
 <p>The full explanation of Combat Training DTD can be found in <code v-pre>#lifestyle-dtd-rules</code>, and the command description and argument options can be found by running <code v-pre>!help train</code> in <code v-pre>#bot-dump</code>. You can do 1 DTD per day, up to 5 per week.</p>
 </blockquote>
-<p><strong>Step 3.</strong> Log the XP</p>
+<ol start="3">
+<li>Log the XP</li>
+</ol>
 <blockquote>
 <p>Go to <code v-pre>#xp-tracker</code> and log the XP</p>
 <div class="codeblock-wrapper"><doc-codeblock>
