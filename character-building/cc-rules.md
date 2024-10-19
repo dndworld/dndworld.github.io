@@ -8,22 +8,23 @@ icon: ":hammer_and_wrench:"
 h1:before { content: "🛠️ " }
 </style>
 
-This channel contains the rules for character creation. For the starting guide to the server, please head over to [Start Here](start-here.md).
+This page contains the rules for character creation. For the starting guide to the server, please head over to [Start Here](start-here.md).
 
 ## Start
 
-- :warning: We use the **2014 D&D 5e ruleset**. :warning: 
+!!!danger We use the **2014 D&D 5e ruleset**. 
  - If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 
 - Your characters start at **Level 1**.
+!!!
 
 ### Transferring Characters from Other Servers/Campaigns
 You cannot transfer characters from other places. However, you can create a version of them in this server following the same creation process as any other new characters.
 
 ## Character Sheet Options
 
-> You must use a sheet compatible with **Avrae** Discord bot. The following are all free to use. Your options are:
-> - [**D&D Beyond**](https://www.dndbeyond.com/) (Best for newbies)
+> You must use a sheet compatible with the **Avrae** dice bot. The following are all free to use. Your options are:
+> - [**D&D Beyond**](https://www.dndbeyond.com/) (Best for new players)
 > - [**GSheet**](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM)
 > - [**DiceCloud v1**](https://v1.dicecloud.com/)
 > - [**DiceCloud v2**](https://dicecloud.com/)
@@ -41,7 +42,9 @@ Character Preferences (settings)
 - **Sources**: Homebrew Content, Expanded Rules, Legacy, Critical Role Content
 
 !!!warning Not everything from these sources is allowed to be used in the server.
-Please refer to the later "Sources" section of this channel for full details.
+Please refer to the "Sources" section below for full details.
+!!!
+
 !!!
 - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
 - **Optional Features**: On
@@ -50,6 +53,7 @@ Please refer to the later "Sources" section of this channel for full details.
 - **Encumbrance Type**: Use Encumbrance
 - **Ignore Coin Weight**: Off
 - **Character Privacy**: Public
+!!!
 
 Leave the rest of the options as they are.
 
@@ -92,17 +96,17 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 > For the full list of the allowed and disallowed official materials, please refer to [this doc](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
  >-  For the full list of allowed races/species, you may alternatively refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY).
 
-> Getting access to paid material (Optional)
-> - The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions in the `#ddb-link-request` pins.
+!!!
+> Paywalled Content
+> - By default, D&D Beyond and our dice bot Avrae paywalls access to content beyond the Basic Rules.
+> - Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb.md).
+!!!
 
 ### Disallowed Content:
 
-!!!warning When a new official material is published,
-it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to `#changelog`, followed by the update on this channel.
+!!!warning Recent Releases
+When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to `#changelog`, followed by the update on this channel.
 !!!
-
-**Under Review**
-- Critical Role: Tal'Dorei Reborn
 
 +++ **General**
 **Books:**
@@ -115,9 +119,9 @@ it first needs to be reviewed by our Homebrewer team. The new material is consid
 - Sidekicks
 
 +++ Races/Species
-- Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
+Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
 
-For the full list of allowed and disallowed official races, please refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
+For the full list of allowed and disallowed official races, please refer to [**this document**](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
 
 +++ Classes/Subclasses
 
@@ -195,10 +199,113 @@ Please note that some background features will have no effect on this server, e.
 
 +++
 
+**Under Review**
+- Critical Role: Tal'Dorei Reborn
+
+### Disallowed Content
+
+**Disallowed Books**
+- Explorer's Guide to Wildemount
+- Planeshift
+- Runeterra
+
+**Under Review**
+- Critical Role: Tal'Dorei Reborn
+
+==- Races/Species
+- Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
+
+For the full list of allowed and disallowed official races, please refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
+
+==- Classes/Subclasses
+**General**
+- Race-restricted subclasses such as Battlerager lose said restriction.
+- *Tasha's Cauldron of Everything (TCoE)* Optional Class Features are allowed for all classes.
+- D&D Beyond's Blood Hunter is banned. Refer to the version described in the HB Compendium instead.
+
+**Disallowed Subclasses**
+- Bard: College of Eloquence
+- Bard: College of the Road
+- Cleric: Night Domain
+- Fighter: Echo Knight
+- Sorcerer: Clockwork Soul
+- Warlock: The Undead
+- Wizard: Graviturgy
+- Wizard: Chronomancy
+
+**Disallowed Class Features**
+- Arcane Propulsion Armor Infusion (Artificer)
+- Mind Sharpener Infusion (Artificer)
+- Celerity Mutagen (Blood Hunter)
+- Potency Mutagen (Blood Hunter)
+- Sagacity Mutagen (Blood Hunter)
+
+==- Feats
+- Aberrant Dragonmarks
+- Adept of the Black Robes feat
+- Adept of the Red Robes feat
+- Adept of the White Robes feat
+- Initiate of High Sorcery feat
+- Gunner
+- Opportunistic Thief
+- Planar Wanderer
+- Poisoner
+- Strixhaven Initiate
+- Strixhaven Mascot
+
+- Ember of the Fire Giant (refer to the DW Homebrew version)
+- Guile of the Cloud Giant (refer to the DW Homebrew version)
+- Soul of the Storm Giant (refer to the DW Homebrew version)
+
+==- Backgrounds
+
+- Custom Backgrounds
+
+Backgrounds from the following books:
+- *Baldur's Gate*(except Faceless)
+- *Guildmaster's Guide to Ravnica*
+- *The Wild Beyond the Witchlight*
+- *Strixhaven*
+- *Spelljammer*
+- *Dragonlance*
+- *Glory of the Giants*
+- *Planescape*
+- *The Book of Many Things*
+
+Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.
+
+==- Spells
+
+- Ashardalon's Stride
+- Create Magen
+- Create Spelljamming Helm
+- Dunamancy spells
+- Distort Value
+- Dream of the Blue Veil
+- Fast Friends
+- Gift of Gab
+- Rime's Binding Ice
+- Silvery Barbs
+- Spirit of Death
+- Spirit Shroud
+- Tasha's Otherwordly Guise
+- Tasha's Mind Whip
+
+==- Other
+- Supernatural Gifts
+- Sidekicks
+===
+
 ### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
 
+!!!
+If you are new to D&D, we recommend you skip this section.
+!!!
+
+Unearthed Arcana is unofficial content released by the D&D developers for playtesting. Homebrew refers to self-published content created by our server.
+
 > - UA that gets officially released or revisited later in another UA is banned.
-> - Any UA content that hasn't been vetted for approval yet isn't allowed. Therefore, if it is not in the approved UA section, it is not allowed. 
+> - Any UA content that hasn't been vetted for approval yet isn't allowed. Therefore, if it is not in the approved UA section, it cannot be used.
 > - Charity content, planeshift content, content released by developers outside D&D Beyond, and Critical Role content is considered unofficial and only approved for use if they are in the homebrew document (i.e. the Blood Hunter class).
 > - You cannot multiclass with Homebrew and UA classes/subclasses due to balance reasons.
 >   - For approved third party content released on D&D Beyond, we will specify if it is eligible for multiclass e.g. Humblewood 
@@ -207,7 +314,7 @@ Please note that some background features will have no effect on this server, e.
 
 ### [DnD World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
 
-> This document along with the [Erratas and Clarifications page](/erratas.md) compile all changes of official content and Variant Features we've added.
+Erratas refer to changes made to the official game rules, which our server does for balance reasons and to better suit the West Marches setting. The above document along with the [Erratas and Clarifications page](/erratas.md) compile all changes to official content and variant features we've added.
 
 ## Character Creation
 
@@ -219,13 +326,15 @@ Please note that some background features will have no effect on this server, e.
 
 > At 1st level, as per RAW you take max of your hit die, determined by your class, and add your Constitution modifier.
 
-### :warning: Rolling for Stats/HP/Gold
+### Rolling for Stats/HP/Gold
 
+!!!warning
 > - It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.
-> - All rolls must be made in `#official-character-rolls` for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. **Do not roll stats on D&D Beyond!**
+> - All rolls must be made in [!badge #official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. **Do not roll stats on D&D Beyond!**
 > 
 > - You cannot use Standard Array/Point Buy after rolling. 
 > - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
+!!!
 
 ### Character Details
 
@@ -247,6 +356,28 @@ Young Adult | 15-20 | 18-50 | 100-350 | 18-40 | 20-30 | 18-30 |
 Settled Adult | 20-50 | 50-200 | 350-600 | 40-200 | 30-150 | 30-65 |
 Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 
+|||
+Life Stage
+Childhood
+Adolescence
+Young Adult
+Settled Adult
+Elderly
+|||
+Dragonborn
+1-4
+4-15
+15-20
+20-50
+50-80
+|||
+Dwarf
+6-13
+13-18
+18-50
+50-200
+200-350
+
 ## Equipment
 
 > - You may take starting equipment **__or__** roll for gold.
@@ -260,10 +391,10 @@ Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 
 ## Character Creation Phase
 
-After you create your character and before the character attends a DM event, the character is considered to be in the character creation phase. During this time, you may change parts of the character as many times as you want. Following rules apply:
+After you create your character and before the character attends a DM event, you may change parts of the character as many times as you want. The following rules apply:
 
 > - You must keep all rolled results. If you have rolled the stats, you cannot switch back to Standard Array or Point Buy.
-> - If you chose Standard Array or Point buy as the Ability Score generation method, you may switch to rolling for stats. Please note, once you rolled the stats, you must use them.
+> - If you chose Standard Array or Point buy as the Ability Score generation method, you may switch to rolling for stats. Please note, once you have rolled stats, you must use them.
 > - You may not switch between choosing starting equipment and rolling for gold.
 > - You may not reroll stats / gold / hp.
 
@@ -273,17 +404,10 @@ After you create your character and before the character attends a DM event, the
 > - You are still in the character creation phase after gaining XP from Combat Training DTD, an approved RPXP claim, or Avrae Tutorial XP.
 
 !!!warning 
-Once your character participates in a DM event, all rebuilds must be submitted for review in `#rebuild-retire-log`, following the rules in the pin.
+Once your character participates in a DM event, all rebuilds must be submitted for review in `#rebuild-retire-log`, following the rules in [!badge Rebuilding](rebuild.md)
 !!!
 
 ## Beyond 1st Level
-
-### Gaining a Level
-
-> - [How to Earn XP](/start-playing/earn-xp/) lists all the ways you can gain XP. Please note that RPXP is separate from XP. Full details can be found in the channel.
-> - Once you updated the character sheet, run `!update` and `!level` in `#bot-dump`. You may need to set the subclass manually by running `!level [class] [subclass]`.
-> - Once your character gains a level, make sure to change your reacts in `#roles` in order to receive the game post pings for the new level.
-> - Please note, "Changing Your Subclass" section from Tasha's Cauldron of Everything (TCoE) is not allowed. You may change the subclass of a character following the rebuild rules in `#rebuild-retire-log`.
 
 ### Multiclass
 

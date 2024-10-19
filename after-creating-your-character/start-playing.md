@@ -16,7 +16,9 @@ This page is to teach you what to do after creating your character. If you have 
 
 **Custom Counters** are used to keep track of various resources, such as race ability (e.g. Half-Orc's Relentless Endurance), class ability (Fighter's use of Second Wind), ammunition, charges on a magic item, etc.
 
+!!!success
 For **D&D Beyond** sheets, this is **already done for you**.
+!!!
 
 For other sheets, setting up the class abilities is automated using Avrae. Run the commands below in `#bot-dump` for the setup.
 
@@ -37,6 +39,11 @@ This command will pick up any **classes** you currently have.
 Homebrew classes are not supported, and non-Beyond sheets may not have the necessary counters. 
 - See `!help cc create` for how to create your own CCs, and `!help cc` for general CC commands. 
 - If you are using a homebrew subclass, see `!level template` for instructions on how to create a proper gvar for `!level`.
+
+### Leveling Up
+
+> - Once you've updated character sheet, run `!update` and `!level` in `#bot-dump`. You may need to set the subclass manually by running `!level [class] [subclass]`.
+> - Once your character gains a level, make sure to change your reacts in `#roles` in order to receive the game post pings for the new level.
 
 ## Tracking Money
 
