@@ -38,46 +38,46 @@ You cannot transfer characters from other places. However, you can create a vers
 There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd.md).
 
 Character Preferences (settings)
-> - **Sources**: Homebrew Content, Expanded Rules, Legacy, Critical Role Content
-> 
-> !!!warning Not everything from these sources is allowed to be used in the server.
-> Please refer to the later "Sources" section of this channel for full details.
-> !!!
-> - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
-> - **Optional Features**: On
-> - **Advancement Type**: Milestone
-> - **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in `#official-character-rolls` channel, **not** in D&D Beyond
-> - **Encumbrance Type**: Use Encumbrance
-> - **Ignore Coin Weight**: Off
-> - **Character Privacy**: Public
-> 
-> Leave the rest of the options as they are.
+- **Sources**: Homebrew Content, Expanded Rules, Legacy, Critical Role Content
+
+!!!warning Not everything from these sources is allowed to be used in the server.
+Please refer to the later "Sources" section of this channel for full details.
+!!!
+- **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
+- **Optional Features**: On
+- **Advancement Type**: Milestone
+- **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in `#official-character-rolls` channel, **not** in D&D Beyond
+- **Encumbrance Type**: Use Encumbrance
+- **Ignore Coin Weight**: Off
+- **Character Privacy**: Public
+
+Leave the rest of the options as they are.
 
 Once you created a character on D&D Beyond, make sure to do the following:
-> - Equip your weapons and armor by clicking on the box next to them in the equipment page.
-> - If you decide to roll for HP in `#official-character-rolls`, you will need to manually enter your HP.
+- Equip your weapons and armor by clicking on the box next to them in the equipment page.
+- If you decide to roll for HP in `#official-character-rolls`, you will need to manually enter your HP.
 
-- How to get access to the paid material: `#ddb-link-request`
+How to get access to the paid material: `#ddb-link-request`
 
 +++ GSheet
 To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM) and select File -Make a Copy
 
-> GSheet tutorial is in the **?** tab of the sheet itself. Make sure to check the inserted notes for more specific instructions.
+GSheet tutorial is in the **?** tab of the sheet itself. Make sure to check the inserted notes for more specific instructions.
 
-> To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
-> - [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
+To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
+- [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
 
 +++ DiceCloud
 [DiceCloud v1](https://v1.dicecloud.com/)
 
 [DiceCloud v2](https://dicecloud.com/)
 
-> To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
-> - [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
+To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
+- [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
 
-> DiceCloud v1 tutorials
-> - [https://homebrewery.naturalcrit.com/share/rkZujQwpQW](https://homebrewery.naturalcrit.com/share/rkZujQwpQW)
-> - [https://youtu.be/LvYTeq2cdSI](https://youtu.be/LvYTeq2cdSI)
+DiceCloud v1 tutorials
+- [https://homebrewery.naturalcrit.com/share/rkZujQwpQW](https://homebrewery.naturalcrit.com/share/rkZujQwpQW)
+- [https://youtu.be/LvYTeq2cdSI](https://youtu.be/LvYTeq2cdSI)
 
 +++
 
@@ -85,7 +85,7 @@ To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/
 
 ### Official Material
 
-!!!warning **Please Note: we are using the 2014 D&D 5e ruleset.**
+!!!danger **Please Note: we are using the 2014 D&D 5e ruleset.**
 If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 !!!
 
@@ -267,8 +267,6 @@ Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 
 ### World Setting
 
-__World Setting__
-
 > - The world map and general world setting information can be found in [About Us](/index.md)
 > - If you have any lore questions for your backstory, message @FanMail with the specific question and intention.
 > - The pantheon of Icris can be found in [#pantheon](https://discordapp.com/channels/512870694883950598/535362293144223744), and the archdevils can be found in [#hell-inc](https://discordapp.com/channels/512870694883950598/640104532042317834).
@@ -280,6 +278,7 @@ __World Setting__
 > - For characters that intend to originate from planes other than the Feywild or Shadowfell, please message @FanMail for approval. 
 
 ### Please Avoid
+
 > - ⚠️ No guns or firearm lookalikes exist in this world. No sci-fi, no references to other franchises, no urban technology, no references to events on Earth.
 > - Your backstory should take place within our world; you cannot be transported or “isekai-ed” from an alternate universe or IRL.
 > - You cannot be in a current/former position of royalty, e.g. King/Queen, Prince/Princess.
