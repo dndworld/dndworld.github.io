@@ -1,5 +1,5 @@
 ---
-label: Erratas
+label: Server Rulings
 icon: ":black_nib:"
 ---
 
@@ -66,7 +66,7 @@ Server Rule Keyword: XP, Level, DM Event
 ```
 ==- **Using your shield arm for somatic components**
 **Description:** Performing somatic components for spells as a Paladin or Cleric, using your shield arm due to your shield being your focus.
-- Interpretation: If your Holy Symbol is on your shield, you may use that hand to perform somatic components of spells that have a material component that do not have a gold cost for their material component and do not have their material component consumed.<br>
+**Interpretation:** If your Holy Symbol is on your shield, you may use that hand to perform somatic components of spells that have a material component that do not have a gold cost for their material component and do not have their material component consumed.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/928138006085382234)
 ```yaml **Tags**
 Class/Classfeat: Paladin, Cleric, Holy Symbol
@@ -248,7 +248,7 @@ Class/Classfeat: Druid, Ranger, Cleric
 Subclass/Subclassfeat: Life Domain, Disciple of Life
 Spell: Goodberry
 ```
-==- **Mage Armor being used with shields**
+==- **Mage Armor: Interactions with shields**
 **Interpretation:** A shield is in the armor section, but not considered armor for the purposes of ending Mage Armor<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/781550250229235712)
 ```yaml **Tags**
@@ -442,3 +442,7 @@ Spell: Reincarnate
 Spell: Plane Shift
 ```
 ===
+
+!!!
+This list of Erratas is currently WIP. For the full list of changes to Spells, certain Racial Features, Class features, and Versatility features, please see [here](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/edit?usp=sharing).
+!!!
