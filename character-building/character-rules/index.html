@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782688352952">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782689958128">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -14,18 +14,18 @@
     <meta name="description" content="This channel contains the rules for character creation. For the starting guide to the server, please head over to ">
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://dndworld.github.io/character-building/cc-rules/">
+    <link rel="canonical" href="https://dndworld.github.io/character-building/character-rules/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dndworld.github.io/character-building/cc-rules/">
+    <meta property="og:url" content="https://dndworld.github.io/character-building/character-rules/">
     <meta property="og:title" content="Character Creation Rules | DW Guide">
     <meta property="og:description" content="This channel contains the rules for character creation. For the starting guide to the server, please head over to ">
     <meta property="og:image" content="https://dndworld.github.io/images/race-age-chart.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://dndworld.github.io/character-building/cc-rules/">
+    <meta property="twitter:url" content="https://dndworld.github.io/character-building/character-rules/">
     <meta property="twitter:title" content="Character Creation Rules | DW Guide">
     <meta property="twitter:description" content="This channel contains the rules for character creation. For the starting guide to the server, please head over to ">
     <meta property="twitter:image" content="https://dndworld.github.io/images/race-age-chart.png">
@@ -33,11 +33,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782688352952" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782689958128" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782688352952" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782689958128" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782688352952" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782689958128" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -501,36 +501,39 @@ h1:before { content: "🛠️ " }
         </div>
     </div>
 </div>
-<blockquote>
-<p><strong>Disallowed Books</strong></p>
+<p><strong>Under Review</strong></p>
+<ul>
+<li>Critical Role: Tal&#x27;Dorei Reborn</li>
+</ul>
+<doc-tabs>
+<doc-tab v-cloak id="general">
+<template #title><strong>General</strong></template>
+<p><strong>Books:</strong></p>
 <ul>
 <li>Explorer&#x27;s Guide to Wildemount</li>
 <li>Planeshift</li>
 <li>Runeterra</li>
 </ul>
-<p><strong>Under Review</strong></p>
+<p><strong>Other:</strong></p>
 <ul>
-<li>Critical Role: Tal&#x27;Dorei Reborn</li>
+<li>Supernatural Gifts</li>
+<li>Sidekicks</li>
 </ul>
-</blockquote>
-<doc-panels>
-   <doc-panel id="races-species" collapsed>
-       <template #title>Races/Species</template>
+</doc-tab>
+<doc-tab v-cloak id="races-species">
+<template #title>Races/Species</template>
 <ul>
 <li>Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.</li>
 </ul>
 <p>For the full list of allowed and disallowed official races, please refer to <a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY">this doc</a>. For races with multiple versions, please make sure you are using a version that is allowed.</p>
-   </doc-panel>
-   <doc-panel id="classes-subclasses" collapsed>
-       <template #title>Classes/Subclasses</template>
-<p><strong>General</strong></p>
-<blockquote>
+</doc-tab>
+<doc-tab v-cloak id="classes-subclasses">
+<template #title>Classes/Subclasses</template>
 <ul>
 <li>Race-restricted subclasses such as Battlerager lose said restriction.</li>
 <li><em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> Optional Class Features are allowed for all classes.</li>
 <li>D&amp;D Beyond&#x27;s Blood Hunter is banned. Refer to the version described in the HB Compendium instead.</li>
 </ul>
-</blockquote>
 <p><strong>Disallowed Subclasses</strong></p>
 <ul>
 <li>Bard: College of Eloquence</li>
@@ -550,9 +553,9 @@ h1:before { content: "🛠️ " }
 <li>Potency Mutagen (Blood Hunter)</li>
 <li>Sagacity Mutagen (Blood Hunter)</li>
 </ul>
-   </doc-panel>
-   <doc-panel id="feats" collapsed>
-       <template #title>Feats</template>
+</doc-tab>
+<doc-tab v-cloak id="feats">
+<template #title>Feats</template>
 <ul>
 <li><p>Aberrant Dragonmarks</p>
 </li>
@@ -583,9 +586,9 @@ h1:before { content: "🛠️ " }
 <li><p>Soul of the Storm Giant (refer to the DW Homebrew version)</p>
 </li>
 </ul>
-   </doc-panel>
-   <doc-panel id="backgrounds" collapsed>
-       <template #title>Backgrounds</template>
+</doc-tab>
+<doc-tab v-cloak id="backgrounds">
+<template #title>Backgrounds</template>
 <ul>
 <li>Custom Backgrounds</li>
 </ul>
@@ -602,9 +605,9 @@ h1:before { content: "🛠️ " }
 <li><em>The Book of Many Things</em></li>
 </ul>
 <p>Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.</p>
-   </doc-panel>
-   <doc-panel id="spells" collapsed>
-       <template #title>Spells</template>
+</doc-tab>
+<doc-tab v-cloak id="spells">
+<template #title>Spells</template>
 <ul>
 <li>Ashardalon&#x27;s Stride</li>
 <li>Create Magen</li>
@@ -621,15 +624,7 @@ h1:before { content: "🛠️ " }
 <li>Tasha&#x27;s Otherwordly Guise</li>
 <li>Tasha&#x27;s Mind Whip</li>
 </ul>
-   </doc-panel>
-   <doc-panel id="other" collapsed>
-       <template #title>Other</template>
-<ul>
-<li>Supernatural Gifts</li>
-<li>Sidekicks</li>
-</ul>
-   </doc-panel>
-</doc-panels>
+<p>===</p>
 <doc-anchor-target id="unearthed-arcana-ua-and-homebrew">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#unearthed-arcana-ua-and-homebrew">#</doc-anchor-trigger>
@@ -682,9 +677,9 @@ h1:before { content: "🛠️ " }
 <blockquote>
 <p>At 1st level, as per RAW you take max of your hit die, determined by your class, and add your Constitution modifier.</p>
 </blockquote>
-<doc-anchor-target id="rolling-for-stats-hp-gold">
+<doc-anchor-target id="warning-rolling-for-statshpgold">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#rolling-for-stats-hp-gold">#</doc-anchor-trigger>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#warning-rolling-for-statshpgold">#</doc-anchor-trigger>
         <span><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Rolling for Stats/HP/Gold</span>
     </h3>
 </doc-anchor-target>
@@ -916,6 +911,7 @@ h1:before { content: "🛠️ " }
 </li>
 </ul>
 </blockquote>
+</doc-tab>
 
                                 
                                 <!-- Required only on API pages -->
@@ -935,7 +931,7 @@ h1:before { content: "🛠️ " }
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../character-building/official-character-rolls/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../character-building/stat-rolling/">
                                             <span>
                                                 <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
                                                 <span class="block mt-1">Stat Rolling</span>
