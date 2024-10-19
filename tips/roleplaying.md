@@ -2,6 +2,7 @@
 label: A Guide to Roleplaying
 author: fangirlcrazily
 order: 100
+visibility: hidden
 ---
 <style>
   .subtitle {
