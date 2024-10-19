@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782684074097">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782684733072">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -33,12 +33,12 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782684074097" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782684733072" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782684074097" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782684733072" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782684074097" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.782684074097" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782684733072" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.782684733072" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -548,30 +548,49 @@ h1:before { content: "🛠️ " }
         <span>Character Creation</span>
     </h2>
 </doc-anchor-target>
-<doc-anchor-target id="races">
+<doc-anchor-target id="disallowed-content">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#races">#</doc-anchor-trigger>
-        <span>Races</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#disallowed-content">#</doc-anchor-trigger>
+        <span>Disallowed Content:</span>
     </h3>
 </doc-anchor-target>
-<blockquote>
+<p>==-Races/Species</p>
 <ul>
 <li>Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.</li>
 </ul>
-</blockquote>
+<p>For the full list of allowed and disallowed official races, please refer to <a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY">this doc</a>. For races with multiple versions, please make sure you are using a version that is allowed.</p>
+<doc-panels>
+   <doc-panel id="classes-subclasses" collapsed>
+       <template #title>Classes/Subclasses</template>
+<p><strong>General</strong></p>
 <blockquote>
-<p>For the full list of allowed and disallowed official races, please refer to the following doc. For races with multiple versions, please make sure you are using a version that is allowed.</p>
 <ul>
-<li><a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY">Dnd World Allowed Offical Races v2</a></li>
+<li>Race-restricted subclasses such as Battlerager lose said restriction.</li>
+<li><em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> Optional Class Features are allowed for all classes.</li>
+<li>D&amp;D Beyond&#x27;s Blood Hunter is banned. Refer to the version described in the HB Compendium instead.</li>
 </ul>
 </blockquote>
-<doc-anchor-target id="feats">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#feats">#</doc-anchor-trigger>
-        <span>Feats</span>
-    </h3>
-</doc-anchor-target>
-<p><strong>Disallowed Feats</strong></p>
+<p><strong>Disallowed Subclasses</strong></p>
+<ul>
+<li>Bard: College of Eloquence</li>
+<li>Bard: College of the Road</li>
+<li>Cleric: Night Domain</li>
+<li>Fighter: Echo Knight</li>
+<li>Sorcerer: Clockwork Soul</li>
+<li>Warlock: The Undead</li>
+<li>Wizard: Graviturgy</li>
+<li>Wizard: Chronomancy</li>
+</ul>
+<p><strong>Disallowed Class Features</strong></p>
+<ul>
+<li>Arcane Propulsion Armor Infusion (Artificer)</li>
+<li>Mind Sharpener Infusion (Artificer)</li>
+<li>Celerity Mutagen (Blood Hunter)</li>
+<li>Potency Mutagen (Blood Hunter)</li>
+<li>Sagacity Mutagen (Blood Hunter)</li>
+</ul>
+   </doc-panel>
+<p>==-Feats</p>
 <ul>
 <li><p>Aberrant Dragonmarks</p>
 </li>
@@ -602,56 +621,9 @@ h1:before { content: "🛠️ " }
 <li><p>Soul of the Storm Giant (refer to the DW Homebrew version)</p>
 </li>
 </ul>
-<p><strong>Other Disallowed Mechanics</strong></p>
-<ul>
-<li>&quot;Changing Your Subclass&quot; section from Tasha&#x27;s Cauldron of Everything (TCoE)</li>
-<li>Supernatural Gifts</li>
-<li>Sidekicks</li>
-</ul>
-<doc-anchor-target id="classessubclasses">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#classessubclasses">#</doc-anchor-trigger>
-        <span>Classes/Subclasses</span>
-    </h3>
-</doc-anchor-target>
-<blockquote>
-<ul>
-<li><p>Race-restricted subclasses such as Battlerager lose said restriction.</p>
-</li>
-<li><p><em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> Optional Class Features are allowed for all classes.</p>
-</li>
-<li><p>&quot;Changing Your Subclass&quot; section from <em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> is not allowed. You may change the subclass of a character following the rebuild rules in <code v-pre>#rebuild-retire-log</code> instead.</p>
-</li>
-<li><p>D&amp;D Beyond&#x27;s Blood Hunter is banned. Refer to the version described in the HB Compendium instead.</p>
-</li>
-</ul>
-</blockquote>
-<p><strong>Disallowed Subclasses</strong></p>
-<ul>
-<li>College of Eloquence (Bard)</li>
-<li>College of the Road (Bard)</li>
-<li>Night Domain (Cleric)</li>
-<li>Echo Knight (Fighter)</li>
-<li>Clockwork Soul (Sorcerer)</li>
-<li>The Undead (Warlock)</li>
-<li>Graviturgy (Wizard)</li>
-<li>Chronomancy (Wizard)</li>
-</ul>
-<p><strong>Disallowed Class Features</strong></p>
-<ul>
-<li>Arcane Propulsion Armor Infusion (Artificer)</li>
-<li>Mind Sharpener Infusion (Artificer)</li>
-<li>Celerity Mutagen (Blood Hunter)</li>
-<li>Potency Mutagen (Blood Hunter)</li>
-<li>Sagacity Mutagen (Blood Hunter)</li>
-</ul>
-<doc-anchor-target id="spells">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#spells">#</doc-anchor-trigger>
-        <span>Spells</span>
-    </h3>
-</doc-anchor-target>
-<p><strong>Disallowed Spells</strong></p>
+<doc-panels>
+   <doc-panel id="spells" collapsed>
+       <template #title>Spells</template>
 <ul>
 <li>Ashardalon&#x27;s Stride</li>
 <li>Create Magen</li>
@@ -667,6 +639,13 @@ h1:before { content: "🛠️ " }
 <li>Spirit Shroud</li>
 <li>Tasha&#x27;s Otherwordly Guise</li>
 <li>Tasha&#x27;s Mind Whip</li>
+</ul>
+   </doc-panel>
+   <doc-panel id="other" collapsed>
+       <template #title>Other</template>
+<ul>
+<li>Supernatural Gifts</li>
+<li>Sidekicks</li>
 </ul>
 <doc-anchor-target id="ability-scores">
     <h3>
@@ -686,9 +665,9 @@ h1:before { content: "🛠️ " }
 <blockquote>
 <p>At 1st level, as per RAW you take max of your hit die, determined by your class, and add your Constitution modifier.</p>
 </blockquote>
-<doc-anchor-target id="rolling-for-stats-hp-gold">
+<doc-anchor-target id="warning-rolling-for-statshpgold">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#rolling-for-stats-hp-gold">#</doc-anchor-trigger>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#warning-rolling-for-statshpgold">#</doc-anchor-trigger>
         <span><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Rolling for Stats/HP/Gold</span>
     </h3>
 </doc-anchor-target>
@@ -1037,9 +1016,9 @@ h1:before { content: "🛠️ " }
 <li>You may retire your character if they are at least Level 4 and it has been at least 1 month since your last retire. Full details on Retiring can be found in <code v-pre>#rebuild-retire-log</code> channel pin and Cushion Rule in <code v-pre>#claims-log</code>.</li>
 </ul>
 </blockquote>
-<doc-anchor-target id="returning-players-inactivity">
+<doc-anchor-target id="warning-returning-playersinactivity">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#returning-players-inactivity">#</doc-anchor-trigger>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#warning-returning-playersinactivity">#</doc-anchor-trigger>
         <span><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Returning Players/Inactivity</span>
     </h2>
 </doc-anchor-target>
@@ -1085,6 +1064,7 @@ h1:before { content: "🛠️ " }
 **Date of Last Game (optional):** 
 **Date of Leaving the Server (if applicable):** </code></pre>
 </doc-codeblock></div>
+   </doc-panel>
 
                                 
                                 <!-- Required only on API pages -->
