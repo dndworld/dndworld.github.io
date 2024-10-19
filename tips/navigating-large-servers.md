@@ -2,6 +2,7 @@
 label: "A Guide to Navigating Large Servers"
 icon: ""
 order: 90
+visibility: hidden
 ---
 :::subtitle
 Aka “oh my god where do I start”
