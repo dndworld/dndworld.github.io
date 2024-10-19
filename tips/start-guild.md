@@ -21,26 +21,25 @@ Here are some good reasons why you might want to create a guild
 - You want to create a smaller, focused guild as compared to a large guild, and use your size to have specialized treatment for your members
 - An existing guild that covers that niche is inactive and you would like to fill that gap
 
-Here are some nonideal reasons why you might want to create a guild. These reasons, if combined with some of the above, can be fine, but on their own they are usually not a sustainable plan for a guild.
+Here are some less than ideal reasons why you might want to create a guild. These reasons, if combined with some of the above, can be fine, but on their own they are usually not a sustainable plan for a guild.
 
 - You just want a place for you and your friends to hang out
-    - A guild is not the right platform for casual meetups due to the massive amount of associated paperwork. Consider getting a house or joining an existing guild together.
+    - Running a guild solely for casual meetups is not the best platform due to the massive amount of associated paperwork. Consider getting a house or joining an existing guild together.
 - You want to start it based on a meme concept
     - While having fun is great, “meme” or generally joke concepts tend to fade in appeal very quickly, and you will be stuck with the burden of a guild
 - You think being a guild leader will allow you to get rich quickly
     - While having a guild with many modules certainly helps improve DTD success rates, you should not treat the guild’s finances as your own. This is embezzlement.
 
-## A Note to Newbies
+!!! ### A Note to Newbies
 
 Players who still have the Newbie role should consider **very carefully** before starting a guild, especially with other Newbies. The guild system is an advanced mechanic that requires lots of reading and maintenance, and you should definitely not start a guild if you are not familiar with the basics of D&D. If you read this document and think you are up to the task, consider inviting established players to join your guild so that they can help you.
+!!!
 
-## Commitment Needed
+## Commitments
 
 Creating a guild is not just about yourself or your friends. It is also about your newbie members who are getting their first impression of the server through your guild, the active players who commit themselves to your guild through donations, and the staff who support your guild from its creation to handling all your processing needs. Many people invest in the success of your guild, and there are consequences for a mismanaged guild.
 
 As such, the biggest trait a guild leader must have is **Commitment**. This comes in the form of two aspects: **Responsibility** and **Time**.
-
-### Responsibilities
 
 There are many duties a guild leader is responsible for. Below is a non-exhaustive list:
 
@@ -90,7 +89,7 @@ Here are some good ways to recruit members
 Here are some bad ways to recruit members
 - Going to the tavern and yelling about who would be interested in joining your guild
     - You will likely get a mixed bag who you won’t know very well. Many are also likely to be newbies who aren’t committed to the server, and might flake. 
-- Inviting the first person who agrees to your idea in `#off-topic-general`
+- Inviting the first person who agrees to your idea in `#guild-ooc`
     - Sometimes, people are just being polite when they agree to your idea, and their affirmation does not necessarily mean they themselves are interested in joining. Consider how they are like as a person before reaching out to them later
 
 ## Choosing Your Method of Governance
@@ -111,12 +110,12 @@ Cons:
 ### Co-Leaders
 
 Pros:
-- Allows for multiple perspectives to cover each other’s weaknesses
+- Multiple perspectives are able to cover each other’s weaknesses
 - Allows for someone else to take over if someone becomes inactive
-- Allows for distribution of workload
+- Able to distribute workload
 
 Cons:
-- Can lead to IC or OOC disputes between co-leaders due to differing methods of governance or character development
+- Can lead to IC or OOC disputes between co-leaders due to differing methods of governance or in-character reasons
 - Time consuming to make decisions
 - Can lead to uneven distribution of workload
 

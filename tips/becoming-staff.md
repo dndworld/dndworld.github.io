@@ -25,7 +25,7 @@ A Supplementary Document to [`#staff-roles`](https://discord.com/channels/512870
 </style>
 ## Introduction
 
-So you’ve been looking at all the cool kids with their funky rainbow color roles and thinking about joining the staff. Great! We are always welcome to have more staff join our team. In fact, joining staff is one of the best ways you can help us! After all, we’re always in need of more hands for implementing changes, helping players and increasing activity, all while helping as well yourself by increasing the server’s quality of life!
+So you’ve been thinking about joining staff. Great! We are always welcome to have more staff join our team. In fact, joining staff is one of the best ways you can help us! After all, we’re always in need of more hands for implementing changes, helping players and increasing activity, all while helping as well yourself by increasing the server’s quality of life!
 
 However, we do our best to make sure applicants are a good fit, and that might mean delaying or rejecting an application that we feel need more time. We like to make sure all staff are productive additions to our team and bring a positive attitude. That being said, this document is designed to give you a more in-depth overview of the various staff roles so that you can pick the one that suits you best. It also gives you tips on how to write your application so that you don’t undersell yourself.
 
@@ -33,10 +33,11 @@ However, we do our best to make sure applicants are a good fit, and that might m
 
 This criteria is what we look out for when vetting for all staff role applications. There are some exceptions to this criteria depending on the role you are applying for. If you aren’t sure, you can go ahead and apply, but be warned that these exceptions are quite rare.
 
+- At least **one month** since last application
 - No recent Demerit Points
     - Having no DPs at all is an advantage, but we take into account context and the role applied.
 - No lesser courthouses **relevant to the role applied for**
-    - E.g. If you are applying for Thrall and were recently lessered for DTD mistakes, we may decline the application on the basis of needing better familiarity.
+    - E.g. If you are applying for Bookkeeping Assistant and were recently lessered for DTD mistakes, we may decline the application on the basis of needing better familiarity.
 - No demonstration of hostile or passive aggressive attitude
 - Not removed from staff before due to poor performance
 - Sufficient recent activity
@@ -52,7 +53,7 @@ This may seem obvious, but your application is judged for the amount of care you
     - Especially for role names, staff names, and lore-related names
 - Using the wrong application format
     - For staff, please use the one in `#staff-guide`
-- Not using the application format at all
+- Not using the application form at all
     - If you send a FanMail saying “I’d like to apply for staff!” you will be directed to `#staff-roles`
 - Not filling out all fields in an application
 
@@ -60,46 +61,28 @@ This may seem obvious, but your application is judged for the amount of care you
 
 Try to give us as many relevant details as you can, but don’t overdo it. Avoid giving one liners as this does not really tell us much about you and can make it seem like you didn’t put much effort into it. If you do not have experience, try to talk about why you are passionate about helping, or what you plan to do if given the role. 
 
-In general, keeping it within one message and filling out the space with useful information is a good call. If your application looks very short or empty, this might be a sign to write more. Don’t extend into a second message
-
 Please note: We get a lot of applications for DM roles that list home campaigns as relevant experience. While this can be useful, we are more interested in knowing the “soft” skills you learned from DMing. This is because traditional campaigns are very different from West Marches, and can vary in quality. Tell us about how you might have learned to resolve conflict at the table, or when a game went badly and how you grew from that experience. 
 
-### Relevant Experience
+### What We Look For
 
-This is what you can include in your application when asked about your experience. If you have not done anything from this section, it may be worth trying them out. This will both give you an idea of whether the role suits you, and give us a better idea of how you are like. It’s worth noting that you can include experience even if you don’t plan on applying to a similar role, as it may still be relevant.
-
-#### On Server
-
-- Helping newbies, whether in PMs, OOC channels, or IC channels
-- Reviewing sheets
-- Welcoming new members in `#introductions`
-- Reports in `#community-efforts`
-- Custom aliases
-
-#### Off Server
-
-- DMing in private campaigns (In person or digital)
-- DMing for game stores
-- Custom original maps
-- Equivalent roles in other servers
-- Personal writing
-- Personal projects
-- Related work experience (e.g. spreadsheets)
-- Related school work (e.g. essays or clubs)
+- Assisting newbies (e.g. reviewing sheets), whether in PMs, OOC channels, or IC channels
+- Helpful during games, e.g. answering questions in OOC, linking the correct commands, etc.
+- How you treat staff, e.g. how you treat DMs when you aren't picked for a game, , how you treat people when things don't go your way.
+- How you treat fellow players, e.g. how you 
+- How you react when you've made a mistake
 
 
 ### Misc. Tips
 
 - Don’t spam applications
-    - Send a maximum of two at one time and wait for a reply
     - Do not send more applications if you have not received a response
     - Consistently applying to multiple roles is a surefire way to get your app rejected. We want people who are passionate about their role and not just wanting to be staff for the power.
 - Don’t harass staff about the status of your application, especially in public
-    - Staff often need time to consider an application, especially if a lot of the review committee is busy that week. 
+    - Staff often need time to consider an application, especially if the review committee is busy that week. 
 - Don’t try to guilt trip staff about your application
-    - No one staff is responsible for the result of your application. Complaining in front of them is just inconsiderate.
+    - No one staff member is responsible for the result of your application. Most applications are reviewed by a committee.
 
-### Rating System
+## Rating System
 
 The overview of the roles below will be based on 6 criteria. This is a subjective opinion and may not be representative of your experience; however, they are general enough to provide you an idea of what to expect. A low or high score is not necessarily a good or bad thing; it depends on what you want out of the role.
 
@@ -128,19 +111,19 @@ The 6 criteria are:
 ### Bookkeeping Assistant
 :::
 - **Time Commitment**: 1
-    - Thralls are expected to take a few minutes out of their week to process any backlog
+    - BKAs are expected to take a few minutes out of their week to process any backlog
 - **Learning Curve**: 3
-    - Thralls need to read and comprehend a document detailing how to process manual DTDs
+    - BKAs need to read and comprehend a document detailing how to process manual DTDs
 - **Collaborativeness**: 1
-    - Thralls do not work with other Thralls to process the same DTD
+    - BKAs mostly work independently
     - However, they should ask questions if they are unsure about anything
 - **Variety**: 1
     - Manual DTDs tend to be restricted to a few common ones
 - **Public Facing**: 1
-    - Thralls are only required to post results of player’s checks; flavor is optional
+    - BKAs are only required to post results of player’s checks; flavor is optional
     - They should answer questions about DTD if able
 - **Initiative**: 3
-    - Thralls should check relevant channels frequently to identify when there is a backlog and help out
+    - BKAs should check relevant channels frequently to identify when there is a backlog and help out
 
 Players who like this role also apply for: Arena Master
 
@@ -223,19 +206,18 @@ People who like this role also apply for: Trainee DM, NPC Master
 - **Learning Curve**: 4
     - As DMing has an infinite skill ceiling and there are thousands of monsters, self improvement is a necessary skill. TDMs will need to work on their gamesense, rules knowledge, balance, player engagement, supplementary materials, and more.
 - **Collaborativeness**: 4
-    - Trainee DMs will be consistently working with Mentor DMs and Senior DMs to fine tune games. They are expected to take their advice on areas of improvement.
+    - Trainee DMs will be consistently working with Mentor DMs and Senior DMs to fine tune games. They are expected to respect their advice on areas of improvement.
     - Trainee DMs are not expected to collaborate with other TDMs or staff roles, but can choose to do so. 
 - **Variety**: 5
     - Trainee DMs can decide what they want to run as long it fits DM guidelines
-    - Game content can take place anywhere in Icris, but must follow DM guidelines
-    - Trainee DMs can customize their own maps
-    - Trainee DMs can do elaborate storylines, give magic items, and make NPCs 
+    - Game content can take place anywhere in Icris
+    - Trainee DMs can run greater-scaled storylines in terms of lore and NPC involvement, RP-centered games, and give magic items.
 - **Public Facing**: 4
-    - Trainee DMs will be consistently working with players, not against them, to achieve their objective. A friendly personality is a must.
+    - Trainee DMs will be consistently working with players, not against them. A friendly personality is a must.
     - When TDMs run low level events, they will encounter many newbies who will require guidance. They are expected to help them to the best of their ability in a polite manner.
 - **Initiative**: 5
     - TDMs are expected to take initiative in thinking of ideas, doing research online for inspiration, and planning encounters
-    - While Mentor DMs and Senior DMs can offer advice on specific ideas, they cannot come up with ideas or create encounters.
+    - While Mentor DMs and Senior DMs can offer advice on specific ideas, they cannot fully create the encounter for them.
 
 People who like this role also apply for: NPC Master
 
@@ -297,11 +279,11 @@ People who like this role also apply for: NPC Master
     - They can schedule encounters in their own time
     - They should still have a reasonable amount of free time if they wish to be active in the role as encounters can take some time
 - **Learning Curve**: 3
-    - NPC Masters should get to know the personalities of various public NPCs as well as their own and master them
+    - NPC Masters should have a skill for storytelling, such as being able to write detailed RP descriptions, portray a compelling character, and bounce off other players.
     - NPC Masters should ensure their NPCs and encounters abide by server limits
     - NPC Masters are expected to ask questions if they are unsure about something
 - **Collaborativeness**: 3
-    - NPC Masters are expected to collaborate with Events Committee to plan encounters around events
+    - NPC Masters are expected to collaborate with other members of their team to plan events
     - NPC Masters are expected to ask other NPC Masters to learn about their NPCs’ personalities
     - Individual encounters however can be done on their own
 - **Variety**: 3
@@ -309,11 +291,10 @@ People who like this role also apply for: NPC Master
     - They have the option of opening pop up shops if they wish, as well as assisting in existing shops
 - **Public Facing**: 4
     - NPC Masters spend most of their time with other players
-    - That said, this role does not require much public speaking skills, as NPC Masters are talking using characters
-    - They should still exercise basic common sense in gauging whether an encounter would be fun or unfun to a player
+    - They should exercise basic common sense in gauging whether an encounter would be fun or unfun to a player
 - **Initiative**: 2
     - NPC Masters can mostly work around events if they wish
-    - NPC Masters should respond to `#npc-registry` requests if they have permissions for that NPC
+    - NPC Masters should respond to `#npc-registry` requests
     - Roaming RP channels on their own accord is a plus
 
 People who like this role also like to apply for: Trainee DM
@@ -340,24 +321,3 @@ People who like this role also like to apply for: Trainee DM
     - Homebrewers should take initiative to review new content and the homebrew submissions backlog
 
 People who like this role also apply for: Mod
-
-:::lk
-### Lore Keeper
-:::
-- **Time Commitment**: 3
-    -Lore Keepers are expected to write lore in their own time
-- **Learning Curve**: 3
-    -Lore Keepers are expected to learn about the world through experience and asking questions
-- **Collaborativeness**: 3
-    - Lore Keepers can collaborate with other LKs on lore, but are not required to
-    - Lore Keepers are required to design material such that it is easy for other staff roles to use
-- **Variety**: 3
-    - Lore Keepers are given topics to write about, but can also write about what they like if inspiration strikes them
-- **Public Facing**: 2
-    - Lore Keepers spend most of their time not interacting with the public
-However, they may be called on to answer lore questions
-- **Initiative**: 4
-    -Lore Keepers are expected to respond to topics and prompts
-    -Lore Keepers are expected to identify and fill gaps in lore 
-
-Players who like this role also apply for: DM

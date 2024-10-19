@@ -1,6 +1,6 @@
 ---
 label: How to Use Discord
-order: 700
+order: 1000
 # icon: "::"
 ---
 # How to Use Discord

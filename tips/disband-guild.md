@@ -9,9 +9,9 @@ A Supplementary Document to Advise Existing Guild Leaders
 :::
 ## Introduction
 
-So you’re considering disbanding your guild. While it can be a disheartening experience, it does not need to be overly painful. Deciding to relinquish your guild can be a relief to yourself and your members, especially if the guild has been on a steady decline with no chance of a comeback. It frees up time for you to pursue things you enjoy more, and allows your members to join another guild with that character.
+So you’re considering disbanding your guild. While it can be a disheartening experience, it does not need to be overly painful. Deciding to relinquish your guild can be a relief to yourself and your members, especially if the guild has been on a consistent decline. It frees up time for you to pursue things you enjoy more, and allows your members to join another guild with that character.
 
-Still, maybe you are still considering your options. This document is designed to help you decide if disbanding your guild is the right choice for you and your guild, and if not, what your alternatives are. **It is not mandatory reading**, however it can greatly aid you in reducing pain and frustration.
+Still, you may be still considering your options. This document is designed to help you decide if disbanding your guild is the right choice for you and your guild, and if not, what your alternatives are. **It is not mandatory reading**, however it can greatly aid you in reducing pain and frustration.
 
 ## Why Disband A Guild?
 
@@ -21,7 +21,7 @@ A guild’s disbandment should not be taken lightly. Here are some good reasons 
 - There are irreconcilable differences in leadership between the co-leaders.
 - It is no longer economically viable to operate the guild, whether due to lack of donations or people not paying taxes.
 
-Here are some suboptimal reasons why you might want to disband your guild. These reasons, if combined with one of the above, can be fine, but on their own they are usually not an ideal reason.
+Here are some less ideal reasons why you might want to disband your guild. These reasons, if combined with one of the above, can be fine, but on their own they are usually not an ideal reason.
 
 - You want to disband your guild so you can go form a new guild
     - This is not only irresponsible, but also a temporary escape from the administrative work that a guild comes with. New and flashy is always more appealing than old and boring, but this method abandons the members who put effort and money into your guild.
@@ -34,12 +34,11 @@ Here are some suboptimal reasons why you might want to disband your guild. These
 
 1. Call a town hall meeting with your guild members. Highlight what you think are the current problems the guild is facing.
 2. Try to create and test out solutions. You can refer to the section below on other methods to try.
-3. If there are no viable solutions or the test-runs fail, convene with any co-leaders or representatives to discuss the situation.
+3. If there are no viable solutions or the test runs fail, convene with any co-leaders or representatives to discuss the situation.
 4. If you decide on disbandment, announce it to the guild. Ping the guild role and give a detailed and truthful explanation on why you are disbanding. Thank them for their support. Have them react to acknowledge the message.
-5. Decide how to distribute the guild’s assets. You may wish to refund recent donations before you file for disbandment and your coffers are seized. Divvy up items donated to the guild, whether returning them to their original owners or leaving them up for grabs.
-6. Reach out to members who do not acknowledge the disbandment through PMs so that they know of the situation.
-7. File for disbandment. Staff will instruct you on how to proceed.
-8. You may wish to reach out to individual members to talk to them about the disbandment. Disbandment can be an emotional situation for those who spend a lot of time in the guild.
+5. Decide how to distribute the guild’s assets. You may wish to refund recent donations before you file for disbandment and your coffers are given to the Senate. Divvy up items donated to the guild, whether returning them to their original owners or leaving them up for grabs.
+6. File for disbandment. Staff will instruct you on how to proceed.
+7. If your guild has been around for a long time, you may wish to reach out to individual members to talk to them about the disbandment. Disbandment can be an emotional situation for those who spend a lot of time in the guild.
 
 ## How Not to Disband
 
@@ -51,7 +50,7 @@ Here are some suboptimal reasons why you might want to disband your guild. These
     - You can always privately contact an existing representative and offer a quiet transfer of ownership. The new leader can then handle any questions.
 - Leave the server/Delete your account
     - Not only is this a rash response with long lasting effects, it will make retrieving any material you are holding onto impossible, leading to everything needing to be recreated. 
-    - This also makes finding messages sent by you much more troublesome
+    - This also makes finding messages sent by you extremely difficult
     - No one will judge you if you simply say you have lost interest or cannot handle the pressure, and complete the transferring/disbanding process before leaving.
 
 ## Alternatives to Disbanding A Guild
@@ -67,18 +66,18 @@ You may wish to relinquish ownership if you are experiencing the following:
 - You want to retire or rebuild your character
 
 You should not consider relinquishing ownership and instead consider disbanding if you are experiencing the following:
-- All prospective candidates for ownership are irresponsible
+- All prospective candidates for ownership are not a good fit
 - No one is interested in taking over leadership
 - The guild has a lack of activity as a whole
 
 Here are some questions to ask yourself when evaluating a prospective new leader:
 
 - Are they interested in leading? 
-    - Some people are interested in paperwork but not necessarily the people-management that comes with being a guild leader. Always ask them in private to confirm before relinquishing the role
+    - Some people are interested in paperwork but not necessarily the people management that comes with being a guild leader. Always ask them in private to confirm before relinquishing the role
 - Are they active?
     - Not only should they be active in roleplay channels in general, but they should ideally be invested in the guild’s development
 - Do they have experience with guild management?
-    - Players who have been around longer tend to be more aware of the lifecycle of guilds, however this is not always the case. Experience co-managing or handling admin work for another guild is always a plus.
+    - Players who have been around longer tend to be more aware of the life cycle of guilds, however this is not always the case. Experience co-managing or handling admin work for another guild is always a plus.
 
 You could also have the guild members nominate and vote for their new leader. Please do this before leaving the guild so that permissions can be transferred cleanly. 
 
@@ -92,7 +91,7 @@ Here is a checklist of things to transfer:
 - How-tos on important duties, such as submitting taxes and guild member registrations
 - Anything else you may find relevant or helpful to the new leader
 
-#### Special: Gaining Ownership when the Owner is Inactive
+#### Special Circumstances: Gaining Ownership when the Owner is Inactive
 
 For guild members whose owner is inactive, you can make a bid for ownership by following the steps below.
 
@@ -127,36 +126,6 @@ Here is a checklist of things you can consider for rebranding. All are optional:
     - A rebranding can be a good opportunity to iron out kinks in the old leadership style, such as inactive leaders or slow decision making. You can consider switching to a different leader, a coalition of leaders, or even a democracy.
 - Change of Modules or Guild Type
     - Set aside time with your members OOC to go through the list of available guild modules and decide which you would like to go with. It is important to balance mechanical benefits with cohesion of flavor.
-
-### Merging
-
-If you find a guild that is similar in concept to yours, you may consider merging. Merging can allow you to pool resources and members, and reduce competition and confusion amongst prospective members. While there is no official way to merge guilds, you can essentially combine your coffers and move all members from one guild to another, effectively shutting down one of the guilds. 
-
-You may wish to do a merger if you are experiencing the following:
-- Two or more guilds have similar concepts, and as a result are competing for members and funding. 
-- Both guilds have similar cultures and member compatibility.
-- One guild has superior facilities, while the other has a lack of funding or activity.
-
-You may not wish to do a merger if you are experiencing the following:
-- There is a lack of leadership compatibility between the two guilds
-- There are fundamental conceptual differences between the guilds
-
-If you wish to merge with a guild, contact their leader in private during a time convenient to them. Try to sell the benefits of merger, such as increased funding or members. If they decline, do not be offended, as some leaders may not wish to deal with cultural clashes between members.
-
-If they express interest, you should definitely call a vote to decide if to merge a guild, skipping members who are inactive. If the majority of the members vote against a merger, then the cause could instead be a conflict of interest, and you should consider relinquishing ownership instead. 
-
-Here is a checklist to consider for merging:
-- Cultural Compatibility
-    - What do your members desire out of being part of a guild? Is it simply a way for them to hang out with their friends, a vessel for them to do DTD, or a cozy place to make meaningful roleplay?
-    - Are your members mostly jokers who want to explore meme concepts, or epic characters who want to further their character’s journey?
-- Leadership Compatibility
-    - Will the old leader be accepted into the receiving guild’s leadership, or will they need to relinquish their position?
-    - How is the receiving guild governed? Is this drastically different from how the merging guild is governed?
-    - How well is the old leader acquainted with the receiving guild’s leadership?
-- Conceptual Compatibility
-    - How much of the old guild’s resources can be salvaged, and how much of it will go to waste? If there is too big of a difference, it may not be worth the effort.
-    - How open is the receiving guild to different classes?
-    - Will the merging guild’s members be automatically added, or will they have to reapply?
 
 ## Conclusion
 
