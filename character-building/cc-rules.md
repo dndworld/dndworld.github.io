@@ -48,7 +48,7 @@ Please refer to the "Sources" section below for full details.
 - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
 - **Optional Features**: On
 - **Advancement Type**: Milestone
-- **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in `#official-character-rolls` channel, **not** in D&D Beyond
+- **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in [!badge #official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264), **not** in D&D Beyond
 - **Encumbrance Type**: Use Encumbrance
 - **Ignore Coin Weight**: Off
 - **Character Privacy**: Public
@@ -58,8 +58,6 @@ Leave the rest of the options as they are.
 Once you created a character on D&D Beyond, make sure to do the following:
 - Equip your weapons and armor by clicking on the box next to them in the equipment page.
 - If you decide to roll for HP in `#official-character-rolls`, you will need to manually enter your HP.
-
-How to get access to the paid material: `#ddb-link-request`
 
 +++ GSheet
 To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM) and select File -Make a Copy
@@ -103,7 +101,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 ### Disallowed Content:
 
 !!!warning Recent Releases
-When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to `#changelog`, followed by the update on this channel.
+When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge #changelog](https://discordapp.com/channels/512870694883950598/720529747817529374), followed by the update on this channel.
 !!!
 
 +++ **General**
@@ -355,27 +353,6 @@ Young Adult | 15-20 | 18-50 | 100-350 | 18-40 | 20-30 | 18-30 |
 Settled Adult | 20-50 | 50-200 | 350-600 | 40-200 | 30-150 | 30-65 |
 Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 
-||| Life Stage
-Childhood
-Adolescence
-Young Adult
-Settled Adult
-Elderly
-||| Dragonborn
-1-4
-4-15
-15-20
-20-50
-50-80
-||| Dwarf
-6-13
-13-18
-18-50
-50-200
-200-350
-|||
-
-
 ## Equipment
 
 > - You may take starting equipment **__or__** roll for gold.
@@ -383,7 +360,7 @@ Elderly
 > [Snowhaven Market Document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU)
 > 
 > - If you choose to roll for gold, follow the instructions pinned in `#official-character-rolls`. Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
->   - After you have rolled the gold, you may then purchase the equipment from the above document, and by logging the transactions in the `#transaction-log`. 
+>   - After you have rolled gold, you may then purchase the equipment from the above document, and by logging them in [!badge #transaction-log](https://discordapp.com/channels/512870694883950598/531011819095982081). 
 > 
 > - You are **__not__** allowed to possess any magic items starting out.
 

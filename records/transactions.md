@@ -71,7 +71,7 @@ __Black Market Transaction Log__
 **Link(s) to Gold / Marks transactions:**
 ```
 
-!!!A bot should react to your form with 🎐 `:wind_chime` automatically, but if for some reason the bot fails, do add the react manually.
+!!!A bot should react to your form with 🎐 `:wind_chime:` automatically, but if for some reason the bot fails, do add the react manually.
 !!! 
 
 If you are trading in an item not on the Black Market Bin, please use the following template. Refer to the[ Black Market document](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM) for prices.

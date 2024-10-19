@@ -15,7 +15,7 @@ The Black Market offers a means of purchasing and selling magic items. The docum
 For transactions through the Black Market Bin: 
 - Once you've found the item you wish to purchase or sell, along with its associated costs, use the `!transaction` command in `#transaction-log` with all the pertinent information in the command. 
 - If you're purchasing an item, fill out the form below as well and send it into the `#transaction-log` channel.
-- Afterwards, react to it with the 🎐 emoji. 
+- Afterwards, react to it with the 🎐 `:windchime:` emoji. 
 
 !!!Note
 - Not all items can be purchased from the Black Market. 
