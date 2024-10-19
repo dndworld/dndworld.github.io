@@ -1,11 +1,11 @@
 ---
 label: Next Steps
 order: 100
-icon: ":game_die:"
+icon: ":rocket:"
 ---
 
 <style>
-h1:before { content: "🎲 " }
+h1:before { content: "🚀" }
 </style> 
 
 # Next Steps

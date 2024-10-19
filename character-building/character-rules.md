@@ -101,24 +101,29 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to `#changelog`, followed by the update on this channel.
 !!!
 
-> **Disallowed Books**
-> - Explorer's Guide to Wildemount
-> - Planeshift
-> - Runeterra
-> 
-> **Under Review**
-> - Critical Role: Tal'Dorei Reborn
+**Under Review**
+- Critical Role: Tal'Dorei Reborn
 
-==- Races/Species
++++ **General**
+**Books:**
+- Explorer's Guide to Wildemount
+- Planeshift
+- Runeterra
+
+**Other:**
+- Supernatural Gifts
+- Sidekicks
+
++++ Races/Species
 - Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
 
 For the full list of allowed and disallowed official races, please refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
 
-==- Classes/Subclasses
-**General**
-> - Race-restricted subclasses such as Battlerager lose said restriction.
-> - *Tasha's Cauldron of Everything (TCoE)* Optional Class Features are allowed for all classes.
-> - D&D Beyond's Blood Hunter is banned. Refer to the version described in the HB Compendium instead.
++++ Classes/Subclasses
+
+- Race-restricted subclasses such as Battlerager lose said restriction.
+- *Tasha's Cauldron of Everything (TCoE)* Optional Class Features are allowed for all classes.
+- D&D Beyond's Blood Hunter is banned. Refer to the version described in the HB Compendium instead.
 
 **Disallowed Subclasses**
 - Bard: College of Eloquence
@@ -137,7 +142,7 @@ For the full list of allowed and disallowed official races, please refer to [thi
 - Potency Mutagen (Blood Hunter)
 - Sagacity Mutagen (Blood Hunter)
 
-==- Feats
++++ Feats
 - Aberrant Dragonmarks
 - Adept of the Black Robes feat
 - Adept of the Red Robes feat
@@ -154,7 +159,7 @@ For the full list of allowed and disallowed official races, please refer to [thi
 - Guile of the Cloud Giant (refer to the DW Homebrew version)
 - Soul of the Storm Giant (refer to the DW Homebrew version)
 
-==- Backgrounds
++++ Backgrounds
 
 - Custom Backgrounds
 
@@ -171,7 +176,7 @@ Backgrounds from the following books:
 
 Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.
 
-==- Spells
++++ Spells
 
 - Ashardalon's Stride
 - Create Magen
@@ -188,9 +193,6 @@ Please note that some background features will have no effect on this server, e.
 - Tasha's Otherwordly Guise
 - Tasha's Mind Whip
 
-==- Other
-- Supernatural Gifts
-- Sidekicks
 ===
 
 ### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)

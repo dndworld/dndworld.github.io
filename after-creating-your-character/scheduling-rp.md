@@ -1,5 +1,5 @@
 ---
-label: "Scheduled RP"
+label: "Scheduling RP"
 icon: ":busts_in_silhouette:"
 order: 8
 ---
