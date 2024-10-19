@@ -58,10 +58,11 @@ Money and XP are tracked on the server. They are **not** synced with your sheet,
 > 
 > `!transaction "reason for transaction" +Xgp +Xsp +Xcp`
 
-[Example] Adding Starting Gold
+=== [Example] Adding Starting Gold
 
-> ℹ️ For DDB importations, Avrae should automatically handle this step. Your coin purse may sync the first time you run `!import`, so check with `!transaction` first. 
-> 
+!!! 
+For DDB importations, Avrae should automatically handle this step. Your coin purse may sync the first time you run `!import`, so check with `!transaction` first. 
+!!!
 > In `#transaction-log`, replace **#** with the starting gold amount.
 > 
 > ```
@@ -71,7 +72,7 @@ Money and XP are tracked on the server. They are **not** synced with your sheet,
 > - `!transaction "Folk Hero Starting Gold" +10gp`
 > - `!transaction "Haunted One Starting Gold" +1sp`
 > - `!transaction "Monk Rolled Gold" +12gp`
-
+===
 
 ## Roleplaying
 
@@ -190,7 +191,7 @@ All XP must be tracked in `#xp-tracker` with the `!dxp` alias.
 When you level up, adjust your sheet accordingly and run `!update` in `#bot-dump`. No sheet link is required.
 
 
-## Intoxication Counter (Optional)
+==- ## Intoxication Counter (Optional)
 
 Intoxication Counter follows a homebrew system which you can read more about in the pins of `#drunken-yet-tavern`. This determines your state of drunkenness. 
 
@@ -203,8 +204,7 @@ Running `!drink [name of drink]` will automatically setup the counters you need.
 - `!cc intox` to view the counter
 - `!cc intox set 0` to reset the counter
 
-
-## Bag Management (Optional)
+==- ## Bag Management (Optional)
 
 **[ ! ]** Your character sheet needs to list your equipments.
 
@@ -221,9 +221,9 @@ Bag management within the server is completely optional. Should you want to trac
 > 
 > e.g. `!bag pack "Explorer's Pack"`
 
-## Lifestyle & Downtime (Optional)
+==- ## Lifestyle & Downtime (Optional)
 
-Full explanation on Lifestyle and Downtime can be found in `#lifestyle-dtd-rules`.
+Full explanation on Lifestyle and Downtime can be found in [Lifestyle and DTD Rules](/downtime-and-lifestyle/lifestyle).
 
 :warning: Note: Lifestyle is handled in the DW server (not in D&D Beyond).
 
@@ -236,10 +236,11 @@ If you do not pay Lifestyle, you are considered to be benefiting from the Snowha
 As the name suggests, you spend your days looking for quests and being on call by the Senate rather than performing any other downtime activities.
 
 
-## Joining a Guild (Optional)
+==- ## Joining a Guild (Optional)
 
 You can see the list of available guilds under the **GUILDS** category, as well as in this pinned message in [`#guild-ooc`](https://discord.com/channels/512870694883950598/527458737892622361/941358894951825419)
 
 They are all player managed, and the requirements of joining a guild vary. Some guilds require members to be over a certain level threshold, or be of a certain class. Check their pinned messages for such requirements or inquire with their leader if they don't specify any.
 
 Some guild channels are public: this indicates you may RP checking out the guild hall, but not use their facilities.
+===
