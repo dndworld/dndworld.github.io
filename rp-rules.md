@@ -24,7 +24,7 @@ This includes:
 - DnD 5e ruleset
 <https://www.dndbeyond.com/sources/basic-rules>
 - Server’s rule adjustments and variant rules
-  - [`#severratas`](https://discord.com/channels/512870694883950598/775917313207173150)
+  - [`#severratas`](/faq/erratas.md)
   - DnD World Content Errata/Variant Feature Document
 <https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/edit> 
 - Table rules your DM is using for their games

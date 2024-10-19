@@ -50,7 +50,7 @@ You are on the mainland known as Icris. Icris is a fantasy setting with its own 
 
 Icris uses a fictional calendar, with the IRL year of 2018 being equivalent to 22118. The names of months and weeks are otherwise the same. 
 
-For more lore, visit ⁠lore and our World Anvil page: https://www.worldanvil.com/w/icris-dnd-world
+For more lore, visit ⁠lore and our [World Anvil page](https://www.worldanvil.com/w/icris-dnd-world)
 
 ## Important
 !!!warning

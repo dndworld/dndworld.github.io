@@ -10,13 +10,13 @@ icon: ":scroll:"
 Ignorance is not an excuse for rule-breaking. We expect you to read, understand, and agree to adhere to the rules.
 
 **1.1. Read the channels containing rules covering specific topics.** Take your time to familiarize yourself with them.
-- [Roleplay and DM events](https://discord.com/channels/512870694883950598/928287140738113557)
-- [Character building](https://discord.com/channels/512870694883950598/660382373493604362)
-- [RPXP](https://discord.com/channels/512870694883950598/537272161551908905)
-- [Rebuilding/Retiring (check the pins)](https://discord.com/channels/512870694883950598/542953099560615946)
-- [Lifestyle and Downtime](https://discord.com/channels/512870694883950598/58646243091834471)
-- [Guilds, Housing, Market, etc](https://discord.com/channels/512870694883950598/569731521951563776)
-- [PVP and Crime](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/)
+- [Roleplay and DM events](/rp-rules.md)
+- [Character building](/character-building/cc-rules.md)
+- [RPXP](/start-playing/earn-xp.md)
+- [Rebuilding/Retiring (check the pins)](/records/rebuild.md)
+- [Lifestyle and Downtime](/downtime-and-lifestyle/lifestyle.md)
+- [Guilds, Housing, Market, etc](/advanced-play/index.md)
+- [PVP and Crime (Google Docs)](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/)
 
 **1.2. Check the pins** of the channels before posting. They contain guidelines, instructions, or restrictions.
 ==- 2️ **This is a family-friendly server.**

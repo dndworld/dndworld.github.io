@@ -17,7 +17,7 @@ h1:before {
 ⚠️ **Do not roll stats/HP/gold on D&D Beyond.**
 <br><br>
 - All test rolls should be done in `#bot-dump`.
-- Upload your character sheets in `https://discordapp.com/channels/512870694883950598/512872392377499661`, not [#official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264).
+- Upload your character sheets in [#character-sheets](https://discordapp.com/channels/512870694883950598/512872392377499661), not [#official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264).
 !!!
 
 ## Rolling for Stats
