@@ -48,7 +48,7 @@ Server Rule Keyword: <RPXP, XP, Level, DM Event, Roleplay>
 -->
 **Tags*/* should be added to the Ruling or Errata postings to make these decisions easy to search for the players. Add any and all applicable keywords that one may use to search for the post.
 
-## Rulings Clarifications
+## Rule Clarifications
 
 ### General:
 ==- **Can you refer to classes in character?**
@@ -339,7 +339,7 @@ Feat: Ritual Caster
 ```yaml **Tags**
 Item: Dragonchess set
 ```
-==- **Cape / Cloak Magic item slot**
+==- **Cape / Cloak Magic Item Slot**
 **Interpretation:** A PC may only have one slot for a cape or a cloak. They cannot benefit from more than 1 at a time.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/1216866330830049483/1216900780263473182)
 ```yaml **Tags**
@@ -353,7 +353,7 @@ Server Rule Keyword: Item Slots, Magic Item, Stacking Item slots
 ```yaml **Tags**
 Item: Woodworking tools
 ```
-==- **Picking a ranged weapon as starting equipment**
+==- **Picking a Ranged Weapon as Starting Equipment**
 **Interpretation:** If you start with a ranged weapon from starting equipment by picking one from a "any simple/martial weapon" option, you also start with 20 of the weapon's ammunition.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/546725434608451584/799099180752437288) [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/799106178624782366)
 ```yaml **Tags**
@@ -367,7 +367,7 @@ For the ease of tracking, instead of the original 1d6 + 1 days, we have decided 
 Item: Ring of Regeneration (Very Rare)
 Server Rule Keyword: DTD, Downtime, Injury
 ```
-==- **Staffs as arcane and druidic foci**
+==- **Staffs as Arcane and Druidic foci**
 **Interpretation:** If a staff intended to be used as an arcane focus is made of wood, it can also be used as a druidic focus.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/722187796147601558)
 ```yaml **Tags**
@@ -429,12 +429,6 @@ Feat: Cohort of Chaos, Chaotic Flare
 Class/Classfeat: True Polymorph, Summon Spells
 Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasting, Psionics
 ```
-==- **Spell: Reincarnate Targets**
-**Changes:** Reincarnate is capable of targeting and affecting dead *Player Characters* only, regardless of if they are humanoid or not. This does not affect non-player characters such as pets or other creatures. <br>
-**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1153458254794461184)
-```yaml **Tags**
-Spell: Reincarnate
-```
 ==- **Spell: Plane Shift**
 **Changes:** You can only use a specific tuning fork material component for transport to the plane that it is tuned to.<br>
 **Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/513452707617570828/828514093563379753)
@@ -442,6 +436,12 @@ Spell: Reincarnate
 Spell: Plane Shift
 ```
 ===
+==- **Spell: Reincarnate Targets**
+**Changes:** Reincarnate is capable of targeting and affecting dead *Player Characters* only, regardless of if they are humanoid or not. This does not affect non-player characters such as pets or other creatures. <br>
+**Link to discussion:** [!badge variant="info" text="Discord" icon="link"](https://discord.com/channels/512870694883950598/730973655496130637/1153458254794461184)
+```yaml **Tags**
+Spell: Reincarnate
+```
 
 !!!
 This list of Erratas is currently WIP. For the full list of changes to Spells, certain Racial Features, Class features, and Versatility features, please see [here](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/edit?usp=sharing).
