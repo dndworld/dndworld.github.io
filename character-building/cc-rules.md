@@ -204,13 +204,11 @@ Please note that some background features will have no effect on this server, e.
 
 ### Disallowed Content
 
+==- General
 **Disallowed Books**
 - Explorer's Guide to Wildemount
 - Planeshift
 - Runeterra
-
-**Under Review**
-- Critical Role: Tal'Dorei Reborn
 
 ==- Races/Species
 - Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
@@ -296,6 +294,9 @@ Please note that some background features will have no effect on this server, e.
 - Sidekicks
 ===
 
+**Under Review**
+- Critical Role: Tal'Dorei Reborn
+
 ### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
 
 !!!
@@ -356,27 +357,26 @@ Young Adult | 15-20 | 18-50 | 100-350 | 18-40 | 20-30 | 18-30 |
 Settled Adult | 20-50 | 50-200 | 350-600 | 40-200 | 30-150 | 30-65 |
 Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 
-|||
-Life Stage
+||| Life Stage
 Childhood
 Adolescence
 Young Adult
 Settled Adult
 Elderly
-|||
-Dragonborn
+||| Dragonborn
 1-4
 4-15
 15-20
 20-50
 50-80
-|||
-Dwarf
+||| Dwarf
 6-13
 13-18
 18-50
 50-200
 200-350
+|||
+
 
 ## Equipment
 
