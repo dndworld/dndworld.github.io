@@ -10,7 +10,7 @@ h1:before { content: "🎮 " }
 
 # Advanced Play
 
-Once you've got your character set up for the server, feel free to check out these guide:
+Once you've got your character set up for the server, feel free to check out these guides:
 
 === For purchasing mundane weapons, armor, and gear
 [!ref icon=":dollar:"](market.md)
@@ -23,7 +23,7 @@ Once you've got your character set up for the server, feel free to check out the
 [!ref icon=":wind_chime:"](bm.md)
 For Magic Item Benefactor Rules, see the [Transactions page](/records/transaction-log/#magic-item-benefactor-rules)
 === For requesting NPC enocunters
-[!ref icon=":office:"](npc-registry.md)
+[!ref icon=":office:"](npcs.md)
 === For willing belongings after death
-[!ref icon=":wind_chime:"](will-log.md)
+[!ref icon=":wind_chime:"](wills.md)
 ===

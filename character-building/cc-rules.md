@@ -101,7 +101,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 ### Disallowed Content:
 
 !!!warning Recent Releases
-When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge #changelog](https://discordapp.com/channels/512870694883950598/720529747817529374), followed by the update on this channel.
+When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge #changelog](https://discordapp.com/channels/512870694883950598/720529747817529374)and updated here.
 !!!
 
 +++ **General**
