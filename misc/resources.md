@@ -25,8 +25,8 @@ h1:before {
 
 ### Server Rule related
 
-- **AP**: Active Player ([Common FAQ](common-faq.md))
-- **DP**: Demerit Points ([Rules](rules.md))
+- **AP**: Active Player ([Common FAQ](/faq/common-faq))
+- **DP**: Demerit Points ([Rules](/rules.md))
 
 ### Lifestyle & Downtime Days related
 *More info in [Downtime and Lifestyle Rules](/downtime-and-lifestyle/)*
@@ -44,12 +44,16 @@ h1:before {
 - **PP**: Passive Perception, how likely you are to notice something you aren't actively looking for
 - **ASI**: Ability Score Increase, which can increase your stats beginning at Level 4
 - **RAW**: Rules As Written, official limitations of various rules, cf. House Rules
-- **TPK**: Total Party Kill, where the whole party dies, likely from a fatal combat
+- **TPK**: Total Party Kill, where the whole party dies, likely from a fatal combat 
+
+<br>
 
 - **WotC**: Wizards of the Coast, the official publishers of all official D&D content, sometimes called Wizards
 - **PHB**: Player's Handbook, core rulebook for the players
 - **DMG**: Dungeon Master's Guide, core rulebook for the DMs
 - **MM**: Monster Manual, core rulebook for the DMs when it comes to the  monsters
+
+<br>
 
 - **House Rules**: Rules that are made by and specific to each DMs
 - **Feat**: Different from racial features and class features, this is a special ability you can pick up instead of an ASI at Level 4 onwards
@@ -59,8 +63,8 @@ h1:before {
 
 - **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
 - **CC**: Custom Counter (`#avrae-commands`)
-- **IC**: In Character ([Roleplay Rules](rp-rules.md))
-- **OOC**: Out Of Character ([Roleplay Rules](rp-rules.md))
+- **IC**: In Character ([Roleplay Rules](/rp-rules.md))
+- **OOC**: Out Of Character ([Roleplay Rules](/rp-rules.md))
 - **DDB**: D&D Beyond
 
 ## More D&D Content: 
@@ -94,7 +98,7 @@ h1:before {
 
 ## Tutorials
 
-> If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore! <:welcomerMouse:942967479083339777>
+> If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 
 ### How to make offhand attacks on D&D Beyond
 
