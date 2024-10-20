@@ -62,7 +62,7 @@ h1:before {
 ### Other Commonly-Used Abbreviations
 
 - **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
-- **CC**: Custom Counter (/after-creating-your-character/avrae/)
+- **CC**: Custom Counter [Avrae Commands](/after-creating-your-character/avrae/)
 - **IC**: In Character ([Roleplay Rules](/rp-rules.md))
 - **OOC**: Out Of Character ([Roleplay Rules](/rp-rules.md))
 - **DDB**: D&D Beyond
@@ -102,16 +102,16 @@ h1:before {
 
 ### How to make offhand attacks on D&D Beyond
 ==- Add the weapon to the Inventory and equip it by clicking the box next to it.
-<img src="https://i.imgur.com/WsZXhSV.png" width="70%">
+<img src="https://i.imgur.com/WsZXhSV.png" width="70%"/>
 
 ==- Click the weapon --> Customize
-<img src="https://i.imgur.com/lX7E1M8.png" width="60%">
+<img src="https://i.imgur.com/lX7E1M8.png" width="60%"/>
 
 ==- Rename the weapon so that it's easier to tell, and check "Dual Wield" option.
-<img src="https://imgur.com/w4nUeQS.png" width="60%">
+<img src="https://i.imgur.com/w4nUeQS.png" width="60%"/>
 
 ==- Make sure it shows up under "Bonus Action".
-<img src="https://imgur.com/J3Ex7QO.png" width="70%">
+<img src="https://i.imgur.com/J3Ex7QO.png" width="70%"/>
 
 ===
 
@@ -141,39 +141,36 @@ A general guide for making a Gsheet character sheet can be found in the sheet it
 
 A **note** in google sheet is the small tooltip that pops up when you hover over the cell. Gsheet character sheet has various instructions and information already in them, and you are encouraged to add yours whenever necessary.
 
-<img src="https://imgur.com/1wupf7C.png" alt="Example of a Gsheet note" width="60%">
+<img src="https://i.imgur.com/1wupf7C.png" alt="Example of a Gsheet note" width="60%"/>
 
 To add a note, right click on a cell, and select "Insert note".
-<img src="https://imgur.com/UaRweYx.png" alt="Insert note" width="60%">
+
+<img src="https://i.imgur.com/UaRweYx.png" alt="Insert note" width="60%"/>
 
 ==- Example character sheet with notes containing full text of each feature.
-<img src="https://imgur.com/chVuVQL.png" width="70%">
+<img src="https://i.imgur.com/chVuVQL.png" width="70%"/>
 
 ===
 
 ### How to get your character sheet's link from the D&D Beyond mobile app
 
-!!!
-Make sure your character sheet is set to **Public**.
-!!!
-
 - Open the D&D Beyond app and go to your character.
 - Click on the `Menu` button (9 red dots) and go to: `View Character on Website`
 
-<img src="https://imgur.com/wNgU4yI.png" width="40%">
-<img src="https://imgur.com/tcDz9JJ.png" width="40%">
+<img src="https://i.imgur.com/wNgU4yI.png" width="40%"/>
+<img src="https://i.imgur.com/tcDz9JJ.png" width="40%"/>
 
 - Click `Manage` (next to your character's name)
 
-<img src="https://imgur.com/g8ZLQSv.png" width="50%">
+<img src="https://i.imgur.com/g8ZLQSv.png" width="50%"/>
 
-!!!info To set your character sheet to PUBLIC: 
+!!!info To set your character sheet to PUBLIC
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
 
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
 
-<img src="https://imgur.com/gDpC3v8.png" width="40%">
+<img src="https://i.imgur.com/gDpC3v8.png" width="40%"/>
 
 - Go to ⁠[!badge #⁠character-sheets](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
