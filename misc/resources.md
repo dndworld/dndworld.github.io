@@ -62,7 +62,7 @@ h1:before {
 ### Other Commonly-Used Abbreviations
 
 - **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
-- **CC**: Custom Counter (`#avrae-commands`)
+- **CC**: Custom Counter (/after-creating-your-character/avrae/)
 - **IC**: In Character ([Roleplay Rules](/rp-rules.md))
 - **OOC**: Out Of Character ([Roleplay Rules](/rp-rules.md))
 - **DDB**: D&D Beyond
@@ -101,18 +101,21 @@ h1:before {
 > If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 
 ### How to make offhand attacks on D&D Beyond
-==- - Add the weapon to the Inventory and equip it by clicking the box next to it.
-![](https://i.imgur.com/WsZXhSV.png)
+==- Add the weapon to the Inventory and equip it by clicking the box next to it.
+<img src="https://i.imgur.com/WsZXhSV.png" width="70%">
 
 ==- Click the weapon --> Customize
-![](https://i.imgur.com/lX7E1M8.png)
+<img src="https://i.imgur.com/lX7E1M8.png" width="60%">
+
 ==- Rename the weapon so that it's easier to tell, and check "Dual Wield" option.
-![](https://i.imgur.com/w4nUeQS.png)
+<img src="https://imgur.com/w4nUeQS.png" width="60%">
+
 ==- Make sure it shows up under "Bonus Action".
-![](https://i.imgur.com/J3Ex7QO.png)
+<img src="https://imgur.com/J3Ex7QO.png" width="70%">
+
 ===
 
-- In `#bot-dump`, run: `!update`
+- In [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313), run: `!update`
 - Then, double check that it appears in: `!a list`
 
 ### How to connect your D&D Beyond account to view features on Avrae
@@ -141,10 +144,10 @@ A **note** in google sheet is the small tooltip that pops up when you hover over
 <img src="https://imgur.com/1wupf7C.png" alt="Example of a Gsheet note" width="60%">
 
 To add a note, right click on a cell, and select "Insert note".
-<img scr="https://imgur.com/UaRweYx.png" alt="Insert note" width="60%">
+<img src="https://imgur.com/UaRweYx.png" alt="Insert note" width="60%">
 
 ==- Example character sheet with notes containing full text of each feature.
-<img scr="https://imgur.com/chVuVQL.png" width="70%">
+<img src="https://imgur.com/chVuVQL.png" width="70%">
 
 ===
 
@@ -162,17 +165,17 @@ Make sure your character sheet is set to **Public**.
 
 - Click `Manage` (next to your character's name)
 
-<img scr="https://imgur.com/g8ZLQSv.png" width="60%">
+<img src="https://imgur.com/g8ZLQSv.png" width="50%">
 
 !!!info To set your character sheet to PUBLIC: 
-Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`
+Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
 
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
 
-<img scr="https://imgur.com/gDpC3v8.png" width="60%">
+<img src="https://imgur.com/gDpC3v8.png" width="40%">
 
-- Go to ⁠`#character-sheets`, and run `!import <link>`, replacing `<link>` with the URL you just copied. 
+- Go to ⁠[!badge #⁠character-sheets](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
 
