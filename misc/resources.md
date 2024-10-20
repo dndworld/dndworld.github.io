@@ -7,12 +7,6 @@ icon: ":card_file_box:"
 h1:before { 
   content: "🗃️ ";
 }
-
-img {
-  display: block;
-  width: 50%;
-  height: auto;
-}
 </style>
 # Resources
 ## Abbreviations/Lingo
@@ -108,16 +102,16 @@ img {
 
 ### How to make offhand attacks on D&D Beyond
 ==- Add the weapon to the Inventory and equip it by clicking the box next to it.
-<img src="https://i.imgur.com/WsZXhSV.png" />
+<img src="https://i.imgur.com/WsZXhSV.png" width="500"/>
 
 ==- Click the weapon --> Customize
-<img src="https://i.imgur.com/lX7E1M8.png" />
+<img src="https://i.imgur.com/lX7E1M8.png" width="500"/>
 
 ==- Rename the weapon so that it's easier to tell, and check "Dual Wield" option.
-<img src="https://i.imgur.com/w4nUeQS.png" />
+<img src="https://i.imgur.com/w4nUeQS.png" width="400"/>
 
 ==- Make sure it shows up under "Bonus Action".
-<img src="https://i.imgur.com/J3Ex7QO.png" />
+<img src="https://i.imgur.com/J3Ex7QO.png" width="500"/>
 
 ===
 
@@ -147,14 +141,14 @@ A general guide for making a Gsheet character sheet can be found in the sheet it
 
 A **note** in google sheet is the small tooltip that pops up when you hover over the cell. Gsheet character sheet has various instructions and information already in them, and you are encouraged to add yours whenever necessary.
 
-<img src="https://i.imgur.com/1wupf7C.png" alt="Example of a Gsheet note" />
+<img src="https://i.imgur.com/1wupf7C.png" alt="Example of a Gsheet note" width="500"/>
 
 To add a note, right click on a cell, and select "Insert note".
 
-<img src="https://i.imgur.com/UaRweYx.png" alt="Insert note" />
+<img src="https://i.imgur.com/UaRweYx.png" alt="Insert note" width="500"/>
 
 ==- Example character sheet with notes containing full text of each feature.
-<img src="https://i.imgur.com/chVuVQL.png" />
+<img src="https://i.imgur.com/chVuVQL.png" width="500"/>
 
 ===
 
@@ -163,12 +157,12 @@ To add a note, right click on a cell, and select "Insert note".
 - Open the D&D Beyond app and go to your character.
 - Click on the `Menu` button (9 red dots) and go to: `View Character on Website`
 
-<img src="https://i.imgur.com/wNgU4yI.png" />
-<img src="https://i.imgur.com/tcDz9JJ.png" />
+<img src="https://i.imgur.com/wNgU4yI.png" width="300"/>
+<img src="https://i.imgur.com/tcDz9JJ.png" width="300"/>
 
 - Click `Manage` (next to your character's name)
 
-<img src="https://i.imgur.com/g8ZLQSv.png" />
+<img src="https://i.imgur.com/g8ZLQSv.png" width="400"/>
 
 !!!info To set your character sheet to PUBLIC
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
@@ -176,7 +170,7 @@ Click `Character Settings`, scroll down and set Character Privacy to `Public`. T
 
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
 
-<img src="https://i.imgur.com/gDpC3v8.png" />
+<img src="https://i.imgur.com/gDpC3v8.png" width="300"/>
 
 - Go to ⁠[!badge #⁠character-sheets](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
