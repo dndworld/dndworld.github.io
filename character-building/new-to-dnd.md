@@ -19,7 +19,7 @@ h1:before { content: "🔰 " }
 > - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
 >   - You could use "Quick Build" as well, which will make a generic character for you.
 
-![](https://i.imgur.com/eNS3ZwA.png "Create a Character") ![](https://i.imgur.com/IrWEjhP.png "Choose Standard for character creation method")
+<img src= "https://i.imgur.com/eNS3ZwA.png" alt = "Create a Character" width = "200px"/> <img src="https://i.imgur.com/IrWEjhP.png" alt = "Choose Standard for character creation method" width = "300px"/>
 
 !!!info 
 As you go through the help texts, if anything is unclear or confusing, please ask in [!badge #⁠beginner-help](https://discord.com/channels/512870694883950598/621035485690724369).
