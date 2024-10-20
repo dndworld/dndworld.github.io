@@ -127,7 +127,7 @@ Set up your counters: `!rpxp` in [!badge #xp-tracker](https://discordapp.com/cha
 
 1. React to your first RP post with :beginner: `:beginner:` and last RP post with :octagonal_sign: `:stop:`. Get the person you are RPing with to react as well.
 
-2. Find out how long the RP session was. `#rp-log` picks up the messages reacted with :beginner: & :octagonal_sign:.
+2. Find out how long the RP session was. [!badge #rp-log](https://discordapp.com/channels/512870694883950598/592249450789863434) picks up the messages reacted with :beginner: & :octagonal_sign:.
 
 3. Log the RPXP in [!badge #xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481) by the increments of half an hour (rounded down)
 
@@ -157,7 +157,7 @@ Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, Shops, and 
 
 #### Other OOC channels
 
-When you aren't RPing or taking part in events, you can chill in `#off-topic-general` where you can talk about character builds, recent bounties, real life stuff, etc. 
+When you aren't RPing or taking part in events, you can chill in any of the OOC channels, where you can talk about character builds, recent bounties, real life, etc. Popular channels include [!badge #snowhaven-north-ooc](https://discordapp.com/channels/512870694883950598/579940774574161942) and [!badge #guild-ooc](https://discordapp.com/channels/512870694883950598/527458737892622361)
 
 There are channels for specific content under the **DnD Chat** category. Please try to keep posts related to those topics contained to those channels. Similarly, please keep bot commands to [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313).
 
@@ -175,7 +175,7 @@ Event posts with a :x: or :negative_squared_cross_mark: reaction are closed for 
 
 3. Signup
 
-If the event is still open for signups, copy the **template** posted by that DM, fill it in, and post it in `#game-signup`
+If the event is still open for signups, copy the **template** posted by that DM, fill it in, and post it in [!badge #game-signup](https://discordapp.com/channels/512870694883950598/537341568462487597)
 
 !!! How to check "RPXP Stored" and "XP to Next Level"
 In [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313), run `!rpxp xp`
