@@ -19,16 +19,16 @@ h1:before { content: "🔰 " }
 > - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
 >   - You could use "Quick Build" as well, which will make a generic character for you.
 
-![](https://imgur.com/eNS3ZwA)
+![](https://i.imgur.com/eNS3ZwA.png "Create a Character" =50%x)
 
-![](https://i.imgur.com/IrWEjhP.png)
+![](https://i.imgur.com/IrWEjhP.png "Choose Standard for character creation method" =50%x)
 
 !!!info 
 As you go through the help texts, if anything is unclear or confusing, please ask in [!badge #⁠beginner-help](https://discord.com/channels/512870694883950598/621035485690724369).
 !!!
 
 ### Character Preferences (settings) 
-![](https://imgur.com/xLF2bk4)
+![](https://i.imgur.com/xLF2bk4.png "Character Preferences")
 > - **Dice Rolling**: Off 
 >   - We use Avrae Discord bot for this, not DnD Beyond 
 > - **Optional Features**: On 
