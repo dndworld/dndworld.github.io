@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782722256159">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782732312170">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782722256159" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782732312170" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782722256159" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782732312170" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782722256159" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782732312170" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -339,7 +339,9 @@ h1:before {
     </h3>
 </doc-anchor-target>
 <p>Avrae&#x27;s scheduled update window is 1400-1500 EST (2PM-3PM), Tuesday afternoons. During these periods, Avrae may go offline for up to 30 minutes.</p>
-<p>Any unscheduled updates will be shown in &lt;#744861406158913566&gt;</p>
+<p>Any unscheduled updates will be shown in <a href="https://discord.com/channels/512870694883950598/744861406158913566" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 border border-blue-100 hover:border-blue-300 dark:hover:bg-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+    <span>#bot statuses</span>
+</a></p>
 <doc-anchor-target id="gsheet-black-error-boxes">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#gsheet-black-error-boxes">#</doc-anchor-trigger>
@@ -398,15 +400,23 @@ Link: <a href="https://gsheet2.avrae.io/">https://gsheet2.avrae.io/</a></li>
         <span>Quick Start to Automation</span>
     </h3>
 </doc-anchor-target>
-<p>● Output an embed (Do <strong>not</strong> use this for RP -&gt; <a href="../../rules/">Rule</a> <span class="docs-emoji">&#x0037;&#xFE0F;&#x20E3;</span>)
-More on embed arguments can be found in <code v-pre>!help embed</code></p>
+<ul>
+<li>Output an embed (Do <strong>not</strong> use this for RP -&gt; <a href="../../rules/">Rule</a> <span class="docs-emoji">&#x0037;&#xFE0F;&#x20E3;</span>)
+More on embed arguments can be found in <code v-pre>!help embed</code></li>
+</ul>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">!alias [alias name] embed -title &quot;My Title&quot; -desc &quot;My description&quot; -f &quot;Field 1|Field text&quot;</code></pre>
 </doc-codeblock></div>
-<p>● Deal additional damage (e.g. Spellsword&#x27;s Incantation)</p>
+</blockquote>
+<ul>
+<li>Deal additional damage (e.g. Spellsword&#x27;s Incantation)</li>
+</ul>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">!snippet incan_fire -d 1d4[fire] -f &quot;Spellsword's Incantation|Description goes here&quot;</code></pre>
 </doc-codeblock></div>
+</blockquote>
 <doc-anchor-target id="breakdown-of-a-add-adds-custom-attacks">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#breakdown-of-a-add-adds-custom-attacks">#</doc-anchor-trigger>
@@ -414,35 +424,47 @@ More on embed arguments can be found in <code v-pre>!help embed</code></p>
     </h3>
 </doc-anchor-target>
 <p>First, we have the command itself, which says we want to add an attack called <code v-pre>Greatsword</code></p>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">!a add &quot;Greatsword&quot;</code></pre>
 </doc-codeblock></div>
+</blockquote>
 <p>Next we want to cover for the to hit modifier, so we use the <code v-pre>-b</code> argument:</p>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">-b strengthMod+proficiencyBonus</code></pre>
 </doc-codeblock></div>
+</blockquote>
 <p>With this, we specify that we want the bonus to the the strength modifier plus the proficiency bonus</p>
-<p>Next we need the damage, do we use the <code v-pre>-d</code> argument:</p>
+<p>Next we need the damage, so we use the <code v-pre>-d</code> argument:</p>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">-d 2d6+{strengthMod}[slashing]</code></pre>
 </doc-codeblock></div>
+</blockquote>
 <p>We state that we want the damage to be 2d6 + strength modifier damage.
 In this case, since the damage involves dice and damage, etc, we need <code v-pre>{}</code> around the variable <code v-pre>strengthMod</code>.
-The brackets signify that we want to use variables as part of a math expression
-Now in your case, we want to add great weapon fighting as well, and this is where the <code v-pre>ro&lt;3</code> comes in (which means reroll any 1&#x27;s or 2&#x27;s once, and keep the second roll even if it is a 1 or 2 again)
+The brackets signify that we want to use variables as part of a math expression.</p>
+<p>Now in your case, we want to add great weapon fighting as well, and this is where the <code v-pre>ro&lt;3</code> comes in (which means reroll any 1&#x27;s or 2&#x27;s once, and keep the second roll even if it is a 1 or 2 again)
 We add it to the end of the dice part:</p>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">-d 2d6ro&lt;3+{strengthMod}[slashing]</code></pre>
 </doc-codeblock></div>
+</blockquote>
 <p>Now if you want to add a description, you would add it like this:</p>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">-desc &quot;This is the description of the attack&quot;</code></pre>
 </doc-codeblock></div>
+</blockquote>
 <p>But in this example, it won&#x27;t be used.</p>
 <p>Finally, let&#x27;s put it all together:</p>
+<blockquote>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">!a add &quot;Greatsword&quot; -b strengthMod+proficiencyBonus -d 2d6ro&lt;3+{strengthMod}[slashing]</code></pre>
 </doc-codeblock></div>
+</blockquote>
 
                                 
                                 <!-- Required only on API pages -->
