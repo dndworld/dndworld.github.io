@@ -57,7 +57,7 @@ Leave the rest of the options as they are.
 
 Once you created a character on D&D Beyond, make sure to do the following:
 - Equip your weapons and armor by clicking on the box next to them in the equipment page.
-- If you decide to roll for HP in `#official-character-rolls`, you will need to manually enter your HP.
+- If you decide to roll for HP in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), you will need to manually enter your HP.
 
 +++ GSheet
 To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM) and select File -Make a Copy
@@ -76,8 +76,8 @@ To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the
 - [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
 
 DiceCloud v1 tutorials
-- [https://homebrewery.naturalcrit.com/share/rkZujQwpQW](https://homebrewery.naturalcrit.com/share/rkZujQwpQW)
-- [https://youtu.be/LvYTeq2cdSI](https://youtu.be/LvYTeq2cdSI)
+- [PDF Tutorial](https://homebrewery.naturalcrit.com/share/rkZujQwpQW)
+- [YouTube Video](https://youtu.be/LvYTeq2cdSI)
 
 +++
 

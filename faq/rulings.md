@@ -8,8 +8,18 @@ icon: ":black_nib:"
 </style>
 
 # Erratas and Rulings
-Staff rulings, changes, and erratas to the game are compiled here for easy access. Staff should follow the below template when posting rulings on edge cases, or full erratas to the rules, as well as the link(s) to relevant discussion. 
+
+D&D is written in the style of "rulings over rules", which means that the books should only be taken as a guideline and DMs have the final say. Despite mass protests by D&D players over the years that this puts the burden on the DM and they paid for a rulebook to, well, communicate rules, WOTC has stuck to their guns.
+
+The result is in the following:
+- Core rulebooks have many rules to cover the possibly infinite scenarios that can arise from D&D
+- Rules that are unclear are clarified in Sage Advice, which are written by D&D's co-designer Jeremy Crawford and his team. These are compiled [here](https://media.wizards.com/2021/dnd/downloads/SA-Compendium.pdf) from Jeremy's Twitter account. These are called “rulings”, as they depend on interpretation and are not necessarily correct, but can be used as guidance.
+- Rulings that are still unclear or the server deems are interpreted incorrectly are overridden by Mentor+ staff or Admins.
+- DMs may have their own house rules if they choose to rule something differently
+
+As such, Staff rulings, changes, and erratas to the game are compiled here for easy access. 
 <!--
+Staff should follow the below template when posting rulings on edge cases, or full erratas to the rules, as well as the link(s) to relevant discussion. 
 Ruling Template
 ```
 ==- **Clarification to Rule:** ..
@@ -44,9 +54,9 @@ Spell:
 Item: 
 Server Rule Keyword: <RPXP, XP, Level, DM Event, Roleplay>
 ```
+**Tags*/* should be added to the Ruling or Errata postings to make these decisions easy to search for the players. Add any and all applicable keywords that one may use to search for the post.
 ===
 -->
-**Tags*/* should be added to the Ruling or Errata postings to make these decisions easy to search for the players. Add any and all applicable keywords that one may use to search for the post.
 
 ## Rule Clarifications
 

@@ -11,11 +11,9 @@ h1:before {
 </style>
 ## Introduction
 
-Hello gamers! Ok that title was mostly a joke, but if you’re someone who just got into D&D and are struggling to assimilate to how D&D is played as compared to video games or just struggling in general, then you have come to the right place. 
+If you’re someone who are new to D&D and have only ever played video games, or are just struggling in general, then you have come to the right place. 
 
-This document is designed to explain the differences between more conventional modes of entertainment and D&D, so that you can manage your expectations when you play. You are advised to check out [A Guide to Navigating Large Servers](/tips/navigating-large-servers.md) if you are also unfamiliar with large servers in general.
-
-Please note that this won’t actually teach you how to play D&D; for that, you should check out the [Basic Rules](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf).
+This document is designed to explain the differences between more popular games and D&D, so that you can manage your expectations when you play. Please note that this won’t teach you the mechanics around how to play D&D; for that, you should check out [here](new-to-dnd.md).
 
 Let’s get started!
 
@@ -23,21 +21,13 @@ Let’s get started!
 
 ### Games Are Not On Demand
 
-In a video game, you can usually play a game whenever you want to (if single player) or queue for a match and get matched pretty quickly (if multiplayer). However, for D&D, as games are hosted by a human (the DM) with a life, it is subject to availability. In addition, each game is unique, and needs preparation. D&D is traditionally played once a week, but is realistically less often depending on availability. 
+In a video game, you can usually play a game whenever you want to (for single player) or queue for a match and get matched pretty quickly (for multiplayer). However, D&D games are hosted by a human (the DM) who has to plan their life around their hobby, thus it is subject to availability. In addition, each game is unique, and requires a few hours of preparation. Depending on the season, you could play one game every couple of weeks, or if you're lucky, a couple times every week.
 
 ### Games Take a Long Time
 
-Games that are designed to be short such as arenas and pits typically take less than 2 hours. However, for bounties, these can usually take upwards of 6 hours, with 8 or even 10 hour games being normal. It is considered bad manners to abandon a game midway, and is an offense that will warrant Demerit Points on the server. As such, please ensure you can commit for the entire duration before signing up.
+Games that are designed to be short such as arenas and pits typically take around 2 hours. However, for bounties, these can usually take upwards of 6 hours, with 8 or even 10 hour games being normal. It is considered bad manners to abandon a game midway, and this will warrant Demerit Points on the server. As such, please ensure you can commit for the entire duration before signing up.
 
 ### Game Rules are Complex (and may not even have definite rulings)
-
-D&D rulebooks are written in the style that should only be taken as a guideline and DMs have the final say. Despite mass protests by D&D players over the years that this is a flawed reasoning that relies on the DM to have a good judgment ability lest unforeseen consequences occur and they have paid for a rulebook to, well, communicate rules, these complaints have gone mostly unheard.
-
-The result is in the following:
-- Core rulebooks have many rules to cover the potentially infinite scenarios that can arise from D&D
-- Rules that are unclear are clarified in Sage Advice, which was once Jeremy Crawford’s (co-designer) twitter feed and is now an occasional pdf published on D&D’s website. These are referred to “rulings”, as they depend on interpretation and are not necessarily the correct form of a rule.
-- Rulings that are still unclear or the server deems are interpreted incorrectly are overridden in [the Erratas and Clarifications page](/faq/erratas.md).
-- DMs may have their own house rules if they choose to rule something differently
 
 As such, a lot of the game requires reading. We recommend you start with [the Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
 
