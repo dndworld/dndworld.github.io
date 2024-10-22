@@ -98,107 +98,11 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 > - Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb.md).
 !!!
 
-### Disallowed Content:
+### Disallowed Content
 
 !!!warning Recent Releases
 When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge #changelog](https://discordapp.com/channels/512870694883950598/720529747817529374)and updated here.
 !!!
-
-+++ **General**
-**Books:**
-- Explorer's Guide to Wildemount
-- Planeshift
-- Runeterra
-
-**Other:**
-- Supernatural Gifts
-- Sidekicks
-
-+++ Races/Species
-Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
-
-For the full list of allowed and disallowed official races, please refer to [**this document**](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
-
-+++ Classes/Subclasses
-
-- Race-restricted subclasses such as Battlerager lose said restriction.
-- *Tasha's Cauldron of Everything (TCoE)* Optional Class Features are allowed for all classes.
-- D&D Beyond's Blood Hunter is banned. Refer to the version described in the HB Compendium instead.
-
-**Disallowed Subclasses**
-- Bard: College of Eloquence
-- Bard: College of the Road
-- Cleric: Night Domain
-- Fighter: Echo Knight
-- Sorcerer: Clockwork Soul
-- Warlock: The Undead
-- Wizard: Graviturgy
-- Wizard: Chronomancy
-
-**Disallowed Class Features**
-- Arcane Propulsion Armor Infusion (Artificer)
-- Mind Sharpener Infusion (Artificer)
-- Celerity Mutagen (Blood Hunter)
-- Potency Mutagen (Blood Hunter)
-- Sagacity Mutagen (Blood Hunter)
-
-+++ Feats
-- Aberrant Dragonmarks
-- Adept of the Black Robes feat
-- Adept of the Red Robes feat
-- Adept of the White Robes feat
-- Initiate of High Sorcery feat
-- Gunner
-- Opportunistic Thief
-- Planar Wanderer
-- Poisoner
-- Strixhaven Initiate
-- Strixhaven Mascot
-
-- Ember of the Fire Giant (refer to the DW Homebrew version)
-- Guile of the Cloud Giant (refer to the DW Homebrew version)
-- Soul of the Storm Giant (refer to the DW Homebrew version)
-
-+++ Backgrounds
-
-- Custom Backgrounds
-
-Backgrounds from the following books:
-- *Baldur's Gate*(except Faceless)
-- *Guildmaster's Guide to Ravnica*
-- *The Wild Beyond the Witchlight*
-- *Strixhaven*
-- *Spelljammer*
-- *Dragonlance*
-- *Glory of the Giants*
-- *Planescape*
-- *The Book of Many Things*
-
-Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.
-
-+++ Spells
-
-- Ashardalon's Stride
-- Create Magen
-- Create Spelljamming Helm
-- Dunamancy spells
-- Distort Value
-- Dream of the Blue Veil
-- Fast Friends
-- Gift of Gab
-- Rime's Binding Ice
-- Silvery Barbs
-- Spirit of Death
-- Spirit Shroud
-- Tasha's Otherwordly Guise
-- Tasha's Mind Whip
-
-+++
-
-**Under Review**
-- Critical Role: Tal'Dorei Reborn
-
-### Disallowed Content
 
 ==- General
 **Disallowed Books**
