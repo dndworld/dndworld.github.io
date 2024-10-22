@@ -5,4 +5,4 @@ icon: ":pencil:"
 expanded: false
 ---
 
-This channel contains the rules for beyond 1st level. 
+This category contains the guidelines for record-keeping. 

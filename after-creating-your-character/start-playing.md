@@ -1,5 +1,5 @@
 ---
-label: Next Steps
+label: What's Next
 order: 100
 icon: ":rocket:"
 ---
@@ -8,7 +8,7 @@ icon: ":rocket:"
 h1:before { content: "🚀" }
 </style> 
 
-# Next Steps
+# What's Next?
 
 This page is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/character-building/start-here/)
 
@@ -47,7 +47,7 @@ Homebrew classes are not supported, and non-Beyond sheets may not have the neces
 
 ## Tracking Money
 
-Money and XP are tracked on the server. They are **not** synced with your sheet, so it does not matter if your sheet is updated with this info (tracking XP is explained later in this channel).
+Money and XP are tracked on the server. They are **not** synced with your sheet, so it does not matter if your sheet is updated with this info (tracking XP is explained later below).
 
 #### Check Coin Purse
 
@@ -62,12 +62,12 @@ Log your monetary transactions in [!badge icon="/images/discord-mark-blue.svg" t
 ```
 
 !!!warning
-Transactions logged outside of the appropriate channels are considered invalid.
+Transactions logged outside of [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081) are considered invalid.
 !!! 
 
 > You can chain multiple currencies to the command like so:
-> 
-> `!transaction "reason for transaction" +Xgp +Xsp +Xcp`
+
+```!transaction "reason for transaction" +Xgp +Xsp +Xcp```
 
 === [Example] Adding Starting Gold
 
@@ -75,7 +75,7 @@ Transactions logged outside of the appropriate channels are considered invalid.
 For D&D Beyond users, Avrae should automatically handle this step. Your coin purse may sync the first time you run `!import`, so check your balance by running `!transaction` first. 
 !!!
 
-In `#transaction-log`, replace **#** with the starting gold amount.
+In `[!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081)`, replace **#** with the starting gold amount.
 ```
 !transaction "Starting Gold" +#gp
 ```
@@ -87,7 +87,7 @@ In `#transaction-log`, replace **#** with the starting gold amount.
 
 ## Roleplaying
 
-Roleplaying (RP) gives your characters **RPXP**, which can later be turned into XP (The process is explained later in this channel).
+Roleplaying (RP) gives your characters **RPXP**, which can later be turned into XP (The process is explained later below).
 
 #### RP Channels
 
@@ -240,13 +240,13 @@ Bag management within the server is completely optional. Should you want to trac
 
 ## Lifestyle & Downtime (Optional)
 
-Full explanation on Lifestyle and Downtime can be found in [Lifestyle and DTD Rules](/downtime-and-lifestyle/lifestyle).
-
 :warning: Note: Lifestyle is handled in the DW server (not in D&D Beyond).
 
-**Lifestyle** payment is a representation of your living costs. It is optional, but if you would like to do Downtime activities, you have to pay Lifestyle.
+**Lifestyle** payments are a representation of your living costs. It is optional, but if you would like to do Downtime activities, you have to pay Lifestyle.
 
-**Downtime** can enable you to earn some extra gold, copy spells, and other neat features.
+**Downtime** enable you to earn some extra gold, copy spells, and other neat features.
+
+The full explanation on Lifestyle and Downtime can be found in [Lifestyle and DTD Rules](/downtime-and-lifestyle/lifestyle).
 
 If you do not pay Lifestyle, you are considered to be benefiting from the Snowhaven Full Time Adventurer scheme and will stay in the [!badge icon="/images/discord-mark-blue.svg" text="#cozy-yeti-estates"](https://discord.com/channels/512870694883950598/611385164060295168) with your expenses covered for. 
 

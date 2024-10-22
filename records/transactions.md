@@ -100,7 +100,7 @@ __Unlisted Magic Item Trade-In Log__
 > - Non-homebrew items that are not on the black market bin list can be borrowed for RP purposes following the Level Limitations above. For games, the DM running the game has the final say in whether the borrowed item is allowed in their game.
 > - You do not need to fill in the "Magic Item Transfer" form for borrowing an item.
 #### 3. Ownership Transfer
-> - Transferring the ownership of a magic item needs to be recorded in `#transaction-log` using the following form:
+> - Transferring the ownership of a magic item needs to be recorded in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081) using the following form:
 > ```
 > **Magic Item Transfer Between Players Log**
 > **Item:** [Name], [Rarity]

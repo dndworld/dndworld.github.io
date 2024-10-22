@@ -37,7 +37,7 @@ If you have a roll made before 11 August 2020, you may reroll for it provided yo
 - At least one 14 or above
 - Separate stat of at least one 15 or above
 
-To reroll, please declare which character you are rerolling for, then run `!rollstats` ONCE in `#official-character-rolls`. You may choose between your new and previous roll:
+To reroll, please declare which character you are rerolling for, then run `!rollstats` ONCE in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264). You may choose between your new and previous roll:
 - To use your new roll, submit the Invalid Stats rebuild form below in `#rebuild-retire-log` and wait for it to be processed.
 - To keep your previous roll, react ❌ on the new roll.
 

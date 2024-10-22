@@ -11,4 +11,4 @@ h1:before { content: "⚙️ " }
 </style> 
 
 
-This channel contains the rules for character creation.
+This category contains the rules for character creation.

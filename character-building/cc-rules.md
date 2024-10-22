@@ -12,7 +12,7 @@ This page contains the rules for character creation. For the starting guide to t
 
 ## Start
 
-!!!danger We use the **2014 D&D 5e ruleset**. 
+!!!warning We use the **2014 D&D 5e ruleset**. 
  - If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 
 - Your characters start at **Level 1**.
@@ -69,7 +69,6 @@ To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the
 
 +++ DiceCloud
 [DiceCloud v1](https://v1.dicecloud.com/)
-
 [DiceCloud v2](https://dicecloud.com/)
 
 To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
@@ -85,17 +84,17 @@ DiceCloud v1 tutorials
 
 ### Official Material
 
-!!!danger **Please Note: we are using the 2014 D&D 5e ruleset.**
+!!!warning **Please Note: we are using the 2014 D&D 5e ruleset.**
 If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 !!!
 
 > For the full list of the allowed and disallowed official materials, please refer to [this doc](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
- >-  For the full list of allowed races/species, you may alternatively refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY).
+ >-  Alternatively, for the full list of Allowed Races/Species, view [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY).
 
 !!!
-> Paywalled Content
-> - By default, D&D Beyond and our dice bot Avrae paywalls access to content beyond the Basic Rules.
-> - Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb.md).
+Paywalled Content
+- By default, D&D Beyond and our dice bot Avrae paywalls access to content beyond the Basic Rules.
+- Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb.md).
 !!!
 
 ### Disallowed Content
@@ -109,6 +108,9 @@ When a new official material is published, it first needs to be reviewed by our 
 - Explorer's Guide to Wildemount
 - Planeshift
 - Runeterra
+
+**Under Review**
+- Critical Role: Tal'Dorei Reborn
 
 ==- Races/Species
 - Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
@@ -132,18 +134,18 @@ For the full list of allowed and disallowed official races, please refer to [thi
 - Wizard: Chronomancy
 
 **Disallowed Class Features**
-- Arcane Propulsion Armor Infusion (Artificer)
-- Mind Sharpener Infusion (Artificer)
-- Celerity Mutagen (Blood Hunter)
-- Potency Mutagen (Blood Hunter)
-- Sagacity Mutagen (Blood Hunter)
+- Artificer: Arcane Propulsion Armor Infusion
+- Artificer: Mind Sharpener Infusion
+- Blood Hunter: Celerity Mutagen
+- Blood Hunter: Potency Mutagen
+- Blood Hunter: Sagacity Mutagen
 
 ==- Feats
 - Aberrant Dragonmarks
-- Adept of the Black Robes feat
-- Adept of the Red Robes feat
-- Adept of the White Robes feat
-- Initiate of High Sorcery feat
+- Adept of the Black Robes
+- Adept of the Red Robes
+- Adept of the White Robes
+- Initiate of High Sorcery
 - Gunner
 - Opportunistic Thief
 - Planar Wanderer
@@ -157,8 +159,6 @@ For the full list of allowed and disallowed official races, please refer to [thi
 
 ==- Backgrounds
 
-- Custom Backgrounds
-
 Backgrounds from the following books:
 - *Baldur's Gate*(except Faceless)
 - *Guildmaster's Guide to Ravnica*
@@ -169,6 +169,7 @@ Backgrounds from the following books:
 - *Glory of the Giants*
 - *Planescape*
 - *The Book of Many Things*
+- and Custom Backgrounds
 
 Please note that some background features will have no effect on this server, e.g. The Retainers feature for the Knight and Noble background variant.
 
@@ -194,12 +195,11 @@ Please note that some background features will have no effect on this server, e.
 - Sidekicks
 ===
 
-**Under Review**
-- Critical Role: Tal'Dorei Reborn
+
 
 ### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
 
-!!!
+!!!warning
 If you are new to D&D, we recommend you skip this section.
 !!!
 
@@ -230,11 +230,11 @@ Erratas refer to changes made to the official game rules, which our server does 
 ### Rolling for Stats/HP/Gold
 
 !!!warning
-> - It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.
-> - All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. **Do not roll stats on D&D Beyond!**
-> 
-> - You cannot use Standard Array/Point Buy after rolling. 
-> - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
+- It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.
+- All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. **Do not roll stats on D&D Beyond!**
+
+- You cannot use Standard Array/Point Buy after rolling. 
+- You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
 !!!
 
 ### Character Details
@@ -260,10 +260,9 @@ Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 ## Equipment
 
 > - You may take starting equipment **__or__** roll for gold.
-> - If you choose to take starting equipment, the item must be available in the market. All PHB mundane items are included with the same price. 
-> [Snowhaven Market Document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU)
+> - If you choose to take starting equipment, the item must be available in [Snowhaven Market Document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU). All PHB mundane items are included with the same price. 
 > 
-> - If you choose to roll for gold, follow the instructions pinned in `#official-character-rolls`. Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
+> - If you choose to roll for gold, you can do so in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264). Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
 >   - After you have rolled gold, you may then purchase the equipment from the above document, and by logging them in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081). 
 > 
 > - You are **__not__** allowed to possess any magic items starting out.

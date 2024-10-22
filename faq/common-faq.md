@@ -21,7 +21,7 @@ General Conduct of this server is in place to ensure the pleasant experience of 
 
 You do not have access to the rest of the server until you import your first character. For that, please visit [Start Here](/character-building/start-here/) and follow the steps there. If you are new to D&D, [New to D&D](/character-building/new-to-dnd/) has a step-by-step guide to help you through the character creation process.
 
-If you have any questions, we have a few question channels depending on what your question is about! This channel has commonly asked questions listed, and your question might already be answered here. 
+If you have any questions, we have a few question channels depending on what your question is about! This page has commonly asked questions listed, and your question might already be answered here. 
 
 `#server-questions` is the default place for most questions. Specific questions for D&D rulings visit `#rulings-questions`, and if your question is about bot commands, first check `#avrae-commands` to see if the information can be found there, otherwise ask for help in `#bot-help-request`.
 

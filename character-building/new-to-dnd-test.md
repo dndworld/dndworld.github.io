@@ -252,7 +252,7 @@ Below is a list of common D&D lingo that's not otherwise explained in the above 
 
 !!!
 Ask questions!
-> [!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
-> 
-> 💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
+[!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
+
+ 💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 !!!
