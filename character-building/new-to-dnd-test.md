@@ -55,7 +55,7 @@ If you've already played D&D before, you may feel like you already have a grasp 
 ==- Memes
 Everyone loves a good meme, but it is important to understand that memes only represent one part of the D&D experience. In many cases, they are exaggerated for comedic effect; you probably *won't* be in a party with a witch on a tricycle. As our server lasts up till Level 20, we generally don't encourage you to create joke characters that would only be funny for a few sessions. 
 
-==-Streams/Podcasts (e.g. Critical Role or Dimension 20)
+==- Streams/Podcasts (e.g. Critical Role or Dimension 20)
 Streams and podcasts like CR or D20 are popular ways people get introduced to the game. However, it is vital to note that their actors are professionals, and Matt Mercer is a master worldbuilder. As such, you should not expect yourself, other players, or the DM to roleplay to their standard.
 
 !!!Take Note: Critical Role content is considered Homebrew here
@@ -79,14 +79,34 @@ For us, we play Dungeons & Dragons 5th Edition, which is the most recent version
 
 ## Planning Your Character
 
-!!!I can play anything I want?
-D&D certainly has a great number of possibilities for what character you want to create. However,
+!!!I can play anything I want?!
+D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [races](https://www.dndbeyond.com/species) and [classes](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
+
+As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](4.md) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
 !!!
+
+Before you begin, start by imagining what kind of character you want to create.
+
+- How is your character's personality like? Are they serious, witty, cold, or emotional?
+- Do they care about good and evil, or are they more of a grey character?
+- Do you want to play them as someone who casts spells? A traditional sword and board warrior? Or both?
+- What role in the party should they fulfil? Do you want to play a heroic defender who protects others? A skirmisher assassin who lurks in the shadows? A versatile spellcaster who supports their team?
+- Which is more important to you, combat or roleplay? Both?
+  - Does having an optimized character matter to you?
+- Do you want to focus on being good at one thing, or know many different things?
+  - The former will be easier to play, while the latter will have higher complexity.
+
+Your answers will influence how you make your choices in the next section. Race/species, class, subclass, and background are key components that come together to fulfil your dream character.
+
+Each class has their own advantages and disadvantages. Below is a simplified list of classes and what each of them focus on:
+
+<img src="https://i.imgur.com/d8Oi7pL.png" alt="Class Overview" width="400"/>
+</p>
 
 - Additional fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
 
-!!!danger I want to play a Summoner
-
+!!!warning I want to play a Summoner
+We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](video-games-vs-dnd/Summoner)
 !!!
 
 ## How to Learn D&D
@@ -108,11 +128,11 @@ The most comprehensive way to learn D&D is to start with the [!badge variant="co
 9. **Combat: Absolute necessary to read**
 10. **Spellcasting: Only if you play a spellcasting class.** You can skip if you are starting as a Barbarian, Fighter, Monk or Rogue.
 11. **Spells:** Skip for now; for spellcasters, you can read the Level 1 spells on your sheet later.
-12. ~~Monsters: Don't read this.~~
-13. ~~Building Combat Encounters: Don't read this.~~
-14. ~~Magic Items: Ignore for now.~~
+12. Monsters: Don't read this.
+13. Building Combat Encounters: Don't read this.
+14. Magic Items: Ignore for now.
 15. Appendix A: Useful reference, give it a skim if anything remains unclear.
-16. ~~Appendix B-D: Don't read this.~~
+16. Appendix B-D: Don't read this.
 
 If this felt overwhelming, you can also read the somewhat simplified [SRD Document](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf). This is helpful if you struggle to read long blocks of text and only want to read the most important parts. If you require more detailed explanation, the Basic Rules above are better.
 
@@ -164,9 +184,7 @@ These options will be marked with the `[Legacy]` tag.
 ---
 ## D&D Beyond Character Builder
 ### 1. Class
-> Reminder: Your character on this server starts at Level 1. 
-> 
-> Your [class](https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons) helps determine your character’s specialty. Each class has unique features that can affect how they interact with the world.
+> Your [class](https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons) helps determine your character’s specialty. Each class has unique features that can affect how they interact with the world. Your character on this server starts at **Level 1**. 
 
 #### Proficiencies
 > Your race, background, and class will allow you to choose proficiencies among certain skills and tools. This means you are especially good at this skill/tool and can add your proficiency bonus to it when making checks for that task. Proficiency bonus is a number that increases as you level, and at Level 1 it is +2.
@@ -177,8 +195,7 @@ These options will be marked with the `[Legacy]` tag.
 ### 2. Background
 > [Backgrounds](https://www.dndbeyond.com/backgrounds) are different but closely linked to backstories. Your background gives your character certain abilities and special features depending on how they spent their lives before becoming an adventurer.
 
-#### Character Details, Physical Characteristics, etc.
-> Filling this out is optional; feel free to skip this and simply describe as you go along. You can check out the [Backstory Guide](4.md) for fleshing out your character.
+> Filling out the Character Details, Physical Characteristics, etc. is optional. Feel free to skip this and simply describe as you go along. You can check out the [Backstory Guide](4.md) for fleshing out your character.
 
 ### 3. Species/Race
 > Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules.md). The descriptions on races can be found [here](https://www.dndbeyond.com/races)
@@ -186,7 +203,7 @@ These options will be marked with the `[Legacy]` tag.
 > However, as we are not using the default 5th Edition world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
 
 ### 4. Abilities
-> - General tips for ability score arrangements depending on class: [*Handbooker Helper: Ability Scores* (Video)](https://youtu.be/WoV5iM7peOg) by Critical Role and [Class Guides](https://rpgbot.net/dnd5/characters/classes/) by RPGBot.
+> General tips for ability score arrangements depending on class: [*Handbooker Helper: Ability Scores* (Video)](https://youtu.be/WoV5iM7peOg) by Critical Role and [Class Guides](https://rpgbot.net/dnd5/characters/classes/) by RPGBot.
 
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
@@ -196,8 +213,7 @@ These options will be marked with the `[Legacy]` tag.
 >    - See [here](stat-rolling.md) for more instructions 
 
 ### 5. Equipment
-> You can choose from either a list of starting equipment or roll for gold and do the shopping yourself. 
-> - We recommend you choose the starting equipment option. 
+> You can choose from a list of starting equipment (recommended) or roll for gold and do the shopping yourself. 
 > - Note that any items must be available in the [Snowhaven Market](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/edit), so no exotic weapons.
 
 ---
