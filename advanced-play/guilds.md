@@ -16,8 +16,6 @@ h1:before { content: "🏢 " }
 
 ## Guild Registry
 
-See [Tax Registration Log](/advanced-play/tax-registration-log/) for guild taxes.
-
 ### Guild Member
 The player that is joining a guild must log the following form. If the player is leaving, the the guild can log the form instead. A pending application can be cancelled by `~~crossing out~~` (registration fee, if applicable, is not refunded).
 
@@ -26,28 +24,29 @@ The player that is joining a guild must log the following form. If the player is
 ```md
 Guild Member Form
 
-**Guild Name:** 
-**Character Name:** 
-**Discord ID:** 
-**Action:** <Joining | Leaving>
-**Registration Fee Paid:** <link | N/A>
-**Submission Date:** 
-**Approval Date (Seven Days after Submission):** 
+### Guild Member Form
+**Guild Name**: 
+**Character Name**: 
+**Discord ID**: 
+**Action**: <Joining | Leaving>
+**Registration Fee Paid**: <link | N/A>
+**Submission Date**: 
+**Approval Date** (Seven Days after Submission): 
 ```
 
 ### Guild Registration
 
 ```md
-Guild Registration Form
+### Guild Registration Form
 @gradientx
-**Guild Name:** 
-**Initial Guild Tier:** 
-**Type:** 
-**Founders:** (must be 5+)
+**Guild Name**: 
+**Initial Guild Tier**: 
+**Type**: 
+**Founders**: (must be 5+)
 - Kerr Actor, Co-Leader (@Example#0000)
-**Guild Channel Name:**  [#knights-exemplar-hall]
-**Permissions:** <Public | Private>
-**Cost for Charter and Labor to build Hall:** 
+**Guild Channel Name**:  [#knights-exemplar-hall]
+**Permissions**: <Public | Private>
+**Cost for Charter and Labor to build Hall**: 
 ```
 - A private channel can only be entered by players with the appropriate guild role.
 
@@ -56,12 +55,30 @@ Guild Registration Form
 For guilds that have more than one leader, whose leader is inactive/retired/left the server, or who relies on someone else other than the leader to carry out day to day functions such as making announcements/paying taxes/doing bookkeeping. The additional representative can apply to be granted manage messages/manage threads permissions within their guild channel. React with 🏢 (`:office:`) on your post.
 
 ```md
-Guild Representative Form
+### Guild Representative Form
+**Guild Name**: 
+**Character Name**: 
+**Discord ID**: 
+**Reason for Needing Representative Permissions**: 
+```
 
-**Guild Name:** 
-**Character Name:** 
-**Discord ID:** 
-**Reason for Needing Representative Permissions:** 
+### Guild Tax Form
+
+```md
+### Guild Taxes
+**Guild Name**: 
+**Total Taxes Paid**: X gp
+- X gp - Guild Hall T<#>
+[- X gp - Barracks T<#>]
+[- X gp - Kitchen T<#>]
+[- X gp - Stables T<#>]
+[- X gp - Other Modules]
+[- X gp - Aides]
+[**Stabled Mounts**:
+- <Mount Name>, <Statblock> (<Size>) - <Owner> (<Level>)
+- ...
+]
+**Payment Link**: 
 ```
 
 ### Guild Management Forms
@@ -69,31 +86,29 @@ Guild Representative Form
 These forms must be submitted by a Guild Rep.
 
 ```md
-Module Form
-
-**Guild Name:** 
-**Module Name:** 
-**Building/Upgrading/Destroying:** 
-**Link to Payment:** 
-**Duration:** 
+### Module Form
+**Guild Name**: 
+**Module Name**: 
+**Building/Upgrading/Downgrading/Destroying**: 
+**Link to Payment**: 
+**Duration**: 
 ```
 ```md
-Guild Type Change Form
-
-**Guild Name:** 
-**Guild Type Slot:** <Main | 2nd | Both>
-**Current Type(s):** 
-**New Type(s):** 
-**Submission Date:** 
-**Completion Date:** 
-**Link to Payment:** 
+### Guild Type Change Form
+**Guild Name**: 
+**Guild Type Slot**: <Main | 2nd | Both>
+**Current Type(s)**: 
+**New Type(s)**: 
+**Submission Date**: 
+**Completion Date**: 
+**Link to Payment**: 
 ```
 ```md
-Guild Info Change Form
+### Guild Info Change Form
 @gradientx
-**Current Channel Name:** 
-**Changing:** <Guild Name | Channel Name | Channel Description>
-**To:** 
+**Current Channel Name**: 
+**Changing**: <Guild Name | Channel Name | Channel Description>
+**To**: 
 ```
 - Names must be appropriate and follow all other server rules
   - If the name of the __guild__ as a whole is changing, react to the message with 🏢 `:office:`.
