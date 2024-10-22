@@ -117,11 +117,11 @@ Great! Now to determine if it’s suitable for you to join. Take a moment to obs
 
 #### There are no people currently RPing
 
-It’s time to see if you can convince someone to RP with you! You can either post a request in [`#rp-board`](https://discord.com/channels/512870694883950598/893946822404493392), or ask in the channels ending with “OOC” if anyone would like to RP with you. Then just be patient and wait.
+It’s time to see if you can convince someone to RP with you! You can either post a request in [!badge icon="/images/discord-mark-blue.svg" text="#rp-board"](https://discord.com/channels/512870694883950598/893946822404493392), or ask in the channels ending with “OOC” if anyone would like to RP with you. Then just be patient and wait.
 
 ### Introducing your character
 
-The general approach is to go for a paragraph on appearance in [`#gates`](https://discord.com/channels/512870694883950598/611385612351569920), however you may also do this in any other channel. The [`#drunken-yeti-tavern`](https://discord.com/channels/512870694883950598/551901424276078602) or any active channel will suffice, as you need people to bounce RP off of. 
+The general approach is to go for a paragraph on appearance in [!badge icon="/images/discord-mark-blue.svg" text="#gates"](https://discord.com/channels/512870694883950598/611385612351569920), however you may also do this in any other channel. The [!badge icon="/images/discord-mark-blue.svg" text="#drunken-yeti-tavern"](https://discord.com/channels/512870694883950598/551901424276078602) or any active channel will suffice, as you need people to bounce RP off of. 
 
 Since you only have one shot at introducing your character to the world (though you can always repeat this process albeit with less detail when meeting new people) you might as well make it count. Tell a story through their appearance. I tend to imagine how it would look like if a camera were to shoot the character as if they were making a dramatic entrance in a movie. The camera angles will usually focus on the most prominent parts of the character before showing their face. Such as:
 

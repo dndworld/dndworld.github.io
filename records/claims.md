@@ -58,7 +58,7 @@ Link to Legacied Sheet: <link>
 ```
 
 ## Copying Sheet
-If you lose access to your sheet and need to make a new copy, please log it in [#claims-log](https://discordapp.com/channels/512870694883950598/848389898204741642) using the form below. Wait for approval before using your new sheet.
+If you lose access to your sheet and need to make a new copy, please log it in [!badge icon="/images/discord-mark-blue.svg" text="#claims-log"](https://discord.com/channels/512870694883950598/848389898204741642) using the form below. Wait for approval before using your new sheet.
 
 ⚠️ All of the details must stay the same between the sheets.
 
@@ -70,7 +70,7 @@ After: <link>
 ```
 
 ## Sheet Type Change
-If you recreate your sheet on a different platform (e.g. D&D Beyond, GSheet, or Dicecloud) please log it in [#claims-log](https://discordapp.com/channels/512870694883950598/848389898204741642) using the form below. Wait for approval before using your new sheet.
+If you recreate your sheet on a different platform (e.g. D&D Beyond, GSheet, or Dicecloud) please log it in [!badge icon="/images/discord-mark-blue.svg" text="#claims-log"](https://discord.com/channels/512870694883950598/848389898204741642) using the form below. Wait for approval before using your new sheet.
 
 ⚠️ All of the details must stay the same between the sheets.
 

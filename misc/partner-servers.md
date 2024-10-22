@@ -43,47 +43,47 @@ What You Can Offer Us:
 
 ### General Discussion/Campaigns/LFG
 
-- [Crit or Quit](https://discord.com/channels/512870694883950598/529249355748605952/636065659733671938)
+- [!badge icon="/images/discord-mark-blue.svg" text="Crit or Quit"](https://discord.com/channels/512870694883950598/529249355748605952/636065659733671938)
 
-- [Tableside Gaming](https://discord.com/channels/512870694883950598/529249355748605952/667352720180641803)
+- [!badge icon="/images/discord-mark-blue.svg" text="Tableside Gaming"](https://discord.com/channels/512870694883950598/529249355748605952/667352720180641803)
 
-- [Inevitable Disappointment Club](https://discord.com/channels/512870694883950598/529249355748605952/615918720514129930)
+- [!badge icon="/images/discord-mark-blue.svg" text="Inevitable Disappointment Club"](https://discord.com/channels/512870694883950598/529249355748605952/615918720514129930)
 
-- [Tabletop Penguins](https://discord.com/channels/512870694883950598/529249355748605952/595437480094728203)
+- [!badge icon="/images/discord-mark-blue.svg" text="Tabletop Penguins"](https://discord.com/channels/512870694883950598/529249355748605952/595437480094728203)
 
-- [Heroes Haven](https://discord.com/channels/512870694883950598/529249355748605952/844007321330778133)
+- [!badge icon="/images/discord-mark-blue.svg" text="Heroes Haven"](https://discord.com/channels/512870694883950598/529249355748605952/844007321330778133)
 
-- [Dancing Lights](https://discord.com/channels/512870694883950598/529249355748605952/636046712280186901)
+- [!badge icon="/images/discord-mark-blue.svg" text="Dancing Lights"](https://discord.com/channels/512870694883950598/529249355748605952/636046712280186901)
 
 ### West Marches
 
-- [The Forged Concordance](https://discord.com/channels/512870694883950598/529249355748605952/770951561261350962)
+- [!badge icon="/images/discord-mark-blue.svg" text="The Forged Concordance"](https://discord.com/channels/512870694883950598/529249355748605952/770951561261350962)
 
-- [The Continent](https://discord.com/channels/512870694883950598/529249355748605952/819403190227304498)
+- [!badge icon="/images/discord-mark-blue.svg" text="The Continent"](https://discord.com/channels/512870694883950598/529249355748605952/819403190227304498)
 
-- [Haven](https://discord.com/channels/512870694883950598/529249355748605952/835637631076663296)
+- [!badge icon="/images/discord-mark-blue.svg" text="Haven"](https://discord.com/channels/512870694883950598/529249355748605952/835637631076663296)
 
 ### Pathfinder
 
-- [Nexus (1e)](https://discord.com/channels/512870694883950598/529249355748605952/618274402156412928)
+- [!badge icon="/images/discord-mark-blue.svg" text="Nexus (1e)"](https://discord.com/channels/512870694883950598/529249355748605952/618274402156412928)
 
-- [Riodap (2e)](https://discord.com/channels/512870694883950598/529249355748605952/841760948522975307)
+- [!badge icon="/images/discord-mark-blue.svg" text="Riodap (2e)"](https://discord.com/channels/512870694883950598/529249355748605952/841760948522975307)
 
 ### Focused Communities
 
-- [Chaotic Queer TTRPGs](https://discord.com/channels/512870694883950598/529249355748605952/529819006312382487)
+- [!badge icon="/images/discord-mark-blue.svg" text="Chaotic Queer TTRPGs"](https://discord.com/channels/512870694883950598/529249355748605952/529819006312382487)
 
-- [Tavern Jockeys](https://discord.com/channels/512870694883950598/529249355748605952/538183109883985920)
+- [!badge icon="/images/discord-mark-blue.svg" text="Tavern Jockeys"](https://discord.com/channels/512870694883950598/529249355748605952/538183109883985920)
 
-- [D&D Newbie Sessions](https://discord.com/channels/512870694883950598/529249355748605952/810585956288561172)
+- [!badge icon="/images/discord-mark-blue.svg" text="D&D Newbie Sessions"](https://discord.com/channels/512870694883950598/529249355748605952/810585956288561172)
 
-- [Mystery Fantasy Dungeon 9000](https://discord.com/channels/512870694883950598/529249355748605952/648170883537436673)
+- [!badge icon="/images/discord-mark-blue.svg" text="Mystery Fantasy Dungeon 9000"](https://discord.com/channels/512870694883950598/529249355748605952/648170883537436673)
 
 ### Roleplay
 
-- [Leonhart](https://discord.com/channels/512870694883950598/529249355748605952/606146391752048650)
+- [!badge icon="/images/discord-mark-blue.svg" text="Leonhart"](https://discord.com/channels/512870694883950598/529249355748605952/606146391752048650)
 
-- [Ironhelm](https://discord.com/channels/512870694883950598/529249355748605952/606147260933210114)
+- [!badge icon="/images/discord-mark-blue.svg" text="Ironhelm"](https://discord.com/channels/512870694883950598/529249355748605952/606147260933210114)
 
 Have a kind of server you want to try? Pop it in [`#server-suggestions`](https://discord.com/channels/512870694883950598/537506014883217419) and we'll find it for you!
 

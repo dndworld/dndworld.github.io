@@ -12,26 +12,32 @@ h1:before { content: "🔰 " }
 ## Step-by-Step: Making your first character on DnD Beyond
 
 ### Getting Started
-> - [Make a D&D Beyond account](https://www.dndbeyond.com/create-account) if you don’t already have one
+- [Make a D&D Beyond account](https://www.dndbeyond.com/create-account) if you don’t already have one.
 
-> - Go to "Create a Character" 
-> - Choose "Standard" Character Creation Method
-> - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
->   - You could use "Quick Build" as well, which will make a generic character for you.
+- Go to "Create a Character" 
+- Choose "Standard" Character Creation Method
+- Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
+  - You could use "Quick Build" as well, which will make a generic character for you.
+
+<p style="text-align:center;">
+<img src="https://i.imgur.com/eNS3ZwA.png" alt="Create a Character" width="300"/> 
+<br>
+<img src="https://i.imgur.com/IrWEjhP.png" alt="Choose Standard for character creation method" width="300"/>
+</p>
 
 !!!info 
-As you go through the help texts, if anything is unclear or confusing, please ask in [!badge #⁠beginner-help](https://discord.com/channels/512870694883950598/621035485690724369).
+As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
 !!!
 
 ### Character Preferences (settings) 
-![](https/i.imgur.com/xLF2bk4.png)
+![](https://i.imgur.com/xLF2bk4.png "Character Preferences")
 > - **Dice Rolling**: Off 
 >   - We use Avrae Discord bot for this, not DnD Beyond 
 > - **Optional Features**: On 
 > - **Advancement Type**: Milestone 
 > - **Hit Point Type** 
 >   - "Fixed" recommended 
->   - If you choose "Manual", you MUST make the rolls in [!badge #official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264), NOT in D&D Beyond 
+>   - If you choose "Manual", you MUST make the rolls in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), NOT in D&D Beyond 
 > 
 > - Leave the rest of the options as they are. Make sure **Character Privacy** is set to "Public"
 
@@ -70,7 +76,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
 > - **Point Buy**: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option. 
 >   - [Point Buy calculator website](http://chicken-dinner.com/5e/5e-point-buy.html) 
-> - **Manual**: Roll the stats in [!badge #official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
+> - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method
 
@@ -92,7 +98,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 > - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [here](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/edit)
 
 #### Rolling for Gold
-> If you choose to roll for gold, you MUST make the rolls in `#⁠official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge #transaction-log](https://discordapp.com/channels/512870694883950598/531011819095982081).
+> If you choose to roll for gold, you MUST make the rolls in `#⁠official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ---
 
@@ -110,7 +116,7 @@ The following steps are for DnD World server, once you have created the characte
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
 > Make sure your character sheet is set to PUBLIC first
 >   - If you're on the mobile D&D Beyond app, check out [this resource](misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
-> - Post in [!badge #⁠character-sheets](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
+> - Post in [!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 > ```
 > !import <link>
 > ```
@@ -124,7 +130,7 @@ The following steps are for DnD World server, once you have created the characte
 
 !!!
 Ask questions!
-> [!badge #⁠beginner-help](https://discord.com/channels/512870694883950598/621035485690724369)
+> [!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
 > 
 > 💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 !!!

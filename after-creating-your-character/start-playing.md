@@ -20,7 +20,7 @@ This page is to teach you what to do after creating your character. If you have 
 For **D&D Beyond** sheets, this is **already done for you**.
 !!!
 
-For other sheets, setting up the class abilities is automated using Avrae. Run the commands below in [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313) for the setup.
+For other sheets, setting up the class abilities is automated using Avrae. Run the commands below in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313) for the setup.
 
 For abilities not covered by `!level`/your sheet, manual counter creation may be required. See `Other` below.
 
@@ -42,8 +42,8 @@ Homebrew classes are not supported, and non-Beyond sheets may not have the neces
 
 ### Leveling Up
 
-> - Once you've updated your character sheet, run `!update` and `!level` in [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313).
-> - Make sure to react in [!badge #roles](https://discordapp.com/channels/512870694883950598/535365321134178324) in order to receive game pings for the new level.
+> - Once you've updated your character sheet, run `!update` and `!level` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
+> - Make sure to react in [!badge icon="/images/discord-mark-blue.svg" text="#roles"](https://discord.com/channels/512870694883950598/535365321134178324) in order to receive game pings for the new level.
 
 ## Tracking Money
 
@@ -55,7 +55,7 @@ Use `!transaction` to check your coin purse.
 
 #### Make Transaction
 
-Log your monetary transactions in [!badge #transaction-log](https://discordapp.com/channels/512870694883950598/531011819095982081) with:
+Log your monetary transactions in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081) with:
 
 ```
 !transaction "reason for transaction" +Xgp
@@ -93,8 +93,8 @@ Roleplaying (RP) gives your characters **RPXP**, which can later be turned into 
 
 You can go to any of the channels in the Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, and Arena categories to RP. 
 
-- [!badge #drunken-yeti-inn](https://discordapp.com/channels/512870694883950598/551901424276078602) is the most popular channel to RP, and a great place to start.
-- [!badge #rp-board](https://discordapp.com/channels/512870694883950598/893946822404493392) is where you can make a post to look for RP, or join one that is already posted.
+- [!badge icon="/images/discord-mark-blue.svg" text="#drunken-yeti-inn"](https://discord.com/channels/512870694883950598/551901424276078602) is the most popular channel to RP, and a great place to start.
+- [!badge icon="/images/discord-mark-blue.svg" text="#rp-board"](https://discord.com/channels/512870694883950598/893946822404493392) is where you can make a post to look for RP, or join one that is already posted.
 
 #### Other Channels
 
@@ -103,7 +103,7 @@ You can go to any of the channels in the Snowhaven: West/High Class/North/South,
 
 #### Entering the Town
 
-You may want to RP your character entering Snowhaven in [!badge #gates](https://discordapp.com/channels/512870694883950598/611385612351569920). There is no set way to introduce yourself. However, most people write their introduction as if people are seeing them for the first time. 
+You may want to RP your character entering Snowhaven in [!badge icon="/images/discord-mark-blue.svg" text="#gates"](https://discord.com/channels/512870694883950598/611385612351569920). There is no set way to introduce yourself. However, most people write their introduction as if people are seeing them for the first time. 
 
 They would describe how their character looks like and say what they are doing, which usually gives something other characters can interact with. 
 
@@ -121,15 +121,15 @@ RPXP allows you to earn bankable credits for roleplaying. The full explanation c
 
 #### First Time
 
-Set up your counters: `!rpxp` in [!badge #xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481) (only need to do it once per character)
+Set up your counters: `!rpxp` in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) (only need to do it once per character)
 
 ### Steps
 
 1. React to your first RP post with :beginner: `:beginner:` and last RP post with :octagonal_sign: `:stop:`. Get the person you are RPing with to react as well.
 
-2. Find out how long the RP session was. [!badge #rp-log](https://discordapp.com/channels/512870694883950598/592249450789863434) picks up the messages reacted with :beginner: & :octagonal_sign:.
+2. Find out how long the RP session was. [!badge icon="/images/discord-mark-blue.svg" text="#rp-log"](https://discord.com/channels/512870694883950598/592249450789863434) picks up the messages reacted with :beginner: & :octagonal_sign:.
 
-3. Log the RPXP in [!badge #xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481) by the increments of half an hour (rounded down)
+3. Log the RPXP in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) by the increments of half an hour (rounded down)
 
 `!rpxp <hours> [message]`
 
@@ -141,7 +141,7 @@ Set up your counters: `!rpxp` in [!badge #xp-tracker](https://discordapp.com/cha
 
 ### Weekly Cap
 
-**Every Monday (EST)** you can reset your Weekly RPXP Cap by running the following command in [!badge #xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481):
+**Every Monday (EST)** you can reset your Weekly RPXP Cap by running the following command in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481):
 
 ```
 !rpxp cap reset
@@ -157,9 +157,9 @@ Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, Shops, and 
 
 #### Other OOC channels
 
-When you aren't RPing or taking part in events, you can chill in any of the OOC channels, where you can talk about character builds, recent bounties, real life, etc. Popular channels include [!badge #snowhaven-north-ooc](https://discordapp.com/channels/512870694883950598/579940774574161942) and [!badge #guild-ooc](https://discordapp.com/channels/512870694883950598/527458737892622361)
+When you aren't RPing or taking part in events, you can chill in any of the OOC channels, where you can talk about character builds, recent bounties, real life, etc. Popular channels include [!badge icon="/images/discord-mark-blue.svg" text="#snowhaven-north-ooc"](https://discord.com/channels/512870694883950598/579940774574161942) and [!badge icon="/images/discord-mark-blue.svg" text="#guild-ooc"](https://discord.com/channels/512870694883950598/527458737892622361)
 
-There are channels for specific content under the **DnD Chat** category. Please try to keep posts related to those topics contained to those channels. Similarly, please keep bot commands to [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313).
+There are channels for specific content under the **DnD Chat** category. Please try to keep posts related to those topics contained to those channels. Similarly, please keep bot commands to [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
 ## Signing up for DM events
 
@@ -167,7 +167,7 @@ Full explanation on the available game types on the server can be found in [How 
 
 1. Wait for Level pings
 
-Wait for a DM to ping your level for a bounty in [!badge #bounty-board](https://discordapp.com/channels/512870694883950598/537744572848013314) or an arena/hunt/pit fight in [!badge #arena-board](https://discordapp.com/channels/512870694883950598/626866757038112768). 
+Wait for a DM to ping your level for a bounty in [!badge icon="/images/discord-mark-blue.svg" text="#bounty-board"](https://discord.com/channels/512870694883950598/537744572848013314) or an arena/hunt/pit fight in [!badge icon="/images/discord-mark-blue.svg" text="#arena-board"](https://discord.com/channels/512870694883950598/626866757038112768). 
 
 2. Check if signups are still Open
 
@@ -175,15 +175,15 @@ Event posts with a :x: or :negative_squared_cross_mark: reaction are closed for 
 
 3. Signup
 
-If the event is still open for signups, copy the **template** posted by that DM, fill it in, and post it in [!badge #game-signup](https://discordapp.com/channels/512870694883950598/537341568462487597)
+If the event is still open for signups, copy the **template** posted by that DM, fill it in, and post it in [!badge icon="/images/discord-mark-blue.svg" text="#game-signup"](https://discord.com/channels/512870694883950598/537341568462487597)
 
 !!! How to check "RPXP Stored" and "XP to Next Level"
-In [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313), run `!rpxp xp`
+In [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313), run `!rpxp xp`
 !!!
 
 4. Acceptance
 
-Game acceptance is announced in [!badge #game-acceptance](https://discordapp.com/channels/512870694883950598/626865858916122654). If you are accepted, the DM will ping you to confirm your attendance. React with the appropriate emoji to confirm your acceptance.
+Game acceptance is announced in [!badge icon="/images/discord-mark-blue.svg" text="#game-acceptance"](https://discord.com/channels/512870694883950598/626865858916122654). If you are accepted, the DM will ping you to confirm your attendance. React with the appropriate emoji to confirm your acceptance.
 
 5. Before the Game
 
@@ -191,7 +191,7 @@ The DM will ping you again in the appropriate OOC (out of character) channel for
 
 6. After the Game: Tracking XP
 
-[!badge #xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481) is used for you to track XP on this server.
+[!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) is used for you to track XP on this server.
 
 To add the XP from the game:
 
@@ -201,14 +201,14 @@ To add the XP from the game:
 
 > (e.g. `!dxp game 100 "Red Ruby Heist"`)
 
-All XP must be tracked in [!badge #xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481) with the `!dxp` alias. 
+All XP must be tracked in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) with the `!dxp` alias. 
 
-When you level up, adjust your sheet accordingly and run `!update` in [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313). No sheet link is required.
+When you level up, adjust your sheet accordingly and run `!update` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313). No sheet link is required.
 
 
 ## Intoxication Counter (Optional)
 
-Intoxication Counter follows a homebrew system which you can read more about in the pins of [!badge #drunken-yeti-inn](https://discordapp.com/channels/512870694883950598/551901424276078602). This determines your state of drunkenness. 
+Intoxication Counter follows a homebrew system which you can read more about in the pins of [!badge icon="/images/discord-mark-blue.svg" text="#drunken-yeti-inn"](https://discord.com/channels/512870694883950598/551901424276078602). This determines your state of drunkenness. 
 
 Running `!drink [name of drink]` will automatically setup the counters you need.
 > e.g.: `!drink "Dwarven Firewhiskey"`
@@ -225,7 +225,7 @@ Running `!drink [name of drink]` will automatically setup the counters you need.
 Your character sheet needs to list your equipment.
 !!!
 
-Bag management within the server is completely optional. Should you want to track your items, you may do so in [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313)
+Bag management within the server is completely optional. Should you want to track your items, you may do so in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313)
 
 - `!bag ?` to see all available commands
 - `!bag $ "Backpack"` to create a bag called "Backpack"
@@ -248,14 +248,14 @@ Full explanation on Lifestyle and Downtime can be found in [Lifestyle and DTD Ru
 
 **Downtime** can enable you to earn some extra gold, copy spells, and other neat features.
 
-If you do not pay Lifestyle, you are considered to be benefiting from the Snowhaven Full Time Adventurer scheme and will stay in the [!badge #cozy-yeti-estates](https://discordapp.com/channels/512870694883950598/611385164060295168) with your expenses covered for. 
+If you do not pay Lifestyle, you are considered to be benefiting from the Snowhaven Full Time Adventurer scheme and will stay in the [!badge icon="/images/discord-mark-blue.svg" text="#cozy-yeti-estates"](https://discord.com/channels/512870694883950598/611385164060295168) with your expenses covered for. 
 
 As the name suggests, you spend your days looking for quests and being on call by the Senate rather than performing any other downtime activities.
 
 
 ## Joining a Guild (Optional)
 
-You can see the list of available guilds under the **GUILDS** category, as well as in this pinned message in [!badge #guild-ooc](https://discord.com/channels/512870694883950598/527458737892622361/941358894951825419)
+You can see the list of available guilds under the **GUILDS** category, as well as in this pinned message in [!badge icon="/images/discord-mark-blue.svg" text="#guild-ooc"](https://discord.com/channels/512870694883950598/527458737892622361/941358894951825419)
 
 They are all player managed, and the requirements of joining a guild vary. Some guilds require members to be over a certain level threshold, or be of a certain class. Check their pinned messages for such requirements or inquire with their leader if they don't specify any.
 

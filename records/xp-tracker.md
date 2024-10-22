@@ -9,7 +9,7 @@ h1:before {
 }
 </style>
 
-All XP and RPXP should be redeemed in [#xp-tracker](https://discordapp.com/channels/512870694883950598/531014104098537481).
+All XP and RPXP should be redeemed in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481).
 
 ## XP Commands
 

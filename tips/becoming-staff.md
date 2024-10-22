@@ -5,7 +5,7 @@ icon: ""
 order: 20
 ---
 :::subtitle
-A Supplementary Document to [`#staff-roles`](https://discord.com/channels/512870694883950598/877373177381126144)
+A Supplementary Document to [!badge icon="/images/discord-mark-blue.svg" text="#staff-roles"](https://discord.com/channels/512870694883950598/877373177381126144)
 :::
 <style>
 .bka h3, .wc h3, .tech h3, .am h3, .tdm h3, .tmod h3, .ast h3, .npcm h3, .hb h3, .lk h3 {

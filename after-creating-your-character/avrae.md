@@ -254,7 +254,7 @@ For the full list of options for each command, use `!help <command> [subcommand]
 
 ## Content Lookup
 
-> You can lookup items, status effects, rules, etc. By default, Avrae only supports content from Basic Rules. For gaining access to paid material on D&D Beyond via content sharing links, follow the instructions pinned in [`#ddb-link-request`](https://discord.com/channels/512870694883950598/756319993616138310).
+> You can lookup items, status effects, rules, etc. By default, Avrae only supports content from Basic Rules. For gaining access to paid material on D&D Beyond via content sharing links, follow the instructions pinned in [!badge icon="/images/discord-mark-blue.svg" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310).
 > - Connect your Discord account with D&D Beyond account. This can be done from "Account Settings" page in D&D Beyond. Confirm the connection by running:
 > <br><br>
 > ```

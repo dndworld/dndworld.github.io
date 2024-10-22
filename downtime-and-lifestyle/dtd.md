@@ -71,7 +71,7 @@ Exotic Language     125 Learning Points
 
 ### Learning DTD Command
 
-> In [`#dtd-automated-log`](https://discord.com/channels/512870694883950598/579777361117970465):<br>
+> In [!badge icon="/images/discord-mark-blue.svg" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):<br>
 > ```
 > !learn <Subject>
 > ```
@@ -80,7 +80,7 @@ Exotic Language     125 Learning Points
 > - **Subject**: the instrument/gaming set/tool/language you wish to learn
 > - By default, this command rolls an Intelligence check. For __instruments and gaming sets__, you can choose between Intelligence and Charisma. To use charisma score, add `cha` in the command.
 
-> ℹ️ For the full help text including the options, use `!help learn` in [`#bot-dump`](https://discord.com/channels/512870694883950598/519131071502221313).
+> ℹ️ For the full help text including the options, use `!help learn` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
 ### Learning Bonuses
 
@@ -103,16 +103,16 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 - Some guild modules and aides may provide a bonus to the combat training DTD. For more information, please refer to the pinned messages of each guild’s channel.
 - ⚠️ You **cannot** transfer RPXP to XP with combat training. This can only be done after the character has participated in a DM sanctioned event.
 
-1️⃣ In [`#dtd-automated-log`](https://discord.com/channels/512870694883950598/579777361117970465):
+1️⃣ In [!badge icon="/images/discord-mark-blue.svg" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):
 ```
 !train [arguments]
 ```
-2️⃣ Add the earned XP in [`#xp-tracker`](https://discord.com/channels/512870694883950598/531014104098537481), following the output of the combat training.
+2️⃣ Add the earned XP in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481), following the output of the combat training.
 ```
 !dxp train <xp>
 ```
 
-ℹ️ For the full help text, use `!help train` in [`#bot-dump`](https://discord.com/channels/512870694883950598/519131071502221313).
+ℹ️ For the full help text, use `!help train` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
 ## Guild DTDs
 

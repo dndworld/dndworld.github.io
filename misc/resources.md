@@ -25,8 +25,8 @@ h1:before {
 
 ### Server Rule related
 
-- **AP**: Active Player ([Common FAQ](common-faq.md))
-- **DP**: Demerit Points ([Rules](rules.md))
+- **AP**: Active Player ([Common FAQ](/faq/common-faq))
+- **DP**: Demerit Points ([Rules](/rules.md))
 
 ### Lifestyle & Downtime Days related
 *More info in [Downtime and Lifestyle Rules](/downtime-and-lifestyle/)*
@@ -44,12 +44,16 @@ h1:before {
 - **PP**: Passive Perception, how likely you are to notice something you aren't actively looking for
 - **ASI**: Ability Score Increase, which can increase your stats beginning at Level 4
 - **RAW**: Rules As Written, official limitations of various rules, cf. House Rules
-- **TPK**: Total Party Kill, where the whole party dies, likely from a fatal combat
+- **TPK**: Total Party Kill, where the whole party dies, likely from a fatal combat 
+
+<br>
 
 - **WotC**: Wizards of the Coast, the official publishers of all official D&D content, sometimes called Wizards
 - **PHB**: Player's Handbook, core rulebook for the players
 - **DMG**: Dungeon Master's Guide, core rulebook for the DMs
 - **MM**: Monster Manual, core rulebook for the DMs when it comes to the  monsters
+
+<br>
 
 - **House Rules**: Rules that are made by and specific to each DMs
 - **Feat**: Different from racial features and class features, this is a special ability you can pick up instead of an ASI at Level 4 onwards
@@ -58,9 +62,9 @@ h1:before {
 ### Other Commonly-Used Abbreviations
 
 - **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
-- **CC**: Custom Counter (`#avrae-commands`)
-- **IC**: In Character ([Roleplay Rules](rp-rules.md))
-- **OOC**: Out Of Character ([Roleplay Rules](rp-rules.md))
+- **CC**: Custom Counter ([Avrae Commands](/after-creating-your-character/avrae/))
+- **IC**: In Character ([Roleplay Rules](/rp-rules.md))
+- **OOC**: Out Of Character ([Roleplay Rules](/rp-rules.md))
 - **DDB**: D&D Beyond
 
 ## More D&D Content: 
@@ -94,17 +98,22 @@ h1:before {
 
 ## Tutorials
 
-> If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore! <:welcomerMouse:942967479083339777>
+> If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 
 ### How to make offhand attacks on D&D Beyond
-
 - Add the weapon to the Inventory and equip it by clicking the box next to it.
 - Click the weapon --> Customize
 - Rename the weapon so that it's easier to tell, and check "Dual Wield" option.
 - Make sure it shows up under "Bonus Action".
 
-- In `#bot-dump`, run: `!update`
+- In [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313), run: `!update`
 - Then, double check that it appears in: `!a list`
+
+<!--- <img src="https://i.imgur.com/WsZXhSV.png" width="500"/>
+<img src="https://i.imgur.com/lX7E1M8.png" width="500"/>
+<img src="https://i.imgur.com/w4nUeQS.png" width="400"/>
+<img src="https://i.imgur.com/J3Ex7QO.png" width="500"/> 
+---> 
 
 ### How to connect your D&D Beyond account to view features on Avrae
 !!!Note 
@@ -131,29 +140,31 @@ A **note** in google sheet is the small tooltip that pops up when you hover over
 
 To add a note, right click on a cell, and select "Insert note".
 
-Example
-
 Example character sheet with notes containing full text of each feature.
 
-### How to get your character sheet's link from the D&D Beyond mobile app
+<!-- <img src="https://i.imgur.com/1wupf7C.png" alt="Example of a Gsheet note" width="500"/>
+<img src="https://i.imgur.com/UaRweYx.png" alt="Insert note" width="500"/>
+<img src="https://i.imgur.com/chVuVQL.png" width="500"/>
+-->
+===
 
-!!!
-Make sure your character sheet is set to **Public**.
-!!!
+### How to get your character sheet's link from the D&D Beyond mobile app
 
 - Open the D&D Beyond app and go to your character.
 - Click on the `Menu` button (9 red dots) and go to: `View Character on Website`
 - Click `Manage` (next to your character's name)
-
+!!!info To set your character sheet to PUBLIC
+Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
-To set your character sheet to PUBLIC: Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`
-!!!
-
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
-- Go to ⁠`#character-sheets`, and run `!import <link>`, replacing `<link>` with the URL you just copied. 
+- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
 
+<!--- <img src="https://i.imgur.com/wNgU4yI.png" width="300"/>
+<img src="https://i.imgur.com/tcDz9JJ.png" width="300"/>
+<img src="https://i.imgur.com/g8ZLQSv.png" width="400"/> 
+--->
 ## How to Suggest Resources
 
 Please make the suggestion by posting in `#server-suggestions` with the full title and a short description of the resource, as well as why you recommend it.

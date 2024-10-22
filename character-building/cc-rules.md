@@ -48,7 +48,7 @@ Please refer to the "Sources" section below for full details.
 - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
 - **Optional Features**: On
 - **Advancement Type**: Milestone
-- **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in [!badge #official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264), **not** in D&D Beyond
+- **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **not** in D&D Beyond
 - **Encumbrance Type**: Use Encumbrance
 - **Ignore Coin Weight**: Off
 - **Character Privacy**: Public
@@ -101,7 +101,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 ### Disallowed Content
 
 !!!warning Recent Releases
-When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge #changelog](https://discordapp.com/channels/512870694883950598/720529747817529374)and updated here.
+When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge icon="/images/discord-mark-blue.svg" text="#changelog"](https://discord.com/channels/512870694883950598/720529747817529374)and updated here.
 !!!
 
 ==- General
@@ -231,7 +231,7 @@ Erratas refer to changes made to the official game rules, which our server does 
 
 !!!warning
 > - It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.
-> - All rolls must be made in [!badge #official-character-rolls](https://discordapp.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. **Do not roll stats on D&D Beyond!**
+> - All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. **Do not roll stats on D&D Beyond!**
 > 
 > - You cannot use Standard Array/Point Buy after rolling. 
 > - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
@@ -264,7 +264,7 @@ Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 > [Snowhaven Market Document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU)
 > 
 > - If you choose to roll for gold, follow the instructions pinned in `#official-character-rolls`. Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
->   - After you have rolled gold, you may then purchase the equipment from the above document, and by logging them in [!badge #transaction-log](https://discordapp.com/channels/512870694883950598/531011819095982081). 
+>   - After you have rolled gold, you may then purchase the equipment from the above document, and by logging them in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081). 
 > 
 > - You are **__not__** allowed to possess any magic items starting out.
 
@@ -283,7 +283,7 @@ After you create your character and before the character attends a DM event, you
 > - You are still in the character creation phase after gaining XP from Combat Training DTD, an approved RPXP claim, or Avrae Tutorial XP.
 
 !!!warning 
-Once your character participates in a DM event, all rebuilds must be submitted for review in `#rebuild-retire-log`, following the rules in [!badge Rebuilding](rebuild.md)
+Once your character participates in a DM event, all rebuilds must be submitted for review in `#rebuild-retire-log`, following the rules in [Rebuilding](rebuild.md)
 !!!
 
 ## Beyond 1st Level
