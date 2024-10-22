@@ -75,7 +75,7 @@ Generally, we ask that you don't rip ideas from video games characters for your 
 In Stranger Things, the characters play the Dungeons & Dragons Expert Set, which was released in 1981 as an expansion to the 1977 *Basic Set* (not to be confused with the 2014 *Basic Rules*).
 
 For us, we play Dungeons & Dragons 5th Edition, which is the most recent version of D&D. We play in our own homemade setting called Icris, which means you unfortunately won't see villain crossovers like Vecna.
-
+==-
 
 ## Planning Your Character
 
