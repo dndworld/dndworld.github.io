@@ -142,7 +142,7 @@ A guild needs consistent and continuous recruitment efforts in order to stay act
 
 Here are some recruitment methods:
 
-- Put a notice on [`#bulletin-board`](https://discord.com/channels/512870694883950598/513457977211093004) and have an application format
+- Put a notice on [!badge icon="/images/discord-mark-blue.svg" text="#bulletin-board"](https://discord.com/channels/512870694883950598/513457977211093004) and have an application format
 - Organize a sparring competition and picking the most promising candidates
 - Ask staff to open your guild channel to all and have an open house
 
@@ -166,7 +166,7 @@ If what you’re looking for is a cool hideout to be with your friends, a house 
 
 ### Start a Business
 
-The Business document, also found in [`#advanced-play-rules`](https://discord.com/channels/512870694883950598/569731521951563776), provides details on the different types of businesses and how you might start up one.
+The Business document, also found in [!badge icon="/images/discord-mark-blue.svg" text="#advanced-play-rules"](https://discord.com/channels/512870694883950598/569731521951563776), provides details on the different types of businesses and how you might start up one.
 
 ### Starting an Informal Club/Faction/Sect
 
@@ -176,4 +176,4 @@ If you are not concerned with mechanical benefits, you can have the best of both
 
 Hopefully this document has given you a comprehensive insight into administering a guild. If you read all this and want to start a guild, great! We wish you all the best. This document is not exhaustive, and you are bound to learn things through trial and error. Consider it a learning opportunity and don’t beat yourself up too much. If you feel like a guild isn’t right for you, consider a bullet dodged. 
 
-If you have more questions, please feel free to ask in [`#server-questions`](https://discord.com/channels/512870694883950598/546725434608451584). Or if you want to request a certain aspect be covered more in depth, feel free to pop it in [`#server-suggestions`](https://discord.com/channels/512870694883950598/537506014883217419). All the best!
+If you have more questions, please feel free to ask in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584). Or if you want to request a certain aspect be covered more in depth, feel free to pop it in [!badge icon="/images/discord-mark-blue.svg" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419). All the best!

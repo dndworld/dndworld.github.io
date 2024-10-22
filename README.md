@@ -11,7 +11,7 @@ Broadly, the GitHub documentation seeks to **make information easier to digest f
 
 ## Contributing
 
-We highly encourage you to submit possible improvements using the [Issues](https://github.com/dndworld/dwguide/issues) tracker. You can also use [Discord](https://discordapp.com/channels/512870694883950598/537506014883217419), though we prefer GitHub because it allows us to better track issues, ensuring that they don’t get lost.
+We highly encourage you to submit possible improvements using the [Issues](https://github.com/dndworld/dwguide/issues) tracker. You can also use [Discord](https://discord.com/channels/512870694883950598/537506014883217419), though we prefer GitHub because it allows us to better track issues, ensuring that they don’t get lost.
 
 While GitHub may seem intimidating, everything here is formatted using Markdown, which is the same system used by Discord! If you know Discord formatting, you can contribute too!
 

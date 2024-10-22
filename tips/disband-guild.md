@@ -98,7 +98,7 @@ For guild members whose owner is inactive, you can make a bid for ownership by f
 1. Contact the owner through PMs. Sometimes people are simply busy and do not have time to go online for a few days or weeks.
 2. If it has been at least one month and the owner has not sent a message at all on the server, ping the guild to address the situation
 3. Discuss the next course of action. You may wish to hold an election or simply transfer ownership to an existing representative.
-4. Once you have a new leader, put a request using the Guild Representative template in [`#guild-registry`](https://discord.com/channels/512870694883950598/729487863242031288), but add a note that they are the new guild leader.
+4. Once you have a new leader, put a request using the Guild Representative template in [!badge icon="/images/discord-mark-blue.svg" text="#guild-registry"](https://discord.com/channels/512870694883950598/729487863242031288), but add a note that they are the new guild leader.
 5. Recreate any documents which you do not have editing permissions to
 
 ### Rebranding
@@ -131,4 +131,4 @@ Here is a checklist of things you can consider for rebranding. All are optional:
 
 If you have to resort to disbanding your guild, it is okay. It may or may not be your fault, but it is nothing to beat yourself up over. You can choose to handle disbandment in a way that is comfortable to your emotional state. As long as you take responsibility for your guild, no one will blame you. 
 
-If you have more questions, please feel free to ask in [`#server-questions`](https://discord.com/channels/512870694883950598/546725434608451584). Or if you want to request a certain aspect be covered more in depth, feel free to pop it in [`#server-suggestions`](https://discord.com/channels/512870694883950598/537506014883217419). All the best!
+If you have more questions, please feel free to ask in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584). Or if you want to request a certain aspect be covered more in depth, feel free to pop it in [!badge icon="/images/discord-mark-blue.svg" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419). All the best!

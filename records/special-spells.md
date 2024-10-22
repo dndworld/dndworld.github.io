@@ -11,7 +11,7 @@ h1:before {
 
 # Special Spells
 
-Some spells produce effects that last over a period of time or majorly impact the world, such as Magnificent Mansion, Magic Mouth, Teleportation Circle, etc. A select number of these spells can be used in RP channels as long as they’re logged in [#spell-effects-log](https://discordapp.com/channels/512870694883950598/579612493345980447), while others can only be cast while in games. As long as the spell has an effect duration of 24 hours or more, it should be logged.
+Some spells produce effects that last over a period of time or majorly impact the world, such as Magnificent Mansion, Magic Mouth, Teleportation Circle, etc. A select number of these spells can be used in RP channels as long as they’re logged in [!badge icon="/images/discord-mark-blue.svg" text="#spell-effects-log"](https://discord.com/channels/512870694883950598/579612493345980447), while others can only be cast while in games. As long as the spell has an effect duration of 24 hours or more, it should be logged.
 
 Please note that the casting of these spells must still obey server PVP rules and not affect the general population. Misuse of spells, especially to harm other PCs/NPCs, will not be tolerated and will be retconned. Note that just because an NPC Master or Mod does not immediately step in to retcon it, does not mean that such instances will not be eventually reported and retconned.
 
@@ -28,7 +28,7 @@ Please note that the casting of these spells must still obey server PVP rules an
 Spells cast from magic items that store spells such as Ring of Spell Storing and Spell Gems must also be logged.
 
 
-Below is a non-exhaustive list of common spells that should be logged here as well as applicable changes to fit the server. If unsure, enquire in [`#rulings-questions`](https://discord.com/channels/512870694883950598/513452707617570828)
+Below is a non-exhaustive list of common spells that should be logged here as well as applicable changes to fit the server. If unsure, enquire in [!badge icon="/images/discord-mark-blue.svg" text="#rulings-questions"](https://discord.com/channels/512870694883950598/513452707617570828)
 
 ### Mounts and Familiars
 
@@ -92,7 +92,7 @@ Component Purchase Link (Costly Components):
 ```
 
 ## RoSS Summon Conversion
-[Read the original announcement here.](https://discord.com/channels/512870694883950598/720529747817529374/1171973945419902977) Rules have been copied below.
+[!badge icon="/images/discord-mark-blue.svg" text="Read the original announcement here."](https://discord.com/channels/512870694883950598/720529747817529374/1171973945419902977) Rules have been copied below.
 
 - The companion must have been summoned prior to the errata (2023-05-30).
 - The companion will be converted into a mundane pet or mount with the same statblock.

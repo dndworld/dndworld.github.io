@@ -94,7 +94,7 @@ We also have a `feedback` form for reporting errors such as typos, outdated info
 These are some of the more frequently asked questions we gathered over the years.
 
 ==- Can I start with any pets/creatures? (`!faq pets`)
-No, unless your background specifies having one. You can later purchase one in from the market in the [`#market-district`](https://discord.com/channels/512870694883950598/523139404726927370).
+No, unless your background specifies having one. You can later purchase one in from the market in the [!badge icon="/images/discord-mark-blue.svg" text="#market-district"](https://discord.com/channels/512870694883950598/523139404726927370).
 
 ==- Why can I not choose Boomerang (or other options) as a starting equipment?
 Boomerangs are classified as exotic weapons on the server, and are not eligible as starting equipment. You can purchase them separately through the [Market Doc](<https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/>).
@@ -108,7 +108,7 @@ As a player, you can define your patron as long as they are not lore-breaking or
 No.
 
 ==- My character has the soldier background, what are some wars they could have taken part in? 
-> If your character is from Icris, they might have fought in the Taffetan War. You can read more about the war’s progress by heading to [#lore](https://discordapp.com/channels/512870694883950598/740905255201669161), typing `in:lore taffeta` in your search bar and sorting by Oldest first.
+> If your character is from Icris, they might have fought in the Taffetan War. You can read more about the war’s progress by heading to [!badge icon="/images/discord-mark-blue.svg" text="#lore"](https://discord.com/channels/512870694883950598/740905255201669161), typing `in:lore taffeta` in your search bar and sorting by Oldest first.
 > If your character is from Eo, they might have fought in the Time of Darkness. You can read more about it [here](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/edit?usp=sharing)
 
 ==- What are the Warforged origins in this server? 

@@ -105,7 +105,7 @@ On the contrary, fiends and devils are happy to answer the above, in exchange fo
 - You can only pray to **one** deity at any time
 - This system only works in the temple/shrine channels, unless otherwise specified.
 <br><br>
-- If someone else uses the Help action for a prayer, only one person should roll and log, but they can make their roll at an advantage. Note this in the [!badge #npc-registry](https://discordapp.com/channels/512870694883950598/545107769951518740) form
+- If someone else uses the Help action for a prayer, only one person should roll and log, but they can make their roll at an advantage. Note this in the [!badge icon="/images/discord-mark-blue.svg" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740) form
 
 !!!
 If there is no valid prayer to a specific god *prior to the check being made*, the prayer will not be answered.

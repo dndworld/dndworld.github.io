@@ -106,7 +106,7 @@ h1:before {
 - Rename the weapon so that it's easier to tell, and check "Dual Wield" option.
 - Make sure it shows up under "Bonus Action".
 
-- In [!badge #bot-dump](https://discordapp.com/channels/512870694883950598/519131071502221313), run: `!update`
+- In [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313), run: `!update`
 - Then, double check that it appears in: `!a list`
 
 <!--- <img src="https://i.imgur.com/WsZXhSV.png" width="500"/>
@@ -157,7 +157,7 @@ Example character sheet with notes containing full text of each feature.
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
-- Go to ⁠[!badge #⁠character-sheets](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
+- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
 

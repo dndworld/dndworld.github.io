@@ -9,7 +9,7 @@ h1:before {
 }
 </style>
 
-All purchases, sales, and trades should be recorded in [#transaction-log](https://discordapp.com/channels/512870694883950598/531011819095982081).
+All purchases, sales, and trades should be recorded in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ## Making Transactions
 
@@ -53,7 +53,7 @@ Example: `!transaction "Pet Shop: Buying Frog" -20gp`
 
 ✅ Magic Item Transactions include:
 - Buying and selling from the [**Black Market Bin**](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM)
-- Scheduled NPC magic item purchases/sales in [#black-market-registry](https://discordapp.com/channels/512870694883950598/742720804525178900)
+- Scheduled NPC magic item purchases/sales in [!badge icon="/images/discord-mark-blue.svg" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900)
 - Transfer of magic items between players (P2P transactions)
 
 ❌ Transactions do NOT include:

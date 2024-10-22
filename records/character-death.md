@@ -10,7 +10,7 @@ h1:before {
 </style>
 # Character Death
 
-All characters who die on the server are immortalized in [#list-of-the-fallen](https://discordapp.com/channels/512870694883950598/544159624790671391). You may either write a post in memory of the character, or to make the grieving process easier, you may react to the character's last moment with a `:diya_lamp:` for the post to be beamed to the channel.
+All characters who die on the server are immortalized in [!badge icon="/images/discord-mark-blue.svg" text="#list-of-the-fallen"](https://discord.com/channels/512870694883950598/544159624790671391). You may either write a post in memory of the character, or to make the grieving process easier, you may react to the character's last moment with a `:diya_lamp:` for the post to be beamed to the channel.
 
 ### What do I do now?
 

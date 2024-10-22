@@ -18,7 +18,7 @@ h1:before {
 
 # Self Reporting
 
-If you discover that you have made a mistake, you may report it to [#self-reports](https://discordapp.com/channels/512870694883950598/1019512399314821140). Depending on the severity, leniency may be granted.
+If you discover that you have made a mistake, you may report it to [!badge icon="/images/discord-mark-blue.svg" text="#self-reports"](https://discord.com/channels/512870694883950598/1019512399314821140). Depending on the severity, leniency may be granted.
 
 After submitting a self report, do not signup or join DM events with the affected character(s) until your self report has been addressed, to avoid complicating your logs further. 
 
@@ -33,7 +33,7 @@ Please report:
 - 5e rules mistakes made over the course of multiple official games
 
 Please do not report:
-- Logging DTDs, transactions, exp, etc. in the incorrect channel if it's already been fixed (if it has not been fixed, go to [#dtd-ls-discussion](https://discordapp.com/channels/512870694883950598/586697587932004362) and ask a Bookkeeping Assistant to help you)
+- Logging DTDs, transactions, exp, etc. in the incorrect channel if it's already been fixed (if it has not been fixed, go to [!badge icon="/images/discord-mark-blue.svg" text="#dtd-ls-discussion"](https://discord.com/channels/512870694883950598/586697587932004362) and ask a Bookkeeping Assistant to help you)
 - Accidental swears
 - 5e rules mistakes during one game or spar
 

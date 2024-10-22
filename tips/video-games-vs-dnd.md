@@ -39,7 +39,7 @@ The result is in the following:
 - Rulings that are still unclear or the server deems are interpreted incorrectly are overridden in [the Erratas and Clarifications page](/faq/erratas.md).
 - DMs may have their own house rules if they choose to rule something differently
 
-As such, a lot of the game requires reading. We recommend you start with [the Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Please ask questions in [`#server-questions`](https://discord.com/channels/512870694883950598/546725434608451584), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
+As such, a lot of the game requires reading. We recommend you start with [the Basic Rules](https://www.dndbeyond.com/sources/basic-rules). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
 
 ### Games Emphasize Teamwork
 
