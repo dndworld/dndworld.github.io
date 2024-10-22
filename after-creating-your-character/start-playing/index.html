@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782953268092">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.782955284855">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
 
     <!-- Primary Meta Tags -->
-    <title>Next Steps | DW Guide</title>
-    <meta name="title" content="Next Steps | DW Guide">
+    <title>What&#39;s Next? | DW Guide</title>
+    <meta name="title" content="What's Next? | DW Guide">
     <meta name="description" content="This page is to teach you what to do after creating your character. If you have not done so yet, check out ">
 
     <!-- Canonical -->
@@ -19,23 +19,23 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://dndworld.github.io/after-creating-your-character/start-playing/">
-    <meta property="og:title" content="Next Steps | DW Guide">
+    <meta property="og:title" content="What's Next? | DW Guide">
     <meta property="og:description" content="This page is to teach you what to do after creating your character. If you have not done so yet, check out ">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://dndworld.github.io/after-creating-your-character/start-playing/">
-    <meta property="twitter:title" content="Next Steps | DW Guide">
+    <meta property="twitter:title" content="What's Next? | DW Guide">
     <meta property="twitter:description" content="This page is to teach you what to do after creating your character. If you have not done so yet, check out ">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.782953268092" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.782955284855" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782953268092" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.782955284855" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782953268092" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.782955284855" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -318,10 +318,10 @@
 <style>
 h1:before { content: "🚀" }
 </style> 
-<doc-anchor-target id="next-steps" class="break-words">
+<doc-anchor-target id="whats-next" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#next-steps">#</doc-anchor-trigger>
-        <span>Next Steps</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#whats-next">#</doc-anchor-trigger>
+        <span>What&#x27;s Next?</span>
     </h1>
 </doc-anchor-target>
 <p>This page is to teach you what to do after creating your character. If you have not done so yet, check out <a href="../../character-building/start-here/">Start Here</a></p>
@@ -401,7 +401,7 @@ h1:before { content: "🚀" }
         <span>Tracking Money</span>
     </h2>
 </doc-anchor-target>
-<p>Money and XP are tracked on the server. They are <strong>not</strong> synced with your sheet, so it does not matter if your sheet is updated with this info (tracking XP is explained later in this channel).</p>
+<p>Money and XP are tracked on the server. They are <strong>not</strong> synced with your sheet, so it does not matter if your sheet is updated with this info (tracking XP is explained later below).</p>
 <doc-anchor-target id="check-coin-purse">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#check-coin-purse">#</doc-anchor-trigger>
@@ -434,14 +434,17 @@ h1:before { content: "🚀" }
             </svg>
         </div>
         <div class="pr-5 ml-3 w-full">
-<p>Transactions logged outside of the appropriate channels are considered invalid.</p>
+<p>Transactions logged outside of <a href="https://discord.com/channels/512870694883950598/531011819095982081" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 border border-blue-100 hover:border-blue-300 dark:hover:bg-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+    <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
+    <span>#transaction-log</span>
+</a> are considered invalid.</p>
         </div>
     </div>
 </div>
 <blockquote>
 <p>You can chain multiple currencies to the command like so:</p>
-<p><code v-pre>!transaction &quot;reason for transaction&quot; +Xgp +Xsp +Xcp</code></p>
 </blockquote>
+<p><code v-pre>!transaction &quot;reason for transaction&quot; +Xgp +Xsp +Xcp</code></p>
 <doc-panel id="example-adding-starting-gold">
     <template #title>[Example] Adding Starting Gold</template>
 <div class="flex mb-6">
@@ -460,7 +463,7 @@ h1:before { content: "🚀" }
         </div>
     </div>
 </div>
-<p>In <code v-pre>#transaction-log</code>, replace <strong>#</strong> with the starting gold amount.</p>
+<p>In <code v-pre>[!badge icon=&quot;/images/discord-mark-blue.svg&quot; text=&quot;#transaction-log&quot;](https://discordapp.com/channels/512870694883950598/531011819095982081)</code>, replace <strong>#</strong> with the starting gold amount.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-none"><code v-pre class="language-none">!transaction &quot;Starting Gold&quot; +#gp</code></pre>
 </doc-codeblock></div>
@@ -478,7 +481,7 @@ h1:before { content: "🚀" }
         <span>Roleplaying</span>
     </h2>
 </doc-anchor-target>
-<p>Roleplaying (RP) gives your characters <strong>RPXP</strong>, which can later be turned into XP (The process is explained later in this channel).</p>
+<p>Roleplaying (RP) gives your characters <strong>RPXP</strong>, which can later be turned into XP (The process is explained later below).</p>
 <doc-anchor-target id="rp-channels">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#rp-channels">#</doc-anchor-trigger>
@@ -776,10 +779,10 @@ h1:before { content: "🚀" }
         <span>Lifestyle &amp; Downtime (Optional)</span>
     </h2>
 </doc-anchor-target>
-<p>Full explanation on Lifestyle and Downtime can be found in <a href="../../downtime-and-lifestyle/lifestyle/">Lifestyle and DTD Rules</a>.</p>
 <p><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Note: Lifestyle is handled in the DW server (not in D&amp;D Beyond).</p>
-<p><strong>Lifestyle</strong> payment is a representation of your living costs. It is optional, but if you would like to do Downtime activities, you have to pay Lifestyle.</p>
-<p><strong>Downtime</strong> can enable you to earn some extra gold, copy spells, and other neat features.</p>
+<p><strong>Lifestyle</strong> payments are a representation of your living costs. It is optional, but if you would like to do Downtime activities, you have to pay Lifestyle.</p>
+<p><strong>Downtime</strong> enable you to earn some extra gold, copy spells, and other neat features.</p>
+<p>The full explanation on Lifestyle and Downtime can be found in <a href="../../downtime-and-lifestyle/lifestyle/">Lifestyle and DTD Rules</a>.</p>
 <p>If you do not pay Lifestyle, you are considered to be benefiting from the Snowhaven Full Time Adventurer scheme and will stay in the <a href="https://discord.com/channels/512870694883950598/611385164060295168" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 border border-blue-100 hover:border-blue-300 dark:hover:bg-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#cozy-yeti-estates</span>
@@ -863,6 +866,6 @@ h1:before { content: "🚀" }
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Next Steps", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "What's Next", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
