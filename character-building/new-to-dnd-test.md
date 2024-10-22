@@ -45,14 +45,14 @@ We encourage you to give us a try! Many people who initially joined for campaign
 We kindly ask that you do not advertise your campaigns on our server.
 !!!
 
-==-How Were You Introduced to D&D?
+## How Were You Introduced to D&D?
 
 Over the years, we have encountered a wide variety of players from all sorts of backgrounds. However, sometimes this leads to mismanaged expectations on how we personally play D&D. As such, we have compiled this helpful list of common scenarios for you:
 
-==-Campaign with Family & Friends
+==- Campaign with Family & Friends
 If you've already played D&D before, you may feel like you already have a grasp on D&D's mechanics. However, every 
 
-==-Memes
+==- Memes
 Everyone loves a good meme, but it is important to understand that memes only represent one part of the D&D experience. In many cases, they are exaggerated for comedic effect; you probably *won't* be in a party with a witch on a tricycle. As our server lasts up till Level 20, we generally don't encourage you to create joke characters that would only be funny for a few sessions. 
 
 ==-Streams/Podcasts (e.g. Critical Role or Dimension 20)
@@ -62,7 +62,7 @@ Streams and podcasts like CR or D20 are popular ways people get introduced to th
 We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules.md)
 !!!
 
-==-Playing Video Games (e.g. Baldur's Gate 3)
+==- Playing Video Games (e.g. Baldur's Gate 3)
 
 RPGs such as Baldur's Gate 3 has greatly helped expand the accessibility of D&D. While BG3 is quite faithful to the overall experience, Larian Studios has made [their own changes](https://bg3.wiki/wiki/D%26D_5e_rule_changes) to the game.
 
@@ -70,12 +70,12 @@ In addition, as a video game, BG3 has several details that don't translate to th
 
 Generally, we ask that you don't rip ideas from video games characters for your D&D character. The line between taking inspiration and directly copying can blur quickly. Playing a rogue dual-wielding swords is fine; using Geralt's portrait and having a vaguely-similar backstory is not.
 
-==-TV Shows (e.g. Stranger Things)
+==- TV Shows (e.g. Stranger Things)
 
 In Stranger Things, the characters play the Dungeons & Dragons Expert Set, which was released in 1981 as an expansion to the 1977 *Basic Set* (not to be confused with the 2014 *Basic Rules*).
 
 For us, we play Dungeons & Dragons 5th Edition, which is the most recent version of D&D. We play in our own homemade setting called Icris, which means you unfortunately won't see villain crossovers like Vecna.
-===
+
 
 ## Planning Your Character
 
