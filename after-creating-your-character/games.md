@@ -16,10 +16,10 @@ This guide explains different ways of gaining XP on the server.
 
 There are four main ways of earning XP:
 
-1. [RPXP](games#1-rpxp) (transferred later as XP)
-2. [Combat Training DTD](games#2-combat-training-dtd)
-3. [DM Events](games#3-dm-events)
-4. [Avrae Tutorial XP](games#4-avrae-tutorial-xp)
+1. [RPXP](#1-rpxp) (transferred later as XP)
+2. [Combat Training DTD](#2-combat-training-dtd)
+3. [DM Events](#3-dm-events)
+4. [Avrae Tutorial XP](#4-avrae-tutorial-xp)
 
 ## 1. RPXP
 
@@ -122,11 +122,11 @@ Lv | RPXP/hr | Weekly Cap
 
 **Transferring RPXP to XP**
 
-> See under [DM Events](games#3-dm-events) section below.
+> See under [DM Events](#3-dm-events) section below.
 
 **RPXP Claim**
 
-> If it has been 1 month since your character's last DM-sanctioned event, or since you imported your character, you can claim their RPXP as XP by submitting the form in [Claims](claims.md).
+> If it has been 1 month since your character's last DM-sanctioned event, or since you imported your character, you can claim their RPXP as XP by submitting the form in [Claims](/records/claims/).
 > 
 > The 1-month timer resets once the claim is processed.
 
@@ -138,7 +138,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 1. Set up the Lifestyle
 > In order to do Downtime Days (DTD) activities, you must first pay the lifestyle cost. 
 > 
-> Please check out the [Lifestyle rules](lifestyle.md) for more details and how to set up your lifestyle.
+> Please check out the [Lifestyle rules](/downtime-and-lifestyle/lifestyle/) for more details and how to set up your lifestyle.
 
 2. Do the Combat Training
 > Note that combat training has a cost of 1gp per character level. This is automatically deducted from the coin purse when you use the `!train` alias.
@@ -149,7 +149,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 > !train
 > ```
 > 
-> The full explanation of Combat Training DTD can be found in [Lifestyle rules](lifestyle.md), and the command description and argument options can be found by running `!help train` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313). You can do 1 DTD per day, up to 5 per week.
+> The full explanation of Combat Training DTD can be found in [Lifestyle rules](/downtime-and-lifestyle/lifestyle/), and the command description and argument options can be found by running `!help train` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313). You can do 1 DTD per day, up to 5 per week.
 
 3. Log the XP
 > Go to [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481) and log the XP
@@ -167,7 +167,7 @@ You **cannot** transfer RPXP to XP with combat training. This can only be done a
 
 You can gain XP by participating in DM events. A DM event, or a DM sanctioned event is an event that is overseen by a DM (Dungeon Master), or AM (Arena Master). Below are the types of DM events on this server, roughly in order of frequency. 
 
-For how to sign up for DM events, please refer to “Signing up for DM events” in [How to Start Playing](start-playing.md#signing-up-for-dm-events)
+For how to sign up for DM events, please refer to “Signing up for DM events” in [How to Start Playing](start-playing/#signing-up-for-dm-events)
 
 ### Arena / Pit Fights / Hunts
 > - Single Combat Encounter 
@@ -290,4 +290,4 @@ Following rules apply to Avrae Tutorials:
 
 ### Step By Step Guide for Avrae Tutorial XP
 
-Follow the steps in the [Step by Step Guide for RPXP](games#step-by-step-guide-for-rpxp), but for step 4, run `!dxp tutorial` before the `!rpxp` command.
+Follow the steps in the [Step by Step Guide for RPXP](#step-by-step-guide-for-rpxp), but for step 4, run `!dxp tutorial` before the `!rpxp` command.

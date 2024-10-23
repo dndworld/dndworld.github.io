@@ -15,9 +15,9 @@ Due to the complexity of D&D, the age of the server, and the general number of r
 Most channels will be necessary at one point, but you can (and should) only read those that are relevant to you as you progress through the server. Let's see if we can help you out!
 
 ==- "I'm new here! Where do I start?"
-Welcome to DnD World! We are text-only D&D 5e server with a homebrew world setting. You can find out more about the server and the world in [About Us](index.md). 
+Welcome to DnD World! We are text-only D&D 5e server with a homebrew world setting. You can find out more about the server and the world in [About Us](/). 
 
-General Conduct of this server is in place to ensure the pleasant experience of the members in a large server. You can find them in [Rules](rules.md).
+General Conduct of this server is in place to ensure the pleasant experience of the members in a large server. You can find them in [Rules](/rules/).
 
 You do not have access to the rest of the server until you import your first character. For that, please visit [Start Here](/character-building/start-here/) and follow the steps there. If you are new to D&D, [New to D&D](/character-building/new-to-dnd/) has a step-by-step guide to help you through the character creation process.
 
@@ -49,7 +49,7 @@ Once you have your character imported in `#character-sheets`, you will see all R
 
 You can also make a post in `#rp-board`, if you'd like to find other players who would like to RP together in one of many RP channels.
 
-Please make sure to follow [Roleplay Rules](rp-rules.md) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [How To Start Playing](/start-playing/start-playing/) and [What's Next?](/after-creating-your-character/whats-next.md). The RPXPs and XPs need to be logged in `#⁠xp-tracker`.
+Please make sure to follow [Roleplay Rules](/rp-rules/) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [How To Start Playing](/start-playing/start-playing/) and [What's Next?](/after-creating-your-character/whats-next/). The RPXPs and XPs need to be logged in `#⁠xp-tracker`.
 
 ==- "Where can I find the games?", "How do I join them?"
 The games are posted in `#bounty-board` and `#arena-board`. We don't have any particular schedule, because the games are run by our team of volunteer DMs at times when they are available.
@@ -118,7 +118,7 @@ God of Knowledge, Cheong created the first warforged during the last Great War. 
 Yes
 
 ==- Can I wild shape into X? (`!faq wildshape`)
-> Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/cc-rules.md). Here are some noteworthy specifications:
+> Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/character-building/cc-rules/). Here are some noteworthy specifications:
 > - Dinosaur: Dinosaurs only exist in the Pelgara Archipelago on the continent of Eo. Hence, your character must have originated from there or previously traveled there.
 > - Some beasts are not native to Icris (for example creatures from supplementary adventures like Tome of Annihilation), hence you would not have seen them before. If you later see them in-game, then you might be able to transform into them at your respective DMs' discretion.
 > - Attempting to transform into an awakened animal results in you transforming into the non-awakened version of the animal.

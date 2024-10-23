@@ -46,12 +46,12 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 !!!
 
 ### Getting access to paid material (Optional)
-> The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For more info please refer [here](ddb.md).
+> The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For more info please refer [here](ddb/).
 
 ---
 ## D&D Beyond Character Builder
 ### 1. Race
-> Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules.md).
+> Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules/).
 > - More extensive descriptions on races can be found [here](https://www.dndbeyond.com/races)
 > 
 > However, as we are not using the WOTC world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
@@ -115,18 +115,18 @@ The following steps are for DnD World server, once you have created the characte
 #### 2. Import Your Character to Discord
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
 > Make sure your character sheet is set to PUBLIC first
->   - If you're on the mobile D&D Beyond app, check out [this resource](misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
+>   - If you're on the mobile D&D Beyond app, check out [this resource](/misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
 > - Post in [!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 > ```
 > !import <link>
 > ```
 
 #### 3. Set Up Your Character for the Server
-> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/after-creating-your-character/start-playing.md)
+> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/after-creating-your-character/start-playing/)
 
 #### 4. Learn How to Earn RPXP and XP
 > RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. 
-> - More details and additional information [here](/after-creating-your-character/games.md)
+> - More details and additional information [here](/after-creating-your-character/games/)
 
 !!!
 Ask questions!

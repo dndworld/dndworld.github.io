@@ -41,7 +41,7 @@ Link to Sheet: <link in the bracket>
 
 ## Reaching Level 20
 - When your character reaches Level 20, you have the option to retire them and benefit from the Cushion rule, or Legacy your character and make a new Level 1 PC.
-- If you choose to retire your character, your new character can start at Level 10 or below, with magic items decided by the [Cushion rule](list-fallen.md#cushion-rule) above.
+- If you choose to retire your character, your new character can start at Level 10 or below, with magic items decided by the [Cushion rule](/records/character-death/#cushion-rule) above.
 - If you choose not to retire your character, your Level 20 character becomes a Legacy slot, and you free up a slot to create a new Level 1 character.
   - Legacy characters can continue to participate in games, roleplay, DTD, etc.
   - Legacy slots are special and do not count towards your slot total. Hence, if you later retire your Level 20 character, you cannot make another character or benefit from the Cushion rule. In order to claim your new Level 1 PC, you must submit the form below for approval.

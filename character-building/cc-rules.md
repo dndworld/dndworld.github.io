@@ -8,7 +8,7 @@ icon: ":hammer_and_wrench:"
 h1:before { content: "🛠️ " }
 </style>
 
-This page contains the rules for character creation. For the starting guide to the server, please head over to [Start Here](start-here.md).
+This page contains the rules for character creation. For the starting guide to the server, please head over to [Start Here](start-here/).
 
 ## Start
 
@@ -36,7 +36,7 @@ You cannot transfer characters from other places. However, you can create a vers
 +++ D&D Beyond
 [D&D Beyond](https://www.dndbeyond.com/)
 
-There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd.md).
+There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd/).
 
 Character Preferences (settings)
 - **Sources**: Expanded Rules, Legacy, Critical Role Content
@@ -92,7 +92,7 @@ DiceCloud v1 tutorials
 !!!
 Paywalled Content
 - By default, D&D Beyond and our dice bot Avrae paywalls access to content beyond the Basic Rules.
-- Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb.md).
+- Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb/).
 !!!
 
 ### Disallowed Content
@@ -211,7 +211,7 @@ Unearthed Arcana is unofficial content released by the D&D developers for playte
 
 ### [DnD World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
 
-Erratas refer to changes made to the official game rules, which our server does for balance reasons and to better suit the West Marches setting. The above document along with the [Erratas and Clarifications page](/erratas.md) compile all changes to official content and variant features we've added.
+Erratas refer to changes made to the official game rules, which our server does for balance reasons and to better suit the West Marches setting. The above document along with the [Erratas and Rulings page](/faq/rulings/) compile all changes to official content and variant features we've added.
 
 ## Character Creation
 
@@ -227,7 +227,7 @@ Erratas refer to changes made to the official game rules, which our server does 
 
 !!!warning
 - It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.
-- All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions [here](stat-rolling.md) for rolling Stats, HP, and/or Gold.
+- All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions [here](stat-rolling/) for rolling Stats, HP, and/or Gold.
   - **Do not roll stats on D&D Beyond!**
 - You cannot use Standard Array/Point Buy after rolling. 
 - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
@@ -278,7 +278,7 @@ After you create your character and before the character attends a DM event, you
 > - You are still in the character creation phase after gaining XP from Combat Training DTD, an approved RPXP claim, or Avrae Tutorial XP.
 
 !!!warning 
-Once your character participates in a DM event, all rebuilds must be submitted for review in [!badge icon="/images/discord-mark-blue.svg" text="#rebuild-retire-log"](https://discordapp.com/channels/512870694883950598/542953099560615946)`, following the rules in [Rebuilding](rebuild.md)
+Once your character participates in a DM event, all rebuilds must be submitted for review in [!badge icon="/images/discord-mark-blue.svg" text="#rebuild-retire-log"](https://discordapp.com/channels/512870694883950598/542953099560615946)`, following the rules in [Rebuilding](/records/rebuild/)
 !!!
 
 ## Beyond 1st Level

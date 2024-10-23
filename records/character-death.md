@@ -16,7 +16,7 @@ All characters who die on the server are immortalized in [!badge icon="/images/d
 
 Your character's friends or acquaintances may start a fund for a revival. In which case, you can wait as long as it is necessary for the fund to be raised. During this time you cannot RP your character, and the character slot is still being used.
 
-In case that is not an option, or you wish to rather start over with an entirely different character, not all of the player's efforts are lost, as you may benefit from the [Cushion Rule](claims.md). Please beware, once you use the cushion rule, the old character can no longer be revived.
+In case that is not an option, or you wish to rather start over with an entirely different character, not all of the player's efforts are lost, as you may benefit from the Cushion Rule. Please beware, once you use the cushion rule, the old character can no longer be revived.
 
 ## Cushion Rule
 

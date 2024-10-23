@@ -21,12 +21,10 @@ h1:before {
 
 ==- 1️ **Follow the rules of the game.**
 This includes:
-- DnD 5e ruleset
-<https://www.dndbeyond.com/sources/basic-rules>
+- [DnD 5e ruleset](https://www.dndbeyond.com/sources/basic-rules)
 - Server’s rule adjustments and variant rules
-  - [!badge icon="/images/discord-mark-blue.svg" text="#severratas"](/faq/erratas.md)
-  - DnD World Content Errata/Variant Feature Document
-<https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/edit> 
+  - [!badge icon="/images/discord-mark-blue.svg" text="#severratas"](/faq/rulings/)
+  - [DnD World Content Errata/Variant Feature Document](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
 - Table rules your DM is using for their games
 ==- 2️ **Do not invent lore.**
 You or your characters should not imply the existence of any influential new locations, organizations, entities, NPCs, events, items, etc. which are not already established in the server. 

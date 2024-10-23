@@ -38,7 +38,7 @@ To accommodate our size, games are West Marches style with some changes. In West
 !!!Not Your Style?
 We encourage you to give us a try! Many people who initially joined for campaigns ended up enjoying the atmosphere and stayed on for years. However, if you are *only* looking for traditional campaign-style games, then you are welcome to try the following avenues:
 
-- [Our Partner Servers](partner-servers.md)
+- [Our Partner Servers](/misc/partner-servers/)
 - [The r/LFG subreddit](https://www.reddit.com/r/lfg/)
 - [The official Dungeons & Dragons server](https://discord.gg/dnd)
 
@@ -59,7 +59,7 @@ Everyone loves a good meme, but it is important to understand that memes only re
 Streams and podcasts like CR or D20 are popular ways people get introduced to the game. However, it is vital to note that their actors are professionals, and Matt Mercer is a master worldbuilder. As such, you should not expect yourself, other players, or the DM to roleplay to their standard.
 
 !!!Take Note: Critical Role content is considered Homebrew here
-We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules.md)
+We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules/)
 !!!
 
 ==- Playing Video Games (e.g. Baldur's Gate 3)
@@ -82,7 +82,7 @@ For us, we play Dungeons & Dragons 5th Edition, which is the most recent version
 !!!I can play anything I want?!
 D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [races](https://www.dndbeyond.com/species) and [classes](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
 
-As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](4.md) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
+As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](/charcre-v2/4/) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
 !!!
 
 Before you begin, start by imagining what kind of character you want to create.
@@ -106,7 +106,7 @@ Each class has their own advantages and disadvantages. Below is a simplified lis
 A fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
 
 !!!warning I want to play a Summoner!
-We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](video-games-vs-dnd/Summoner).
+We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](/tips/video-games-vs-dnd/#summoner).
 !!!
 
 ## How to Learn D&D
@@ -179,7 +179,7 @@ These options will be marked with the `[Legacy]` tag.
 !!!
 
 ### Getting access to paid material (Optional)
-> The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For more info please refer [here](ddb.md).
+> The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For more info please refer [here](ddb/).
 
 ---
 ## D&D Beyond Character Builder
@@ -195,10 +195,10 @@ These options will be marked with the `[Legacy]` tag.
 ### 2. Background
 > [Backgrounds](https://www.dndbeyond.com/backgrounds) are different but closely linked to backstories. Your background gives your character certain abilities and special features depending on how they spent their lives before becoming an adventurer.
 
-> Filling out the Character Details, Physical Characteristics, etc. is optional. Feel free to skip this and simply describe as you go along. You can check out the [Backstory Guide](4.md) for fleshing out your character.
+> Filling out the Character Details, Physical Characteristics, etc. is optional. Feel free to skip this and simply describe as you go along. You can check out the [Backstory Guide](/charcre-v2/4/) for fleshing out your character.
 
 ### 3. Species/Race
-> Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules.md). The descriptions on races can be found [here](https://www.dndbeyond.com/races)
+> Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules/). The descriptions on races can be found [here](https://www.dndbeyond.com/races)
 > 
 > However, as we are not using the default 5th Edition world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
 
@@ -210,7 +210,7 @@ These options will be marked with the `[Legacy]` tag.
 > - **Point Buy**: Customize your ability scores by spending points. You can either use DDB's in-built calculator or this [Point Buy calculator](http://chicken-dinner.com/5e/5e-point-buy.html).
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Choose “Manual/Rolled” for the Generation Method
->    - See [here](stat-rolling.md) for more instructions 
+>    - See [here](stat-rolling/) for more instructions 
 
 ### 5. Equipment
 > You can choose from a list of starting equipment (recommended) or roll for gold and do the shopping yourself. 
@@ -227,7 +227,7 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 #### 2. Import Your Character to Discord
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
 > Make sure your character sheet is set to PUBLIC first
->   - If you're on the mobile D&D Beyond app, check out [this resource](misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
+>   - If you're on the mobile D&D Beyond app, check out [this resource](/misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
 > - Post in [!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 <br>
 > ```
@@ -235,14 +235,14 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > ```
 
 #### 3. Set Up Your Character with Avrae
-> Setting up with the dice bot will make it easier for you to track your gold and XP. Please follow the steps in ⁠[After Creating Your Character](/after-creating-your-character/start-playing.md).
+> Setting up with the dice bot will make it easier for you to track your gold and XP. Please follow the steps in ⁠[After Creating Your Character](/after-creating-your-character/start-playing/).
 
 #### 4. Learn How to Earn RPXP and XP
-> RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. Read more [here](/after-creating-your-character/games.md).
+> RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. Read more [here](/after-creating-your-character/games/).
 
 ## What does X mean?
 
-Below is a list of common D&D lingo that's not otherwise explained in the above document. For server-specific lingo, please check out [here](resources.md).
+Below is a list of common D&D lingo that's not otherwise explained in the above document. For more lingo (including server-specific ones), please check out [here](/misc/resources/#abbreviationslingo).
 
 - Flavor: A piece of content (e.g. text, images) that are done solely to improve immersion. Also refers to changes that give no mechanical benefit, e.g.:
   - "Flavoring" your cloak to be made out of bear fur instead of linen.
@@ -255,5 +255,5 @@ Below is a list of common D&D lingo that's not otherwise explained in the above 
 Ask questions in
 [!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)!
 
-💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
+💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](https://youtu.be/im0vDcYFIbI), created by our partner server The Starry Shore!
 !!!
