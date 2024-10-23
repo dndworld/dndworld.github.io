@@ -1,6 +1,6 @@
 ---
 label: Developer Documentation
-visibility: hidden
+order: 1000
 ---
 
 ## Background and Resources
@@ -17,3 +17,7 @@ Overall, with Git and GitHub, your changes should be committed (saved) to your f
 
 - [Developing on GitHub](/docs/github-dev.md) has fewer technical requirements. Recommended if this is your first time and you are only changing the text content.
 - [Developing from your machine](/docs/local-dev.md) has more technical requirements, but will let you preview your changes and perform different changes.
+
+##  Subject Matter
+
+- [DDB Characters page](https://www.dndbeyond.com/characters/)
