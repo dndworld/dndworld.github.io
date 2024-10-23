@@ -44,7 +44,7 @@ Our staff team is here to help you should you have any problems or questions alo
 ---
 
 ## World Setting
-![](/Images/map-icris.jpg)
+![](/images/map-icris.jpg)
 
 You are on the mainland known as Icris. Icris is a fantasy setting with its own pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. 
 
@@ -60,7 +60,7 @@ No guns or firearm lookalikes exist in this world. No sci-fi, no references to o
 ---
 
 ## Snowhaven, Nanam
-![](/Images/map-snowhaven.jpg)
+![](/images/map-snowhaven.jpg)
 
 This is the hub town where all characters gather. **Snowhaven** is a city set in a snowy taiga, where the weather is often cold. The climate is based off Baffin Island, Canada.
 
