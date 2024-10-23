@@ -149,7 +149,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 > !train
 > ```
 > 
-> The full explanation of Combat Training DTD can be found in `#lifestyle-dtd-rules`, and the command description and argument options can be found by running `!help train` in `#bot-dump`. You can do 1 DTD per day, up to 5 per week.
+> The full explanation of Combat Training DTD can be found in `#lifestyle-dtd-rules`, and the command description and argument options can be found by running `!help train` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313). You can do 1 DTD per day, up to 5 per week.
 
 3. Log the XP
 > Go to `#xp-tracker` and log the XP

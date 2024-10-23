@@ -14,7 +14,7 @@ This is a "Quick Start" guide for newcomers to the server.
 
 - World setting and server info: [About Us](/)
 - If you need help or have questions about getting started on the server, please reach out to `#beginner-help`! 
-- If you have any other questions, please reach out to `#server-questions`!
+- If you have any other questions, please reach out to [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584)!
 
 ## New to D&D?
 Head over to [New to D&D](new-to-dnd.md), which has a step-by-step guide for making your first D&D character!

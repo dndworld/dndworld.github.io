@@ -36,10 +36,10 @@ You are about to join a homebrew text-only server where you will take on bountie
 
 ## A Few Words
 > - We would appreciate it if you would take the time to read the #rules if you haven't already. Every rule is there for a reason. 
-> - Please refer to `#character-creation-rules` for accepted books and UA/Homebrew. 
-Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in `#server-questions`
+> - Please refer to the [Character Creation Rules](cc-rules.md) for accepted books and UA/Homebrew. 
+Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584)
 
-> - If you don’t think DW is what you are looking for, you may find something that better suits your taste in our #partner-servers.
+> - If you don’t think DW is what you are looking for, you may find something that better suits your taste in [Partner Servers](partner-servers.md).
 
 ---
 

@@ -44,7 +44,7 @@ RP: [describe how you are trying to impress your new boss!]
 > - `!tool exp "Thieves' Tools"` to add expertise
 
 !!!
-For the full help text, use `!help tool` in `#bot-dump`
+For the full help text, use `!help tool` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313)
 !!!
 
 > Tool Check Example: `!tool "Carpenter's Tools" "STR"`
@@ -102,7 +102,7 @@ In ⁠`#dtd-automated-log`:
 ```
 
 !!!
-For the full help text, use `!help ptw` in `#bot-dump`.
+For the full help text, use `!help ptw` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
 !!!
 
 ## High-Risk Work (HRW) 💰

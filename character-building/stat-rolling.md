@@ -15,7 +15,7 @@ h1:before {
 - You only get one roll per character.
 - Only the rolls made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) are valid.<br>
 <br><br>
-- All test rolls should be done in `#bot-dump`.
+- All test rolls should be done in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
 - Upload your character sheets in [!badge icon="/images/discord-mark-blue.svg" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), not [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264).
 !!!
 
