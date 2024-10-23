@@ -1,5 +1,5 @@
 ---
-label: What's Next
+label: What's Next?
 order: 100
 icon: ":rocket:"
 ---
@@ -163,7 +163,7 @@ There are channels for specific content under the **DnD Chat** category. Please 
 
 ## Signing up for DM events
 
-Full explanation on the available game types on the server can be found in [How to Earn XP](earn-xp.md).
+Full explanation on the available game types on the server can be found in [What's Next?](whats-next.md).
 
 1. Wait for Level pings
 
