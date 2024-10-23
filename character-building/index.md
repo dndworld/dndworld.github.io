@@ -18,5 +18,5 @@ To get your character set up for the server, have a look at the following tabs:
 === First time playing D&D?
 [!ref icon=":beginner:" text="New to D&D"](new-to-dnd.md)
 === Want to read our server's rules on character creation?
-[!ref icon=":hammer_and_wrench" text="Character Creation Rules"](cc-rules.md)
+[!ref icon=":hammer_and_wrench:" text="Character Creation Rules"](cc-rules.md)
 ===
