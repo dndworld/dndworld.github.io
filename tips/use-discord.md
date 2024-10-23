@@ -36,7 +36,7 @@ For **mobile**, to follow the WITHIN THE TEXT CHANNEL section, tap (instead of r
 ### How to Format Text on Discord
 You can use Markdown to format your Discord messages! Read more about it [here](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline).
 
-When formatting roleplay posts, follow [Roleplay Rules 7](/rp-rules/).
+When formatting roleplay posts, follow [!badge icon="mark-github" variant="dark" text="Roleplay Rules 7"](/rp-rules/).
 
 ### How to Add Reactions to Discord Messages
 Follow [this article](https://support.discord.com/hc/en-us/articles/360041139231-Adding-Emojis#h_01H06HNQ7TP5MDCDRJVG52QFVN) (It should open to the relevant section).

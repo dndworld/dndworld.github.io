@@ -12,7 +12,7 @@ h1:before {
 
 If you’re someone who are new to D&D and have only ever played video games, or are just struggling in general, then you have come to the right place! 
 
-This document is designed to explain the differences between more popular games and D&D, so that you can manage your expectations when you play. Please note that this won’t teach you the mechanics around how to play D&D; for that, you should check out [here](/character-building/new-to-dnd/).
+This document is designed to explain the differences between more popular games and D&D, so that you can manage your expectations when you play. Please note that this won’t teach you the mechanics around how to play D&D; for that, you should check out [!badge icon="mark-github" variant="dark" text="here"](/character-building/new-to-dnd/).
 
 Let’s get started!
 
@@ -30,7 +30,7 @@ Games that are designed to be short such as arenas and pits typically take aroun
 
 As a TTRPG, D&D publishes its manuals in book-form. These rules attempt to accommodate the potentially limitless possibilities within D&D. In addition, over the years, dozens of books have been released to expand on what you can do with the game.
 
-As such, a lot of the game requires reading. We recommend you start with our [New to D&D guide](/character-building/new-to-dnd/). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" text="#beginner-help"](https://discordapp.com/channels/512870694883950598/621035485690724369), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
+As such, a lot of the game requires reading. We recommend you start with our [!badge icon="mark-github" variant="dark" text="New to D&D guide"](/character-building/new-to-dnd/). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" text="#beginner-help"](https://discordapp.com/channels/512870694883950598/621035485690724369), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
 
 ### Games Emphasize Teamwork
 

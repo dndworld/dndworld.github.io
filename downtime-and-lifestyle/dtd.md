@@ -124,7 +124,7 @@ To pull up the help text for each guild DTD, use following command in `bot-dump`
 !help guild [Name of DTD]
 ```
 
-For help in joining a guild, please refer to [Joining a Guild (Optional)](/start-playing/start-playing/#joining-a-guild-optional)
+For help in joining a guild, please refer to [!badge icon="mark-github" variant="dark" text="Joining a Guild (Optional)"](/start-playing/start-playing/#joining-a-guild-optional)
 
 ## Business DTD
 

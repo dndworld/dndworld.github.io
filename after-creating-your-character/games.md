@@ -126,7 +126,7 @@ Lv | RPXP/hr | Weekly Cap
 
 **RPXP Claim**
 
-> If it has been 1 month since your character's last DM-sanctioned event, or since you imported your character, you can claim their RPXP as XP by submitting the form in [Claims](/records/claims/).
+> If it has been 1 month since your character's last DM-sanctioned event, or since you imported your character, you can claim their RPXP as XP by submitting the form in [!badge icon="mark-github" variant="dark" text="Claims"](/records/claims/).
 > 
 > The 1-month timer resets once the claim is processed.
 
@@ -138,7 +138,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 1. Set up the Lifestyle
 > In order to do Downtime Days (DTD) activities, you must first pay the lifestyle cost. 
 > 
-> Please check out the [Lifestyle rules](/downtime-and-lifestyle/lifestyle/) for more details and how to set up your lifestyle.
+> Please check out the [!badge icon="mark-github" variant="dark" text="Lifestyle rules"](/downtime-and-lifestyle/lifestyle/) for more details and how to set up your lifestyle.
 
 2. Do the Combat Training
 > Note that combat training has a cost of 1gp per character level. This is automatically deducted from the coin purse when you use the `!train` alias.
@@ -149,7 +149,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 > !train
 > ```
 > 
-> The full explanation of Combat Training DTD can be found in [Lifestyle rules](/downtime-and-lifestyle/lifestyle/), and the command description and argument options can be found by running `!help train` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313). You can do 1 DTD per day, up to 5 per week.
+> The full explanation of Combat Training DTD can be found in [!badge icon="mark-github" variant="dark" text="Lifestyle rules"](/downtime-and-lifestyle/lifestyle/), and the command description and argument options can be found by running `!help train` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313). You can do 1 DTD per day, up to 5 per week.
 
 3. Log the XP
 > Go to [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481) and log the XP

@@ -23,7 +23,7 @@ h1:before {
 This includes:
 - [DnD 5e ruleset](https://www.dndbeyond.com/sources/basic-rules)
 - Server’s rule adjustments and variant rules
-  - [!badge icon="/images/discord-mark-blue.svg" text="#severratas"](/faq/rulings/)
+  - [!badge icon="mark-github" variant="dark" text="#severratas"](/faq/rulings/)
   - [DnD World Content Errata/Variant Feature Document](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
 - Table rules your DM is using for their games
 ==- 2️ **Do not invent lore.**
@@ -142,7 +142,7 @@ For exceptional issues that are time-sensitive, you may notify Mods. Some exampl
 - If there is a Bot raid and the Mods have not been notified yet, you may ping `@Mod`.
 - If arguments between players are getting heated to the point it requires intervention, or if a Player vs Player (PvP) fight may be imminent, you may ping a Moderator who is online.
 
-For general reports of rule-breaking behaviors, please react to the offending post with an ❗ `:exclamation:`. Further details can be found in ["How to Report Rule-Breaking"](/rules/#how-to-report-rule-breaking) section of [Server Rules](/rules/) (Discord: [!badge icon="/images/discord-mark-blue.svg" text="#rules"](https://discord.com/channels/512870694883950598/535362768379969547)).
+For general reports of rule-breaking behaviors, please react to the offending post with an ❗ `:exclamation:`. Further details can be found in the [!badge icon="mark-github" variant="dark" text="How to Report Rule-Breaking"](/rules/#how-to-report-rule-breaking) section of [!badge icon="mark-github" variant="dark" text="Server Rules"](/rules/) (Discord: [!badge icon="mark-github" variant="dark" text="#rules"](https://discord.com/channels/512870694883950598/535362768379969547)).
 
 
 ### Receiving Pings from Staff

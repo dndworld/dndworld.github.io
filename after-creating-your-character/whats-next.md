@@ -10,7 +10,7 @@ h1:before { content: "🚀" }
 
 # What's Next?
 
-This page is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/character-building/start-here/)
+This page is to teach you what to do after creating your character. If you have not done so yet, check out [!badge icon="mark-github" variant="dark" text="Start Here"](/character-building/start-here/)
 
 ## Setting up Class, Race, Custom Counters (CCs)
 
@@ -113,11 +113,11 @@ They would describe how their character looks like and say what they are doing, 
 
 #### Follow the Rules
 
-Please use common sense and behave as you would in a public setting. Follow the [rules](/rules). Breaking things and crime will definitely get you thrown into jail as the RP channels are meant as a safe zone.
+Please use common sense and behave as you would in a public setting. Follow the [!badge icon="mark-github" variant="dark" text="rules"](/rules). Breaking things and crime will definitely get you thrown into jail as the RP channels are meant as a safe zone.
 
 ## RPXP
 
-RPXP allows you to earn bankable credits for roleplaying. The full explanation can be found [here](games.md).
+RPXP allows you to earn bankable credits for roleplaying. The full explanation can be found [!badge icon="mark-github" variant="dark" text="here"](games/).
 
 #### First Time
 
@@ -244,7 +244,7 @@ Bag management within the server is completely optional. Should you want to trac
 
 **Downtime** enable you to earn some extra gold, copy spells, and other neat features.
 
-The full explanation on Lifestyle and Downtime can be found in [Lifestyle and DTD Rules](/downtime-and-lifestyle/lifestyle).
+The full explanation on Lifestyle and Downtime can be found in [!badge icon="mark-github" variant="dark" text="Lifestyle and DTD Rules"](/downtime-and-lifestyle/lifestyle).
 
 If you do not pay Lifestyle, you are considered to be benefiting from the Snowhaven Full Time Adventurer scheme and will stay in the [!badge icon="/images/discord-mark-blue.svg" text="#cozy-yeti-estates"](https://discord.com/channels/512870694883950598/611385164060295168) with your expenses covered for. 
 

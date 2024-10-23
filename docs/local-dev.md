@@ -4,7 +4,7 @@ icon: ":computer:"
 order: 0
 ---
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)
 
 This method is best for code changes and substantial content changes, as it lets you preview changes before even committing them.
 
@@ -166,7 +166,7 @@ Then after navigating to your local `dwguide` fork, you can open it on VS Code: 
 code .
 ```
 
-[See here for how to commit your changes](/docs/github-dev.md#with-a-codebase).
+[!badge icon="mark-github" variant="dark" text="See here for how to commit your changes"](/docs/github-dev/#with-a-codebase).
 
 ### Keyboard Shortcuts
 
@@ -194,4 +194,4 @@ button#docs-edit-button { display: none; }
 
 The button can shift the position of the image, giving you an inaccurate preview of what the image will look like.
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)

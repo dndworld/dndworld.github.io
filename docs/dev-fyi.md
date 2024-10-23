@@ -3,9 +3,9 @@ label: Developer FYI
 order: 20
 ---
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)
 
-Check [Developing From Your Machine](/docs/local-dev.md) for FYI specific to the preview server.
+Check [!badge icon="mark-github" variant="dark" text="Developing From Your Machine"](/docs/local-dev/) for FYI specific to the preview server.
 
 === **Page Links**
 
@@ -127,11 +127,11 @@ Additional Notes:
 
 ==- **Styling**
 
-Outside of images, CSS is used to control how the page content looks. You only really need to learn foundational concepts like selectors and the box model, then be ready to look up and read up on CSS properties. And a lot of testing of course. You should also [set up a local fork on your machine](/docs/local-dev) to preview changes.
+Outside of images, CSS is used to control how the page content looks. You only really need to learn foundational concepts like selectors and the box model, then be ready to look up and read up on CSS properties. And a lot of testing of course. You should also [!badge icon="mark-github" variant="dark" text="set up a local fork on your machine"](/docs/local-dev) to preview changes.
 
 `/_includes/head.html` contains some basic documentation.
 - Retype's own styling will override or be re-applied when the reader jumps to a different page, so values for global styles must be appended with `!important` to not be ignored.
 
 ===
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)
