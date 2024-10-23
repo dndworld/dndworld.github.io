@@ -13,10 +13,8 @@ h1:before {
 - It is **optional** to roll for stats/gold/hp. However, once you have made the rolls, you **must** use the rolled results.
 <br><br>
 - You only get one roll per character.
-- Only the rolls made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) are valid.<br>
-<br><br>
-- All test rolls should be done in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
-- Upload your character sheets in [!badge icon="/images/discord-mark-blue.svg" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), not [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264).
+- Only the rolls made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) are valid. All test rolls should be done in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
+- Upload your character sheets in [!badge icon="/images/discord-mark-blue.svg" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661).
 !!!
 
 ## Rolling for Stats

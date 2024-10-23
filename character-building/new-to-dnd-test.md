@@ -33,7 +33,7 @@ Broadly speaking, our server is a living world, which is a unique format of D&D 
 
 To accommodate our size, games are West Marches style with some changes. In West Marches, there are multiple DMs and many players. Rather than having to stick to weekly sessions and a consistent party, games are instead held whenever a DM has time. 
 
-**If you are interested, are free at that time, and have a character within that level range, go ahead and sign-up.** The DM will then pick a party from the sign-ups. These sessions are typically self-contained one-shots, and there is no overarching plot. This reduces the commitment needed, especially if you just want to try the game.
+**If you are free at that time, and have a character within that level range, go ahead and sign-up.** The DM will then pick a party. These sessions are typically self-contained one-shots, and there is no overarching plot. This reduces the commitment needed, especially if you just want to try the game.
 
 !!!Not Your Style?
 We encourage you to give us a try! Many people who initially joined for campaigns ended up enjoying the atmosphere and stayed on for years. However, if you are *only* looking for traditional campaign-style games, then you are welcome to try the following avenues:
@@ -50,7 +50,7 @@ We kindly ask that you do not advertise your campaigns on our server.
 Over the years, we have encountered a wide variety of players from all sorts of backgrounds. However, sometimes this leads to mismanaged expectations on how we personally play D&D. As such, we have compiled this helpful list of common scenarios for you:
 
 ==- Campaign with Family & Friends
-If you've already played D&D before, you may feel like you already have a grasp on D&D's mechanics. However, every 
+If you've already played D&D before, you may feel like you already have a grasp on D&D's mechanics. However, every table plays differently; some follow the game rules strictly, while others use lots of homebrew or Rule of Cool. Some DMs are totally okay with you rolling up a world-conquering necromancer with an army of robots at Level 1— we are not one of them, haha. Due to home games taking these kinds of liberties, we encourage you to pay attention to our rules and open your mind to adjusting expectations.
 
 ==- Memes
 Everyone loves a good meme, but it is important to understand that memes only represent one part of the D&D experience. In many cases, they are exaggerated for comedic effect; you probably *won't* be in a party with a witch on a tricycle. As our server lasts up till Level 20, we generally don't encourage you to create joke characters that would only be funny for a few sessions. 
@@ -89,7 +89,7 @@ Before you begin, start by imagining what kind of character you want to create.
 
 - How is your character's personality like? Are they serious, witty, cold, or emotional?
 - Do they care about good and evil, or are they more of a grey character?
-- Do you want to play them as someone who casts spells? A traditional sword and board warrior? Or both?
+- Are they someone who casts spells? A traditional sword and board warrior? Or both?
 - What role in the party should they fulfil? Do you want to play a heroic defender who protects others? A skirmisher assassin who lurks in the shadows? A versatile spellcaster who supports their team?
 - Which is more important to you, combat or roleplay? Both?
   - Does having an optimized character matter to you?
@@ -100,13 +100,13 @@ Your answers will influence how you make your choices in the next section. Race/
 
 Each class has their own advantages and disadvantages. Below is a simplified list of classes and what each of them focus on:
 
-<img src="https://i.imgur.com/d8Oi7pL.png" alt="Class Overview" width="400"/>
+<img src="https://i.imgur.com/d8Oi7pL.png" alt="Class Overview" width="500"/>
 </p>
 
-- Additional fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
+A fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
 
-!!!warning I want to play a Summoner
-We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](video-games-vs-dnd/Summoner)
+!!!warning I want to play a Summoner!
+We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](video-games-vs-dnd/Summoner).
 !!!
 
 ## How to Learn D&D
@@ -115,7 +115,7 @@ We generally don't encourage new players try a summoner build as their first cha
 Your character is defined by their Character Sheet, which is the [digital] paper that details what your character is capable of. You will need one to enter the server proper. Read on to find out more.
 !!!
 
-The most comprehensive way to learn D&D is to start with the [!badge variant="contrast" text="**Basic Rules (2014)**"](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). You do not have to read everything all at once, and it is not necessary to read everything:
+The most comprehensive way to learn D&D is to start with the [!badge text="**Basic Rules (2014)**"](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). You do not have to read everything all at once, and it is not necessary to read everything:
 
 1. **Step by Step Characters: Yes, please read this**
 2. **Races: Skip to those you are interested in**
@@ -127,7 +127,7 @@ The most comprehensive way to learn D&D is to start with the [!badge variant="co
 8. Adventuring: Skip directly to The Environment; this section is more situational so a quick skim will do
 9. **Combat: Absolute necessary to read**
 10. **Spellcasting: Only if you play a spellcasting class.** You can skip if you are starting as a Barbarian, Fighter, Monk or Rogue.
-11. **Spells:** Skip for now; for spellcasters, you can read the Level 1 spells on your sheet later.
+11. Spells: Skip for now; for spellcasters, you can read the Level 1 spells on your sheet later.
 12. Monsters: Don't read this.
 13. Building Combat Encounters: Don't read this.
 14. Magic Items: Ignore for now.
@@ -207,7 +207,7 @@ These options will be marked with the `[Legacy]` tag.
 
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
-> - **Point Buy**: Customize your ability scores by spending points. You can either use DDB's in-built calculator or this [Point Buy calculator website](http://chicken-dinner.com/5e/5e-point-buy.html).
+> - **Point Buy**: Customize your ability scores by spending points. You can either use DDB's in-built calculator or this [Point Buy calculator](http://chicken-dinner.com/5e/5e-point-buy.html).
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Choose “Manual/Rolled” for the Generation Method
 >    - See [here](stat-rolling.md) for more instructions 
@@ -229,6 +229,7 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > Make sure your character sheet is set to PUBLIC first
 >   - If you're on the mobile D&D Beyond app, check out [this resource](misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
 > - Post in [!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
+<br>
 > ```
 > !import <link>
 > ```
@@ -251,8 +252,8 @@ Below is a list of common D&D lingo that's not otherwise explained in the above 
 - Sourcebook: Any official book released by Wizards of the Coast that expands on the game rules and features.
 
 !!!
-Ask questions!
-[!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
+Ask questions in
+[!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)!
 
- 💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
+💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 !!!

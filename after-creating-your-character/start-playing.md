@@ -75,7 +75,7 @@ Transactions logged outside of [!badge icon="/images/discord-mark-blue.svg" text
 For D&D Beyond users, Avrae should automatically handle this step. Your coin purse may sync the first time you run `!import`, so check your balance by running `!transaction` first. 
 !!!
 
-In `[!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081)`, replace **#** with the starting gold amount.
+In [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081), replace **#** with the starting gold amount.
 ```
 !transaction "Starting Gold" +#gp
 ```
@@ -141,7 +141,7 @@ Set up your counters: `!rpxp` in [!badge icon="/images/discord-mark-blue.svg" te
 
 ### Weekly Cap
 
-**Every Monday (EST)** you can reset your Weekly RPXP Cap by running the following command in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481):
+**Every Monday (EST)** you can reset your Weekly RPXP Cap by running the following command in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) :
 
 ```
 !rpxp cap reset
@@ -157,7 +157,7 @@ Snowhaven: West/High Class/North/South, Underhaven, Nanam in Nature, Shops, and 
 
 #### Other OOC channels
 
-When you aren't RPing or taking part in events, you can chill in any of the OOC channels, where you can talk about character builds, recent bounties, real life, etc. Popular channels include [!badge icon="/images/discord-mark-blue.svg" text="#snowhaven-north-ooc"](https://discord.com/channels/512870694883950598/579940774574161942) and [!badge icon="/images/discord-mark-blue.svg" text="#guild-ooc"](https://discord.com/channels/512870694883950598/527458737892622361)
+When you aren't RPing or taking part in events, you can chill in any of the OOC channels, where you can talk about character builds, recent bounties, real life, etc. Popular channels include [!badge icon="/images/discord-mark-blue.svg" text="#snowhaven-north-ooc"](https://discord.com/channels/512870694883950598/579940774574161942) and [!badge icon="/images/discord-mark-blue.svg" text="#guild-ooc"](https://discord.com/channels/512870694883950598/527458737892622361).
 
 There are channels for specific content under the **DnD Chat** category. Please try to keep posts related to those topics contained to those channels. Similarly, please keep bot commands to [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
@@ -191,7 +191,7 @@ The DM will ping you again in the appropriate OOC (out of character) channel for
 
 6. After the Game: Tracking XP
 
-[!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) is used for you to track XP on this server.
+[!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) for you to track *all* XP on this server using the `!dxp` command.
 
 To add the XP from the game:
 
@@ -200,8 +200,6 @@ To add the XP from the game:
 ```
 
 > (e.g. `!dxp game 100 "Red Ruby Heist"`)
-
-All XP must be tracked in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) with the `!dxp` alias. 
 
 When you level up, adjust your sheet accordingly and run `!update` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313). No sheet link is required.
 

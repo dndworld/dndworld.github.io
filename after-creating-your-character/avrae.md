@@ -13,8 +13,7 @@ h1:before {
 
 Avrae is our virtual dice bot that we use to make all dice rolls on the server. This page lists the most commonly used Avrae commands along with a few examples.
 
-For the complete list of the commands, visit:
-<https://avrae.io/commands/>
+For the complete list of the commands, visit [here](https://avrae.io/commands/).
 
 - `!help`: sends you a full list of commands to PM.
 - `!tutorial quickstart`: starts a step-by-step guide.
@@ -254,7 +253,7 @@ For the full list of options for each command, use `!help <command> [subcommand]
 
 ## Content Lookup
 
-> You can lookup items, status effects, rules, etc. By default, Avrae only supports content from Basic Rules. For gaining access to paid material on D&D Beyond via content sharing links, follow the instructions pinned in [!badge icon="/images/discord-mark-blue.svg" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310).
+> You can lookup items, status effects, rules, etc. By default, Avrae only supports content from Basic Rules. For gaining access to paid material on D&D Beyond via content sharing links, follow the instructions in the [DDB Guide](ddb.md)
 > - Connect your Discord account with D&D Beyond account. This can be done from "Account Settings" page in D&D Beyond. Confirm the connection by running:
 > <br><br>
 > ```

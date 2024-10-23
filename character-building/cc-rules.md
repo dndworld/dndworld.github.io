@@ -84,10 +84,8 @@ DiceCloud v1 tutorials
 
 ### Official Material
 
-!!!warning **Please Note: we are using the 2014 D&D 5e ruleset.**
-If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
-!!!
-
+> **We use the 2014 D&D 5e ruleset.** If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
+> 
 > For the full list of the allowed and disallowed official materials, please refer to [this doc](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
  >-  Alternatively, for the full list of Allowed Races/Species, view [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY).
 
@@ -100,7 +98,7 @@ Paywalled Content
 ### Disallowed Content
 
 !!!warning Recent Releases
-When a new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge icon="/images/discord-mark-blue.svg" text="#changelog"](https://discord.com/channels/512870694883950598/720529747817529374)and updated here.
+When new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge icon="/images/discord-mark-blue.svg" text="#changelog"](https://discord.com/channels/512870694883950598/720529747817529374)and updated here.
 !!!
 
 ==- General
@@ -112,8 +110,12 @@ When a new official material is published, it first needs to be reviewed by our 
 **Under Review**
 - Critical Role: Tal'Dorei Reborn
 
+**Other**
+- Supernatural Gifts
+- Sidekicks
+
 ==- Races/Species
-- Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the source books.
+Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the sourcebooks.
 
 For the full list of allowed and disallowed official races, please refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
 
@@ -121,7 +123,7 @@ For the full list of allowed and disallowed official races, please refer to [thi
 **General**
 - Race-restricted subclasses such as Battlerager lose said restriction.
 - *Tasha's Cauldron of Everything (TCoE)* Optional Class Features are allowed for all classes.
-- D&D Beyond's Blood Hunter is banned. Refer to the version described in the HB Compendium instead.
+- D&D Beyond's Blood Hunter is banned. Refer to the version described in the [UA & Homebrew Compendium](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs) instead.
 
 **Disallowed Subclasses**
 - Bard: College of Eloquence
@@ -159,7 +161,7 @@ For the full list of allowed and disallowed official races, please refer to [thi
 
 ==- Backgrounds
 
-Backgrounds from the following books:
+All backgrounds from the following books:
 - *Baldur's Gate*(except Faceless)
 - *Guildmaster's Guide to Ravnica*
 - *The Wild Beyond the Witchlight*
@@ -189,13 +191,7 @@ Please note that some background features will have no effect on this server, e.
 - Spirit Shroud
 - Tasha's Otherwordly Guise
 - Tasha's Mind Whip
-
-==- Other
-- Supernatural Gifts
-- Sidekicks
 ===
-
-
 
 ### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
 
@@ -206,9 +202,9 @@ If you are new to D&D, we recommend you skip this section.
 Unearthed Arcana is unofficial content released by the D&D developers for playtesting. Homebrew refers to self-published content created by our server.
 
 > - UA that gets officially released or revisited later in another UA is banned.
-> - Any UA content that hasn't been vetted for approval yet isn't allowed. Therefore, if it is not in the approved UA section, it cannot be used.
-> - Charity content, planeshift content, content released by developers outside D&D Beyond, and Critical Role content is considered unofficial and only approved for use if they are in the homebrew document (i.e. the Blood Hunter class).
-> - You cannot multiclass with Homebrew and UA classes/subclasses due to balance reasons.
+> - Only Approved UA listed in the above document can be used.
+> - Charity content, planeshift content, content released by developers outside D&D Beyond, and Critical Role content is considered unofficial and only approved for use if they are in the Homebrew document (i.e. the Blood Hunter class).
+> - You cannot multiclass with Homebrew and UA classes/subclasses for balance reasons.
 >   - For approved third party content released on D&D Beyond, we will specify if it is eligible for multiclass e.g. Humblewood 
 > - If you plan on using Homebrew or UA content, we highly recommend you to use GSheet or DiceCloud sheets due to various limitations of D&D Beyond's Homebrew system.
 
@@ -231,8 +227,8 @@ Erratas refer to changes made to the official game rules, which our server does 
 
 !!!warning
 - It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.
-- All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. **Do not roll stats on D&D Beyond!**
-
+- All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions [here](stat-rolling.md) for rolling Stats, HP, and/or Gold.
+  - **Do not roll stats on D&D Beyond!**
 - You cannot use Standard Array/Point Buy after rolling. 
 - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
 !!!
@@ -240,10 +236,10 @@ Erratas refer to changes made to the official game rules, which our server does 
 ### Character Details
 
 **Name**
-> - Your nickname, character name, as well as username must be easily pingable by the staff members and not something with over repetition of characters (e.g. Caaaaaallum), key-smashes (e.g. jahfjbqwubwqu), difficult to search (e.g. "Copy" or "Backup" as a name), use special font, etc.
+> - Your nickname, character name, as well as username must be easily pingable by the staff members and not something with repeated characters (e.g. Caaaaaallum), key-smashes (e.g. jahfjbqwubwqu), difficult to search (e.g. "Copy" or "Backup" as a name), uses special font, etc.
 
 **Age**
-> - You are not allowed to create characters younger than adolescence, using the guidelines the below chart.
+> - You are not allowed to create characters younger than Adolescence, using the guidelines the below chart.
 > - You also may not play a character who behaves drastically younger than their actual age, i.e. overtly childish behavior.
 
 ![](/images/race-age-chart.png)
@@ -282,7 +278,7 @@ After you create your character and before the character attends a DM event, you
 > - You are still in the character creation phase after gaining XP from Combat Training DTD, an approved RPXP claim, or Avrae Tutorial XP.
 
 !!!warning 
-Once your character participates in a DM event, all rebuilds must be submitted for review in `#rebuild-retire-log`, following the rules in [Rebuilding](rebuild.md)
+Once your character participates in a DM event, all rebuilds must be submitted for review in [!badge icon="/images/discord-mark-blue.svg" text="#rebuild-retire-log"](https://discordapp.com/channels/512870694883950598/542953099560615946)`, following the rules in [Rebuilding](rebuild.md)
 !!!
 
 ## Beyond 1st Level
