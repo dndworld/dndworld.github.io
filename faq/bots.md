@@ -15,7 +15,7 @@ h1:before {
 
 Avrae's scheduled update window is 1400-1500 EST (2PM-3PM), Tuesday afternoons. During these periods, Avrae may go offline for up to 30 minutes.
 
-Any unscheduled updates will be shown in [!badge icon="/images/discord-mark-blue.svg" text="#bot-statuses"](https://discord.com/channels/512870694883950598/744861406158913566)
+Any unscheduled updates will be shown in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-statuses"](https://discord.com/channels/512870694883950598/744861406158913566)
 
 ### Gsheet: Black Error Boxes
 

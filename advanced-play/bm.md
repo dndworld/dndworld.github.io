@@ -10,11 +10,11 @@ h1:before { content: "🎐 " }
 
 ## [Black Market Document](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM)
 
-The Black Market offers a means of purchasing and selling magic items. The document above details how to make transactions with the Black market. Additionally, the Black Market Bin lists all the magic items available to be purchased or sold from the Black Market Bin, without needing to submit a form to [!badge icon="/images/discord-mark-blue.svg" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900).
+The Black Market offers a means of purchasing and selling magic items. The document above details how to make transactions with the Black market. Additionally, the Black Market Bin lists all the magic items available to be purchased or sold from the Black Market Bin, without needing to submit a form to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900).
 
 For transactions through the Black Market Bin: 
-- Once you've found the item you wish to purchase or sell, along with its associated costs, use the `!transaction` command in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081) with all the pertinent information in the command. 
-- If you're purchasing an item, fill out the form below as well and send it in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+- Once you've found the item you wish to purchase or sell, along with its associated costs, use the `!transaction` command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081) with all the pertinent information in the command. 
+- If you're purchasing an item, fill out the form below as well and send it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 - Afterwards, react to it with the 🎐 `:windchime:` emoji. 
 
 !!!Note
@@ -24,7 +24,7 @@ For transactions through the Black Market Bin:
 !!!
 
 ### Black Market Transaction Log Template
-> Post the following log detailing the transaction in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081).
+> Post the following log detailing the transaction in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081).
 > ```
 > __Black Market Transaction Log__
 > **Character:** [Name], [Level]

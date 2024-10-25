@@ -7,7 +7,7 @@ icon: ":supervillain:"
 *Random tasks, for the unskilled and the fearless. These jobs are readily available and do not require you to Find an employer. However they vary wildly in profitability and safety.*
 
 !!!
-For the full help text, use `!help odd <job name>` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
+For the full help text, use `!help odd <job name>` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
 !!!
 
 ## Community Center Service

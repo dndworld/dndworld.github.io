@@ -56,7 +56,7 @@ Public accusations and complaints, slander, doxing, hostile/passive aggressive b
 If you wish to report a problem, please see the [!badge icon="mark-github" variant="dark" text="How to Report Rule-Breaking"](/rules/#how-to-report-rule-breaking) section below.
 ==- 4️ **Use the appropriate channels.**
 
-Use the [!badge icon="/images/discord-mark-blue.svg" text="#channel-guide"](https://discord.com/channels/512870694883950598/537506745916850176) to find the right place to post. If you’re not sure where to do something, ask in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584).
+Use the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#channel-guide"](https://discord.com/channels/512870694883950598/537506745916850176) to find the right place to post. If you’re not sure where to do something, ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584).
 
 Keep out-of-character discussions to OOC channels.
 ==- 5️ **Do Not Do the Staff's Jobs.**
@@ -79,20 +79,20 @@ Do not write messages in those channels unless you’ve been specifically called
 If you have something to add to the discussion, send a message to the `@-FanMail-` bot.
 ==- 7️ **All forms of advertising are prohibited.**
 
-This includes advertisement for art commissions. The only exceptions are officially sanctioned material, such as partner servers. The guidelines for establishing server partnership are pinned in [!badge icon="/images/discord-mark-blue.svg" text="#partner-servers"](https://discord.com/channels/512870694883950598/529249355748605952).
+This includes advertisement for art commissions. The only exceptions are officially sanctioned material, such as partner servers. The guidelines for establishing server partnership are pinned in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#partner-servers"](https://discord.com/channels/512870694883950598/529249355748605952).
 
 For inquiries involving paid promotions and/or giveaways, please message `@-FanMail-`.
 ==- 8️ **Refrain from discussing divisive topics.**
 This server is not an appropriate place for discussing divisive topics, such as politics, religion, and current world events/issues.
 ==- 9️ **Do not ping roles or high-ranking staff members without explicit permission.**
 If you need help:
-- Ask for help in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584). You will get an answer from a staff member, or be redirected to the right channel for further inquiries.
+- Ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584). You will get an answer from a staff member, or be redirected to the right channel for further inquiries.
 - You may contact Welcomers via direct messages to get help with getting started on this server.
 - If you have a private or sensitive matter to discuss that you would prefer to avoid getting other staff involved with, send a private message to one of our Admin, Senior, or Mentor staff.
 ==- 1️️0️ **This server does not endorse or allow discussion of piracy.**
 This includes posting illegally shared content/documents, and links to websites that offer them.
 
-Instead, you are invited to make use of the server's DnDBeyond content sharing links (requested via [!badge icon="/images/discord-mark-blue.svg" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310)), look it up on google, Roll20's compendium, or consider purchasing your own hardcopy of source materials.
+Instead, you are invited to make use of the server's DnDBeyond content sharing links (requested via [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310)), look it up on google, Roll20's compendium, or consider purchasing your own hardcopy of source materials.
 ==- 1️️1️ **Multi-accounting is not permitted.**
 Especially for the purposes of ban evasion or stat rerolling.
 ==- 1️️2️ **Comply with Staff's Requests.**
@@ -108,7 +108,7 @@ Newbies are expected to have their nicknames in the following format at all time
 
 Active Players have more liberty with styling their nicknames. However, while participating in a DM event, they should also adopt the proper nickname format.
 ==- 1️️5️ **No posting or discussion of AI art.**
-Do not post, discuss, or promote AI art on the server, especially in [!badge icon="/images/discord-mark-blue.svg" text="#arts"](https://discord.com/channels/512870694883950598/522427573746008064). Users who state their portraits are AI generated must change them.
+Do not post, discuss, or promote AI art on the server, especially in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#arts"](https://discord.com/channels/512870694883950598/522427573746008064). Users who state their portraits are AI generated must change them.
 ==- 1️️6️ **No Spamming.**
 Do not spam, which includes headers, images, gifs, etc.
 ===
@@ -118,10 +118,10 @@ Do not spam, which includes headers, images, gifs, etc.
 When a user breaks a rule, they may be warned, receive Demerit Points (DP), banned, or otherwise penalized depending on the severity of the offense, at the discretion of the moderator team.
 
 ### Lesser Courthouse
-A user may be pinged in [!badge icon="/images/discord-mark-blue.svg" text="#lesser-courthouse"](https://discord.com/channels/512870694883950598/579940883202572308) for minor mistakes or first time offenses. Please respond to the ping, and correct mistakes accordingly.
+A user may be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lesser-courthouse"](https://discord.com/channels/512870694883950598/579940883202572308) for minor mistakes or first time offenses. Please respond to the ping, and correct mistakes accordingly.
 
 ### Demerit Point System
-For severe offenses, the offending user is summoned to [!badge icon="/images/discord-mark-blue.svg" text="#courthouse"](https://discord.com/channels/512870694883950598/576803952830578688) and be reminded of the rules. One or more Demerit Points (DP) may be assigned to the user. The user is then informed how many total active DPs they have. 
+For severe offenses, the offending user is summoned to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#courthouse"](https://discord.com/channels/512870694883950598/576803952830578688) and be reminded of the rules. One or more Demerit Points (DP) may be assigned to the user. The user is then informed how many total active DPs they have. 
 
 The penalties associated with Demerit Points are as follows:
 
@@ -157,6 +157,6 @@ If you think someone could be breaking the rules and wish to report it, you can 
 All information will be kept confidential. Your efforts will be highly appreciated by the mod team and will keep the server a safe and fair place.
 
 ### Self Report
-If you discover that you have made a mistake, you may self report to [!badge icon="/images/discord-mark-blue.svg" text="#self-reports"](https://discord.com/channels/512870694883950598/1019512399314821140). Please note that this does not guarantee leniency but will increase its likelihood.
+If you discover that you have made a mistake, you may self report to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#self-reports"](https://discord.com/channels/512870694883950598/1019512399314821140). Please note that this does not guarantee leniency but will increase its likelihood.
 
 

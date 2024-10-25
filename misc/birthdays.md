@@ -19,7 +19,7 @@ h1:before {
 
 If you leave and return to the server, your information will still be saved on the bot. 
 
-Please do not wish people "Happy Birthday" here, as it is a logging channel. Do so in [!badge icon="/images/discord-mark-blue.svg" text="#off-topic-general"](https://discord.com/channels/512870694883950598/512870694883950604) or other OOC channels.
+Please do not wish people "Happy Birthday" here, as it is a logging channel. Do so in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#off-topic-general"](https://discord.com/channels/512870694883950598/512870694883950604) or other OOC channels.
 
 To apply for your item, PM the following form to `@FanMail`:
 ``` Birthday Item Request Form
