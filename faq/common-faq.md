@@ -49,7 +49,7 @@ Once you have your character imported in `#character-sheets`, you will see all R
 
 You can also make a post in `#rp-board`, if you'd like to find other players who would like to RP together in one of many RP channels.
 
-Please make sure to follow [!badge icon="mark-github" variant="dark" text="Roleplay Rules"](/rp-rules/) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [!badge icon="mark-github" variant="dark" text="How To Start Playing"](/start-playing/start-playing/) and [!badge icon="mark-github" variant="dark" text="What's Next?"](/after-creating-your-character/whats-next/). The RPXPs and XPs need to be logged in `#⁠xp-tracker`.
+Please make sure to follow [!badge icon="mark-github" variant="dark" text="Roleplay Rules"](/rp-rules/) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [!badge icon="mark-github" variant="dark" text="How To Start Playing"](/start-playing/start-playing/) and [!badge icon="mark-github" variant="dark" text="What's Next?"](/start-playing/whats-next/). The RPXPs and XPs need to be logged in `#⁠xp-tracker`.
 
 ==- "Where can I find the games?", "How do I join them?"
 The games are posted in `#bounty-board` and `#arena-board`. We don't have any particular schedule, because the games are run by our team of volunteer DMs at times when they are available.

@@ -235,10 +235,10 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > ```
 
 #### 3. Set Up Your Character with Avrae
-> Setting up with the dice bot will make it easier for you to track your gold and XP. Please follow the steps in ⁠[!badge icon="mark-github" variant="dark" text="After Creating Your Character"](/after-creating-your-character/start-playing/).
+> Setting up with the dice bot will make it easier for you to track your gold and XP. Please follow the steps in ⁠[!badge icon="mark-github" variant="dark" text="After Creating Your Character"](/start-playing/start-playing/).
 
 #### 4. Learn How to Earn RPXP and XP
-> RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. Read more [!badge icon="mark-github" variant="dark" text="here"](/after-creating-your-character/games/).
+> RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. Read more [!badge icon="mark-github" variant="dark" text="here"](/start-playing/games/).
 
 ## What does X mean?
 

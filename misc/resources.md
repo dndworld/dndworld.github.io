@@ -62,7 +62,7 @@ h1:before {
 ### Other Commonly-Used Abbreviations
 
 - **QL**: Quest-Locked ([!badge icon="mark-github" variant="dark" text="How to Earn XP"](/start-playing/earn-xp/))
-- **CC**: Custom Counter ([!badge icon="mark-github" variant="dark" text="Avrae Commands"](/after-creating-your-character/avrae/))
+- **CC**: Custom Counter ([!badge icon="mark-github" variant="dark" text="Avrae Commands"](/start-playing/avrae/))
 - **IC**: In Character ([!badge icon="mark-github" variant="dark" text="Roleplay Rules"](/rp-rules/))
 - **OOC**: Out Of Character ([!badge icon="mark-github" variant="dark" text="Roleplay Rules"](/rp-rules/))
 - **DDB**: D&D Beyond
