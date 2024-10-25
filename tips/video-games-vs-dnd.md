@@ -30,7 +30,7 @@ Games that are designed to be short such as arenas and pits typically take aroun
 
 As a TTRPG, D&D publishes its manuals in book-form. These rules attempt to accommodate the potentially limitless possibilities within D&D. In addition, over the years, dozens of books have been released to expand on what you can do with the game.
 
-As such, a lot of the game requires reading. We recommend you start with our [!badge icon="mark-github" variant="dark" text="New to D&D guide"](/character-building/new-to-dnd/). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discordapp.com/channels/512870694883950598/621035485690724369), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
+As such, a lot of the game requires reading. We recommend you start with our [!badge icon="mark-github" variant="dark" text="New to D&D guide"](/character-building/new-to-dnd/). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
 
 ### Games Emphasize Teamwork
 
@@ -178,4 +178,4 @@ This is most evident in the **Bard, Rogue, and Artificer** classes. The former t
 
 ## Conclusion
 
-And that's about it! To be sure, there are definitely niche subtypes that were skipped over, but we hope we covered all the main ones. Have fun creating your character, and if you have any suggestions for what else we should cover, do pop them in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discordapp.com/channels/512870694883950598/537506014883217419)!
+And that's about it! To be sure, there are definitely niche subtypes that were skipped over, but we hope we covered all the main ones. Have fun creating your character, and if you have any suggestions for what else we should cover, do pop them in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419)!

@@ -23,7 +23,7 @@ You do not have access to the rest of the server until you import your first cha
 
 If you have any questions, we have a few question channels depending on what your question is about! This page has commonly asked questions listed, and your question might already be answered here. 
 
-[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584) is the default place for most questions. Specific questions for D&D rulings visit `#rulings-questions`, and if your question is about bot commands, first check `#avrae-commands` to see if the information can be found there, otherwise ask for help in `#bot-help-request`.
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) is the default place for most questions. Specific questions for D&D rulings visit `#rulings-questions`, and if your question is about bot commands, first check `#avrae-commands` to see if the information can be found there, otherwise ask for help in `#bot-help-request`.
 
 ==- "Why can I not see all the channels?"
 Once you make your character and import it to `#character-sheets`, you will be able to see the rest of the server. Head over to [!badge icon="mark-github" variant="dark" text="Start Here"](/character-building/start-here/) for the guide. If you are new to D&D, follow the step-by-step guide in [!badge icon="mark-github" variant="dark" text="New to D&D"](/character-building/new-to-dnd/)!
@@ -38,7 +38,7 @@ What official, homebrew, and UA sources and content we allow can be found in [!b
 You have an option to ask for a review of your character sheet in `#review-request`, but it is not required.
 
 ==- "Where can I ask questions?"
-[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584) is where you can ask all server-related questions.
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) is where you can ask all server-related questions.
 
 If you have a question about a specific topic, please take a look at "Guides and Q&A Channels by Topic" Section in `#channel-guide`
 

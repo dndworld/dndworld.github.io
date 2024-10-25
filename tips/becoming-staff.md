@@ -140,7 +140,7 @@ Players who like this role also apply for: Arena Master
     - However, they can help Welcomers who they see are struggling
 - **Variety**: 2
     - Welcomers can help newbies in whichever way they are best at
-    - This tends to come in the form of greeting in `#introductions`, helping in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584) or `#off-topic-general,` or PMing them to help
+    - This tends to come in the form of greeting in `#introductions`, helping in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) or `#off-topic-general,` or PMing them to help
 - **Public Facing**: 4
     - Welcomers are the face of the server and the first impression of new players
     - As such, they should have a friendly and patient disposition

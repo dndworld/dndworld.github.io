@@ -38,7 +38,7 @@ Please do not report:
 - 5e rules mistakes during one game or spar
 
 !!!info
-If you are ever unsure of something like whether your character is legal, whether you're adding XP/RPXP correctly, whether a certain kind of behavior is allowed, or anything else, please ask about it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584), #beginner-help, or #rulings-questions. The staff team is here to help, and we want to help you avoid trouble in the future.
+If you are ever unsure of something like whether your character is legal, whether you're adding XP/RPXP correctly, whether a certain kind of behavior is allowed, or anything else, please ask about it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584), #beginner-help, or #rulings-questions. The staff team is here to help, and we want to help you avoid trouble in the future.
 
 Don't assume something is okay if you have doubts. Rereading the rules and/or asking in the proper channels is always better than getting called here, and helps prevent it from happening at all.
 !!!

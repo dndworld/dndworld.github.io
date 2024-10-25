@@ -14,7 +14,7 @@ This is a "Quick Start" guide for newcomers to the server.
 
 - World setting and server info: [!badge icon="mark-github" variant="dark" text="About Us"](/)
 - If you need help or have questions about getting started on the server, please reach out to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)! 
-- If you have any other questions, please reach out to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584)!
+- If you have any other questions, please reach out to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584)!
 
 ## New to D&D?
 Head over to [!badge icon="mark-github" variant="dark" text="New to D&D"](new-to-dnd/), which has a step-by-step guide for making your first D&D character!
@@ -47,7 +47,7 @@ To roll for gold, follow the instructions [!badge icon="mark-github" variant="da
 > You may take starting equipment or roll for gold. 
 > - If you choose to take starting equipment, the item must be available in the [Snowhaven Market document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/).
 > 
-> Once you have rolled the gold and imported your sheet in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), you may then purchase the equipment in the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081).
+> Once you have rolled the gold and imported your sheet in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), you may then purchase the equipment in the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ### HP
 > We recommend that you choose **fixed value HP** as described in PHB. You may choose to roll HP following the instructions pinned in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264).

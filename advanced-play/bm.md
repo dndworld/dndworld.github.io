@@ -24,7 +24,7 @@ For transactions through the Black Market Bin:
 !!!
 
 ### Black Market Transaction Log Template
-> Post the following log detailing the transaction in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081).
+> Post the following log detailing the transaction in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 > ```
 > __Black Market Transaction Log__
 > **Character:** [Name], [Level]

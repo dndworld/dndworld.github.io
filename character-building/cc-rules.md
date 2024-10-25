@@ -278,7 +278,7 @@ After you create your character and before the character attends a DM event, you
 > - You are still in the character creation phase after gaining XP from Combat Training DTD, an approved RPXP claim, or Avrae Tutorial XP.
 
 !!!warning 
-Once your character participates in a DM event, all rebuilds must be submitted for review in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rebuild-retire-log"](https://discordapp.com/channels/512870694883950598/542953099560615946)`, following the rules in [!badge icon="mark-github" variant="dark" text="Rebuilding"](/records/rebuild/)
+Once your character participates in a DM event, all rebuilds must be submitted for review in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rebuild-retire-log"](https://discord.com/channels/512870694883950598/542953099560615946)`, following the rules in [!badge icon="mark-github" variant="dark" text="Rebuilding"](/records/rebuild/)
 !!!
 
 ## Beyond 1st Level

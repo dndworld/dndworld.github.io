@@ -75,7 +75,7 @@ Transactions logged outside of [!badge icon="/images/discord-mark-blue.svg" vari
 For D&D Beyond users, Avrae should automatically handle this step. Your coin purse may sync the first time you run `!import`, so check your balance by running `!transaction` first. 
 !!!
 
-In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081), replace **#** with the starting gold amount.
+In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081), replace **#** with the starting gold amount.
 ```
 !transaction "Starting Gold" +#gp
 ```

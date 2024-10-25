@@ -25,7 +25,7 @@ This is a channel where newcomers can reach out to staff for help with:
 - Basic Avrae commands
 
 The following topics should be moved to more relevant channels:
-- Questions on the server's rules or systems that require a ruling/clarification from another staff member: [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584) 
+- Questions on the server's rules or systems that require a ruling/clarification from another staff member: [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) 
 - DnD ruling questions: `#rulings-questions` 
 - Brainstorming character ideas: `#character-idea-discussion` 
 

@@ -32,7 +32,7 @@ You can earn RPXP by roleplaying with other players for half an hour or more in 
 #### Active RP
 RPXP can only be added for **active RP.** Players are required to interact with other player(s) in a meaningful and engaged way, such that a reasonable person could tell they are actively RPing (and not, say, sending a few words over the course of 3 hours to farm RPXP).
 
-As a rule of thumb, there should be no more than ≈30 mins between your own messages in a normal- or fast-paced setting such as the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#drunken-yeti-inn"](https://discordapp.com/channels/512870694883950598/551901424276078602).
+As a rule of thumb, there should be no more than ≈30 mins between your own messages in a normal- or fast-paced setting such as the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#drunken-yeti-inn"](https://discord.com/channels/512870694883950598/551901424276078602).
 - If the players involved are replying with long, multi-paragraph messages, some flexibility is allowed.
 
 It is NOT considered active RP if a player's only contribution to a session is a few gestures or words, such as *they take a sip from their mug* or *they nod in agreement*.
@@ -41,7 +41,7 @@ It is NOT considered active RP if a player's only contribution to a session is a
 #### Tracking & Logging
 - RPXP is tracked separately for each character you have. 
 - If you are RPing more than one character at the same time, you can only gain RPXP for one of them during that period.
-- All changes to RPXP must be made in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481)
+- All changes to RPXP must be made in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481)
 - If you are in the middle of RPing, you don't need to use the :octagonal_sign: react when switching channels.
 
 #### DM Events & Redeeming
@@ -70,9 +70,9 @@ Time bubble RPs exist out of the server's time. You can still earn RPXP for them
 
 2) When you stop roleplaying, react to your last post with :octagonal_sign: `:stop:` and get the person you are RPing with to react as well.
 
-3) Find out how long the RP session was. You can find your :beginner: and :octagonal_sign: messages posted to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rp-log"](https://discordapp.com/channels/512870694883950598/592249450789863434).
+3) Find out how long the RP session was. You can find your :beginner: and :octagonal_sign: messages posted to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rp-log"](https://discord.com/channels/512870694883950598/592249450789863434).
 
-4) Log RPXP in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481).
+4) Log RPXP in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481).
 > You can get RPXP for each **half hour** of active RP, rounded down.
 > 
 > ```
@@ -84,7 +84,7 @@ Time bubble RPs exist out of the server's time. You can still earn RPXP for them
 5) Weekly RPXP Cap
 There is maximum RPXP you can gain each week (See the table below).
 
-All RPXP counters reset at 12AM EST Monday. Run the following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481) at the start of each week to reset it.
+All RPXP counters reset at 12AM EST Monday. Run the following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) at the start of each week to reset it.
 
 ```
 !rpxp cap reset
@@ -143,16 +143,16 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 2. Do the Combat Training
 > Note that combat training has a cost of 1gp per character level. This is automatically deducted from the coin purse when you use the `!train` alias.
 > 
-> In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discordapp.com/channels/512870694883950598/579777361117970465), run the following command.
+> In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465), run the following command.
 > 
 > ```
 > !train
 > ```
 > 
-> The full explanation of Combat Training DTD can be found in [!badge icon="mark-github" variant="dark" text="Lifestyle rules"](/downtime-and-lifestyle/lifestyle/), and the command description and argument options can be found by running `!help train` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313). You can do 1 DTD per day, up to 5 per week.
+> The full explanation of Combat Training DTD can be found in [!badge icon="mark-github" variant="dark" text="Lifestyle rules"](/downtime-and-lifestyle/lifestyle/), and the command description and argument options can be found by running `!help train` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313). You can do 1 DTD per day, up to 5 per week.
 
 3. Log the XP
-> Go to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481) and log the XP
+> Go to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) and log the XP
 > 
 > ```
 > !dxp train <amount>
@@ -171,8 +171,8 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 
 ### Arena / Pit Fights / Hunts
 > - Single Combat Encounter 
-> - Arena fights take place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena"](https://discordapp.com/channels/512870694883950598/524265517830242304) / [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena-2"](https://discordapp.com/channels/512870694883950598/586365553418043392)
-> - Pit fights take place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit"](https://discordapp.com/channels/512870694883950598/553741559431168030) / [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit-2"](https://discordapp.com/channels/512870694883950598/579611901353525278)
+> - Arena fights take place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena"](https://discord.com/channels/512870694883950598/524265517830242304) / [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena-2"](https://discord.com/channels/512870694883950598/586365553418043392)
+> - Pit fights take place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit"](https://discord.com/channels/512870694883950598/553741559431168030) / [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit-2"](https://discord.com/channels/512870694883950598/579611901353525278)
 > - Hunts take place in RP channels.
 
 > - Run by DMs and AMs
@@ -208,7 +208,7 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 ### Tower Fights
 
 > - Single Combat Encounter 
-> - Takes place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#the-tower"](https://discordapp.com/channels/512870694883950598/753011022150762556)
+> - Takes place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#the-tower"](https://discord.com/channels/512870694883950598/753011022150762556)
 > - Run by DMs and AM
 > - Sign-ups in advance
 > - 4-5 players chosen by DM/AM
@@ -231,7 +231,7 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 ### Special Events
 
 > - Commemorates an IRL holiday or special occasion, like the server anniversary
-> - Announced in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#world-events"](https://discordapp.com/channels/512870694883950598/586916342712631317), take the Event Ping role [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#roles"](https://discordapp.com/channels/512870694883950598/535365321134178324) to be alerted
+> - Announced in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#world-events"](https://discord.com/channels/512870694883950598/586916342712631317), take the Event Ping role [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#roles"](https://discord.com/channels/512870694883950598/535365321134178324) to be alerted
 > - Takes place in RP channels
 > - Run by NPC Masters
 > - Does not require sign up in advance
@@ -258,7 +258,7 @@ For how to sign up for DM events, please refer to “Signing up for DM events”
 
 ### Transferring RPXP to XP after DM events
 
-After attending a DM event, RPXP is transferred to XP when you run the following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481).
+After attending a DM event, RPXP is transferred to XP when you run the following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481).
 > ```
 > !dxp game <amount> <source>
 > ```
@@ -275,7 +275,7 @@ Following rules apply to Avrae Tutorials:
 - There's a maximum limit of 6 Avrae Tutorials **per character**.
 - Avrae Tutorial XP tracked separately for each character you have. 
 - If you are RPing more than one character at the same time, you can only gain Avrae Tutorial XP for one of them during that period.
-- All modification of XP must be made in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discordapp.com/channels/512870694883950598/531014104098537481)
+- All modification of XP must be made in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481)
 - XP can only be redeemed for **active** spars between players. These spars should use Avrae's initiative tracker and involve multiple attacks, skill checks, etc. It's considered cheating to redeem Avrae Tutorial XP when you've only sent 2 messages, for example.
 - You can gain Avrae Tutorial XP and RPXP at the same time.
 
