@@ -10,12 +10,12 @@ icon: ":scroll:"
 Ignorance is not an excuse for rule-breaking. We expect you to read, understand, and agree to adhere to the rules.
 
 **1.1. Read the channels containing rules covering specific topics.** Take your time to familiarize yourself with them.
-- [!badge icon="mark-github" variant="dark" text="Roleplay and DM events"](/rp-rules/)
-- [!badge icon="mark-github" variant="dark" text="Character building"](/character-building/cc-rules/)
-- [!badge icon="mark-github" variant="dark" text="RPXP"](/start-playing/earn-xp/)
-- [!badge icon="mark-github" variant="dark" text="Rebuilding/Retiring (check the pins)"](/records/rebuild/)
-- [!badge icon="mark-github" variant="dark" text="Lifestyle and Downtime"](/downtime-and-lifestyle/lifestyle/)
-- [!badge icon="mark-github" variant="dark" text="Guilds, Housing, Market, etc"](/advanced-play/)
+- [Roleplay and DM events](/rp-rules/)
+- [Character building](/character-building/cc-rules/)
+- [RPXP](/start-playing/earn-xp/)
+- [Rebuilding/Retiring (check the pins)](/records/rebuild/)
+- [Lifestyle and Downtime](/downtime-and-lifestyle/lifestyle/)
+- [Guilds, Housing, Market, etc](/advanced-play/)
 - [PVP and Crime (Google Docs)](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/)
 
 **1.2. Check the pins** of the channels before posting. They contain guidelines, instructions, or restrictions.
@@ -53,7 +53,7 @@ This includes but is not limited to:
 
 Public accusations and complaints, slander, doxing, hostile/passive aggressive behavior, manipulation, etc. 
 
-If you wish to report a problem, please see the [!badge icon="mark-github" variant="dark" text="How to Report Rule-Breaking"](/rules/#how-to-report-rule-breaking) section below.
+If you wish to report a problem, please see the [How to Report Rule-Breaking](/rules/#how-to-report-rule-breaking) section below.
 ==- 4️ **Use the appropriate channels.**
 
 Use the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#channel-guide"](https://discord.com/channels/512870694883950598/537506745916850176) to find the right place to post. If you’re not sure where to do something, ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584).

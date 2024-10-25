@@ -12,15 +12,15 @@ h1:before { content: "👋 " }
 
 This is a "Quick Start" guide for newcomers to the server.
 
-- World setting and server info: [!badge icon="mark-github" variant="dark" text="About Us"](/)
+- World setting and server info: [About Us](/)
 - If you need help or have questions about getting started on the server, please reach out to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)! 
 - If you have any other questions, please reach out to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584)!
 
 ## New to D&D?
-Head over to [!badge icon="mark-github" variant="dark" text="New to D&D"](new-to-dnd/), which has a step-by-step guide for making your first D&D character!
+Head over to [New to D&D](new-to-dnd/), which has a step-by-step guide for making your first D&D character!
 
 ## Server Rules for Character Creation
-Character creation rules can be found in [!badge icon="mark-github" variant="dark" text="Character Creation Rules"](cc-rules/).
+Character creation rules can be found in [Character Creation Rules](cc-rules/).
 
 !!!warning **Please Note: we are using the 2014 D&D 5e ruleset.**
 If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
@@ -42,7 +42,7 @@ It is entirely optional to roll for stats/gold/hp. However, once you have made t
 > You can switch to rolling from Standard Array/Point Buy if you are still in the character creation stage.
 
 ### Gold
-To roll for gold, follow the instructions [!badge icon="mark-github" variant="dark" text="here"](stat-rolling/). Please note that if you roll for gold, you cannot take equipment or gold from your class or background.
+To roll for gold, follow the instructions [here](stat-rolling/). Please note that if you roll for gold, you cannot take equipment or gold from your class or background.
 
 > You may take starting equipment or roll for gold. 
 > - If you choose to take starting equipment, the item must be available in the [Snowhaven Market document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/).
@@ -57,10 +57,10 @@ To play on the server, your character sheet needs to be compatible with Avrae Bo
 - The three options are: GSheet, DiceCloud or D&D Beyond (DDB).
 
 **(Optional) How to get content sharing links on D&D Beyond**
-> Thanks to the support of our patrons as well as a club account from D&D Beyond, we are able to provide you with all paid material via content sharing links if you are using D&D Beyond for your character sheet. To benefit from this, check out the [!badge icon="mark-github" variant="dark" text="DDB Guide"](ddb/) and submit the form.
+> Thanks to the support of our patrons as well as a club account from D&D Beyond, we are able to provide you with all paid material via content sharing links if you are using D&D Beyond for your character sheet. To benefit from this, check out the [DDB Guide](ddb/) and submit the form.
 
 ## Character Options
-For information on allowed/banned material as well as allowed UA and homebrew options, please have a look at [!badge icon="mark-github" variant="dark" text="Character Creation Rules"](cc-rules/).
+For information on allowed/banned material as well as allowed UA and homebrew options, please have a look at [Character Creation Rules](cc-rules/).
 
 - Your characters start at **Level 1**. 
 - You are **not** allowed to possess any magic items starting out.
@@ -93,4 +93,4 @@ If you have used standard array or point buy, declare so after you upload your s
 Once you've uploaded your sheet to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), you will be automatically granted **Newbie** and **Level 1** roles, and the rest of the server should now be visible. If for some reason the bot fails, send a message to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠server-questions"](https://discord.com/channels/512870694883950598/546725434608451584), and a staff member will grant you the roles.
 
 ## Set Up the Character for the Server
-Follow the steps in [!badge icon="mark-github" variant="dark" text="How to Start Playing"](/start-playing/start-playing/) to set up your character for the server.
+Follow the steps in [How to Start Playing](/start-playing/start-playing/) to set up your character for the server.

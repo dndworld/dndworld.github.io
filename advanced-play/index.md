@@ -21,7 +21,7 @@ Once you've got your character set up for the server, feel free to check out the
 [!ref icon=":office:"](guilds.md)
 === For purchasing magic items
 [!ref icon=":wind_chime:"](bm.md)
-For Magic Item Benefactor Rules, see the [!badge icon="mark-github" variant="dark" text="Transactions page"](/records/transactions/#magic-item-benefactor-rules)
+For Magic Item Benefactor Rules, see the [Transactions page](/records/transactions/#magic-item-benefactor-rules)
 === For requesting NPC enocunters
 [!ref icon=":office:"](npcs.md)
 === For willing belongings after death

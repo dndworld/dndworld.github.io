@@ -25,11 +25,11 @@ h1:before {
 
 ### Server Rule related
 
-- **AP**: Active Player ([!badge icon="mark-github" variant="dark" text="Common FAQ"](/faq/common-faq))
-- **DP**: Demerit Points ([!badge icon="mark-github" variant="dark" text="Rules"](/rules/))
+- **AP**: Active Player ([Common FAQ](/faq/common-faq))
+- **DP**: Demerit Points ([Rules](/rules/))
 
 ### Lifestyle & Downtime Days related
-*More info in [[!badge icon="mark-github" variant="dark" text="Downtime and Lifestyle Rules"](/downtime-and-lifestyle/)*
+*More info in [[Downtime and Lifestyle Rules](/downtime-and-lifestyle/)*
 
 - **LS**: Lifestyle
 - **DTD**: Downtime Days
@@ -61,10 +61,10 @@ h1:before {
 
 ### Other Commonly-Used Abbreviations
 
-- **QL**: Quest-Locked ([!badge icon="mark-github" variant="dark" text="How to Earn XP"](/start-playing/earn-xp/))
-- **CC**: Custom Counter ([!badge icon="mark-github" variant="dark" text="Avrae Commands"](/start-playing/avrae/))
-- **IC**: In Character ([!badge icon="mark-github" variant="dark" text="Roleplay Rules"](/rp-rules/))
-- **OOC**: Out Of Character ([!badge icon="mark-github" variant="dark" text="Roleplay Rules"](/rp-rules/))
+- **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
+- **CC**: Custom Counter ([Avrae Commands](/start-playing/avrae/))
+- **IC**: In Character ([Roleplay Rules](/rp-rules/))
+- **OOC**: Out Of Character ([Roleplay Rules](/rp-rules/))
 - **DDB**: D&D Beyond
 
 ## More D&D Content: 

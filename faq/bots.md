@@ -50,7 +50,7 @@ Blood Hunter Commands: https://avrae.io/dashboard/workshop/5f6f9b1e192fdca3888bc
 
 ### Quick Start to Automation
 
-- Output an embed (Do **not** use this for RP -> [!badge icon="mark-github" variant="dark" text="Rule"](/rules.md) 7️⃣)
+- Output an embed (Do **not** use this for RP -> [Rule](/rules.md) 7️⃣)
 More on embed arguments can be found in `!help embed`
 > ```
 > !alias [alias name] embed -title "My Title" -desc "My description" -f "Field 1|Field text"

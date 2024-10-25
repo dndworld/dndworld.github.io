@@ -29,7 +29,7 @@ Click the hamburger menu on the top-left of the site, and look under Repositorie
 - (step 0) Before you edit, click the 'Sync fork' button on the main page. Your fork has its own commit history separate from the main repository's, so syncing is a must.
 - (step 5) You may need to use the 'Contribute' button on the fork's main page to create a PR.
 
-You can also deploy your own GitHub Pages instance from your fork, but this is not recommended for previewing changes due to the latency. For that, see [!badge icon="mark-github" variant="dark" text="Developing From Your Machine"](/docs/github-dev/).
+You can also deploy your own GitHub Pages instance from your fork, but this is not recommended for previewing changes due to the latency. For that, see [Developing From Your Machine](/docs/github-dev/).
 
 ### With a Codebase
 

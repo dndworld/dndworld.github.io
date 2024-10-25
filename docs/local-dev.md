@@ -166,7 +166,7 @@ Then after navigating to your local `dwguide` fork, you can open it on VS Code: 
 code .
 ```
 
-[!badge icon="mark-github" variant="dark" text="See here for how to commit your changes"](/docs/github-dev/#with-a-codebase).
+[See here for how to commit your changes](/docs/github-dev/#with-a-codebase).
 
 ### Keyboard Shortcuts
 
