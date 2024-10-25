@@ -2,6 +2,7 @@
 order: 99
 icon: ":jigsaw:"
 expanded: false
+label: After Creating Your Character
 ---
 
 <style>
