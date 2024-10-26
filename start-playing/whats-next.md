@@ -244,7 +244,7 @@ Bag management within the server is completely optional. Should you want to trac
 
 **Downtime** enable you to earn some extra gold, copy spells, and other neat features.
 
-The full explanation on Lifestyle and Downtime can be found in [Lifestyle and DTD Rules](/downtime-and-lifestyle/lifestyle).
+The full explanation on Lifestyle and Downtime can be found in [Lifestyle and DTD Rules](/downtime/lifestyle).
 
 If you do not pay Lifestyle, you are considered to be benefiting from the Snowhaven Full Time Adventurer scheme and will stay in the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cozy-yeti-estates"](https://discord.com/channels/512870694883950598/611385164060295168) with your expenses covered for. 
 

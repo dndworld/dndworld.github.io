@@ -14,7 +14,7 @@ Ignorance is not an excuse for rule-breaking. We expect you to read, understand,
 - [Character building](/character-building/cc-rules/)
 - [RPXP](/start-playing/earn-xp/)
 - [Rebuilding/Retiring (check the pins)](/records/rebuild/)
-- [Lifestyle and Downtime](/downtime-and-lifestyle/lifestyle/)
+- [Lifestyle and Downtime](/downtime/lifestyle/)
 - [Guilds, Housing, Market, etc](/advanced-play/)
 - [PVP and Crime (Google Docs)](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/)
 

@@ -29,7 +29,7 @@ h1:before {
 - **DP**: Demerit Points ([Rules](/rules/))
 
 ### Lifestyle & Downtime Days related
-*More info in [[Downtime and Lifestyle Rules](/downtime-and-lifestyle/)*
+*More info in [[Downtime and Lifestyle Rules](/downtime/)*
 
 - **LS**: Lifestyle
 - **DTD**: Downtime Days

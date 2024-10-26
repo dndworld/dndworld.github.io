@@ -57,7 +57,7 @@ The games are posted in `#bounty-board` and `#arena-board`. We don't have any pa
 To learn more about all types of available games on this server, please visit "DM Events" section in [How to Earn XP](/start-playing/earn-xp/#3-dm-events/). For instruction on how to join them, visit "Signing up for DM events" section of [How To Start Playing](/start-playing/start-playing/#signing-up-for-dm-events/).
 
 ==- "How can my character make money?"
-We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime-and-lifestyle/). All relevant channels can be found under the same category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in `#dtd-ls-discussion`.
+We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime/). All relevant channels can be found under the same category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in `#dtd-ls-discussion`.
 
 You might also like to check out the guilds under Guilds category. Guilds are managed by players, and each guild may have different requirements for becoming a member. With a guild membership you get additional options and bonuses for various DTDs.
 

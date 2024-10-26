@@ -24,7 +24,7 @@ This includes:
 - [DnD 5e ruleset](https://www.dndbeyond.com/sources/basic-rules)
 - Server’s rule adjustments and variant rules
   - [#severratas](/faq/rulings/)
-  - [DnD World Content Errata/Variant Feature Document](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
+  - [!badge icon="link-external" variant="dark" text="DnD World Content Errata/Variant Feature Document"](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
 - Table rules your DM is using for their games
 ==- 2️ **Do not invent lore.**
 You or your characters should not imply the existence of any influential new locations, organizations, entities, NPCs, events, items, etc. which are not already established in the server. 
@@ -49,7 +49,7 @@ When deceiving other characters, you must clarify OOC that your character is lyi
 - No stealing is allowed, even with OOC consent.
 - Player-vs-Player fights are allowed, but only with consent and in an appropriate location.
   - Friendly spars may take place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena"](https://discord.com/channels/512870694883950598/524265517830242304) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena-2"](https://discord.com/channels/512870694883950598/586365553418043392). 
-  - Fighting in any other place including [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit"](https://discord.com/channels/512870694883950598/553741559431168030) must follow the rules of the [PvP document (Google Docs)](https://docs.google.com/document/d/1sOWEJMqXdpRejXRonx1iMhwZsJjN9vHZ-jYQdPJbUeo/).
+  - Fighting in any other place including [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit"](https://discord.com/channels/512870694883950598/553741559431168030) must follow the rules of the [!badge icon="link-external" variant="dark" text="PvP document (Google Docs)"](https://docs.google.com/document/d/1sOWEJMqXdpRejXRonx1iMhwZsJjN9vHZ-jYQdPJbUeo/).
 - Summoned creatures cannot participate in PvP without their summoner present.
 ==- 5️ **Don’t be a rules lawyer.**
 When in DM events, DM has the final say with rulings. 

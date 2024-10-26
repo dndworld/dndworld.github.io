@@ -3,10 +3,10 @@ label: "`#dtd-ls-discussion` Pins"
 icon: ""
 order: 0
 ---
-<!-- downtime-and-lifestyle -->
+<!-- downtime -->
 ## Where do I do this?
 
-[DownTime Days (DTD) Rules](/downtime-and-lifestyle/dtd/#downtime-days-dtd-rules)
+[DownTime Days (DTD) Rules](/downtime/dtd/#downtime-days-dtd-rules)
 
 `#lifestyle-log`
 - Lifestyle (weekly!)

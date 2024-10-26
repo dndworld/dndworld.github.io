@@ -86,9 +86,9 @@ Woodcarver's tools         DEX / WIS
 
 *A part time job offers the promise of modest but consistent pay.*
 
-- In order to do the Part-Time Work DTD, you need to first find the employer using [Find DTD](/downtime-and-lifestyle/dtd/#find).
+- In order to do the Part-Time Work DTD, you need to first find the employer using [Find DTD](/downtime/dtd/#find).
 - The starting wage for all PTW is **4gp** per day. You still get paid whether or not you pass the check, unless the output states otherwise.
-- If you are using a tool for PTW, make sure to set up the proficiency with `!tool` alias. You can find the information under [Tool Checks](/downtime-and-lifestyle/dtd-employment/#tool-checks)
+- If you are using a tool for PTW, make sure to set up the proficiency with `!tool` alias. You can find the information under [Tool Checks](/downtime/dtd-employment/#tool-checks)
 
 #### Raises and Pay Cuts
 > If you consistently perform well at your job with successful checks, you may be given a raise. Likewise, failing the checks may result in a pay cut. If your pay drops to zero or you fail five checks in a week, you are fired and need to find a new job.
@@ -111,7 +111,7 @@ For the full help text, use `!help ptw` in [!badge icon="/images/discord-mark-bl
 
 *Some jobs, such as working for the local militia as a guard, involve risks. These jobs require multiple skills and come with a risk of injury for each failed check. However, they pay more, and are more forgiving when things go wrong.*
 
-- In order to do the High-Risk Work DTD, you need to first find the employer using [Find DTD](/downtime-and-lifestyle/dtd/#find).
+- In order to do the High-Risk Work DTD, you need to first find the employer using [Find DTD](/downtime/dtd/#find).
 - The starting wage for all HRW is **6gp** per day. You still get paid whether or not you pass the check, unless the output states otherwise.
 
 #### Raises and Pay Cuts
