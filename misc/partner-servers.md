@@ -85,6 +85,6 @@ What You Can Offer Us:
 
 - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Ironhelm"](https://discord.com/channels/512870694883950598/529249355748605952/606147260933210114)
 
-Have a kind of server you want to try? Pop it in [`#server-suggestions`](https://discord.com/channels/512870694883950598/537506014883217419) and we'll find it for you!
+Have a kind of server you want to try? Pop it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) and we'll find it for you!
 
 

@@ -406,7 +406,7 @@ Item: Ring of Spell Storing
 - The spell cast as a bonus action via *Hidden Ace* still requires a spell slot (or some other means of circumventing that requirement, like casting a spell which is both on your spell list and something you know as a racial spell) to be cast.
 - You may only designate one spell as your Hidden Ace per long rest, and may only use your Hidden Ace to cast a spell as a BA once per long rest -- no, you cannot abuse this feat by multiclassing and acquiring multiple spell lists.
 - Your Hidden Ace must be of a spell level you can cast normally: you cannot play a wizard 19 / cleric 1 who grabs this feat to select and cast Mass Heal as a BA. You could, however, select a 1st-level cleric spell and cast it as a BA using any level of spell slot available to you.<br>
-**Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](⁠https://discord.com/channels/512870694883950598/720529747817529374/1237220291667558430)
+**Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/720529747817529374/1237220291667558430)
 ```yaml **Tags**
 Spell: Cartomancer
 ```

@@ -142,7 +142,7 @@ For exceptional issues that are time-sensitive, you may notify Mods. Some exampl
 - If there is a Bot raid and the Mods have not been notified yet, you may ping `@Mod`.
 - If arguments between players are getting heated to the point it requires intervention, or if a Player vs Player (PvP) fight may be imminent, you may ping a Moderator who is online.
 
-For general reports of rule-breaking behaviors, please react to the offending post with an ❗ `:exclamation:`. Further details can be found in the [How to Report Rule-Breaking](/rules/#how-to-report-rule-breaking) section of [Server Rules](/rules/) (Discord: [#rules](https://discord.com/channels/512870694883950598/535362768379969547)).
+For general reports of rule-breaking behaviors, please react to the offending post with an ❗ `:exclamation:`. Further details can be found in the [How to Report Rule-Breaking](/rules/#how-to-report-rule-breaking) section of [Server Rules](/rules/) (or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rules"](https://discord.com/channels/512870694883950598/535362768379969547)).
 
 
 ### Receiving Pings from Staff
