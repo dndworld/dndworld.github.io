@@ -42,7 +42,7 @@ Certain suggestions have dedicated channels they should be submitted in:
 
 8) Any modifications to D&D RAW or class features is automatically rejected.
 
-Please refer to [DnD World Erratas and Variant Features](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/) for official alterations for the server.
+Please refer to [!badge icon="link-external" variant="info" text="DnD World Erratas and Variant Features"](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/) for official alterations for the server.
 
 ## Command for Anonymous Suggestions
 

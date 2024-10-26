@@ -52,7 +52,7 @@ Example: `!transaction "Pet Shop: Buying Frog" -20gp`
 ## Magic Item Transactions
 
 ✅ Magic Item Transactions include:
-- Buying and selling from the [**Black Market Bin**](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM)
+- Buying and selling from the [!badge icon="link-external" variant="info" text="**Black Market Bin**"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/)
 - Scheduled NPC magic item purchases/sales in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900)
 - Transfer of magic items between players (P2P transactions)
 
@@ -74,7 +74,7 @@ __Black Market Transaction Log__
 !!!A bot should react to your form with 🎐 `:wind_chime:` automatically, but if for some reason the bot fails, do add the react manually.
 !!! 
 
-If you are trading in an item not on the Black Market Bin, please use the following template. Refer to the[ Black Market document](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM) for prices.
+If you are trading in an item not on the Black Market Bin, please use the following template. Refer to the [!badge icon="link-external" variant="info" text="Black Market document"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/) for prices.
 ```
 __Unlisted Magic Item Trade-In Log__
 **Character:** [Name], [Level]

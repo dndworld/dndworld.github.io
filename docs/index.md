@@ -8,8 +8,8 @@ order: 1000
 The site is built using Retype, but for most contributors, this simply means the files are in Markdown (the same markup language Discord uses for formatting messages).
 
 - [FYI page](/docs/dev-fyi/) - useful tips and copypasta compiled from developing the site
-- [Retype documentation](https://retype.com/) - Retype components and site configuration
-- [Tailwind documentation](https://tailwindcss.com/) - CSS utilities used by Retype for styling (in case you go inspecting the site code)
+- [!badge icon="link-external" variant="info" text="Retype documentation"](https://retype.com/) - Retype components and site configuration
+- [!badge icon="link-external" variant="info" text="Tailwind documentation"](https://tailwindcss.com/) - CSS utilities used by Retype for styling (in case you go inspecting the site code)
 
 ## Tutorials
 
@@ -20,4 +20,4 @@ Overall, with Git and GitHub, your changes should be committed (saved) to your f
 
 ##  Subject Matter
 
-- [DDB Characters page](https://www.dndbeyond.com/characters/)
+- [!badge icon="link-external" variant="info" text="DDB Characters page"](https://www.dndbeyond.com/characters/)

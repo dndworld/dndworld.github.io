@@ -45,7 +45,7 @@ It is entirely optional to roll for stats/gold/hp. However, once you have made t
 To roll for gold, follow the instructions [here](stat-rolling/). Please note that if you roll for gold, you cannot take equipment or gold from your class or background.
 
 > You may take starting equipment or roll for gold. 
-> - If you choose to take starting equipment, the item must be available in the [Snowhaven Market document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/).
+> - If you choose to take starting equipment, the item must be available in the [!badge icon="link-external" variant="info" text="Snowhaven Market document"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/).
 > 
 > Once you have rolled the gold and imported your sheet in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), you may then purchase the equipment in the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 

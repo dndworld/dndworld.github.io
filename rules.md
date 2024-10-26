@@ -16,7 +16,7 @@ Ignorance is not an excuse for rule-breaking. We expect you to read, understand,
 - [Rebuilding/Retiring (check the pins)](/records/rebuild/)
 - [Lifestyle and Downtime](/downtime/lifestyle/)
 - [Guilds, Housing, Market, etc](/advanced-play/)
-- [PVP and Crime (Google Docs)](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/)
+- [!badge icon="link-external" variant="info" text="PVP and Crime (Google Docs)"](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/)
 
 **1.2. Check the pins** of the channels before posting. They contain guidelines, instructions, or restrictions.
 ==- 2️ **This is a family-friendly server.**
@@ -135,7 +135,7 @@ You are advised to avoid accumulating demerits at all costs, especially if you h
 
 ### Ban Appeal
 
-It is possible to appeal for the ban via submitting [the following form](https://docs.google.com/forms/d/e/1FAIpQLScOPLdQJYMcN9wW94sn5LNGzG3xKT9CG3H5ZWr-hQkNXHBSww/viewform). Please note that submitting the form does not guarantee a successful appeal.
+It is possible to appeal for the ban via submitting [!badge icon="link-external" variant="info" text="the following form"](https://docs.google.com/forms/d/e/1FAIpQLScOPLdQJYMcN9wW94sn5LNGzG3xKT9CG3H5ZWr-hQkNXHBSww/viewform). Please note that submitting the form does not guarantee a successful appeal.
 
 
 ## How to Report Rule-Breaking

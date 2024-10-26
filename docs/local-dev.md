@@ -41,7 +41,7 @@ You will need to get some things from GitHub first.
 
 ### Authentication Tokens
 
-[Create a personal access token (PAT)](https://github.com/settings/tokens/new) or set up another [method of authetication](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#about-personal-access-tokens) if you haven't already. You will need it to transfer changes to remote repositories, so keep this somewhere safe.
+[!badge icon="link-external" variant="info" text="Create a personal access token (PAT)"](https://github.com/settings/tokens/new) or set up another [!badge icon="link-external" variant="info" text="method of authetication"](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#about-personal-access-tokens) if you haven't already. You will need it to transfer changes to remote repositories, so keep this somewhere safe.
 
 If you have been added as a collaborator, your PAT can be used to changes to the main repository itself, so please be careful with it.
 
@@ -96,7 +96,7 @@ With all that set up, make sure you've navigated to your local `dwguide` fork an
 retype start
 ```
 
-This will set up a server at `http://localhost:5000/` to preview your changes as you make them. This is a process which will keep the current terminal instance busy and unresponsive. Run `Ctrl`+`C` to kill the process.
+This will set up a server at `https://localhost:5000/` to preview your changes as you make them. This is a process which will keep the current terminal instance busy and unresponsive. Run `Ctrl`+`C` to kill the process.
 
 From here on, our only concern is adapting the steps from earlier tutorials to this workflow. Below are two ways to do this
 - The **Pure Git** method means learning/copypasting a few more commands

@@ -56,10 +56,10 @@ Misc. Tool          100 Learning Points
 Standard Language    90 Learning Points
 Exotic Language     125 Learning Points
 ```
-- [List of tools/instruments](https://www.dndbeyond.com/sources/basic-rules/equipment#Tools)
-- [List of languages](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Languages)
+- [!badge icon="link-external" variant="info" text="List of tools/instruments"](https://www.dndbeyond.com/sources/basic-rules/equipment#Tools)
+- [!badge icon="link-external" variant="info" text="List of languages"](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Languages)
 
-- *[Koume Sign Language (KSL)](<https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/edit?tab=t.0#heading=h.3msemhbc7iyt>) has been added to the list of languages that can be learnt.*
+- *[!badge icon="link-external" variant="info" text="Koume Sign Language (KSL)"](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/#heading=h.3msemhbc7iyt) has been added to the list of languages that can be learnt.*
 - *Note that Thieves' Cant and Druidic cannot be learnt through the Learning DTD without a specific Guild Perk.*
 
 
@@ -116,7 +116,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 
 ## Guild DTDs
 
-Each guild has one or two Guild Types. Depending on the type(s) of the guild, different DTDs are available to the members of the guild. For more information on guild types and DTD, please refer to the [Guild doc](https://docs.google.com/document/d/1A8sVmnksKwb9MX98f7Z6lfmdDgfxft85JPaQKejxXj0/edit).
+Each guild has one or two Guild Types. Depending on the type(s) of the guild, different DTDs are available to the members of the guild. For more information on guild types and DTD, please refer to the [!badge icon="link-external" variant="info" text="Guild doc"](https://docs.google.com/document/d/1A8sVmnksKwb9MX98f7Z6lfmdDgfxft85JPaQKejxXj0/).
 
 To pull up the help text for each guild DTD, use following command in `bot-dump`.
 
@@ -128,7 +128,7 @@ For help in joining a guild, please refer to [Joining a Guild (Optional)](/start
 
 ## Business DTD
 
-If you have a registered business for your house in `#registered-businesses`, you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [Business document](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
+If you have a registered business for your house in `#registered-businesses`, you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [!badge icon="link-external" variant="info" text="Business document"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
 
 To pull up the help text for Business DTD, use following command in `bot-dump`.
 

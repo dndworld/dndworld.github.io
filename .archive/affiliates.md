@@ -7,7 +7,7 @@ Interested in sponsoring us? We’re open to collaborate with both small-time cr
 
 <!-- [Hyperlink all titles] -->
 
-[Die Hard Dice](https://www.dieharddice.com)
+[!badge icon="link-external" variant="info" text="Die Hard Dice"](https://www.dieharddice.com)
 
 <!-- img -->
 

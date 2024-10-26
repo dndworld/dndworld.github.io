@@ -10,9 +10,9 @@ h1:before { content: "🏠 " }
 
 # Housing and Businesses
 
-## [Housing Rules](https://docs.google.com/document/d/1woOTP_BGQ209CxCcj8YSwF6fGJbl8uGh7CLgtYp-qSE)
+## [!badge icon="link-external" variant="info" text="Housing Rules"](https://docs.google.com/document/d/1woOTP_BGQ209CxCcj8YSwF6fGJbl8uGh7CLgtYp-qSE/)
 
-## [Business Rules](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac)
+## [!badge icon="link-external" variant="info" text="Business Rules"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/)
 
 Pinning Messages for House and Business Threads
 > - Business Owners and House Owners may react with 📌 (`:pushpin:`) to the messages you want to be pinned in your threads. This beams the message to a task list for staff, and the message will be pinned manually by a staff member.

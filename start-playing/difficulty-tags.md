@@ -34,7 +34,7 @@ h1:before {
 
 ## Game Signups
 
-Please review [Roleplay Rules](/rp-rules.md) in its entirety. Here are two of the rules that are relevant to the game signups.
+Please review [Roleplay Rules](/rp-rules/ in its entirety. Here are two of the rules that are relevant to the game signups.
 
 ==- 1️0️ **Multiple signups for DM events**
 You may sign up to multiple DM events. However, once a character is accepted to an event, all other signups __with that character__ need to be removed.

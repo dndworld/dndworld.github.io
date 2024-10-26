@@ -12,7 +12,7 @@ h1:before { content: "🔰 " }
 ## Step-by-Step: Making your first character on DnD Beyond
 
 ### Getting Started
-- [Make a D&D Beyond account](https://www.dndbeyond.com/create-account) if you don’t already have one.
+- [!badge icon="link-external" variant="info" text="Make a D&D Beyond account"](https://www.dndbeyond.com/create-account) if you don’t already have one.
 
 - Go to "Create a Character" 
 - Choose "Standard" Character Creation Method
@@ -52,7 +52,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 ## D&D Beyond Character Builder
 ### 1. Race
 > Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules/).
-> - More extensive descriptions on races can be found [here](https://www.dndbeyond.com/races)
+> - More extensive descriptions on races can be found [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/races)
 > 
 > However, as we are not using the WOTC world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
 
@@ -60,22 +60,22 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 > Reminder: Your character on this server starts at Level 1. 
 > 
 > Your class helps determine your character’s specialty. Each class has unique features that can affect how they interact with the world. 
-> - For short summary of each class, see [here](https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons).
+> - For short summary of each class, see [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons).
 
 #### Proficiencies
 > Your race, background, and class will allow you to choose proficiencies among certain skills and tools. This means you are especially good at this skill/tool and can add your proficiency bonus to it when making checks for that task. Proficiency bonus is a number that increases as you level, and at Level 1 it is +2.
 
 #### Skills
 > Each skill uses one of your abilities (more on this below). 
-> - For details on each skills, see [here](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#UsingEachAbility). 
+> - For details on each skills, see [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#UsingEachAbility). 
 
 ### 3. Abilities
-> - General tips for ability score arrangements depending on class: [*Handbooker Helper: Ability Scores*](https://youtu.be/WoV5iM7peOg) by Critical Role  
+> - General tips for ability score arrangements depending on class: [!badge icon="link-external" variant="info" text="*Handbooker Helper: Ability Scores*"](https://youtu.be/WoV5iM7peOg) by Critical Role  
 
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
 > - **Point Buy**: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option. 
->   - [Point Buy calculator website](http://chicken-dinner.com/5e/5e-point-buy.html) 
+>   - [Point Buy calculator website](https://chicken-dinner.com/5e/5e-point-buy.html) 
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method
@@ -84,18 +84,18 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 
 #### Background
 > Backgrounds are different but closely linked to backstories. Your background gives your char certain abilities and special features depending on how they spent their lives before becoming an adventurer. 
-> - For information on each background, see [here](https://www.dndbeyond.com/backgrounds).
+> - For information on each background, see [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/backgrounds).
 
 #### Others
 > The rest are optional and are for adding personality and different aspects to your character. Bring them to life! The personality traits, characteristics, etc. lists are providing you with examples. You do not need to choose from the tables. 
 > - Faith: Check out ⁠pantheon for the gods of Icris. 
 > - Lifestyle: This is handled in the DW server, not in D&D Beyond. Continue following the Getting Started guides to learn more. 
-> - Additional fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
+> - Additional fun resource for character creation: [!badge icon="link-external" variant="info" text="*Is your D&D Character Too Perfect?*"](https://youtu.be/5DECGUi_hQc) by Ginny Di 
 
 ### 5. Equipment
 > You can choose from either a recommended list of starting equipment or roll for gold and do the shopping yourself. 
 > - If you are new to D&D, we recommend you choose the starting equipment option. 
-> - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [here](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/edit)
+> - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
 
 #### Rolling for Gold
 > If you choose to roll for gold, you MUST make the rolls in `#⁠official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
@@ -132,15 +132,15 @@ The following steps are for DnD World server, once you have created the characte
 Ask questions!
 > [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
 > 
-> 💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](https://youtu.be/im0vDcYFIbI), created by our partner server The Starry Shore!
+> 💡 If you need help with basic Avrae commands, check out [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI), created by our partner server The Starry Shore!
 !!!
 ---
 
 ## Introduction to Dungeons & Dragons
-The best way of getting to know D&D is by reading the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules).
+The best way of getting to know D&D is by reading the [!badge icon="link-external" variant="info" text="Basic Rules"](https://www.dndbeyond.com/sources/basic-rules).
 
 #### Part 1: Creating a Character
-> - Simply start from **Chapter 1: "Step-By-Step Characters"**. This section goes hand-in-and with [the above steps](new-to-dnd.md/#dd-beyond-character-builder) and will help you make your first DnD character. 
+> - Simply start from **Chapter 1: "Step-By-Step Characters"**. This section goes hand-in-and with [the above steps](new-to-dnd/#dd-beyond-character-builder) and will help you make your first DnD character. 
 > - Chapter 2-5 describes each details of a character more in depth.
 > - Chapter 6 will become more relevant later in the game as you level up.
 
@@ -155,4 +155,4 @@ The best way of getting to know D&D is by reading the [Basic Rules](https://www.
 > - **Chapter 10: Spellcasting** describes rules around spellcasting in D&D. If your character is a spellcaster, this section of the rules is relevant to you.
 > - Chapter 11 lists available spells for each class, as well as full description of the spells.
 
-You can also find the full PDF version of the Basic Rules [here](http://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf). 
+You can also find the full PDF version of the Basic Rules [!badge icon="link-external" variant="info" text="here"](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf). 

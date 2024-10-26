@@ -163,7 +163,7 @@ There are channels for specific content under the **DnD Chat** category. Please 
 
 ## Signing up for DM events
 
-Full explanation on the available game types on the server can be found in [What's Next?](whats-next.md).
+Full explanation on the available game types on the server can be found in [What's Next?](whats-next/.
 
 1. Wait for Level pings
 

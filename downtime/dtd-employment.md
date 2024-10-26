@@ -36,7 +36,7 @@ RP: [describe how you are trying to impress your new boss!]
 
 ## Tool Checks
 
-- In order to use the tool, you must own the tool. Please refer to the [Snowhaven Market](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/) doc for the details.
+- In order to use the tool, you must own the tool. Please refer to the [!badge icon="link-external" variant="info" text="Snowhaven Market"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/) doc for the details.
 - Make sure you add your tool proficiencies with `!tool` command.
 
 > Examples:

@@ -13,7 +13,7 @@ D&D is written in the style of "rulings over rules", which means that the books 
 
 The result is in the following:
 - Core rulebooks have many rules to cover the possibly infinite scenarios that can arise from D&D
-- Rules that are unclear are clarified in Sage Advice, which are written by D&D's co-designer Jeremy Crawford and his team. These are compiled [here](https://media.wizards.com/2021/dnd/downloads/SA-Compendium.pdf) from Jeremy's Twitter account. These are called “rulings”, as they depend on interpretation and are not necessarily correct, but can be used as guidance.
+- Rules that are unclear are clarified in Sage Advice, which are written by D&D's co-designer Jeremy Crawford and his team. These are compiled [!badge icon="link-external" variant="info" text="here"](https://media.wizards.com/2021/dnd/downloads/SA-Compendium.pdf) from Jeremy's Twitter account. These are called “rulings”, as they depend on interpretation and are not necessarily correct, but can be used as guidance.
 - Rulings that are still unclear or the server deems are interpreted incorrectly are overridden by Mentor+ staff or Admins.
 - DMs may have their own house rules if they choose to rule something differently
 
@@ -110,7 +110,7 @@ Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongu
 ==- **Artificer: Replicate Magic Item**
 **Description**
 > Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
-**Changes:** Alternatively, you can choose the magic item from among the common magic items in [the Black Market Bin](<https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/edit#heading=h.c7hbl2h4haro>), not including potions or scrolls.<br>
+**Changes:** Alternatively, you can choose the magic item from among the common magic items in [!badge icon="link-external" variant="info" text="the Black Market Bin"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/#heading=h.c7hbl2h4haro), not including potions or scrolls.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/1259009819583713311/1275250656810373322) (Mentor+)
 ```yaml **Tags**
 Class/Classfeat: Artificer, Infuse Item, Replicate Magic Item
@@ -454,5 +454,5 @@ Spell: Reincarnate
 ```
 
 !!!
-This list of Erratas is currently WIP. For the full list of changes to Spells, certain Racial Features, Class features, and Versatility features, please see [here](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/edit?usp=sharing).
+This list of Erratas is currently WIP. For the full list of changes to Spells, certain Racial Features, Class features, and Versatility features, please see [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/).
 !!!

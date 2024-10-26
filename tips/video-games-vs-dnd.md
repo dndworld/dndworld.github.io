@@ -94,7 +94,7 @@ As such, in order to be effective, Tanks must **be** a threat. That means not ig
 
 That way, if monsters want to attack your backline, they will have to take an **Attack of Opportunity** from you. If paired with feats like **Sentinel** or **Polearm Master**, this can greatly cripple your enemies' mobility.
 
-In summary, traditional Tanks don't exist in D&D. Instead, they focus on defending the party, rather than just blindly taking damage. Thus, they may also be called Defenders. This concept is explained more [here](https://rpgbot.net/the-tank-fallacy/).
+In summary, traditional Tanks don't exist in D&D. Instead, they focus on defending the party, rather than just blindly taking damage. Thus, they may also be called Defenders. This concept is explained more [!badge icon="link-external" variant="info" text="here"](https://rpgbot.net/the-tank-fallacy/).
 !!!
 
 ### DPS
@@ -103,7 +103,7 @@ A DPS is someone who does a lot of damage but sacrifices other aspects such as h
 
 To maximize your damage, be sure to sink your highest stats into the stat you use to attack. For Rogues and Monks, this is Dexterity, and for spellcasters, this is referred to as your casting stat and defers by class.
 
-It should be noted not all spells, feats, or subclasses are created equal. Some are more situational than others. If being effective in combat is very important to you, you are advised to research [guides](https://rpgbot.net/dnd5/characters/classes/) and discuss with other players plans for your build. 
+It should be noted not all spells, feats, or subclasses are created equal. Some are more situational than others. If being effective in combat is very important to you, you are advised to research [!badge icon="link-external" variant="info" text="guides"](https://rpgbot.net/dnd5/characters/classes/) and discuss with other players plans for your build. 
 
 #### Subtype: Glass Cannons
 

@@ -21,10 +21,10 @@ h1:before {
 
 ==- 1️ **Follow the rules of the game.**
 This includes:
-- [DnD 5e ruleset](https://www.dndbeyond.com/sources/basic-rules)
+- [!badge icon="link-external" variant="info" text="DnD 5e ruleset"](https://www.dndbeyond.com/sources/basic-rules)
 - Server’s rule adjustments and variant rules
   - [#severratas](/faq/rulings/)
-  - [!badge icon="link-external" variant="dark" text="DnD World Content Errata/Variant Feature Document"](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
+  - [!badge icon="link-external" variant="info" text="DnD World Content Errata/Variant Feature Document"](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
 - Table rules your DM is using for their games
 ==- 2️ **Do not invent lore.**
 You or your characters should not imply the existence of any influential new locations, organizations, entities, NPCs, events, items, etc. which are not already established in the server. 
@@ -49,7 +49,7 @@ When deceiving other characters, you must clarify OOC that your character is lyi
 - No stealing is allowed, even with OOC consent.
 - Player-vs-Player fights are allowed, but only with consent and in an appropriate location.
   - Friendly spars may take place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena"](https://discord.com/channels/512870694883950598/524265517830242304) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena-2"](https://discord.com/channels/512870694883950598/586365553418043392). 
-  - Fighting in any other place including [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit"](https://discord.com/channels/512870694883950598/553741559431168030) must follow the rules of the [!badge icon="link-external" variant="dark" text="PvP document (Google Docs)"](https://docs.google.com/document/d/1sOWEJMqXdpRejXRonx1iMhwZsJjN9vHZ-jYQdPJbUeo/).
+  - Fighting in any other place including [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit"](https://discord.com/channels/512870694883950598/553741559431168030) must follow the rules of the [!badge icon="link-external" variant="info" text="PvP document (Google Docs)"](https://docs.google.com/document/d/1sOWEJMqXdpRejXRonx1iMhwZsJjN9vHZ-jYQdPJbUeo/).
 - Summoned creatures cannot participate in PvP without their summoner present.
 ==- 5️ **Don’t be a rules lawyer.**
 When in DM events, DM has the final say with rulings. 
@@ -130,7 +130,7 @@ Before pinging anyone, please remember that different people have different thre
 
 An alternative method that is widely used on this server is using the Dusty bot's notifications function. There is a good chance that a staff member may have their preferred name dustied (added for being notified via Dusty), and a lot of players have their character names dustied as well. 
 
-[A full list of Dusty bot's notification commands can be found here.](https://dustybot.info/reference#notifications)
+[!badge icon="link-external" variant="info" text="A full list of Dusty bot's notification commands can be found here."](https://dustybot.info/reference#notifications)
 
 Some players specify in their status/about me saying pings are welcome. 
 

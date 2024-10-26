@@ -97,7 +97,7 @@ Component Purchase Link (Costly Components):
 - The companion must have been summoned prior to the errata (2023-05-30).
 - The companion will be converted into a mundane pet or mount with the same statblock.
 - The companion will be for RP purposes only, i.e. may not be brought into DM events.
-- The companion becomes subject to [Pet Rules](<https://docs.google.com/document/d/1LpK9WUF73NqAP1YpqshIwdlbz8_hGGs36nvghEMQ1MA/edit#heading=h.oy66huwb4rjw>), including weekly upkeep costs appropriate for their size, beginning the first lifestyle week after the conversion takes effect.
+- The companion becomes subject to [!badge icon="link-external" variant="info" text="Pet Rules"](https://docs.google.com/document/d/1LpK9WUF73NqAP1YpqshIwdlbz8_hGGs36nvghEMQ1MA/#heading=h.oy66huwb4rjw), including weekly upkeep costs appropriate for their size, beginning the first lifestyle week after the conversion takes effect.
 
 The conversion takes effect as soon as the following form is submitted; no further approval is necessary.
 
