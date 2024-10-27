@@ -209,7 +209,7 @@ Unearthed Arcana is unofficial content released by the D&D developers for playte
 > - If you plan on using Homebrew or UA content, we highly recommend you to use GSheet or DiceCloud sheets due to various limitations of D&D Beyond's Homebrew system.
 
 
-### [DnD World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
+### [Dnd World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
 
 Erratas refer to changes made to the official game rules, which our server does for balance reasons and to better suit the West Marches setting. The above document along with the [Erratas and Clarifications page](/erratas.md) compile all changes to official content and variant features we've added.
 
