@@ -10,13 +10,13 @@ h1:before {
 </style>
 # Character Death
 
-All characters who die on the server are immortalized in [!badge icon="/images/discord-mark-blue.svg" text="#list-of-the-fallen"](https://discord.com/channels/512870694883950598/544159624790671391). You may either write a post in memory of the character, or to make the grieving process easier, you may react to the character's last moment with a `:diya_lamp:` for the post to be beamed to the channel.
+All characters who die on the server are immortalized in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#list-of-the-fallen"](https://discord.com/channels/512870694883950598/544159624790671391). You may either write a post in memory of the character, or to make the grieving process easier, you may react to the character's last moment with a `:diya_lamp:` for the post to be beamed to the channel.
 
 ### What do I do now?
 
 Your character's friends or acquaintances may start a fund for a revival. In which case, you can wait as long as it is necessary for the fund to be raised. During this time you cannot RP your character, and the character slot is still being used.
 
-In case that is not an option, or you wish to rather start over with an entirely different character, not all of the player's efforts are lost, as you may benefit from the [Cushion Rule](claims.md). Please beware, once you use the cushion rule, the old character can no longer be revived.
+In case that is not an option, or you wish to rather start over with an entirely different character, not all of the player's efforts are lost, as you may benefit from the Cushion Rule. Please beware, once you use the cushion rule, the old character can no longer be revived.
 
 ## Cushion Rule
 

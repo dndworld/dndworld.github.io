@@ -3,9 +3,9 @@ label: Developer FYI
 order: 20
 ---
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)
 
-Check [Developing From Your Machine](/docs/local-dev.md) for FYI specific to the preview server.
+Check [Developing From Your Machine](/docs/local-dev/) for FYI specific to the preview server.
 
 === **Page Links**
 
@@ -26,7 +26,7 @@ order: 0
 - `icon`: appears on left sidebar ([see below](#icons-and-emojis))
 - `order`: order within folder on left sidebar, where higher `order` means higher `position`. Default value: 0. Files of the same `order` are organized A-Z.
 
-See the [Page Configuration documentation](https://retype.com/configuration/page/) for more options. Metadata syntax is based on YAML.
+See the [!badge icon="link-external" variant="info" text="Page Configuration documentation"](https://retype.com/configuration/page/) for more options. Metadata syntax is based on YAML.
 
 As a best practice, set `order` to a value with 1-2 zeroes at the end so it is easier to insert another page in between two existing pages.
 
@@ -46,7 +46,7 @@ Emojis should not be placed in the title itself, but be added to the `icon` meta
 
 ### Standard Emojis
 
-Standard emojis are provided by [Mojee](https://mojee.io/emojis/). The list is largely similar but not the same as Discord's.
+Standard emojis are provided by [!badge icon="link-external" variant="info" text="Mojee"](https://mojee.io/emojis/). The list is largely similar but not the same as Discord's.
 
 Retype uses the same `:name:` syntax as Discord to insert emojis by name into page content.
 
@@ -70,7 +70,7 @@ h1:before {
 
 ### Octicons
 
-Retype also provides support for [Octicons](https://retype.com/components/octicons/). [Check here](https://primer.github.io/octicons/) for a list of Octicons and their names.
+Retype also provides support for [!badge icon="link-external" variant="info" text="Octicons"](https://retype.com/components/octicons/). [!badge icon="link-external" variant="info" text="Check here"](https://primer.github.io/octicons/) for a list of Octicons and their names.
 
 These icons are SVGs, which is actually a special type of HTML code. This allows them to be configured to change color with a theme, as Retype Octicons do when toggling dark mode.
 
@@ -134,4 +134,4 @@ Outside of images, CSS is used to control how the page content looks. You only r
 
 ===
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)

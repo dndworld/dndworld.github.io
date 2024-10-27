@@ -9,13 +9,13 @@ h1:before {
 }
 </style>
 
-This page describes how to make suggestions on [!badge icon="/images/discord-mark-blue.svg" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) and [!badge icon="/images/discord-mark-blue.svg" text="#suggestion-discussion"](https://discord.com/channels/512870694883950598/579855797928853515).
+This page describes how to make suggestions on [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) and [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#suggestion-discussion"](https://discord.com/channels/512870694883950598/579855797928853515).
 
 You need the `@Active Player` role to make suggestions.
 
 Certain suggestions have dedicated channels they should be submitted in:
-- [!badge icon="/images/discord-mark-blue.svg" text="DW ⁠Homebrew Suggestions (and Questions)"](https://discord.com/channels/512870694883950598/1128795701900476508)
-- [!badge icon="/images/discord-mark-blue.svg" text="Pet Suggestions"](https://discord.com/channels/512870694883950598/1166423032743608420)
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="DW ⁠Homebrew Suggestions (and Questions)"](https://discord.com/channels/512870694883950598/1128795701900476508)
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Pet Suggestions"](https://discord.com/channels/512870694883950598/1166423032743608420)
 
 ## Emoji Reaction Guide to Suggestions
 
@@ -42,7 +42,7 @@ Certain suggestions have dedicated channels they should be submitted in:
 
 8) Any modifications to D&D RAW or class features is automatically rejected.
 
-Please refer to [DnD World Erratas and Variant Features](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/) for official alterations for the server.
+Please refer to [!badge icon="link-external" variant="info" text="DnD World Erratas and Variant Features"](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/) for official alterations for the server.
 
 ## Command for Anonymous Suggestions
 
@@ -90,7 +90,7 @@ Following suggestions have been submitted multiple times, gone through reviews a
 > 
 > For context, things I would consider a major project on our side takes about 3 months to develop (the Black Market changes comes to mind) and that was with me buckling down for 2 weeks not doing anything else except eating, sleeping, and entering numbers into a spreadsheet. Changes to the guild system takes even longer than that to process.
 > 
-> From a design perspective, the guild system is also in a unique place. Going off the general conversations in [!badge icon="/images/discord-mark-blue.svg" text="#suggestion-discussion"](https://discord.com/channels/512870694883950598/579855797928853515), its clear a lot of people have different things they want to get out of the server. This means that trying to make a change is even more difficult for us, because we have to balance all these different perspectives at play, including what the team would like to achieve out of a change.
+> From a design perspective, the guild system is also in a unique place. Going off the general conversations in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#suggestion-discussion"](https://discord.com/channels/512870694883950598/579855797928853515), its clear a lot of people have different things they want to get out of the server. This means that trying to make a change is even more difficult for us, because we have to balance all these different perspectives at play, including what the team would like to achieve out of a change.
 > 
 > This isn't to say your suggestions are all bad or anything, we just don't want you to feel discouraged if these things aren't implemented. We do care about how you guys experience the guild system and in an ideal world we could tell you whether these things are possible very quickly, but this isn't really the situation currently.
 > 

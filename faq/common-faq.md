@@ -15,15 +15,15 @@ Due to the complexity of D&D, the age of the server, and the general number of r
 Most channels will be necessary at one point, but you can (and should) only read those that are relevant to you as you progress through the server. Let's see if we can help you out!
 
 ==- "I'm new here! Where do I start?"
-Welcome to DnD World! We are text-only D&D 5e server with a homebrew world setting. You can find out more about the server and the world in [About Us](index.md). 
+Welcome to DnD World! We are text-only D&D 5e server with a homebrew world setting. You can find out more about the server and the world in [About Us](/). 
 
-General Conduct of this server is in place to ensure the pleasant experience of the members in a large server. You can find them in [Rules](rules.md).
+General Conduct of this server is in place to ensure the pleasant experience of the members in a large server. You can find them in [Rules](/rules/).
 
 You do not have access to the rest of the server until you import your first character. For that, please visit [Start Here](/character-building/start-here/) and follow the steps there. If you are new to D&D, [New to D&D](/character-building/new-to-dnd/) has a step-by-step guide to help you through the character creation process.
 
 If you have any questions, we have a few question channels depending on what your question is about! This page has commonly asked questions listed, and your question might already be answered here. 
 
-[!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584) is the default place for most questions. Specific questions for D&D rulings visit `#rulings-questions`, and if your question is about bot commands, first check `#avrae-commands` to see if the information can be found there, otherwise ask for help in `#bot-help-request`.
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) is the default place for most questions. Specific questions for D&D rulings visit `#rulings-questions`, and if your question is about bot commands, first check `#avrae-commands` to see if the information can be found there, otherwise ask for help in `#bot-help-request`.
 
 ==- "Why can I not see all the channels?"
 Once you make your character and import it to `#character-sheets`, you will be able to see the rest of the server. Head over to [Start Here](/character-building/start-here/) for the guide. If you are new to D&D, follow the step-by-step guide in [New to D&D](/character-building/new-to-dnd/)!
@@ -38,7 +38,7 @@ What official, homebrew, and UA sources and content we allow can be found in [Ch
 You have an option to ask for a review of your character sheet in `#review-request`, but it is not required.
 
 ==- "Where can I ask questions?"
-[!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584) is where you can ask all server-related questions.
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) is where you can ask all server-related questions.
 
 If you have a question about a specific topic, please take a look at "Guides and Q&A Channels by Topic" Section in `#channel-guide`
 
@@ -49,7 +49,7 @@ Once you have your character imported in `#character-sheets`, you will see all R
 
 You can also make a post in `#rp-board`, if you'd like to find other players who would like to RP together in one of many RP channels.
 
-Please make sure to follow [Roleplay Rules](rp-rules.md) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [How To Start Playing](/start-playing/start-playing/) and [What's Next?](/after-creating-your-character/whats-next.md). The RPXPs and XPs need to be logged in `#⁠xp-tracker`.
+Please make sure to follow [Roleplay Rules](/rp-rules/) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [How To Start Playing](/start-playing/start-playing/) and [What's Next?](/start-playing/whats-next/). The RPXPs and XPs need to be logged in `#⁠xp-tracker`.
 
 ==- "Where can I find the games?", "How do I join them?"
 The games are posted in `#bounty-board` and `#arena-board`. We don't have any particular schedule, because the games are run by our team of volunteer DMs at times when they are available.
@@ -57,7 +57,7 @@ The games are posted in `#bounty-board` and `#arena-board`. We don't have any pa
 To learn more about all types of available games on this server, please visit "DM Events" section in [How to Earn XP](/start-playing/earn-xp/#3-dm-events/). For instruction on how to join them, visit "Signing up for DM events" section of [How To Start Playing](/start-playing/start-playing/#signing-up-for-dm-events/).
 
 ==- "How can my character make money?"
-We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime-and-lifestyle/). All relevant channels can be found under the same category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in `#dtd-ls-discussion`.
+We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime/). All relevant channels can be found under the same category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in `#dtd-ls-discussion`.
 
 You might also like to check out the guilds under Guilds category. Guilds are managed by players, and each guild may have different requirements for becoming a member. With a guild membership you get additional options and bonuses for various DTDs.
 
@@ -94,10 +94,10 @@ We also have a `feedback` form for reporting errors such as typos, outdated info
 These are some of the more frequently asked questions we gathered over the years.
 
 ==- Can I start with any pets/creatures? (`!faq pets`)
-No, unless your background specifies having one. You can later purchase one in from the market in the [!badge icon="/images/discord-mark-blue.svg" text="#market-district"](https://discord.com/channels/512870694883950598/523139404726927370).
+No, unless your background specifies having one. You can later purchase one in from the market in the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#market-district"](https://discord.com/channels/512870694883950598/523139404726927370).
 
 ==- Why can I not choose Boomerang (or other options) as a starting equipment?
-Boomerangs are classified as exotic weapons on the server, and are not eligible as starting equipment. You can purchase them separately through the [Market Doc](<https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/>).
+Boomerangs are classified as exotic weapons on the server, and are not eligible as starting equipment. You can purchase them separately through the [!badge icon="link-external" variant="info" text="Market Doc"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/).
 
 ==- (For Warlocks) Do I have to specify who my warlock patron is?  (`!faq warlock-patron`)
 For your patron, they are unnamed unless they can be found in the existing lore.
@@ -108,8 +108,8 @@ As a player, you can define your patron as long as they are not lore-breaking or
 No.
 
 ==- My character has the soldier background, what are some wars they could have taken part in? 
-> If your character is from Icris, they might have fought in the Taffetan War. You can read more about the war’s progress by heading to [!badge icon="/images/discord-mark-blue.svg" text="#lore"](https://discord.com/channels/512870694883950598/740905255201669161), typing `in:lore taffeta` in your search bar and sorting by Oldest first.
-> If your character is from Eo, they might have fought in the Time of Darkness. You can read more about it [here](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/edit?usp=sharing)
+> If your character is from Icris, they might have fought in the Taffetan War. You can read more about the war’s progress by heading to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lore"](https://discord.com/channels/512870694883950598/740905255201669161), typing `in:lore taffeta` in your search bar and sorting by Oldest first.
+> If your character is from Eo, they might have fought in the Time of Darkness. You can read more about it [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/)
 
 ==- What are the Warforged origins in this server? 
 God of Knowledge, Cheong created the first warforged during the last Great War. However, his original blueprints were lost when the Labyrinth collapsed. Now, most modern warforged are replications made by powerful artificers. As such, not all warforged need to be built for war.
@@ -118,7 +118,7 @@ God of Knowledge, Cheong created the first warforged during the last Great War. 
 Yes
 
 ==- Can I wild shape into X? (`!faq wildshape`)
-> Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/cc-rules.md). Here are some noteworthy specifications:
+> Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/character-building/cc-rules/). Here are some noteworthy specifications:
 > - Dinosaur: Dinosaurs only exist in the Pelgara Archipelago on the continent of Eo. Hence, your character must have originated from there or previously traveled there.
 > - Some beasts are not native to Icris (for example creatures from supplementary adventures like Tome of Annihilation), hence you would not have seen them before. If you later see them in-game, then you might be able to transform into them at your respective DMs' discretion.
 > - Attempting to transform into an awakened animal results in you transforming into the non-awakened version of the animal.

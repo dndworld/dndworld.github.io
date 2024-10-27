@@ -18,7 +18,7 @@ h1:before {
 
 # Self Reporting
 
-If you discover that you have made a mistake, you may report it to [!badge icon="/images/discord-mark-blue.svg" text="#self-reports"](https://discord.com/channels/512870694883950598/1019512399314821140). Depending on the severity, leniency may be granted.
+If you discover that you have made a mistake, you may report it to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#self-reports"](https://discord.com/channels/512870694883950598/1019512399314821140). Depending on the severity, leniency may be granted.
 
 After submitting a self report, do not signup or join DM events with the affected character(s) until your self report has been addressed, to avoid complicating your logs further. 
 
@@ -33,12 +33,12 @@ Please report:
 - 5e rules mistakes made over the course of multiple official games
 
 Please do not report:
-- Logging DTDs, transactions, exp, etc. in the incorrect channel if it's already been fixed (if it has not been fixed, go to [!badge icon="/images/discord-mark-blue.svg" text="#dtd-ls-discussion"](https://discord.com/channels/512870694883950598/586697587932004362) and ask a Bookkeeping Assistant to help you)
+- Logging DTDs, transactions, exp, etc. in the incorrect channel if it's already been fixed (if it has not been fixed, go to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-ls-discussion"](https://discord.com/channels/512870694883950598/586697587932004362) and ask a Bookkeeping Assistant to help you)
 - Accidental swears
 - 5e rules mistakes during one game or spar
 
 !!!info
-If you are ever unsure of something like whether your character is legal, whether you're adding XP/RPXP correctly, whether a certain kind of behavior is allowed, or anything else, please ask about it in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584), #beginner-help, or #rulings-questions. The staff team is here to help, and we want to help you avoid trouble in the future.
+If you are ever unsure of something like whether your character is legal, whether you're adding XP/RPXP correctly, whether a certain kind of behavior is allowed, or anything else, please ask about it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584), #beginner-help, or #rulings-questions. The staff team is here to help, and we want to help you avoid trouble in the future.
 
 Don't assume something is okay if you have doubts. Rereading the rules and/or asking in the proper channels is always better than getting called here, and helps prevent it from happening at all.
 !!!

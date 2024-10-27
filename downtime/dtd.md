@@ -56,10 +56,10 @@ Misc. Tool          100 Learning Points
 Standard Language    90 Learning Points
 Exotic Language     125 Learning Points
 ```
-- [List of tools/instruments](https://www.dndbeyond.com/sources/basic-rules/equipment#Tools)
-- [List of languages](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Languages)
+- [!badge icon="link-external" variant="info" text="List of tools/instruments"](https://www.dndbeyond.com/sources/basic-rules/equipment#Tools)
+- [!badge icon="link-external" variant="info" text="List of languages"](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Languages)
 
-- *[Koume Sign Language (KSL)](<https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/edit?tab=t.0#heading=h.3msemhbc7iyt>) has been added to the list of languages that can be learnt.*
+- *[!badge icon="link-external" variant="info" text="Koume Sign Language (KSL)"](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/#heading=h.3msemhbc7iyt) has been added to the list of languages that can be learnt.*
 - *Note that Thieves' Cant and Druidic cannot be learnt through the Learning DTD without a specific Guild Perk.*
 
 
@@ -71,7 +71,7 @@ Exotic Language     125 Learning Points
 
 ### Learning DTD Command
 
-> In [!badge icon="/images/discord-mark-blue.svg" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):<br>
+> In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):<br>
 > ```
 > !learn <Subject>
 > ```
@@ -80,7 +80,7 @@ Exotic Language     125 Learning Points
 > - **Subject**: the instrument/gaming set/tool/language you wish to learn
 > - By default, this command rolls an Intelligence check. For __instruments and gaming sets__, you can choose between Intelligence and Charisma. To use charisma score, add `cha` in the command.
 
-> ℹ️ For the full help text including the options, use `!help learn` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
+> ℹ️ For the full help text including the options, use `!help learn` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
 ### Learning Bonuses
 
@@ -103,20 +103,20 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 - Some guild modules and aides may provide a bonus to the combat training DTD. For more information, please refer to the pinned messages of each guild’s channel.
 - ⚠️ You **cannot** transfer RPXP to XP with combat training. This can only be done after the character has participated in a DM sanctioned event.
 
-1️⃣ In [!badge icon="/images/discord-mark-blue.svg" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):
+1️⃣ In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):
 ```
 !train [arguments]
 ```
-2️⃣ Add the earned XP in [!badge icon="/images/discord-mark-blue.svg" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481), following the output of the combat training.
+2️⃣ Add the earned XP in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481), following the output of the combat training.
 ```
 !dxp train <xp>
 ```
 
-ℹ️ For the full help text, use `!help train` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
+ℹ️ For the full help text, use `!help train` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
 ## Guild DTDs
 
-Each guild has one or two Guild Types. Depending on the type(s) of the guild, different DTDs are available to the members of the guild. For more information on guild types and DTD, please refer to the [Guild doc](https://docs.google.com/document/d/1A8sVmnksKwb9MX98f7Z6lfmdDgfxft85JPaQKejxXj0/edit).
+Each guild has one or two Guild Types. Depending on the type(s) of the guild, different DTDs are available to the members of the guild. For more information on guild types and DTD, please refer to the [!badge icon="link-external" variant="info" text="Guild doc"](https://docs.google.com/document/d/1A8sVmnksKwb9MX98f7Z6lfmdDgfxft85JPaQKejxXj0/).
 
 To pull up the help text for each guild DTD, use following command in `bot-dump`.
 
@@ -128,7 +128,7 @@ For help in joining a guild, please refer to [Joining a Guild (Optional)](/start
 
 ## Business DTD
 
-If you have a registered business for your house in `#registered-businesses`, you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [Business document](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
+If you have a registered business for your house in `#registered-businesses`, you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [!badge icon="link-external" variant="info" text="Business document"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
 
 To pull up the help text for Business DTD, use following command in `bot-dump`.
 

@@ -13,7 +13,7 @@ D&D Beyond (DDB) is one of the three character sheet creators we accept on our s
 
 With the support of our patrons as well as a club account from D&D Beyond, we are able to provide you with all paid material via content sharing links. Supply is limited, and we highly encourage you to donate any amount you can afford so we can purchase more links.
 
-To benefit from this perk, fill in the template below and post it in [!badge icon="/images/discord-mark-blue.svg" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310). A staff member will then send you a link via PMs. Posts marked with a ✅ indicate that they have been processed and the link sent out.
+To benefit from this perk, fill in the template below and post it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310). A staff member will then send you a link via PMs. Posts marked with a ✅ indicate that they have been processed and the link sent out.
 
 ## Rules
 

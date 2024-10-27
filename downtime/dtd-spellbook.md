@@ -29,7 +29,7 @@ A few things for Copying Spells in **Dnd World** are different from the D&D 5e B
 
 ### Copying Spells How-To
 
-- Each day you are copying spells, log the payment in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081), and fill in the following form and post in `#dtd-manual-log`.
+- Each day you are copying spells, log the payment in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081), and fill in the following form and post in `#dtd-manual-log`.
 
 ```
 Copying Spells DTD
@@ -72,7 +72,7 @@ If you have knowledge about a spell you haven’t learned, and do not have acces
 
 1. Pay the cost
 
-- Each day you perform the Spell Research DTD, make a payment of 5gp in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081). This represents access to certain repositories of knowledge, such as research articles and restricted library sections. 
+- Each day you perform the Spell Research DTD, make a payment of 5gp in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081). This represents access to certain repositories of knowledge, such as research articles and restricted library sections. 
 - Characters with the **Cloistered Scholar background** pay only half, thanks to the Library Access background feature.
 
 2. Log the research

@@ -62,7 +62,7 @@ Some examples when you should ping Mod include:
 Some examples when you should not ping Mod include:
 
 - When you want to ask a question
-  - Please direct questions to [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584) or [!badge icon="/images/discord-mark-blue.svg" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369) and patiently wait for a reply. If it gets buried, you can :bell: react to your question to escalate it.
+  - Please direct questions to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369) and patiently wait for a reply. If it gets buried, you can :bell: react to your question to escalate it.
 - When you want to make a non-urgent report
   - Please react with an :exclamation: to the offending post, or if a series of posts, screenshot it and send to `@FanMail` 
 - When its a bot raid and someone else has already pinged them

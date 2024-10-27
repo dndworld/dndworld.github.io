@@ -15,42 +15,42 @@ h1:before {
 
 Avrae's scheduled update window is 1400-1500 EST (2PM-3PM), Tuesday afternoons. During these periods, Avrae may go offline for up to 30 minutes.
 
-Any unscheduled updates will be shown in [!badge icon="/images/discord-mark-blue.svg" text="#bot-statuses"](https://discord.com/channels/512870694883950598/744861406158913566)
+Any unscheduled updates will be shown in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-statuses"](https://discord.com/channels/512870694883950598/744861406158913566)
 
 ### Gsheet: Black Error Boxes
 
 If you are seeing black boxes in your Gsheet, that's because some of the images for its style were lost to the void. The images are purely cosmetic and do not affect Gsheet's functionality, so it's optional to fix them.
 
-[The official template](https://gsheet2.avrae.io/) and the DW HB variant have been (mostly) fixed, so you can copy-paste the necessary formulas from them and onto your sheet. Tabs with missing images are:
+[!badge icon="link-external" variant="info" text="The official template"](https://gsheet2.avrae.io/) and the DW HB variant have been (mostly) fixed, so you can copy-paste the necessary formulas from them and onto your sheet. Tabs with missing images are:
 - `v2.1` (several on the top section, one in the bottom section)
 - `?` (the formulas for the Proficiencies box in `v2.1` work for the missing images here too)
 - `Attack Info`, `Gear Info`, `Race Info`, `Class Info` (the same formula works for each of the missing images in each of these)
 
 ## Player Resources
 
-Blood Hunter Commands: https://avrae.io/dashboard/workshop/5f6f9b1e192fdca3888bc29d
+[!badge icon="link-external" variant="info" text="Blood Hunter Commands"](https://avrae.io/dashboard/workshop/5f6f9b1e192fdca3888bc29d)
 - `!level` gvar: `a55768e6-9b31-4dfc-9fbd-2a601e419823`
 
 ## Aliasing and Automation Resources
 
 ### Quick Links
 
-**[Aliasing Help/Documentation](https://avrae.readthedocs.io/en/latest/)**
-- Basics: https://avrae.readthedocs.io/en/latest/aliasing/aliasing.html
-- API: https://avrae.readthedocs.io/en/latest/aliasing/api.html
-- Tutorials: https://avrae.readthedocs.io/en/latest/aliasing/aliasing_tut.html
+**[!badge icon="link-external" variant="info" text="Aliasing Help/Documentation"](https://avrae.readthedocs.io/en/latest/)**
+- [!badge icon="link-external" variant="info" text="Basics"](https://avrae.readthedocs.io/en/latest/aliasing/aliasing.html)
+- [!badge icon="link-external" variant="info" text="API"](https://avrae.readthedocs.io/en/latest/aliasing/api.html)
+- [!badge icon="link-external" variant="info" text="Tutorials"](https://avrae.readthedocs.io/en/latest/aliasing/aliasing_tut.html)
 
 **Attack/Spell Automation (Making Spells/Attacks Work)**
-- Reference: https://avrae.readthedocs.io/en/latest/automation_ref.html
+- [!badge icon="link-external" variant="info" text="Reference"](https://avrae.readthedocs.io/en/latest/automation_ref.html)
 
 **Cheatsheets**
-- Getting Started: https://avrae.readthedocs.io/en/latest/cheatsheets/get_started.html
-- DM Combat Guide: https://avrae.readthedocs.io/en/latest/cheatsheets/dm_combat.html
-- Player Combat Guide: https://avrae.readthedocs.io/en/latest/cheatsheets/pc_combat.html
+- [!badge icon="link-external" variant="info" text="Getting Started"](https://avrae.readthedocs.io/en/latest/cheatsheets/get_started.html)
+- [!badge icon="link-external" variant="info" text="DM Combat Guide"](https://avrae.readthedocs.io/en/latest/cheatsheets/dm_combat.html)
+- [!badge icon="link-external" variant="info" text="Player Combat Guide"](https://avrae.readthedocs.io/en/latest/cheatsheets/pc_combat.html)
 
 ### Quick Start to Automation
 
-- Output an embed (Do **not** use this for RP -> [Rule](/rules.md) 7️⃣)
+- Output an embed (Do **not** use this for RP -> [Rule](/rules/ 7️⃣)
 More on embed arguments can be found in `!help embed`
 > ```
 > !alias [alias name] embed -title "My Title" -desc "My description" -f "Field 1|Field text"

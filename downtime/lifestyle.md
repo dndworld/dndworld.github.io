@@ -70,7 +70,7 @@ Aristocratic       70gp
 > - `!lifestyle Modest -background "Acolyte"`
 
 ### 3. Logging Weekly
-You can pull up the full help text by doing `!help lifestyle` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
+You can pull up the full help text by doing `!help lifestyle` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
  
 1. [Optional] React with ⏰ in `#roles` for a weekly reminder to log your lifestyle.
  

@@ -26,10 +26,10 @@ h1:before {
 ### Server Rule related
 
 - **AP**: Active Player ([Common FAQ](/faq/common-faq))
-- **DP**: Demerit Points ([Rules](/rules.md))
+- **DP**: Demerit Points ([Rules](/rules/))
 
 ### Lifestyle & Downtime Days related
-*More info in [Downtime and Lifestyle Rules](/downtime-and-lifestyle/)*
+*More info in [[Downtime and Lifestyle Rules](/downtime/)*
 
 - **LS**: Lifestyle
 - **DTD**: Downtime Days
@@ -62,43 +62,43 @@ h1:before {
 ### Other Commonly-Used Abbreviations
 
 - **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
-- **CC**: Custom Counter ([Avrae Commands](/after-creating-your-character/avrae/))
-- **IC**: In Character ([Roleplay Rules](/rp-rules.md))
-- **OOC**: Out Of Character ([Roleplay Rules](/rp-rules.md))
+- **CC**: Custom Counter ([Avrae Commands](/start-playing/avrae/))
+- **IC**: In Character ([Roleplay Rules](/rp-rules/))
+- **OOC**: Out Of Character ([Roleplay Rules](/rp-rules/))
 - **DDB**: D&D Beyond
 
 ## More D&D Content: 
 ### YouTube Channels
 
-[**Puffin Forest**](https://www.youtube.com/channel/UCUpkp-6fXuG9dqfoJ99XTmw): A Player/DM who frequently uploads videos on wacky tales of his D&D adventures.
+[!badge icon="link-external" variant="info" text="**Puffin Forest**"](https://www.youtube.com/channel/UCUpkp-6fXuG9dqfoJ99XTmw): A Player/DM who frequently uploads videos on wacky tales of his D&D adventures.
 
-[**JoCat**](https://www.youtube.com/playlist?list=PLDnRMnDDjAzK5uZLidDUtHtD1iN06Qe0G)'s series: A Crap Guide to D&D, is a brief and fun summary of the various classes and how they use their abilities!
+[!badge icon="link-external" variant="info" text="**JoCat**"](https://www.youtube.com/playlist?list=PLDnRMnDDjAzK5uZLidDUtHtD1iN06Qe0G)'s series: A Crap Guide to D&D, is a brief and fun summary of the various classes and how they use their abilities!
 
-[**Critical Role**](https://www.youtube.com/playlist?list=PL1tiwbzkOjQyr6-gqJ8r29j_rJkR49uDN)'s Handbooker Helper explains the rules regarding several mechanics in D&D 5e.
+[!badge icon="link-external" variant="info" text="**Critical Role**"](https://www.youtube.com/playlist?list=PL1tiwbzkOjQyr6-gqJ8r29j_rJkR49uDN)'s Handbooker Helper explains the rules regarding several mechanics in D&D 5e.
 
-[**Zee Bashew**](https://www.youtube.com/user/zeebashew) covers underrated spells and mechanics!
+[!badge icon="link-external" variant="info" text="**Zee Bashew**"](https://www.youtube.com/user/zeebashew) covers underrated spells and mechanics!
 
-[**Dingo Doodles**](https://www.youtube.com/channel/UCfPUcG3oCmXEYgdFuwlFh8w) produces funny animated videos about her D&D adventures!
+[!badge icon="link-external" variant="info" text="**Dingo Doodles**"](https://www.youtube.com/channel/UCfPUcG3oCmXEYgdFuwlFh8w) produces funny animated videos about her D&D adventures!
 
-[**Runesmith**](https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw)'s Basically [ ] series is popular for covering D&D lore as well as character building material!
+[!badge icon="link-external" variant="info" text="**Runesmith**"](https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw)'s Basically [ ] series is popular for covering D&D lore as well as character building material!
 
-[**Davvy Chappy**](https://www.youtube.com/channel/UC1r4Y0yjS1wjq6Yw1ybcJHA) covers the latest D&D news as well as offers newbie friendly tutorials!
+[!badge icon="link-external" variant="info" text="**Davvy Chappy**"](https://www.youtube.com/channel/UC1r4Y0yjS1wjq6Yw1ybcJHA) covers the latest D&D news as well as offers newbie friendly tutorials!
 
 ### Podcasts & Streams
 
-[**Critical Role**](https://critrole.com/) is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. 
+[!badge icon="link-external" variant="info" text="**Critical Role"**](https://critrole.com/) is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. 
 
-[**The Adventure Zone**](https://www.maximumfun.org/shows/adventure-zone) is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Critical Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! 
+[!badge icon="link-external" variant="info" text="**The Adventure Zone"**](https://www.maximumfun.org/shows/adventure-zone) is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Critical Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! 
 
-[**Not Another D&D Podcast**](https://headgum.com/not-another-dandd-podcast) is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. 
+[!badge icon="link-external" variant="info" text="**Not Another D&D Podcast"**](https://headgum.com/not-another-dandd-podcast) is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. 
 
-[**Dimension 20**](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A) is a comedic take on the setting of D&D campaigns by the cast of Dropout. 
+[!badge icon="link-external" variant="info" text="**Dimension 20**"](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A) is a comedic take on the setting of D&D campaigns by the cast of Dropout. 
 
-[**High Rollers**](https://www.twitch.tv/highrollersdnd) is a popular Twitch stream, live every Sundays 5pm BST.
+[!badge icon="link-external" variant="info" text="**High Rollers"**](https://www.twitch.tv/highrollersdnd) is a popular Twitch stream, live every Sundays 5pm BST.
 
 ## Tutorials
 
-> If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
+> If you need help with basic Avrae commands, check out [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI), created by our partner server The Starry Shore!
 
 ### How to make offhand attacks on D&D Beyond
 - Add the weapon to the Inventory and equip it by clicking the box next to it.
@@ -106,7 +106,7 @@ h1:before {
 - Rename the weapon so that it's easier to tell, and check "Dual Wield" option.
 - Make sure it shows up under "Bonus Action".
 
-- In [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313), run: `!update`
+- In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313), run: `!update`
 - Then, double check that it appears in: `!a list`
 
 <!--- <img src="https://i.imgur.com/WsZXhSV.png" width="500"/>
@@ -120,7 +120,7 @@ h1:before {
 Avrae uses D&D Beyond to fetch and display content, so even if you use Gsheet or Dicecloud, you must connect your Discord and D&D Beyond accounts to use features from paid content on Avrae, e.g. spells, classfeats.
 !!!
 - Make a D&D Beyond account.
-- Go to the [Account page](https://www.dndbeyond.com/account) to link it to your Discord account.
+- Go to the [!badge icon="link-external" variant="info" text="Account page"](https://www.dndbeyond.com/account) to link it to your Discord account.
 
 - Make a `#ddb-link-request` to receive a DDB campaign link. 
 !!!Note
@@ -157,7 +157,7 @@ Example character sheet with notes containing full text of each feature.
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
-- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
+- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
 

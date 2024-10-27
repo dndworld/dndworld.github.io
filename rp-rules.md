@@ -21,12 +21,10 @@ h1:before {
 
 ==- 1️ **Follow the rules of the game.**
 This includes:
-- DnD 5e ruleset
-<https://www.dndbeyond.com/sources/basic-rules>
+- [!badge icon="link-external" variant="info" text="DnD 5e ruleset"](https://www.dndbeyond.com/sources/basic-rules)
 - Server’s rule adjustments and variant rules
-  - [!badge icon="/images/discord-mark-blue.svg" text="#severratas"](/faq/erratas.md)
-  - DnD World Content Errata/Variant Feature Document
-<https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/edit> 
+  - [#severratas](/faq/rulings/)
+  - [!badge icon="link-external" variant="info" text="DnD World Content Errata/Variant Feature Document"](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
 - Table rules your DM is using for their games
 ==- 2️ **Do not invent lore.**
 You or your characters should not imply the existence of any influential new locations, organizations, entities, NPCs, events, items, etc. which are not already established in the server. 
@@ -50,8 +48,8 @@ When deceiving other characters, you must clarify OOC that your character is lyi
 **4.2. Limitations of PvP**
 - No stealing is allowed, even with OOC consent.
 - Player-vs-Player fights are allowed, but only with consent and in an appropriate location.
-  - Friendly spars may take place in [!badge icon="/images/discord-mark-blue.svg" text="#snowhaven-arena"](https://discord.com/channels/512870694883950598/524265517830242304) or [!badge icon="/images/discord-mark-blue.svg" text="#snowhaven-arena-2"](https://discord.com/channels/512870694883950598/586365553418043392). 
-  - Fighting in any other place including [!badge icon="/images/discord-mark-blue.svg" text="#gladiator-pit"](https://discord.com/channels/512870694883950598/553741559431168030) must follow the rules of the [PvP document (Google Docs)](https://docs.google.com/document/d/1sOWEJMqXdpRejXRonx1iMhwZsJjN9vHZ-jYQdPJbUeo/).
+  - Friendly spars may take place in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena"](https://discord.com/channels/512870694883950598/524265517830242304) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-arena-2"](https://discord.com/channels/512870694883950598/586365553418043392). 
+  - Fighting in any other place including [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gladiator-pit"](https://discord.com/channels/512870694883950598/553741559431168030) must follow the rules of the [!badge icon="link-external" variant="info" text="PvP document (Google Docs)"](https://docs.google.com/document/d/1sOWEJMqXdpRejXRonx1iMhwZsJjN9vHZ-jYQdPJbUeo/).
 - Summoned creatures cannot participate in PvP without their summoner present.
 ==- 5️ **Don’t be a rules lawyer.**
 When in DM events, DM has the final say with rulings. 
@@ -82,7 +80,7 @@ Examples include:
 
 - Please do not use Avrae's `embed` functionality for RP purposes, as this may give an impression of piloting an NPC.
 ==- 8️ **Character Rebuild and Retire**
-Follow the instructions in the [!badge icon="/images/discord-mark-blue.svg" text="#rebuild-retire-log"](https://discord.com/channels/512870694883950598/542953099560615946) channel pins for the character rebuild and retire. 
+Follow the instructions in the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rebuild-retire-log"](https://discord.com/channels/512870694883950598/542953099560615946) channel pins for the character rebuild and retire. 
 You should not delete a character without going through the proper process.
 
 It is prohibited to kill off your character intentionally for the purpose of retiring the character.
@@ -102,7 +100,7 @@ DMs are expected to report players failing to show up for games or disappearing 
 
 Exceptions may be made if you have made an effort to communicate with your DM, and they have opted to make accommodations for you, particularly if the game duration continued beyond expectations.
 ==- 1️4️ **If you die, die gracefully.**
-We understand that character death may be upsetting, but that does not justify stirring up arguments and drama OOC. You can make your mark on history by leaving a record of your character’s downfall at [!badge icon="/images/discord-mark-blue.svg" text="#list-of-the-fallen"](https://discord.com/channels/512870694883950598/544159624790671391).
+We understand that character death may be upsetting, but that does not justify stirring up arguments and drama OOC. You can make your mark on history by leaving a record of your character’s downfall at [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#list-of-the-fallen"](https://discord.com/channels/512870694883950598/544159624790671391).
 
 ⚠️ *If your character dies during an encounter mid-bounty, do not delete your character from Avrae until you have been removed from initiative. This has resulted in problems with the initiative tracker.*
 ==- 1️5️ **Intentional character death and self-harm are prohibited.**
@@ -120,11 +118,11 @@ Pending magic items or gold are acceptable. However, if you receive them from a 
 
 ### Joining a Roleplay
 
-You can freely enter and join an ongoing roleplay in public channels such as [!badge icon="/images/discord-mark-blue.svg" text="#drunken-yeti-tavern"](https://discord.com/channels/512870694883950598/551901424276078602) or [!badge icon="/images/discord-mark-blue.svg" text="#honey-badger-café"](https://discord.com/channels/512870694883950598/562872331018698752).
+You can freely enter and join an ongoing roleplay in public channels such as [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#drunken-yeti-tavern"](https://discord.com/channels/512870694883950598/551901424276078602) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#honey-badger-café"](https://discord.com/channels/512870694883950598/562872331018698752).
 
 For other channels, if there is an ongoing RP, there is always a possibility that the players are in a scene they have planned, or they prefer to RP 1v1. It is a good etiquette to ask in the corresponding ooc channel whether you may join the scene.
 
-You are encouraged to utilize [!badge icon="/images/discord-mark-blue.svg" text="#rp-board"](https://discord.com/channels/512870694883950598/893946822404493392) for finding RP opportunities, or you are always welcome to walk into the tavern!
+You are encouraged to utilize [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rp-board"](https://discord.com/channels/512870694883950598/893946822404493392) for finding RP opportunities, or you are always welcome to walk into the tavern!
 
 ### Pinging
 
@@ -132,7 +130,7 @@ Before pinging anyone, please remember that different people have different thre
 
 An alternative method that is widely used on this server is using the Dusty bot's notifications function. There is a good chance that a staff member may have their preferred name dustied (added for being notified via Dusty), and a lot of players have their character names dustied as well. 
 
-[A full list of Dusty bot's notification commands can be found here.](https://dustybot.info/reference#notifications)
+[!badge icon="link-external" variant="info" text="A full list of Dusty bot's notification commands can be found here."](https://dustybot.info/reference#notifications)
 
 Some players specify in their status/about me saying pings are welcome. 
 
@@ -144,7 +142,7 @@ For exceptional issues that are time-sensitive, you may notify Mods. Some exampl
 - If there is a Bot raid and the Mods have not been notified yet, you may ping `@Mod`.
 - If arguments between players are getting heated to the point it requires intervention, or if a Player vs Player (PvP) fight may be imminent, you may ping a Moderator who is online.
 
-For general reports of rule-breaking behaviors, please react to the offending post with an ❗ `:exclamation:`. Further details can be found in ["How to Report Rule-Breaking"](/rules/#how-to-report-rule-breaking) section of [Server Rules](/rules/) (Discord: [!badge icon="/images/discord-mark-blue.svg" text="#rules"](https://discord.com/channels/512870694883950598/535362768379969547)).
+For general reports of rule-breaking behaviors, please react to the offending post with an ❗ `:exclamation:`. Further details can be found in the [How to Report Rule-Breaking](/rules/#how-to-report-rule-breaking) section of [Server Rules](/rules/) (or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rules"](https://discord.com/channels/512870694883950598/535362768379969547)).
 
 
 ### Receiving Pings from Staff
@@ -152,17 +150,17 @@ For general reports of rule-breaking behaviors, please react to the offending po
 Staff may ping you in an official capacity when something directly concerns you. You are expected to respond or acknowledge as instructed. Here are some examples:
 
 - DMs ping your Level role for games in the level range.
-- DMs might ping you in [!badge icon="/images/discord-mark-blue.svg" text="#bounty-discussion"](https://discord.com/channels/512870694883950598/536011720553136138) regarding your game signups.
+- DMs might ping you in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bounty-discussion"](https://discord.com/channels/512870694883950598/536011720553136138) regarding your game signups.
 - DMs also ping you when you are accepted to a game. Many DMs choose to ping once again closer to the start of the game to ensure that the players are present (also referred to as a roll-call). Please respond or react promptly as instructed by the DM in order to secure your spot in the game.
 <br><br>
-- Mods may ping you in [!badge icon="/images/discord-mark-blue.svg" text="#lesser-courthouse"](https://discord.com/channels/512870694883950598/579940883202572308) for clarifications or warnings.
-- Mods will ping you in [!badge icon="/images/discord-mark-blue.svg" text="#courthouse"](https://discord.com/channels/512870694883950598/576803952830578688) to issue Demerit Points or warnings for offenses.
+- Mods may ping you in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lesser-courthouse"](https://discord.com/channels/512870694883950598/579940883202572308) for clarifications or warnings.
+- Mods will ping you in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#courthouse"](https://discord.com/channels/512870694883950598/576803952830578688) to issue Demerit Points or warnings for offenses.
 - When interacting with a Moderator, please be polite and respectful. Please remember the following:
   - Moderators are volunteers who devote their time and effort in maintaining the server's community and environment.
   - No one mod is responsible for making a judgement call or handing out warnings.
   - If you wish to appeal the ruling, please message FanMail. We do this so that the Mod team can have a discussion on the issue, and the weight is not put on a single Moderator.
 <br><br>
-- NPC Masters will ping you in response to your posts in [!badge icon="/images/discord-mark-blue.svg" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900) or [!badge icon="/images/discord-mark-blue.svg" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740). Please respond promptly so that the encounter can be scheduled at a mutually convenient time.
+- NPC Masters will ping you in response to your posts in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740). Please respond promptly so that the encounter can be scheduled at a mutually convenient time.
 
 ### Sending a Direct Message/Private Message (PM)
 
@@ -174,7 +172,7 @@ For reasons similar to Pings, please be aware that not everyone appreciates rece
 
 For **questions**, it is always better to ask them in proper channels than in direct messages. This prevents misunderstandings, or answers being taken out of context, and it makes it easier for the staff to get a second opinion or help from other staff members. 
 
-If you are unsure what the proper channel is for a certain question, please refer to the ["Guides and Q&A Channels by Topic"](https://discord.com/channels/512870694883950598/537506745916850176/965312269342875699) section of [!badge icon="/images/discord-mark-blue.svg" text="#channel-guide"](https://discord.com/channels/512870694883950598/537506745916850176), or simply ask them in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584).
+If you are unsure what the proper channel is for a certain question, please refer to the ["Guides and Q&A Channels by Topic"](https://discord.com/channels/512870694883950598/537506745916850176/965312269342875699) section of [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#channel-guide"](https://discord.com/channels/512870694883950598/537506745916850176), or simply ask them in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584).
 
 ### Receiving Direct Messages/Private Messages (PM) from Staff
 

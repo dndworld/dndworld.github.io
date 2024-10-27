@@ -18,7 +18,7 @@ Some of the DTDs come with consequences, such as injury, infamy points, and/or f
 
 *Injuries that go beyond simple flesh wounds are more difficult to heal than a simple health restoring spell or potion.* 
 
-While you have an injury, you will be hindered in some way. You may look up the **effect of an injury** with following command in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313):
+While you have an injury, you will be hindered in some way. You may look up the **effect of an injury** with following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313):
 
 ```
 !hb injury <name>
@@ -145,7 +145,7 @@ This bonus does **not** stack with the bonus from the Forage for Herbs DTD.
 - For members of guilds with the Garden module, use `!forage Garden -note "Name of the Guild"` to handle the auto-success.
 
 !!!
-For the full help text, use `!help forage` in [!badge icon="/images/discord-mark-blue.svg" text="#bot-dump"](https://discordapp.com/channels/512870694883950598/519131071502221313).
+For the full help text, use `!help forage` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 !!!
 
 - If the result is a success, you can add +10 to your Constitution saves **each day until the injury is recovered**. This is effective for only **one** injury, which means you need to do Forage for Herbs DTD again to gain the bonus for additional injuries.

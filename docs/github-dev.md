@@ -4,7 +4,7 @@ icon: mark-github
 order: 10
 ---
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)
 
 ## On the Main Repository
 
@@ -29,7 +29,7 @@ Click the hamburger menu on the top-left of the site, and look under Repositorie
 - (step 0) Before you edit, click the 'Sync fork' button on the main page. Your fork has its own commit history separate from the main repository's, so syncing is a must.
 - (step 5) You may need to use the 'Contribute' button on the fork's main page to create a PR.
 
-You can also deploy your own GitHub Pages instance from your fork, but this is not recommended for previewing changes due to the latency. For that, see [Developing From Your Machine](/docs/github-dev.md).
+You can also deploy your own GitHub Pages instance from your fork, but this is not recommended for previewing changes due to the latency. For that, see [Developing From Your Machine](/docs/github-dev/).
 
 ### With a Codebase
 
@@ -44,4 +44,4 @@ Using the codespace should be mostly straightforward, but note the following:
 - If you 'Commit' without writing a message, 'COMMIT_EDITMSG' will open on the editor, and you will have to write the commit message as the first line, then click the check mark on the top right.
 - These Changes are only committed to the codespace's fork. Once everything has been committed, 'Sync Changes' (or '...' > 'Push' above the Message box) to your fork and proceed with the modified step 5 above.
 
-[!ref Developer Documentation](/docs/index.md)
+[!ref Developer Documentation](/docs/)

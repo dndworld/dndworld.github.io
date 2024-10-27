@@ -19,7 +19,7 @@ You may write wills dedicating equipment, property, and wealth to someone else (
 - The will is not valid if either party leaves the server
 - The will must follow the logging template. Incomplete wills are invalid.
 - The testator must have been close with the beneficiary IC
-- For magic items, [!badge icon="/images/discord-mark-blue.svg" text="rules for Ownership Transfer"](https://discord.com/channels/512870694883950598/569731521951563776/937751438979919904) apply
+- For magic items, [!badge icon="/images/discord-mark-blue.svg" variant="info" text="rules for Ownership Transfer"](https://discord.com/channels/512870694883950598/569731521951563776/937751438979919904) apply
 
 You may write wills for all your characters if you so wish, and amend them at any point in time.
 

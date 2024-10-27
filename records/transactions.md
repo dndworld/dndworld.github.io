@@ -9,7 +9,7 @@ h1:before {
 }
 </style>
 
-All purchases, sales, and trades should be recorded in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+All purchases, sales, and trades should be recorded in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ## Making Transactions
 
@@ -52,8 +52,8 @@ Example: `!transaction "Pet Shop: Buying Frog" -20gp`
 ## Magic Item Transactions
 
 ✅ Magic Item Transactions include:
-- Buying and selling from the [**Black Market Bin**](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM)
-- Scheduled NPC magic item purchases/sales in [!badge icon="/images/discord-mark-blue.svg" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900)
+- Buying and selling from the [!badge icon="link-external" variant="info" text="**Black Market Bin**"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/)
+- Scheduled NPC magic item purchases/sales in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900)
 - Transfer of magic items between players (P2P transactions)
 
 ❌ Transactions do NOT include:
@@ -74,7 +74,7 @@ __Black Market Transaction Log__
 !!!A bot should react to your form with 🎐 `:wind_chime:` automatically, but if for some reason the bot fails, do add the react manually.
 !!! 
 
-If you are trading in an item not on the Black Market Bin, please use the following template. Refer to the[ Black Market document](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM) for prices.
+If you are trading in an item not on the Black Market Bin, please use the following template. Refer to the [!badge icon="link-external" variant="info" text="Black Market document"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/) for prices.
 ```
 __Unlisted Magic Item Trade-In Log__
 **Character:** [Name], [Level]
@@ -100,7 +100,7 @@ __Unlisted Magic Item Trade-In Log__
 > - Non-homebrew items that are not on the black market bin list can be borrowed for RP purposes following the Level Limitations above. For games, the DM running the game has the final say in whether the borrowed item is allowed in their game.
 > - You do not need to fill in the "Magic Item Transfer" form for borrowing an item.
 #### 3. Ownership Transfer
-> - Transferring the ownership of a magic item needs to be recorded in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081) using the following form:
+> - Transferring the ownership of a magic item needs to be recorded in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081) using the following form:
 > ```
 > **Magic Item Transfer Between Players Log**
 > **Item:** [Name], [Rarity]

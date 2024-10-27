@@ -36,15 +36,15 @@ You are about to join a homebrew text-only server where you will take on bountie
 
 ## A Few Words
 > - We would appreciate it if you would take the time to read the #rules if you haven't already. Every rule is there for a reason. 
-> - Please refer to the [Character Creation Rules](cc-rules.md) for accepted books and UA/Homebrew. 
-Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in [!badge icon="/images/discord-mark-blue.svg" text="#server-questions"](https://discordapp.com/channels/512870694883950598/546725434608451584)
+> - Please refer to the [Character Creation Rules](/character-building/cc-rules/) for accepted books and UA/Homebrew. 
+Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584)
 
-> - If you don’t think DW is what you are looking for, you may find something that better suits your taste in [Partner Servers](partner-servers.md).
+> - If you don’t think DW is what you are looking for, you may find something that better suits your taste in [Partner Servers](/misc/partner-servers/).
 
 ---
 
 ## World Setting
-![](/Images/map-icris.jpg)
+![](/images/map-icris.jpg)
 
 You are on the mainland known as Icris. Icris is a fantasy setting with its own pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. 
 
@@ -60,7 +60,7 @@ No guns or firearm lookalikes exist in this world. No sci-fi, no references to o
 ---
 
 ## Snowhaven, Nanam
-![](/Images/map-snowhaven.jpg)
+![](/images/map-snowhaven.jpg)
 
 This is the hub town where all characters gather. **Snowhaven** is a city set in a snowy taiga, where the weather is often cold. The climate is based off Baffin Island, Canada.
 

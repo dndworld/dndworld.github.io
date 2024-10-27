@@ -3,12 +3,12 @@ label: "DTD Log Pins"
 icon: ""
 order: 0
 ---
-<!-- downtime-and-lifestyle -->
+<!-- downtime -->
 ## `#lifestyle-log`
 
-### [Step-By-Step Guide to Lifestyle](/downtime-and-lifestyle/lifestyle/#step-by-step-guide-to-lifestyle)
+### [Step-By-Step Guide to Lifestyle](/downtime/lifestyle/#step-by-step-guide-to-lifestyle)
 
-### [Logging Lifestyle Weekly ⭐ ](/downtime-and-lifestyle/lifestyle/#3-logging-weekly)
+### [Logging Lifestyle Weekly ⭐ ](/downtime/lifestyle/#3-logging-weekly)
 
 If anything has changed since the last time lifestyle was logged
 ```
@@ -24,12 +24,12 @@ Help text: `!help lifestyle` in `#⁠bot-dump`
 
 ## `#dtd-automated-log`
 
-### [Part-Time Work (PTW) 💰](/downtime-and-lifestyle/dtd-employment/#part-time-work-ptw)
+### [Part-Time Work (PTW) 💰](/downtime/dtd-employment/#part-time-work-ptw)
 ```
 !ptw <employer> <wage> <skill> [arguments]
 ```
 
-### [High-Risk Work (HRW) 💰](/downtime-and-lifestyle/dtd-employment/#high-risk-work-hrw)
+### [High-Risk Work (HRW) 💰](/downtime/dtd-employment/#high-risk-work-hrw)
 ```
 !hrw <employer> <check 1> <check 2> <check 3> [arguments]
 ```
@@ -47,7 +47,7 @@ Even if you failed a PTW/HRW check, you still get paid normally.
 ```
 Example: `!find "Employment at a smithy" "Market District" "Searching the market district for any signs of a forge by checking the skies for smoke and listening for the sounds of hammers on metal." "Investigation"`
 
-### [Job Interview Check](/downtime-and-lifestyle/dtd-employment/#job-interview-checks)
+### [Job Interview Check](/downtime/dtd-employment/#job-interview-checks)
 ```
 JOB INTERVIEW CHECK
 
@@ -63,12 +63,12 @@ Rolled: [result(s)]
 RP: [describe how you are trying to impress your new boss!]
 ```
 - Make the requested skill/tool check roll(s) after the form. Feel free to adjust the description of the RP accordingly.
-- [Tool Check](/downtime-and-lifestyle/dtd-employment/#tool-checks)
+- [Tool Check](/downtime/dtd-employment/#tool-checks)
 ```
 !check [skill/tool check(s) requested]
 ```
 
-### [Spell Research DTD](/downtime-and-lifestyle/dtd-spellbook/#spell-research)
+### [Spell Research DTD](/downtime/dtd-spellbook/#spell-research)
 ```
 Spell Research DTD
 
@@ -95,7 +95,7 @@ Notes:
 !cc dtd -1
 ```
 
-### [Copying Spells DTD Template](/downtime-and-lifestyle/dtd-spellbook/#copying-spells)
+### [Copying Spells DTD Template](/downtime/dtd-spellbook/#copying-spells)
 ```
 Copying Spells DTD
 
@@ -116,7 +116,7 @@ Payment link: <>
 !cc dtd -1
 ```
 
-### [Self-Sufficient Living DTD Template](/downtime-and-lifestyle/lifestyle/#self-sufficient-living)
+### [Self-Sufficient Living DTD Template](/downtime/lifestyle/#self-sufficient-living)
 ```
 Self-Sufficient Living DTD
 

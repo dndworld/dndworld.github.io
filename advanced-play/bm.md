@@ -8,13 +8,13 @@ icon: ":wind_chime:"
 h1:before { content: "🎐 " }
 </style> 
 
-## [Black Market Document](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM)
+## [!badge icon="link-external" variant="info" text="Black Market Document"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/)
 
-The Black Market offers a means of purchasing and selling magic items. The document above details how to make transactions with the Black market. Additionally, the Black Market Bin lists all the magic items available to be purchased or sold from the Black Market Bin, without needing to submit a form to [!badge icon="/images/discord-mark-blue.svg" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900).
+The Black Market offers a means of purchasing and selling magic items. The document above details how to make transactions with the Black market. Additionally, the Black Market Bin lists all the magic items available to be purchased or sold from the Black Market Bin, without needing to submit a form to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900).
 
 For transactions through the Black Market Bin: 
-- Once you've found the item you wish to purchase or sell, along with its associated costs, use the `!transaction` command in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081) with all the pertinent information in the command. 
-- If you're purchasing an item, fill out the form below as well and send it in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+- Once you've found the item you wish to purchase or sell, along with its associated costs, use the `!transaction` command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081) with all the pertinent information in the command. 
+- If you're purchasing an item, fill out the form below as well and send it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 - Afterwards, react to it with the 🎐 `:windchime:` emoji. 
 
 !!!Note
@@ -24,7 +24,7 @@ For transactions through the Black Market Bin:
 !!!
 
 ### Black Market Transaction Log Template
-> Post the following log detailing the transaction in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discordapp.com/channels/512870694883950598/531011819095982081).
+> Post the following log detailing the transaction in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 > ```
 > __Black Market Transaction Log__
 > **Character:** [Name], [Level]
@@ -34,14 +34,14 @@ For transactions through the Black Market Bin:
 > **Link(s) to Gold / Marks transactions:** 
 > ```
 
-## [Black Market Registry](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/edit#heading=h.yiit59ughitg)
+## [!badge icon="link-external" variant="info" text="Black Market Registry"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/#heading=h.yiit59ughitg)
 
 ### Etiquette
 
 *Please follow these guidelines, or your request will be denied:*
 - **Each player may only have one unresolved registry at a time.**
 - **Registries may be edited until a shopkeeper reacts with <img class="emoji" src="/images/emoji-pending.webp"> on it. Afterwards, the registry may no longer be edited.**
-- Use the [Black Market Bin](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/edit?usp=sharing) or `#figaros-reflavor-shop` when applicable.
+- Use the [!badge icon="link-external" variant="info" text="Black Market Bin"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/) or `#figaros-reflavor-shop` when applicable.
 - List the items you are trading with clearly. Any homebrew items traded in should be linked or spelled out.
  - **Consumables are unable to be traded.**
 - You may make thematic requests/give direction on what you would like the item to do, but specific mechanical changes, values and stat blocks are not possible.

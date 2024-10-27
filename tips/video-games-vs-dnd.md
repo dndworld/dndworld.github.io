@@ -12,7 +12,7 @@ h1:before {
 
 If you’re someone who are new to D&D and have only ever played video games, or are just struggling in general, then you have come to the right place! 
 
-This document is designed to explain the differences between more popular games and D&D, so that you can manage your expectations when you play. Please note that this won’t teach you the mechanics around how to play D&D; for that, you should check out [here](new-to-dnd.md).
+This document is designed to explain the differences between more popular games and D&D, so that you can manage your expectations when you play. Please note that this won’t teach you the mechanics around how to play D&D; for that, you should check out [here](/character-building/new-to-dnd/).
 
 Let’s get started!
 
@@ -30,7 +30,7 @@ Games that are designed to be short such as arenas and pits typically take aroun
 
 As a TTRPG, D&D publishes its manuals in book-form. These rules attempt to accommodate the potentially limitless possibilities within D&D. In addition, over the years, dozens of books have been released to expand on what you can do with the game.
 
-As such, a lot of the game requires reading. We recommend you start with our [New to D&D guide](new-to-dnd.md). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" text="#beginner-help"](https://discordapp.com/channels/512870694883950598/621035485690724369), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
+As such, a lot of the game requires reading. We recommend you start with our [New to D&D guide](/character-building/new-to-dnd/). Please ask questions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369), as this is the easiest way to clarify what you are unsure about and prevent rule breaking.
 
 ### Games Emphasize Teamwork
 
@@ -94,7 +94,7 @@ As such, in order to be effective, Tanks must **be** a threat. That means not ig
 
 That way, if monsters want to attack your backline, they will have to take an **Attack of Opportunity** from you. If paired with feats like **Sentinel** or **Polearm Master**, this can greatly cripple your enemies' mobility.
 
-In summary, traditional Tanks don't exist in D&D. Instead, they focus on defending the party, rather than just blindly taking damage. Thus, they may also be called Defenders. This concept is explained more [here](https://rpgbot.net/the-tank-fallacy/).
+In summary, traditional Tanks don't exist in D&D. Instead, they focus on defending the party, rather than just blindly taking damage. Thus, they may also be called Defenders. This concept is explained more [!badge icon="link-external" variant="info" text="here"](https://rpgbot.net/the-tank-fallacy/).
 !!!
 
 ### DPS
@@ -103,7 +103,7 @@ A DPS is someone who does a lot of damage but sacrifices other aspects such as h
 
 To maximize your damage, be sure to sink your highest stats into the stat you use to attack. For Rogues and Monks, this is Dexterity, and for spellcasters, this is referred to as your casting stat and defers by class.
 
-It should be noted not all spells, feats, or subclasses are created equal. Some are more situational than others. If being effective in combat is very important to you, you are advised to research [guides](https://rpgbot.net/dnd5/characters/classes/) and discuss with other players plans for your build. 
+It should be noted not all spells, feats, or subclasses are created equal. Some are more situational than others. If being effective in combat is very important to you, you are advised to research [!badge icon="link-external" variant="info" text="guides"](https://rpgbot.net/dnd5/characters/classes/) and discuss with other players plans for your build. 
 
 #### Subtype: Glass Cannons
 
@@ -178,4 +178,4 @@ This is most evident in the **Bard, Rogue, and Artificer** classes. The former t
 
 ## Conclusion
 
-And that's about it! To be sure, there are definitely niche subtypes that were skipped over, but we hope we covered all the main ones. Have fun creating your character, and if you have any suggestions for what else we should cover, do pop them in [!badge icon="/images/discord-mark-blue.svg" text="#server-suggestions"](https://discordapp.com/channels/512870694883950598/537506014883217419)!
+And that's about it! To be sure, there are definitely niche subtypes that were skipped over, but we hope we covered all the main ones. Have fun creating your character, and if you have any suggestions for what else we should cover, do pop them in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419)!

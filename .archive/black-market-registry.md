@@ -4,14 +4,14 @@ icon: ""
 order: 0
 ---
 <!-- advanced-play/ -->
-# [Black Market Registry](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/edit#heading=h.yiit59ughitg)
+# [!badge icon="link-external" variant="info" text="Black Market Registry"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/#heading=h.yiit59ughitg)
 
 ## Etiquette
 
 *Please follow these guidelines, or your request will be denied:*
 - **Each player may only have one unresolved registry at a time.**
 - **Registries may be edited until a shopkeeper reacts with <img class="emoji" src="/images/emoji-pending.webp"> on it. Afterwards, the registry may no longer be edited.**
-- Use the [Black Market Bin](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/edit?usp=sharing) or `#figaros-reflavor-shop` when applicable.
+- Use the [!badge icon="link-external" variant="info" text="Black Market Bin"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/) or `#figaros-reflavor-shop` when applicable.
 - List the items you are trading with clearly. Any homebrew items traded in should be linked or spelled out.
  - **Consumables are unable to be traded.**
 - You may make thematic requests/give direction on what you would like the item to do, but specific mechanical changes, values and stat blocks are not possible.

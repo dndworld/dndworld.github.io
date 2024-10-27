@@ -8,7 +8,7 @@ icon: ":hammer_and_wrench:"
 h1:before { content: "🛠️ " }
 </style>
 
-This page contains the rules for character creation. For the starting guide to the server, please head over to [Start Here](start-here.md).
+This page contains the rules for character creation. For the starting guide to the server, please head over to [Start Here](start-here/).
 
 ## Start
 
@@ -24,19 +24,19 @@ You cannot transfer characters from other places. However, you can create a vers
 ## Character Sheet Options
 
 > You must use a sheet compatible with the **Avrae** dice bot. The following are all free to use. Your options are:
-> - [**D&D Beyond**](https://www.dndbeyond.com/) (Best for new players)
-> - [**GSheet**](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM)
-> - [**DiceCloud v1**](https://v1.dicecloud.com/)
-> - [**DiceCloud v2**](https://dicecloud.com/)
+> - [!badge icon="link-external" variant="info" text="**D&D Beyond**"](https://www.dndbeyond.com/) (Best for new players)
+> - [!badge icon="link-external" variant="info" text="**GSheet**"](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM/)
+> - [!badge icon="link-external" variant="info" text="**DiceCloud v1**"](https://v1.dicecloud.com/)
+> - [!badge icon="link-external" variant="info" text="**DiceCloud v2**"](https://dicecloud.com/)
 
 > - DiceCloud and GSheet are better for homebrew. DiceCloud takes some learning, so it is recommended for more experienced players.
 > - GSheet is the closest to a paper sheet/fillable pdf, so if you are used to those methods, you may find GSheet the easiest.
 > - Mythweavers, character sheet apps, and pdfs are not compatible with Avrae.
 
 +++ D&D Beyond
-[D&D Beyond](https://www.dndbeyond.com/)
+[!badge icon="link-external" variant="info" text="D&D Beyond"](https://www.dndbeyond.com/)
 
-There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd.md).
+There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd/).
 
 Character Preferences (settings)
 - **Sources**: Expanded Rules, Legacy, Critical Role Content
@@ -48,7 +48,7 @@ Please refer to the "Sources" section below for full details.
 - **Dice Rolling**: Off (We use Avrae Discord bot for dice rolls)
 - **Optional Features**: On
 - **Advancement Type**: Milestone
-- **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **not** in D&D Beyond
+- **Hit Point Type**: "Fixed" is recommended. If you choose "Manual", you **must** make the rolls in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **not** in D&D Beyond
 - **Encumbrance Type**: Use Encumbrance
 - **Ignore Coin Weight**: Off
 - **Character Privacy**: Public
@@ -57,26 +57,26 @@ Leave the rest of the options as they are.
 
 Once you created a character on D&D Beyond, make sure to do the following:
 - Equip your weapons and armor by clicking on the box next to them in the equipment page.
-- If you decide to roll for HP in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), you will need to manually enter your HP.
+- If you decide to roll for HP in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), you will need to manually enter your HP.
 
 +++ GSheet
-To use Google Sheets, go to [this sheet](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM) and select File -Make a Copy
+To use Google Sheets, go to [!badge icon="link-external" variant="info" text="this sheet"](https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM/) and select File -Make a Copy
 
 GSheet tutorial is in the **?** tab of the sheet itself. Make sure to check the inserted notes for more specific instructions.
 
 To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
-- [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
+- [!badge icon="link-external" variant="info" text="Avrae Action Names"](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM/)
 
 +++ DiceCloud
-[DiceCloud v1](https://v1.dicecloud.com/)
-[DiceCloud v2](https://dicecloud.com/)
+[!badge icon="link-external" variant="info" text="DiceCloud v1"](https://v1.dicecloud.com/)
+[!badge icon="link-external" variant="info" text="DiceCloud v2"](https://dicecloud.com/)
 
 To benefit from the Avrae-GSheet/DiceCloud automation, find the feature from the following doc and put the Action Name inside Features & Traits section. (Note: Not every feature requires automation. Only the features with the automation are listed in the doc.)
-- [Avrae Action Names](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM)
+- [!badge icon="link-external" variant="info" text="Avrae Action Names"](https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM/)
 
 DiceCloud v1 tutorials
-- [PDF Tutorial](https://homebrewery.naturalcrit.com/share/rkZujQwpQW)
-- [YouTube Video](https://youtu.be/LvYTeq2cdSI)
+- [!badge icon="link-external" variant="info" text="PDF Tutorial"](https://homebrewery.naturalcrit.com/share/rkZujQwpQW)
+- [!badge icon="link-external" variant="info" text="YouTube Video"](https://youtu.be/LvYTeq2cdSI)
 
 +++
 
@@ -86,19 +86,19 @@ DiceCloud v1 tutorials
 
 > **We use the 2014 D&D 5e ruleset.** If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 > 
-> For the full list of the allowed and disallowed official materials, please refer to [this doc](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
- >-  Alternatively, for the full list of Allowed Races/Species, view [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY).
+> For the full list of the allowed and disallowed official materials, please refer to [!badge icon="link-external" variant="info" text="this doc"](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k/). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
+ >-  Alternatively, for the full list of Allowed Races/Species, view [!badge icon="link-external" variant="info" text="this doc"](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/).
 
 !!!
 Paywalled Content
 - By default, D&D Beyond and our dice bot Avrae paywalls access to content beyond the Basic Rules.
-- Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb.md).
+- Players of this server can get free access to paid material, sponsored by D&D Beyond and patrons of the server. Follow the instructions [here](ddb/).
 !!!
 
 ### Disallowed Content
 
 !!!warning Recent Releases
-When new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge icon="/images/discord-mark-blue.svg" text="#changelog"](https://discord.com/channels/512870694883950598/720529747817529374)and updated here.
+When new official material is published, it first needs to be reviewed by our Homebrewer team. The new material is considered **banned** until the review process is complete. The list of the approved and denied materials will be posted to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#changelog"](https://discord.com/channels/512870694883950598/720529747817529374)and updated here.
 !!!
 
 ==- General
@@ -117,13 +117,13 @@ When new official material is published, it first needs to be reviewed by our Ho
 ==- Races/Species
 Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the sourcebooks.
 
-For the full list of allowed and disallowed official races, please refer to [this doc](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY). For races with multiple versions, please make sure you are using a version that is allowed.
+For the full list of allowed and disallowed official races, please refer to [!badge icon="link-external" variant="info" text="this doc"](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/). For races with multiple versions, please make sure you are using a version that is allowed.
 
 ==- Classes/Subclasses
 **General**
 - Race-restricted subclasses such as Battlerager lose said restriction.
 - *Tasha's Cauldron of Everything (TCoE)* Optional Class Features are allowed for all classes.
-- D&D Beyond's Blood Hunter is banned. Refer to the version described in the [UA & Homebrew Compendium](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs) instead.
+- D&D Beyond's Blood Hunter is banned. Refer to the version described in the [!badge icon="link-external" variant="info" text="UA & Homebrew Compendium"](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/) instead.
 
 **Disallowed Subclasses**
 - Bard: College of Eloquence
@@ -193,7 +193,7 @@ Please note that some background features will have no effect on this server, e.
 - Tasha's Mind Whip
 ===
 
-### [Unearthed Arcana (UA) and Homebrew](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs)
+### [!badge icon="link-external" variant="info" text="Unearthed Arcana (UA) and Homebrew"](https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/)
 
 !!!warning
 If you are new to D&D, we recommend you skip this section.
@@ -209,9 +209,9 @@ Unearthed Arcana is unofficial content released by the D&D developers for playte
 > - If you plan on using Homebrew or UA content, we highly recommend you to use GSheet or DiceCloud sheets due to various limitations of D&D Beyond's Homebrew system.
 
 
-### [Dnd World Errata/Variant Feature Document](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo)
+### [!badge icon="link-external" variant="info" text="DnD World Errata/Variant Feature Document"](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/)
 
-Erratas refer to changes made to the official game rules, which our server does for balance reasons and to better suit the West Marches setting. The above document along with the [Erratas and Clarifications page](/erratas.md) compile all changes to official content and variant features we've added.
+Erratas refer to changes made to the official game rules, which our server does for balance reasons and to better suit the West Marches setting. The above document along with the [Erratas and Rulings page](/faq/rulings/) compile all changes to official content and variant features we've added.
 
 ## Character Creation
 
@@ -227,7 +227,7 @@ Erratas refer to changes made to the official game rules, which our server does 
 
 !!!warning
 - It is entirely **optional** to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.
-- All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions [here](stat-rolling.md) for rolling Stats, HP, and/or Gold.
+- All rolls must be made in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264) for it to be valid. Follow the instructions [here](stat-rolling/) for rolling Stats, HP, and/or Gold.
   - **Do not roll stats on D&D Beyond!**
 - You cannot use Standard Array/Point Buy after rolling. 
 - You can switch to rolling from Standard Array/Point Buy if you are still in the character creation phase.
@@ -256,10 +256,10 @@ Elderly | 50-80 | 200-350 | 600-750 | 200-400 | 150-180 | 65-90 |
 ## Equipment
 
 > - You may take starting equipment **__or__** roll for gold.
-> - If you choose to take starting equipment, the item must be available in [Snowhaven Market Document](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU). All PHB mundane items are included with the same price. 
+> - If you choose to take starting equipment, the item must be available in [!badge icon="link-external" variant="info" text="Snowhaven Market Document"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/). All PHB mundane items are included with the same price. 
 > 
-> - If you choose to roll for gold, you can do so in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264). Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
->   - After you have rolled gold, you may then purchase the equipment from the above document, and by logging them in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081). 
+> - If you choose to roll for gold, you can do so in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264). Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
+>   - After you have rolled gold, you may then purchase the equipment from the above document, and by logging them in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081). 
 > 
 > - You are **__not__** allowed to possess any magic items starting out.
 
@@ -278,7 +278,7 @@ After you create your character and before the character attends a DM event, you
 > - You are still in the character creation phase after gaining XP from Combat Training DTD, an approved RPXP claim, or Avrae Tutorial XP.
 
 !!!warning 
-Once your character participates in a DM event, all rebuilds must be submitted for review in [!badge icon="/images/discord-mark-blue.svg" text="#rebuild-retire-log"](https://discordapp.com/channels/512870694883950598/542953099560615946)`, following the rules in [Rebuilding](rebuild.md)
+Once your character participates in a DM event, all rebuilds must be submitted for review in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rebuild-retire-log"](https://discord.com/channels/512870694883950598/542953099560615946)`, following the rules in [Rebuilding](/records/rebuild/)
 !!!
 
 ## Beyond 1st Level
@@ -293,7 +293,7 @@ Once your character participates in a DM event, all rebuilds must be submitted f
 
 ## Multiple Characters
 
-> - You start with **2 character slots** on this server. You can gain extra character slots by becoming a [Patron](https://www.patreon.com/Dndworld) or taking on certain staff roles.
+> - You start with **2 character slots** on this server. You can gain extra character slots by becoming a [!badge icon="link-external" variant="info" text="Patron"](https://www.patreon.com/Dndworld) or taking on certain staff roles.
 
 > - You may make your second character any time, following the same procedure as your first character. 
 
