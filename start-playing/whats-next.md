@@ -12,6 +12,13 @@ h1:before { content: "🚀" }
 
 This page is to teach you what to do after creating your character. If you have not done so yet, check out [Start Here](/character-building/start-here/)
 
+!!!warning **Reminder that we are using the 2014 D&D 5e ruleset**
+For each of your characters, please run the following in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313):
+```
+!csettings version 2014
+```
+!!!
+
 ## Setting up Class, Race, Custom Counters (CCs)
 
 **Custom Counters** are used to keep track of various resources, such as race ability (e.g. Half-Orc's Relentless Endurance), class ability (Fighter's use of Second Wind), ammunition, charges on a magic item, etc.
