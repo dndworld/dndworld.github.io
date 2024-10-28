@@ -16,7 +16,7 @@ You’ve clicked on an ad for Dnd World and are now on the server. Great! Howeve
 
 Due to the complexity of D&D, the age of the server, and the general number of rulings that have been made to standardize procedures across the server, there are a lot of channels. Most channels will be necessary at one point, but you can (and should) only read those that are relevant to you as you progress through the server. This means if you are just getting started on the server, you should just read the Welcome and Getting Started category.
 
-Channels are sorted into categories for easier navigation. As a rule of thumb, you should start from the top before going below, as they are roughly arranged in order of what you should read. `#channel-guide` is your best friend, as it has an overview of all the channels in the server.
+Channels are sorted into categories for easier navigation. As a rule of thumb, you should start from the top before going below, as they are roughly arranged in order of what you should read. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#channel-guide"](https://discord.com/channels/512870694883950598/537506745916850176) is your best friend, as it has an overview of all the channels in the server.
 
 ## Etiquette
 
@@ -90,20 +90,20 @@ Otherwise, it is frowned upon, for several reasons:
 - PMs are hard to track and can be taken out of context. To prevent misunderstandings, they may prefer to discuss in a public channel
 
 Dnd World has multiple avenues for you to reach personnel. Here are some examples:
-- `#bounty-discussion` for DMs
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bounty-discussion"](https://discord.com/channels/512870694883950598/536011720553136138) for DMs
   - Here you can ask clarifications about games with DMs, notify them if you delete your signup, or let them know if you are unable to make it for a game.
 - FanMail bot for Mods
   - The FanMail bot is located on the right hand member sidebar, near the top under “Display Bots”
   - You can send reports or grievances to them here
-- `#homebrew-discussion` for Homebrewers
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#homebrew-discussion"](https://discord.com/channels/512870694883950598/559419826767134730) for Homebrewers
   - Here you can ask clarifications regarding usage of server homebrew
 - RP ooc channels for Events Committee
   - Usually this means whichever corresponding OOC for the channel the event is being held in.
-- `#shop-ooc` or `#snowhaven-south-ooc` for NPC Masters
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#shop-ooc"](https://discord.com/channels/512870694883950598/543401501633282068) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#snowhaven-south-ooc"](https://discord.com/channels/512870694883950598/621085113706348564) for NPC Masters
   - Usually NPC Masters will ping you first when it is your turn.
-- `#dtd-ls-discussion` for Thralls
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-ls-discussion"](https://discord.com/channels/512870694883950598/586697587932004362) for Thralls
   - Here you can ask questions about how to do lifestyle or DTDs
-- `#server-questions` for staff in general
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) for staff in general
   - Here you can ask questions that do not fit in the other channels
 
 It should be noted that asking questions in different channels will usually result in you being redirected to the proper channel or your question being buried. This is not because you are being ignored; channels are simply made for organization, and different staff monitor different channels so that they can be better equipped to answer your question.
@@ -147,7 +147,7 @@ In general, achieving personal character goals that involve changing the setting
 
 ### Game Plots are Self Contained
 
-Occasionally, there will be interlinked story content, and those will be posted in `#world-events`. However, these function more like arcs and less like major overarching story plot. This is because the server is designed to have consistent play, and having an end goal defeats the purpose of the server.
+Occasionally, there will be interlinked story content, and those will be posted in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#world-events"](https://discord.com/channels/512870694883950598/586916342712631317). However, these function more like arcs and less like major overarching story plot. This is because the server is designed to have consistent play, and having an end goal defeats the purpose of the server.
 
 ### Different Playstyles
 
@@ -164,7 +164,7 @@ DMs, while being the main arbiter during games, are subject to guidelines by Men
 
 ### Changes Take Time
 
-Even if you submit a reasonable suggestion in `#server-suggestions`, it may still take time to implement. Usually this can take 3 months, maybe even half a year. This is because we are often already working on a lot of projects, and have to prioritize. Suggestions need to be processed, meetings need to be deliberated over, and someone needs to sit down and make things happen. These factors make project developments take a long time.
+Even if you submit a reasonable suggestion in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419), it may still take time to implement. Usually this can take 3 months, maybe even half a year. This is because we are often already working on a lot of projects, and have to prioritize. Suggestions need to be processed, meetings need to be deliberated over, and someone needs to sit down and make things happen. These factors make project developments take a long time.
 
 ### There is Much More to Do Outside Games
 
@@ -178,8 +178,8 @@ Unlike campaigns, when you can only play when games are happening, there are all
 
 ## Conclusion
 
-So there you have it! This will hopefully help manage your expectations towards the server and help you assimilate into our culture better. If you have suggestions on what else we should include, please feel free to suggest in `#server-suggestions` or send a FanMail.
+So there you have it! This will hopefully help manage your expectations towards the server and help you assimilate into our culture better. If you have suggestions on what else we should include, please feel free to suggest in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) or send a FanMail.
 
-If you read through this and feel that a personal campaign is more suited towards you, feel free to peruse our list of `#partner-servers`, where we have many amazing servers that will hopefully meet your tastes.
+If you read through this and feel that a personal campaign is more suited towards you, feel free to peruse our list of [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#partner-servers"](https://discord.com/channels/512870694883950598/529249355748605952), where we have many amazing servers that will hopefully meet your tastes.
 
 Have fun!

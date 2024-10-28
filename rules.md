@@ -72,7 +72,7 @@ You may point out a rule or two if it seems your DM has overlooked them, but ple
 Each DM may have a different threshold of what is considered as backseat DMing. The polite approach is to first ask if the DM would appreciate assistance or not.
 
 **5.3. Do not reply to queries in FAQ channels.**
-==- 6️ **Do not interfere with disciplinary actions in `#courthouse` or `#lesser-courthouse`.**
+==- 6️ **Do not interfere with disciplinary actions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#courthouse"](https://discord.com/channels/512870694883950598/576803952830578688) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lesser-courthouse"](https://discord.com/channels/512870694883950598/579940883202572308).**
 
 Do not write messages in those channels unless you’ve been specifically called upon by a staff member to do so, or you are self-reporting issues. 
 

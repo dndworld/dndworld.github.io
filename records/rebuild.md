@@ -14,12 +14,12 @@ h1:before {
 > - Please fill in and submit the Rebuild Request Template.
 > Make a copy of your character sheet, and apply the changes in your rebuild request to the copy.
 
-> - All rebuilds must first be reviewed and approved for them to be valid. You will be pinged in `#character-records-discussion`.
+> - All rebuilds must first be reviewed and approved for them to be valid. You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-records-discussion"](https://discord.com/channels/512870694883950598/551968957423419413).
 > - You cannot sign up for any DM Events with a character with a pending rebuild request. You must also remove any pending signups before submitting the rebuild request. This also applies after you have been accepted into a game, and the rebuild will have to be made after the game is completed. You may however, continue to do DTDs and roleplay as your old character during this period.
 
 > - You may submit up to 1 rebuild per month upon approval. This rule applies to the player, not per character.
 > - You may only rebuild the characters that are Level 4 or below. 
-> - Cushion rule characters can be rebuilt up to 1+ claimed New PC Level. If your cushion ruled character started at Level 5, you may submit the rebuild request while this character is Level 5-6. When you submit the rebuild, you must include the link to the claim message in `#claims-log`.
+> - Cushion rule characters can be rebuilt up to 1+ claimed New PC Level. If your cushion ruled character started at Level 5, you may submit the rebuild request while this character is Level 5-6. When you submit the rebuild, you must include the link to the claim message in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#claims-log"](https://discord.com/channels/512870694883950598/848389898204741642).
 > - Changes to race and background must be retconned; changes to class and subclass may be justified IC
 
 > - As long as your rebuild request meets the above criteria, you may rebuild a character as many times as you wish.
@@ -106,7 +106,7 @@ Previous part -> New part
 ## Retire Rules
 
 > - Please fill in and submit the Retire Request Template.
-> - All retires must first be reviewed and approved for them to be valid. You will be pinged in `#character-records-discussion`.
+> - All retires must first be reviewed and approved for them to be valid. You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-records-discussion"](https://discord.com/channels/512870694883950598/551968957423419413).
 > - Once the retire request is submitted, you cannot sign up for any DM Events with the character, do DTDs, or RP. Therefore, any goodbye RPs or farewell gifts should be taken care of before submitting the retire request.
 
 > - You may submit up to 1 retire per month.

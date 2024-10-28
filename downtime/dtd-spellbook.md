@@ -29,7 +29,7 @@ A few things for Copying Spells in **Dnd World** are different from the D&D 5e B
 
 ### Copying Spells How-To
 
-- Each day you are copying spells, log the payment in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081), and fill in the following form and post in `#dtd-manual-log`.
+- Each day you are copying spells, log the payment in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081), and fill in the following form and post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discord.com/channels/512870694883950598/534036939368824848).
 
 ```
 Copying Spells DTD
@@ -91,7 +91,7 @@ Level | Points
    7+ | Unavailable
 ```
 
-- Fill in the form and post in `#dtd-manual-log`.
+- Fill in the form and post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discord.com/channels/512870694883950598/534036939368824848).
 
 ```
 Spell Research DTD

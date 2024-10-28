@@ -32,7 +32,7 @@ For each Find DTD, you need following information:
 
 *Not everything can be found in the humble village of Snowhaven, nor is everything known. It may be impossible to Find some things, although if you're lucky you might stumble upon clues as to where would be a better place to look.*
 
-Put this command with the information in `#dtd-manual-log`:
+Put this command with the information in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discord.com/channels/512870694883950598/534036939368824848):
 
 ```
 !find <Seeking> <Search Location> <Search Method> <Skill>
@@ -40,7 +40,7 @@ Put this command with the information in `#dtd-manual-log`:
 
 > Example: `!find "Employment at a smithy" "Market District" "Searching the market district for any signs of a forge by checking the skies for smoke and listening for the sounds of hammers on metal." "Investigation"`
 
-You will receive a ping in `#dtd-results` when your log is processed.
+You will receive a ping in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-results"](https://discord.com/channels/512870694883950598/586462271056904212) when your log is processed.
 
 
 ## Learning
@@ -128,7 +128,7 @@ For help in joining a guild, please refer to [Joining a Guild (Optional)](/start
 
 ## Business DTD
 
-If you have a registered business for your house in `#registered-businesses`, you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [!badge icon="link-external" variant="info" text="Business document"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
+If you have a registered business for your house in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#registered-businesses"](https://discord.com/channels/512870694883950598/1014934710134259814), you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [!badge icon="link-external" variant="info" text="Business document"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
 
 To pull up the help text for Business DTD, use following command in `bot-dump`.
 

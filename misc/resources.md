@@ -12,7 +12,7 @@ h1:before {
 ## Abbreviations/Lingo
 
 ### DnD World Staff related
-*More info in `#staff-roles`*
+*More info in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-roles"](https://discord.com/channels/512870694883950598/877373177381126144)*
 
 - **FG**: FangirlCrazily, Server Owner
 - **TMod**: Trainee Moderator
@@ -122,7 +122,7 @@ Avrae uses D&D Beyond to fetch and display content, so even if you use Gsheet or
 - Make a D&D Beyond account.
 - Go to the [!badge icon="link-external" variant="info" text="Account page"](https://www.dndbeyond.com/account) to link it to your Discord account.
 
-- Make a `#ddb-link-request` to receive a DDB campaign link. 
+- Make a [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310) to receive a DDB campaign link. 
 !!!Note
 DDB's content sharing feature lets characters in the same campaign share access to any owned content. We offer these links to rules-abiding members so they may benefit from this for free.
 !!!
@@ -167,4 +167,4 @@ You're now ready to start playing!
 --->
 ## How to Suggest Resources
 
-Please make the suggestion by posting in `#server-suggestions` with the full title and a short description of the resource, as well as why you recommend it.
+Please make the suggestion by posting in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) with the full title and a short description of the resource, as well as why you recommend it.

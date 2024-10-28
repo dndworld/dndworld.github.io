@@ -6,12 +6,12 @@ icon: ":briefcase:"
 
 ## Job Interview Checks
 
-Once you have found an employer for Part-Time Work DTD, or High-Risk Work DTD, you will be asked to make job interview checks in the ⁠`#dtd-results` post.
+Once you have found an employer for Part-Time Work DTD, or High-Risk Work DTD, you will be asked to make job interview checks in the ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-results"](https://discord.com/channels/512870694883950598/586462271056904212) post.
 
 - Job Interviews __do not__ use DTD points.
 - You can make one interview check per day, and you may have up to 3 interviews per employer.
 
-Post the following form in `#dtd-manual-log`. 
+Post the following form in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discord.com/channels/512870694883950598/534036939368824848). 
 
 ```
 JOB INTERVIEW CHECK
@@ -95,7 +95,7 @@ Woodcarver's tools         DEX / WIS
 > 
 > The maximum wage per day with PTW is 6gp. Successful checks for a full week gives a one time bonus of extra 5gp.
 
-In ⁠`#dtd-automated-log`:
+In ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):
 
 ```
 !ptw <employer> <wage> <skill> [arguments]

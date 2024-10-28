@@ -103,7 +103,7 @@ No! It is not. The main caveat is not to make it weird. Don’t make gender a re
 
 ## Initiating RP
 
-So you’ve got a character, but how are you going to approach someone to RP? Well, your first step is to find a populated channel: commonly, the `#drunken-yeti-tavern` will fulfill this. 
+So you’ve got a character, but how are you going to approach someone to RP? Well, your first step is to find a populated channel: commonly, the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#drunken-yeti-tavern"](https://discord.com/channels/512870694883950598/551901424276078602) will fulfill this. 
 
 ### Determining if it’s appropriate to join
 
@@ -181,7 +181,7 @@ Most RP in DW can be broken down to four styles: Basic Form, Short Form, Medium 
 
 #### Basic Form
 
-Basic form is the most common type of RP encountered. It consists of a <span class="gesture">gesture</span>: a small body movement that doesn’t involve them moving out of their space, along with a line of <span class="dialogue">dialogue</span>, or just dialogue. It is suitable for fast-paced settings such as the ever-popular `#drunken-yeti-tavern` or in combat. Generally most people settle into this form of RP after establishing their character’s presence. Some people like short form RP because it’s to the point and faster to type. However, others might feel that it isn’t able to convey tone or emotional turmoil as well.
+Basic form is the most common type of RP encountered. It consists of a <span class="gesture">gesture</span>: a small body movement that doesn’t involve them moving out of their space, along with a line of <span class="dialogue">dialogue</span>, or just dialogue. It is suitable for fast-paced settings such as the ever-popular [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#drunken-yeti-tavern"](https://discord.com/channels/512870694883950598/551901424276078602) or in combat. Generally most people settle into this form of RP after establishing their character’s presence. Some people like short form RP because it’s to the point and faster to type. However, others might feel that it isn’t able to convey tone or emotional turmoil as well.
 
 === Example
 <span class="gesture">*Looks to Sada*</span></span> `[Quick gesture, serves to clarify who they are speaking to]` <span class="dialogue">"I would leave if she could speak and in her current condition i have to insist against it. She has had a very bad day. And slowly getting her grips on what happened to her."</span></span> `[Lines of Dialogue.]`
@@ -354,7 +354,7 @@ Bad jokes can be funny if done on purpose and are especially bad. This more or l
 Drama functions, at its core, when there is tension. You will likely be exploring this genre sparsely compared to the others because high tension events don’t occur that often. RPing a dramatic scene can be broken down to the 4 steps:
 
 1. **The Set up**<br>
-There should be a good reason for the drama to take place, whether its a confrontation of a long kept secret finally let out of the bag, some major revelation, a confession of feelings, or something else. Pick a good venue. Ideally move out of crowded channels such as the `#drunken-yeti-tavern` to somewhere quieter like a residence or Nature channel so you don’t get interrupted. A combat is not a good time to have such a scene so keep it to Medium length RP.
+There should be a good reason for the drama to take place, whether its a confrontation of a long kept secret finally let out of the bag, some major revelation, a confession of feelings, or something else. Pick a good venue. Ideally move out of crowded channels such as the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#drunken-yeti-tavern"](https://discord.com/channels/512870694883950598/551901424276078602) to somewhere quieter like a residence or Nature channel so you don’t get interrupted. A combat is not a good time to have such a scene so keep it to Medium length RP.
 
 2. **The Build Up**<br>
 Begin having some back and forth with your RP partner. Exposition of untold events, releasing inner feelings, generally waiting for a good moment to move to the next stage. The important thing is to keep the momentum going. You can pad the build up with questioning where it makes sense. Be sure to add plenty of gesticulating and other actions that interact with the environment like sinking to their knees or kicking an innocent stalagmite.<br><br>

@@ -89,7 +89,7 @@ Here are some good ways to recruit members
 Here are some bad ways to recruit members
 - Going to the tavern and yelling about who would be interested in joining your guild
     - You will likely get a mixed bag who you won’t know very well. Many are also likely to be newbies who aren’t committed to the server, and might flake. 
-- Inviting the first person who agrees to your idea in `#guild-ooc`
+- Inviting the first person who agrees to your idea in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#guild-ooc"](https://discord.com/channels/512870694883950598/527458737892622361)
     - Sometimes, people are just being polite when they agree to your idea, and their affirmation does not necessarily mean they themselves are interested in joining. Consider how they are like as a person before reaching out to them later
 
 ## Choosing Your Method of Governance

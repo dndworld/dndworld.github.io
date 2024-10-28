@@ -8,10 +8,10 @@ order: 0
 
 [DownTime Days (DTD) Rules](/downtime/dtd/#downtime-days-dtd-rules)
 
-`#lifestyle-log`
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lifestyle-log"](https://discord.com/channels/512870694883950598/586471153141284866)
 - Lifestyle (weekly!)
 
-`#dtd-manual-log`
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discord.com/channels/512870694883950598/534036939368824848)
 - Self-sufficient Living
 - Find
 - Job Interview
@@ -19,14 +19,14 @@ order: 0
 - Spell Research
 - Guild DTDs with Templates (info in guild doc)
 
-`#dtd-automated-log`
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465)
 - *All other DTDs*
 
 ### Others
 
-- Injuries/recovery ⇨ #dtd-injury-recovery-log 
-- Infamy Point (IP) ⇨ #infamy-log 
-- *All kinds of rolls* ⇨ #bot-dump
+- Injuries/recovery ⇨ [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-injury-recovery-log"](https://discord.com/channels/512870694883950598/527370399667847188)
+- Infamy Point (IP) ⇨ [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#infamy-log"](https://discord.com/channels/512870694883950598/762754975347507231)
+- *All kinds of rolls* ⇨ [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump](https://discord.com/channels/512870694883950598/519131071502221313)
 
 ## What to Roll for Tool Checks at your Job
 

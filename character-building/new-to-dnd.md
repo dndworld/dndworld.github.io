@@ -231,7 +231,7 @@ These options will be marked with the `[Legacy]` tag.
 > - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
 
 #### Rolling for Gold
-> If you choose to roll for gold, you MUST make the rolls in `#official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+> If you choose to roll for gold, you MUST make the rolls in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ---
 

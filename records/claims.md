@@ -20,7 +20,7 @@ If it has been 1 month since your character's last DM-sanctioned event, or since
 !rpxp xp
 ```
 
-2. Fill in the form and post in `#claims-log`
+2. Fill in the form and post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#claims-log"](https://discord.com/channels/512870694883950598/848389898204741642)
 
 - The 1-month timer resets once the claim is **processed**.
 - If your RPXP changed after you posted the form, you may update the claim with the new value and new link to the `!rpxp xp` output.
@@ -35,7 +35,7 @@ Link to the latest `!rpxp xp` output in #xp-tracker:
 Link to Sheet: <link in the bracket>
 ```
 
-3) Wait for the approval. You will be pinged in `#character-records-discussion`
+3) Wait for the approval. You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-records-discussion"](https://discord.com/channels/512870694883950598/551968957423419413)
 
 - Once your RPXP claim has been approved, you must add it **immediately** in `#xp-tracker`.
 

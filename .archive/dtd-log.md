@@ -135,7 +135,7 @@ Make **all 3 checks** right after the form.
 > - Survival: `!check Survival`
 > - Another Nature or Survival (your choice)
 
-Wait for the DTD to be processed. You will be pinged in `#dtd-results`!
+Wait for the DTD to be processed. You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-results"](https://discord.com/channels/512870694883950598/586462271056904212)!
 
 ## injury-recovery-log
 

@@ -23,41 +23,41 @@ You do not have access to the rest of the server until you import your first cha
 
 If you have any questions, we have a few question channels depending on what your question is about! This page has commonly asked questions listed, and your question might already be answered here. 
 
-[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) is the default place for most questions. Specific questions for D&D rulings visit `#rulings-questions`, and if your question is about bot commands, first check `#avrae-commands` to see if the information can be found there, otherwise ask for help in `#bot-help-request`.
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) is the default place for most questions. Specific questions for D&D rulings visit [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rulings-questions"](https://discord.com/channels/512870694883950598/513452707617570828), and if your question is about bot commands, first check [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#avrae-commands"](https://discord.com/channels/512870694883950598/532821305209126912) to see if the information can be found there, otherwise ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-help-request"](https://discord.com/channels/512870694883950598/594281330255331328).
 
 ==- "Why can I not see all the channels?"
-Once you make your character and import it to `#character-sheets`, you will be able to see the rest of the server. Head over to [Start Here](/character-building/start-here/) for the guide. If you are new to D&D, follow the step-by-step guide in [New to D&D](/character-building/new-to-dnd/)!
+Once you make your character and import it to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), you will be able to see the rest of the server. Head over to [Start Here](/character-building/start-here/) for the guide. If you are new to D&D, follow the step-by-step guide in [New to D&D](/character-building/new-to-dnd/)!
 
 ==- "How do I make a D&D character?"
 The steps are outlined in [Start Here](/character-building/start-here/). If you are new to DnD and unfamiliar with the character creation process, [New to D&D](/character-building/new-to-dnd/) is for you!
 
-If you'd like to ask for general advice from fellow players, or brainstorm character ideas, `#character-idea-discussion` is a great place to do so!
+If you'd like to ask for general advice from fellow players, or brainstorm character ideas, [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-idea-discussion"](https://discord.com/channels/512870694883950598/585090840750194708) is a great place to do so!
 
 What official, homebrew, and UA sources and content we allow can be found in [Character Creation Rules](/character-building/cc-rules/).
 
-You have an option to ask for a review of your character sheet in `#review-request`, but it is not required.
+You have an option to ask for a review of your character sheet in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#review-request"](https://discord.com/channels/512870694883950598/948877966992105533), but it is not required.
 
 ==- "Where can I ask questions?"
 [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) is where you can ask all server-related questions.
 
-If you have a question about a specific topic, please take a look at "Guides and Q&A Channels by Topic" Section in `#channel-guide`
+If you have a question about a specific topic, please take a look at "Guides and Q&A Channels by Topic" Section in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#channel-guide"](https://discord.com/channels/512870694883950598/537506745916850176)
 
 ==- "Where can I RP?", "How do I start RPing?"
-Once you have your character imported in `#character-sheets`, you will see all RP channels under various categories. A common way of introducing your character is to describe their first entrance to Snowhaven in `#gates`. 
+Once you have your character imported in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), you will see all RP channels under various categories. A common way of introducing your character is to describe their first entrance to Snowhaven in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#gates"](https://discord.com/channels/512870694883950598/611385612351569920). 
 
-`#drunken-yeti-tavern` is open for anyone to walk in and start RPing. It's a great place for your characters to meet and hang out with other characters. For other channels, if there is an ongoing RP, it is a good etiquette to ask first in the ooc channel of the category whether you can join in. 
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#drunken-yeti-tavern"](https://discord.com/channels/512870694883950598/551901424276078602) is open for anyone to walk in and start RPing. It's a great place for your characters to meet and hang out with other characters. For other channels, if there is an ongoing RP, it is a good etiquette to ask first in the ooc channel of the category whether you can join in. 
 
-You can also make a post in `#rp-board`, if you'd like to find other players who would like to RP together in one of many RP channels.
+You can also make a post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rp-board"](https://discord.com/channels/512870694883950598/893946822404493392), if you'd like to find other players who would like to RP together in one of many RP channels.
 
-Please make sure to follow [Roleplay Rules](/rp-rules/) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [How To Start Playing](/start-playing/start-playing/) and [What's Next?](/start-playing/whats-next/). The RPXPs and XPs need to be logged in `#xp-tracker`.
+Please make sure to follow [Roleplay Rules](/rp-rules/) for your RPs! You can earn RPXP when you are interacting with other characters. To learn more about this, please checkout "RPXP" sections in [How To Start Playing](/start-playing/start-playing/) and [What's Next?](/start-playing/whats-next/). The RPXPs and XPs need to be logged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481).
 
 ==- "Where can I find the games?", "How do I join them?"
-The games are posted in `#bounty-board` and `#arena-board`. We don't have any particular schedule, because the games are run by our team of volunteer DMs at times when they are available.
+The games are posted in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bounty-board"](https://discord.com/channels/512870694883950598/537744572848013314) and [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#arena-board"](https://discord.com/channels/512870694883950598/626866757038112768). We don't have any particular schedule, because the games are run by our team of volunteer DMs at times when they are available.
 
 To learn more about all types of available games on this server, please visit "DM Events" section in [How to Earn XP](/start-playing/earn-xp/#3-dm-events/). For instruction on how to join them, visit "Signing up for DM events" section of [How To Start Playing](/start-playing/start-playing/#signing-up-for-dm-events/).
 
 ==- "How can my character make money?"
-We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime/). All relevant channels can be found under the same category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in `#dtd-ls-discussion`.
+We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime/). All relevant channels can be found under the same category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-ls-discussion"](https://discord.com/channels/512870694883950598/586697587932004362).
 
 You might also like to check out the guilds under Guilds category. Guilds are managed by players, and each guild may have different requirements for becoming a member. With a guild membership you get additional options and bonuses for various DTDs.
 
@@ -68,7 +68,7 @@ In DnD World, the games happen when our volunteer DMs have time and capacity. Th
 > Check out the channels under the OOC category, as well as Topical Interests.
 
 **Roleplay with other characters**
-> `#rp-board` is there for you to arrange the roleplays. Take a look at "Where can I RP?", "How do I start RPing?" section above for more details.
+> [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rp-board"](https://discord.com/channels/512870694883950598/893946822404493392) is there for you to arrange the roleplays. Take a look at "Where can I RP?", "How do I start RPing?" section above for more details.
 
 **Do DTD**
 > Downtime Day (DTD) activities are how your characters can make money, gain extra experience points, or heal injuries. Check out "How can my character make money?" section above for more details.
@@ -77,15 +77,15 @@ In DnD World, the games happen when our volunteer DMs have time and capacity. Th
 > You can see the list of available guilds under the Guilds category. They are all player managed, and the requirements of joining a guild vary. Check their pinned messages for such requirements or inquire with their leader if they don't specify any.
 
 **Request NPC encounters**
-Check out `#npc-registry` to learn how to request NPC encounters.
+Check out [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740) to learn how to request NPC encounters.
 
 ==- "How does one become an Active Player?"
 This role is automatically assigned by the bot after you have sent a few thousand messages.
 
 ==- "I like this server! How can I contribute?"
-This server could not be possible without the time and care put in by our volunteering staff members. You can contribute to the server in many ways by joining the team. For more information, please check out `#staff-roles`.
+This server could not be possible without the time and care put in by our volunteering staff members. You can contribute to the server in many ways by joining the team. For more information, please check out [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-roles"](https://discord.com/channels/512870694883950598/877373177381126144).
 
-There are plenty of other ways you can contribute. You can make server-wide improvement suggestions in `#server-suggestions`, or join the discussion for the suggestions in `#suggestion-discussion`. Please keep in mind, implementing the suggestions may take time and upvotes alone do not mean it will be approved.
+There are plenty of other ways you can contribute. You can make server-wide improvement suggestions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419), or join the discussion for the suggestions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#suggestion-discussion"](https://discord.com/channels/512870694883950598/579855797928853515). Please keep in mind, implementing the suggestions may take time and upvotes alone do not mean it will be approved.
 
 We also have a `feedback` form for reporting errors such as typos, outdated information, or any missing information that needs to be documented.
 ==-
