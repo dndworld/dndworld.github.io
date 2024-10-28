@@ -39,8 +39,8 @@ To accommodate our size, games are West Marches style with some changes. In West
 We encourage you to give us a try! Many people who initially joined for campaigns ended up enjoying the atmosphere and stayed on for years. However, if you are *only* looking for traditional campaign-style games, then you are welcome to try the following avenues:
 
 - [Our Partner Servers](/misc/partner-servers/)
-- [The r/LFG subreddit](https://www.reddit.com/r/lfg/)
-- [The official Dungeons & Dragons server](https://discord.gg/dnd)
+- [!badge icon="link-external" variant="info" text="The r/LFG subreddit"](https://www.reddit.com/r/lfg/)
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="The official Dungeons & Dragons server"](https://discord.gg/dnd)
 
 We kindly ask that you do not advertise your campaigns on our server.
 !!!
@@ -64,7 +64,7 @@ We use a modified version of Blood Hunter. For full list of sources, please see 
 
 ==- Playing Video Games (e.g. Baldur's Gate 3)
 
-RPGs such as Baldur's Gate 3 has greatly helped expand the accessibility of D&D. While BG3 is quite faithful to the overall experience, Larian Studios has made [their own changes](https://bg3.wiki/wiki/D%26D_5e_rule_changes) to the game.
+RPGs such as Baldur's Gate 3 has greatly helped expand the accessibility of D&D. While BG3 is quite faithful to the overall experience, Larian Studios has made [!badge icon="link-external" variant="info" text="their own changes"](https://bg3.wiki/wiki/D%26D_5e_rule_changes) to the game.
 
 In addition, as a video game, BG3 has several details that don't translate to the tabletop format. The key difference is that you play collaboratively with your party. No one person is the main character, and you are expected to work with your team to overcome challenges. It is frowned upon to take control of their actions.
 
@@ -80,7 +80,7 @@ For us, we play Dungeons & Dragons 5th Edition, which is the most recent version
 ## Planning Your Character
 
 !!!I can play anything I want?!
-D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [races](https://www.dndbeyond.com/species) and [classes](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
+D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [!badge icon="link-external" variant="info" text="races"](https://www.dndbeyond.com/species) and [!badge icon="link-external" variant="info" text="classes"](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
 
 As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](/charcre-v2/4/) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
 !!!
@@ -103,7 +103,7 @@ Each class has their own advantages and disadvantages. Below is a simplified lis
 <img src="https://i.imgur.com/d8Oi7pL.png" alt="Class Overview" width="500"/>
 </p>
 
-A fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
+A fun resource for character creation: [!badge icon="link-external" variant="info" text="*Is your D&D Character Too Perfect?*"](https://youtu.be/5DECGUi_hQc) by Ginny Di 
 
 !!!warning I want to play a Summoner!
 We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](/tips/video-games-vs-dnd/#summoner).
@@ -115,7 +115,7 @@ We generally don't encourage new players try a summoner build as their first cha
 Your character is defined by their Character Sheet, which is the [digital] paper that details what your character is capable of. You will need one to enter the server proper. Read on to find out more.
 !!!
 
-The most comprehensive way to learn D&D is to start with the [!badge text="**Basic Rules (2014)**"](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). You do not have to read everything all at once, and it is not necessary to read everything:
+The most comprehensive way to learn D&D is to start with the [!badge icon="link-external" variant="info" text="**Basic Rules (2014)**"](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). You do not have to read everything all at once, and it is not necessary to read everything:
 
 1. **Step by Step Characters: Yes, please read this**
 2. **Races: Skip to those you are interested in**
@@ -134,7 +134,7 @@ The most comprehensive way to learn D&D is to start with the [!badge text="**Bas
 15. Appendix A: Useful reference, give it a skim if anything remains unclear.
 16. Appendix B-D: Don't read this.
 
-If this felt overwhelming, you can also read the somewhat simplified [SRD Document](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf). This is helpful if you struggle to read long blocks of text and only want to read the most important parts. If you require more detailed explanation, the Basic Rules above are better.
+If this felt overwhelming, you can also read the somewhat simplified [!badge icon="link-external" variant="info" text="SRD Document"](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf). This is helpful if you struggle to read long blocks of text and only want to read the most important parts. If you require more detailed explanation, the Basic Rules above are better.
 
 Don't worry, this will come with time. It is only important that you eventually familiarize yourself with your Character Sheet, so that you can play games smoothly.
 
@@ -208,7 +208,7 @@ These options will be marked with the `[Legacy]` tag.
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
 > - **Point Buy**: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option. 
->   - [Point Buy calculator website](https://chicken-dinner.com/5e/5e-point-buy.html) 
+>   - [!badge icon="link-external" variant="info" text="Point Buy calculator website"](https://chicken-dinner.com/5e/5e-point-buy.html) 
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method

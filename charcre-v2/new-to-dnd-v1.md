@@ -75,7 +75,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
 > - **Point Buy**: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option. 
->   - [Point Buy calculator website](http://chicken-dinner.com/5e/5e-point-buy.html) 
+>   - [!badge icon="link-external" variant="info" text="Point Buy calculator website"](http://chicken-dinner.com/5e/5e-point-buy.html) 
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method
