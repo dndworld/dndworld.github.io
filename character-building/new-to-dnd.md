@@ -38,7 +38,7 @@ To accommodate our size, games are West Marches style with some changes. In West
 !!!Not Your Style?
 We encourage you to give us a try! Many people who initially joined for campaigns ended up enjoying the atmosphere and stayed on for years. However, if you are *only* looking for traditional campaign-style games, then you are welcome to try the following avenues:
 
-- [Our Partner Servers](partner-servers.md)
+- [Our Partner Servers](/misc/partner-servers/)
 - [The r/LFG subreddit](https://www.reddit.com/r/lfg/)
 - [The official Dungeons & Dragons server](https://discord.gg/dnd)
 
@@ -59,7 +59,7 @@ Everyone loves a good meme, but it is important to understand that memes only re
 Streams and podcasts like CR or D20 are popular ways people get introduced to the game. However, it is vital to note that their actors are professionals, and Matt Mercer is a master worldbuilder. As such, you should not expect yourself, other players, or the DM to roleplay to their standard.
 
 !!!Take Note: Critical Role content is considered Homebrew here
-We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules.md)
+We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules/)
 !!!
 
 ==- Playing Video Games (e.g. Baldur's Gate 3)
@@ -82,7 +82,7 @@ For us, we play Dungeons & Dragons 5th Edition, which is the most recent version
 !!!I can play anything I want?!
 D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [races](https://www.dndbeyond.com/species) and [classes](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
 
-As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](4.md) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
+As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](/charcre-v2/4/) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
 !!!
 
 Before you begin, start by imagining what kind of character you want to create.
@@ -106,7 +106,7 @@ Each class has their own advantages and disadvantages. Below is a simplified lis
 A fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
 
 !!!warning I want to play a Summoner!
-We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](video-games-vs-dnd/Summoner).
+We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](/tips/video-games-vs-dnd/#summoner).
 !!!
 
 ## How to Learn D&D
@@ -251,7 +251,7 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > ```
 
 #### 3. Set Up Your Character for the Server
-> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/start-playing/start-playing/)
+> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[What's Next?](/start-playing/whats-next/)
 
 #### 4. Learn How to Earn RPXP and XP
 > RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. 

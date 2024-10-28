@@ -12,7 +12,7 @@ Ignorance is not an excuse for rule-breaking. We expect you to read, understand,
 **1.1. Read the channels containing rules covering specific topics.** Take your time to familiarize yourself with them.
 - [Roleplay and DM events](/rp-rules/)
 - [Character building](/character-building/cc-rules/)
-- [RPXP](/start-playing/earn-xp/)
+- [RPXP](/start-playing/games/)
 - [Rebuilding/Retiring (check the pins)](/records/rebuild/)
 - [Lifestyle and Downtime](/downtime/lifestyle/)
 - [Guilds, Housing, Market, etc](/advanced-play/)

@@ -61,7 +61,7 @@ h1:before {
 
 ### Other Commonly-Used Abbreviations
 
-- **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
+- **QL**: Quest-Locked ([Joining Games](/start-playing/games/))
 - **CC**: Custom Counter ([Avrae Commands](/start-playing/avrae/))
 - **IC**: In Character ([Roleplay Rules](/rp-rules/))
 - **OOC**: Out Of Character ([Roleplay Rules](/rp-rules/))
