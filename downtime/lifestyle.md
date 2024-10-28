@@ -16,8 +16,8 @@ Depending on which lifestyle you choose, your character’s lodging option chang
 > - `⁠#cozy-yeti-upstairs` & `⁠#white-dragon-hotel`: **Comfortable** living for those that want a little extra luxury in their stay.
 > - `⁠#white-dragon-hotel`: **Wealthy** and **Aristocratic** living for those that have only the highest standards and the deepest pockets.
 
-- **Self-sufficient** lifestyle is an option for those well-versed in surviving in the wilds. In order to gain this lifestyle, follow the instructions of [Self-sufficient Living DTD](lifestyle#self-sufficient-living).
-- Some backgrounds provide free or discounted lifestyles for your character. Check [Lifestyle modifying backgrounds](lifestyle#lifestyle-modifying-backgrounds) for more information.
+- **Self-sufficient** lifestyle is an option for those well-versed in surviving in the wilds. In order to gain this lifestyle, follow the instructions of [Self-sufficient Living DTD](#self-sufficient-living).
+- Some backgrounds provide free or discounted lifestyles for your character. Check [Lifestyle modifying backgrounds](#lifestyle-modifying-backgrounds) for more information.
 
 ### What if I am not paying Lifestyle yet?
 
@@ -46,18 +46,18 @@ Aristocratic       70gp
 ‡) Self-sufficient lifestyle requires Self-sufficient Living DTD
 ```
 
-- Skip to [Step 2. "How to Set Up Lifestyle"](lifestyle#2-how-to-set-up-lifestyle)
+- Skip to [Step 2. "How to Set Up Lifestyle"](#2-how-to-set-up-lifestyle)
 
 #### Special Cases
 > - If your character does not require food to survive, you only need to pay for the lodging. Therefore, the lifestyle cost is halved. Add `-div 2` to the end of your `!lifestyle` command.
-> - If you have a spell which produces food or shelter, you may halve (or nullify if you have both) the cost of your lifestyle, given that you are casting the spell(s) daily. The spell must be appropriately logged in `#⁠spell-effects-log` following the instructions of logging repeatedly-casted spells, then you may add `-div 2` or `-null` (whichever is applicable) to the end of your `!lifestyle` command.
+> - If you have a spell which produces food or shelter, you may halve (or nullify if you have both) the cost of your lifestyle, given that you are casting the spell(s) daily. The spell must be appropriately logged in `#spell-effects-log` following the instructions of logging repeatedly-casted spells, then you may add `-div 2` or `-null` (whichever is applicable) to the end of your `!lifestyle` command.
 
 ### 2. How to Set Up Lifestyle ⭐
 
 **First time only**
 
 1. Choose a lifestyle for your character from the previous section 
-- Your background may give you an alternative lifestyle option. Check out [Lifestyle modifying backgrounds](lifestyle#lifestyle-modifying-backgrounds) section for more information. 
+- Your background may give you an alternative lifestyle option. Check out [Lifestyle modifying backgrounds](#lifestyle-modifying-backgrounds) section for more information. 
 
 2. In `#lifestyle-log`, type the following command:
 
@@ -123,13 +123,13 @@ For Lifestyle Modifying Backgrounds, `-div`, `null`, `-override`, `-dtd` are aut
 > - `!lifestyle poor -background "Folk Hero"`
 > - `!lifestyle modest -background "Outlander"`
 
-- Skip to [Step 3. "Logging Weekly"](lifestyle#3-logging-weekly)
+- Skip to [Step 3. "Logging Weekly"](#3-logging-weekly)
 
 ## Self-sufficient Living
 
 *It is possible to survive in the forest outside of town if you are skilled enough to hunt and make your own shelter. This can take up much of your downtime and is not without risks, but it does allow you to survive for free.*
 
-Characters with **Outlander** or **Uthgardt Tribe Member** background do not need to go through the normal process of Self-sufficient Living DTD. More information in the [Lifestyle Modifying Backgrounds](lifestyle#lifestyle-modifying-backgrounds) section.
+Characters with **Outlander** or **Uthgardt Tribe Member** background do not need to go through the normal process of Self-sufficient Living DTD. More information in the [Lifestyle Modifying Backgrounds](#lifestyle-modifying-backgrounds) section.
 
 For each week you choose to find your own shelter and food with self-sufficient living, follow the next steps.
 

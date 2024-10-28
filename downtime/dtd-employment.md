@@ -11,7 +11,7 @@ Once you have found an employer for Part-Time Work DTD, or High-Risk Work DTD, y
 - Job Interviews __do not__ use DTD points.
 - You can make one interview check per day, and you may have up to 3 interviews per employer.
 
-Post the following form in `#⁠dtd-manual-log`. 
+Post the following form in `#dtd-manual-log`. 
 
 ```
 JOB INTERVIEW CHECK

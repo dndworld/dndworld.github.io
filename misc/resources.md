@@ -157,7 +157,7 @@ Example character sheet with notes containing full text of each feature.
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
-- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
+- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
 

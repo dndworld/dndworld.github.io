@@ -20,7 +20,7 @@ Total Taxes Paid: gp
 Payment Link:
 ```
 
-All other guild forms go in `#⁠guild-registry`
+All other guild forms go in `#guild-registry`
 
 ## Housing
 

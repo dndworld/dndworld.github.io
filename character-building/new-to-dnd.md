@@ -159,7 +159,7 @@ As you read the above document, you can create your character at the same time. 
 </p>
 
 !!!info 
-As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
+As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
 !!!
 
 ### Character Preferences (settings) 
@@ -231,7 +231,7 @@ These options will be marked with the `[Legacy]` tag.
 > - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
 
 #### Rolling for Gold
-> If you choose to roll for gold, you MUST make the rolls in `#⁠official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+> If you choose to roll for gold, you MUST make the rolls in `#official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ---
 
@@ -245,7 +245,7 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
 > Make sure your character sheet is set to PUBLIC first
 >   - If you're on the mobile D&D Beyond app, check out [this resource](/misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
-> - Post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
+> - Post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 > ```
 > !import <link>
 > ```
@@ -259,7 +259,7 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 
 !!!
 Ask questions!
-> [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
+> [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
 > 
 > 💡 If you need help with basic Avrae commands, check out [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI), created by our partner server The Starry Shore!
 !!!

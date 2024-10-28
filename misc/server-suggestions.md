@@ -30,7 +30,7 @@ Certain suggestions have dedicated channels they should be submitted in:
 
 2) Do not submit joke suggestions.
 
-3) Keep discussion to #⁠suggestion-discussion.
+3) Keep discussion to #suggestion-discussion.
 
 4) Consider whether your suggestion has a feasible solution, and include the ideas in the suggestion.
 

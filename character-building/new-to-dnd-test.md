@@ -159,7 +159,7 @@ As you read the above document, you can create your character at the same time. 
 </p>
 
 !!!info 
-As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
+As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
 !!!
 
 ### Character Preferences (settings) 
@@ -228,7 +228,7 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
 > Make sure your character sheet is set to PUBLIC first
 >   - If you're on the mobile D&D Beyond app, check out [this resource](/misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
-> - Post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
+> - Post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 <br>
 > ```
 > !import <link>
@@ -253,7 +253,7 @@ Below is a list of common D&D lingo that's not otherwise explained in the above 
 
 !!!
 Ask questions in
-[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)!
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)!
 
 💡 If you need help with basic Avrae commands, check out [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI), created by our partner server The Starry Shore!
 !!!

@@ -20,7 +20,7 @@ If nothing has changed
 !lifestyle
 ```
 
-Help text: `!help lifestyle` in `#⁠bot-dump`
+Help text: `!help lifestyle` in `#bot-dump`
 
 ## `#dtd-automated-log`
 
