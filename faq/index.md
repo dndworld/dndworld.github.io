@@ -17,7 +17,7 @@ React with a 🔔 in following circumstances:
 Staff members may also react to your message with a 🔔 if they themselves do not know the answer to your question. In which case, just wait patiently for help to arrive.
 !!!
 
-## `#beginner-help`
+## [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)<span style="display:none;">beginner-help</span>
 
 This is a channel where newcomers can reach out to staff for help with:
 - Creating character sheet

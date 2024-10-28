@@ -4,7 +4,7 @@ icon: ""
 order: 0
 ---
 <!-- downtime -->
-## `#lifestyle-log`
+## [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lifestyle-log"](https://discord.com/channels/512870694883950598/586471153141284866)<span style="display:none;">lifestyle-log</span>
 
 ### [Step-By-Step Guide to Lifestyle](/downtime/lifestyle/#step-by-step-guide-to-lifestyle)
 
@@ -22,7 +22,7 @@ If nothing has changed
 
 Help text: `!help lifestyle` in `#bot-dump`
 
-## `#dtd-automated-log`
+## [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465)<span style="display:none;">dtd-automated-log</span>
 
 ### [Part-Time Work (PTW) 💰](/downtime/dtd-employment/#part-time-work-ptw)
 ```
@@ -38,7 +38,7 @@ Help text: `!help lifestyle` in `#bot-dump`
 Even if you failed a PTW/HRW check, you still get paid normally.
 !!!
 
-## `#dtd-manual-log`
+## [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discord.com/channels/512870694883950598/534036939368824848)<span style="display:none;">dtd-manual-log</span>
 
 ### Find DTD
 - Please make sure to put the multi-word arguments "inside the quote"

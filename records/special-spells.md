@@ -73,7 +73,7 @@ How these spells are handled, if they are allowed, is up to individual DM’s di
 - Astral Projection (9th)
 - Gate (9th)
 
-### Requires logging in `#npc-registry`
+### Requires logging in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740)<span style="display:none;">npc-registry</span>
 
 - Sending (3rd): Log only if communicating with NPC
 - Divination (4th)
