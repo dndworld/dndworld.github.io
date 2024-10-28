@@ -103,7 +103,7 @@ Dnd World has multiple avenues for you to reach personnel. Here are some example
   - Usually NPC Masters will ping you first when it is your turn.
 - `#dtd-ls-discussion` for Thralls
   - Here you can ask questions about how to do lifestyle or DTDs
-- `#server-questions` and `#server-questions-2` for staff in general
+- `#server-questions` for staff in general
   - Here you can ask questions that do not fit in the other channels
 
 It should be noted that asking questions in different channels will usually result in you being redirected to the proper channel or your question being buried. This is not because you are being ignored; channels are simply made for organization, and different staff monitor different channels so that they can be better equipped to answer your question.
