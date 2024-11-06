@@ -14,6 +14,45 @@ icon: ":bed:"
 - Only passive effects may be applied, for example: Jack of All Trades, proficiency, Expertise, Tireless Precision.
 - Some DTDs require manual reviews from staff, and this may take more than one day. You do not need to wait for the previous day’s manual DTD to be processed before doing today’s DTD.
 
+
+==- :question: Full List of DTD Options
+
+### Lifestyle
+- [Self-sufficient Living](/downtime/lifestyle/#self-sufficient-living)
+
+### Downtime Days
+- [Find](/downtime/dtd/#find)
+- [Learning](/downtime/dtd/#learning)
+- [Combat Training](/downtime/dtd/#combat-training)
+- [Guild DTDs](/downtime/dtd/#guild-dtds)
+- [Business DTD](/downtime/dtd/#business-dtd)
+- Special Case: [Catch-Up DTDs](/downtime/dtd/#special-case-catch-up-dtd)
+
+### Employment
+- [Job Interview Checks](/downtime/dtd/#job-interview-checks) (must be passed before running PTW/HRW DTDs)
+- [Tool Checks](/downtime/dtd/#tool-checks)
+- [PTW](/downtime/dtd-employment/#part-time-work-ptw)
+- [HRW](/downtime/dtd-employment/#high-risk-work-hrw)
+
+### Odd Jobs
+- [Community Center Service](/downtime/dtd-odd-jobs/#community-center-service)
+- [Street Performance](/downtime/dtd-odd-jobs/#street-performance)
+- [Petty Crime](/downtime/dtd-odd-jobs/#petty-crime)
+- [Precarious Contracts](/downtime/dtd-odd-jobs/#precarious-contracts)
+
+### Consequences
+- [Rest and Recovery DTD](/downtime/dtd-consequences/#rest-and-recovery-rr-dtd)
+- [Forage for Herbs](/downtime/dtd-consequences/#forage-for-herbs)
+- [Community Service](/downtime/dtd-consequences/#community-service)
+- [Snowhaven Settlement Service DTD](/downtime/dtd-consequences/#snowhavens-settlement-service)
+
+### Spellbook DTDs
+- [Copying Spells DTD](/downtime/dtd-spellbook/#copying-spells)
+- [Spell Research DTD](/downtime/dtd-spellbook/#spell-research)
+
+===
+
+
 ## Find
 
 Use Find DTD to find:
