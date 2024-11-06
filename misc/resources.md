@@ -86,15 +86,15 @@ h1:before {
 
 ### Podcasts & Streams
 
-[!badge icon="link-external" variant="info" text="**Critical Role"**](https://critrole.com/) is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. 
+[!badge icon="link-external" variant="info" text="**Critical Role**"](https://critrole.com/) is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. 
 
-[!badge icon="link-external" variant="info" text="**The Adventure Zone"**](https://www.maximumfun.org/shows/adventure-zone) is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Critical Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! 
+[!badge icon="link-external" variant="info" text="**The Adventure Zone**"](https://www.maximumfun.org/shows/adventure-zone) is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Critical Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! 
 
-[!badge icon="link-external" variant="info" text="**Not Another D&D Podcast"**](https://headgum.com/not-another-dandd-podcast) is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. 
+[!badge icon="link-external" variant="info" text="**Not Another D&D Podcast**"](https://headgum.com/not-another-dandd-podcast) is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. 
 
 [!badge icon="link-external" variant="info" text="**Dimension 20**"](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A) is a comedic take on the setting of D&D campaigns by the cast of Dropout. 
 
-[!badge icon="link-external" variant="info" text="**High Rollers"**](https://www.twitch.tv/highrollersdnd) is a popular Twitch stream, live every Sundays 5pm BST.
+[!badge icon="link-external" variant="info" text="**High Rollers**"](https://www.twitch.tv/highrollersdnd) is a popular Twitch stream, live every Sundays 5pm BST.
 
 ## Tutorials
 
