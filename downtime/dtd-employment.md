@@ -4,6 +4,12 @@ order: 12
 icon: ":briefcase:"
 ---
 
+!!!warning Remember to [set up your Lifestyle](/downtime/lifestyle/) before running DTDs!
+It is optional, but if you would like to do DTD, you have to pay Lifestyle.
+
+Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when running DTDs too.
+!!!
+
 ## Job Interview Checks
 
 Once you have found an employer for Part-Time Work DTD, or High-Risk Work DTD, you will be asked to make job interview checks in the ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-results"](https://discord.com/channels/512870694883950598/586462271056904212) post.

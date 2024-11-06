@@ -6,6 +6,12 @@ icon: ":bed:"
 
 **Downtime Day (DTD)** activities can enable you to earn some extra gold, copy spells, and other neat features.
 
+!!!warning Remember to [set up your Lifestyle](/downtime/lifestyle/) before running DTDs!
+It is optional, but if you would like to do DTD, you have to pay Lifestyle.
+
+Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when running DTDs too.
+!!!
+
 ## DownTime Days (DTD) Rules
 
 - You have 5 DTD points per week when you pay lifestyle, and they expire every Monday at midnight server time (EST). Therefore, you may not stock up the unused DTD points.

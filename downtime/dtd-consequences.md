@@ -14,6 +14,12 @@ h1:before { content: "🩹 " }
 
 Some of the DTDs come with consequences, such as injury, infamy points, and/or fine.
 
+!!!warning Remember to [set up your Lifestyle](/downtime/lifestyle/) before running DTDs!
+It is optional, but if you would like to do DTD, you have to pay Lifestyle.
+
+Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when running DTDs too.
+!!!
+
 ## Injuries
 
 *Injuries that go beyond simple flesh wounds are more difficult to heal than a simple health restoring spell or potion.* 

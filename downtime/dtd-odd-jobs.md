@@ -10,6 +10,12 @@ icon: ":supervillain:"
 For the full help text, use `!help odd <job name>` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 !!!
 
+!!!warning Remember to [set up your Lifestyle](/downtime/lifestyle/) before running DTDs!
+It is optional, but if you would like to do DTD, you have to pay Lifestyle.
+
+Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when running DTDs too.
+!!!
+
 ## Community Center Service
 
 *Distribute food and other necessities among the needy at the community center. Simple job to earn some coins.*

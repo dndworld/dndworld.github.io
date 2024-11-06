@@ -15,6 +15,12 @@ Spellbook DTDs are for spellcasters who require a **Spellbook** for casting spel
 > - Others: Pact of the Tome Warlock, Ritual Caster feat
 
 
+!!!warning Remember to [set up your Lifestyle](/downtime/lifestyle/) before running DTDs!
+It is optional, but if you would like to do DTD, you have to pay Lifestyle.
+
+Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when running DTDs too.
+!!!
+
 ## Copying Spells
 
 A few things for Copying Spells in **Dnd World** are different from the D&D 5e Basic Rules.
