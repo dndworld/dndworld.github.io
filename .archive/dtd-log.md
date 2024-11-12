@@ -20,7 +20,7 @@ If nothing has changed
 !lifestyle
 ```
 
-Help text: `!help lifestyle` in `#bot-dump`
+Help text: `!help lifestyle` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313)
 
 ## [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465)<span style="display:none;">dtd-automated-log</span>
 
@@ -137,7 +137,7 @@ Make **all 3 checks** right after the form.
 
 Wait for the DTD to be processed. You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-results"](https://discord.com/channels/512870694883950598/586462271056904212)!
 
-## injury-recovery-log
+## [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-injury-recovery-log"](https://discord.com/channels/512870694883950598/527370399667847188)<span style="display:none;">dtd-injury-recovery-log</span>
 
 Moving from injury template to using the alias:
 

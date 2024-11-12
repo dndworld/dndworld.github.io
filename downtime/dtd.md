@@ -163,7 +163,7 @@ Combat Training DTD provides a small amount of XP depending on success rate.
 
 Each guild has one or two Guild Types. Depending on the type(s) of the guild, different DTDs are available to the members of the guild. For more information on guild types and DTD, please refer to the [!badge icon="link-external" variant="info" text="Guild doc"](https://docs.google.com/document/d/1A8sVmnksKwb9MX98f7Z6lfmdDgfxft85JPaQKejxXj0/).
 
-To pull up the help text for each guild DTD, use following command in `bot-dump`.
+To pull up the help text for each guild DTD, use following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
 ```
 !help guild [Name of DTD]
@@ -175,7 +175,7 @@ For help in joining a guild, please refer to [Joining a Guild (Optional)](/start
 
 If you have a registered business for your house in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#registered-businesses"](https://discord.com/channels/512870694883950598/1014934710134259814), you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [!badge icon="link-external" variant="info" text="Business document"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
 
-To pull up the help text for Business DTD, use following command in `bot-dump`.
+To pull up the help text for Business DTD, use following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
 
 ```
 !help business

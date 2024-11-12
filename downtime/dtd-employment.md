@@ -125,7 +125,7 @@ For the full help text, use `!help ptw` in [!badge icon="/images/discord-mark-bl
 > 
 > Failing checks may result in a pay cut, or you may get fired. You can find out the details in the output of the `hrw` command.
 
-In ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):
+In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465):
 
 ```
 !hrw <employer> <check 1> <check 2> <check 3> [arguments]
