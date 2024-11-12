@@ -15,7 +15,7 @@ h1:before {
 
 If it has been 1 month since your character's last DM-sanctioned event, or since you imported your character, you can add all your RPXP to your main XP counter. 
 
-1. Run the following command in `#xp-tracker` and grab the message link.
+1. Run the following command in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481) and grab the message link.
 ```
 !rpxp xp
 ```
@@ -37,7 +37,7 @@ Link to Sheet: <link in the bracket>
 
 3) Wait for the approval. You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-records-discussion"](https://discord.com/channels/512870694883950598/551968957423419413)
 
-- Once your RPXP claim has been approved, you must add it **immediately** in `#xp-tracker`.
+- Once your RPXP claim has been approved, you must add it **immediately** in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481).
 
 ## Reaching Level 20
 - When your character reaches Level 20, you have the option to retire them and benefit from the Cushion rule, or Legacy your character and make a new Level 1 PC.
