@@ -35,7 +35,7 @@ You are about to join a homebrew text-only server where you will take on bountie
 > - No campaigns: We roleplay with our characters living in this world, and play one-shots that your characters join as “bounties”. You do not need to form your own party.
 
 ## A Few Words
-> - We would appreciate it if you would take the time to read the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rules](https://discord.com/channels/512870694883950598/535362768379969547) if you haven't already. Every rule is there for a reason. 
+> - We would appreciate it if you would take the time to read the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rules"](https://discord.com/channels/512870694883950598/535362768379969547) if you haven't already. Every rule is there for a reason. 
 > - Please refer to the [Character Creation Rules](/character-building/cc-rules/) for accepted books and UA/Homebrew. 
 Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584)
 
