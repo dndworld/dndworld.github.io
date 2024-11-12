@@ -17,5 +17,8 @@ links:
   link: /
 - text: Start Here
   link: /character-building/start-here/
+- text: FAQ
+  link: /faq/common-faq/
+-
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
