@@ -123,15 +123,15 @@ The most comprehensive way to learn D&D is to start with the [!badge icon="link-
 |Section|Must Read?|
 |---|---|
 | 1. **Step by Step Characters** | <img class="emoji" src="/images/emoji-yea.webp"> **Yes, please read this.** This section goes hand-in-and with [the below steps](#dd-beyond-character-builder) and will help you make your first DnD character. |
-| 2. **Races** | <img class="emoji" src="/images/emoji-yea.webp"> **Skip to those you are interested in** |
-| 3. **Classes** | <img class="emoji" src="/images/emoji-yea.webp"> **Skip to those you are interested in** |
+| 2. **Races** | <img class="emoji" src="/images/emoji-yea.webp"> **Just read those you are interested in** |
+| 3. **Classes** | <img class="emoji" src="/images/emoji-yea.webp"> **Just read those you are interested in** |
 | 4. Personalities & Backgrounds | :point_right: Skip directly to Backgrounds section (you can come up with your own Character Details) |
-| 5. Equipment | :point_right: Unless you plan on manually calculating your stats, a quick skim will do |
+| 5. Equipment | :point_right: Skim this, unless you plan on manually calculating your stats |
 | 6. Customization Options | :hourglass_flowing_sand: Ignore this for now; you can read it when you level up |
 | 7. **Ability Scores** | <img class="emoji" src="/images/emoji-yea.webp"> **Absolutely necessary to read** |
-| 8. Adventuring | :point_right: Skip directly to The Environment; this section is more situational so a quick skim will do |
+| 8. Adventuring | :point_right: Skip directly to The Environment; this section is more situational |
 | 9. **Combat** | <img class="emoji" src="/images/emoji-yea.webp"> **Absolute necessary to read** |
-| 10. **Spellcasting** | :point_right: **Only if you play a spellcasting class.** You can skip if you are starting as a Barbarian, Fighter, Monk or Rogue. |
+| 10. **Spellcasting** | :point_right: **Only if you play a spellcaster.** You can skip if you are starting as a Barbarian, Fighter, Monk or Rogue. |
 | 11. Spells | :point_right: Skip for now; for spellcasters, you can read the Level 1 spells on your sheet later. |
 | Monsters | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
 | Building Combat Encounters | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
