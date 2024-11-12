@@ -192,7 +192,7 @@ These options will be marked with the `[Legacy]` tag.
 ## D&D Beyond Character Builder
 ### 1. Race
 > Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules/).
-> - More extensive descriptions on races can be found [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/races)
+> - [!badge icon="link-external" variant="info" text="More Extensive Descriptions on Races/Species"](https://www.dndbeyond.com/races)
 > 
 > However, as we are not using the WOTC world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
 
@@ -200,14 +200,14 @@ These options will be marked with the `[Legacy]` tag.
 > Reminder: Your character on this server starts at Level 1. 
 > 
 > Your class helps determine your character’s specialty. Each class has unique features that can affect how they interact with the world. 
-> - For short summary of each class, see [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons).
+> - [!badge icon="link-external" variant="info" text="Short Summaries of Each Class"](https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons).
 
 #### Proficiencies
 > Your race, background, and class will allow you to choose proficiencies among certain skills and tools. This means you are especially good at this skill/tool and can add your proficiency bonus to it when making checks for that task. Proficiency bonus is a number that increases as you level, and at Level 1 it is +2.
 
 #### Skills
 > Each skill uses one of your abilities (more on this below). 
-> - For details on each skills, see [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#UsingEachAbility). 
+> - [!badge icon="link-external" variant="info" text="Detailed Explanation on All Skills"](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#UsingEachAbility). 
 
 ### 3. Abilities
 > - General tips for ability score arrangements depending on class: [!badge icon="link-external" variant="info" text="*Handbooker Helper: Ability Scores*"](https://youtu.be/WoV5iM7peOg) by Critical Role  
@@ -215,7 +215,7 @@ These options will be marked with the `[Legacy]` tag.
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
 > - **Point Buy**: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option. 
->   - [!badge icon="link-external" variant="info" text="Point Buy calculator website"](https://chicken-dinner.com/5e/5e-point-buy.html) 
+>   - [!badge icon="link-external" variant="info" text="Point Buy Calculator"](https://chicken-dinner.com/5e/5e-point-buy.html) 
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method
@@ -224,7 +224,7 @@ These options will be marked with the `[Legacy]` tag.
 
 #### Background
 > Backgrounds are different but closely linked to backstories. Your background gives your char certain abilities and special features depending on how they spent their lives before becoming an adventurer. 
-> - For information on each background, see [!badge icon="link-external" variant="info" text="here"](https://www.dndbeyond.com/backgrounds).
+> - [!badge icon="link-external" variant="info" text="Detailed Explanation on All Backgrounds"](https://www.dndbeyond.com/backgrounds).
 
 #### Others
 > The rest are optional and are for adding personality and different aspects to your character. Bring them to life! The personality traits, characteristics, etc. lists are providing you with examples. You do not need to choose from the tables. 
@@ -235,7 +235,7 @@ These options will be marked with the `[Legacy]` tag.
 ### 5. Equipment
 > You can choose from either a recommended list of starting equipment or roll for gold and do the shopping yourself. 
 > - If you are new to D&D, we recommend you choose the starting equipment option. 
-> - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
+> - If you choose to take starting equipment, the items must be available in the [!badge icon="link-external" variant="info" text="Snowhaven Market"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
 
 #### Rolling for Gold
 > If you choose to roll for gold, you MUST make the rolls in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
@@ -264,8 +264,7 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. 
 > - More details and additional information [here](/start-playing/games/)
 
-!!!info Ask questions!
-[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
+!!!info Ask questions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)!
 
 💡 If you need help with basic Avrae commands, check out our partner server The Starry Shore's [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI)!
 !!!
