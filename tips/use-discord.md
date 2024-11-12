@@ -7,7 +7,6 @@ order: 1000
 
 ## How to Navigate Discord More Quickly
 
-### How to Navigate Discord More Quickly
 Use the Discord Quick Switcher feature.
 
 For **desktop**: `CTRL`+`K` (or `⌘`+`K` for mac). Read about it [!badge icon="link-external" variant="info" text="here"](https://support.discord.com/hc/en-us/articles/115000070311-Quick-Switcher).
