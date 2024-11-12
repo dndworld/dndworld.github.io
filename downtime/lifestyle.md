@@ -11,17 +11,17 @@ icon: ":bread:"
 
 Depending on which lifestyle you choose, your character’s lodging option changes.
 
-> - [!badge icon="/images/discord-mark-blue.svg" text="#community-center"](https://discordapp.com/channels/512870694883950598/586370313755820032): **Poor** and **Squalid** living for the masses and the less fortunate.
-> - [!badge icon="/images/discord-mark-blue.svg" text="#cozy-yeti-estates"]: **Modest** accommodations for those in need of a place to rest their head.
-> - [!badge icon="/images/discord-mark-blue.svg" text="#cozy-yeti-upstairs"](https://discordapp.com/channels/512870694883950598/562928113793630228) & [!badge icon="/images/discord-mark-blue.svg" text="#white-dragon-hotel"](https://discordapp.com/channels/512870694883950598/561895920216702976): **Comfortable** living for those that want a little extra luxury in their stay.
-> - [!badge icon="/images/discord-mark-blue.svg" text="#white-dragon-hotel"](https://discordapp.com/channels/512870694883950598/561895920216702976): **Wealthy** and **Aristocratic** living for those that have only the highest standards and the deepest pockets.
+> - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#community-center"](https://discordapp.com/channels/512870694883950598/586370313755820032): **Poor** and **Squalid** living for the masses and the less fortunate.
+> - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cozy-yeti-estates"]: **Modest** accommodations for those in need of a place to rest their head.
+> - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cozy-yeti-upstairs"](https://discordapp.com/channels/512870694883950598/562928113793630228) & [!badge icon="/images/discord-mark-blue.svg" text="#white-dragon-hotel"](https://discordapp.com/channels/512870694883950598/561895920216702976): **Comfortable** living for those that want a little extra luxury in their stay.
+> - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#white-dragon-hotel"](https://discordapp.com/channels/512870694883950598/561895920216702976): **Wealthy** and **Aristocratic** living for those that have only the highest standards and the deepest pockets.
 
 - **Self-sufficient** lifestyle is an option for those well-versed in surviving in the wilds. In order to gain this lifestyle, follow the instructions of [Self-sufficient Living DTD](#self-sufficient-living).
 - Some backgrounds provide free or discounted lifestyles for your character. Check [Lifestyle modifying backgrounds](#lifestyle-modifying-backgrounds) for more information.
 
 ### What if I am not paying Lifestyle yet?
 
-Lifestyle and DTD are optional mechanics on this server. Any characters not paying lifestyle are considered to be benefiting from Snowhaven’s Full Time Adventurer scheme and stay in the [!badge icon="/images/discord-mark-blue.svg" text="#cozy-yeti-estates"](https://discordapp.com/channels/512870694883950598/611385164060295168) with all expenses covered. As you are considered a "full time" adventurer, you may not do DTDs. 
+Lifestyle and DTD are optional mechanics on this server. Any characters not paying lifestyle are considered to be benefiting from Snowhaven’s Full Time Adventurer scheme and stay in the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cozy-yeti-estates"](https://discordapp.com/channels/512870694883950598/611385164060295168) with all expenses covered. As you are considered a "full time" adventurer, you may not do DTDs. 
 
 ## Step-By-Step Guide to Lifestyle
 
@@ -50,7 +50,7 @@ Aristocratic       70gp
 
 #### Special Cases
 > - If your character does not require food to survive, you only need to pay for the lodging. Therefore, the lifestyle cost is halved. Add `-div 2` to the end of your `!lifestyle` command.
-> - If you have a spell which produces food or shelter, you may halve (or nullify if you have both) the cost of your lifestyle, given that you are casting the spell(s) daily. The spell must be appropriately logged in [!badge icon="/images/discord-mark-blue.svg" text="#spell-effects-log"] following the instructions of logging repeatedly-casted spells, then you may add `-div 2` or `-null` (whichever is applicable) to the end of your `!lifestyle` command.
+> - If you have a spell which produces food or shelter, you may halve (or nullify if you have both) the cost of your lifestyle, given that you are casting the spell(s) daily. The spell must be appropriately logged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#spell-effects-log"] following the instructions of logging repeatedly-casted spells, then you may add `-div 2` or `-null` (whichever is applicable) to the end of your `!lifestyle` command.
 
 ### 2. How to Set Up Lifestyle ⭐
 
@@ -59,7 +59,7 @@ Aristocratic       70gp
 1. Choose a lifestyle for your character from the previous section 
 - Your background may give you an alternative lifestyle option. Check out [Lifestyle modifying backgrounds](#lifestyle-modifying-backgrounds) section for more information. 
 
-2. In [!badge icon="/images/discord-mark-blue.svg" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866), type the following command:
+2. In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866), type the following command:
 
 ```
 !lifestyle <your lifestyle> [options]
@@ -70,11 +70,11 @@ Aristocratic       70gp
 > - `!lifestyle Modest -background "Acolyte"`
 
 ### 3. Logging Weekly
-You can pull up the full help text by doing `!help lifestyle` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
+You can pull up the full help text by doing `!help lifestyle` in [!badge icon="/images/discord-mark-blue.svg" variant="info" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
  
-1. [Optional] React with ⏰ in [!badge icon="/images/discord-mark-blue.svg" text="#roles"](https://discordapp.com/channels/512870694883950598/535365321134178324) for a weekly reminder to log your lifestyle.
+1. [Optional] React with ⏰ in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#roles"](https://discordapp.com/channels/512870694883950598/535365321134178324) for a weekly reminder to log your lifestyle.
  
-2. Every Monday, log your lifestyle in [!badge icon="/images/discord-mark-blue.svg" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866).
+2. Every Monday, log your lifestyle in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866).
 
 ```
 !lifestyle <lifestyle> [options]
@@ -88,11 +88,11 @@ Whenever you run `!lifestyle` with any arguments, it will save those arguments f
 > - `!lifestyle Modest -background "Acolyte"`
 
 ## Lifestyle modifying backgrounds
-- Some backgrounds provide free or discounted lifestyles for your character. Even if your background makes the lifestyle free, **you need to log it weekly** in [!badge icon="/images/discord-mark-blue.svg" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866) with the note stating the background. 
+- Some backgrounds provide free or discounted lifestyles for your character. Even if your background makes the lifestyle free, **you need to log it weekly** in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866) with the note stating the background. 
 
 - You don’t have to choose the lifestyle that comes with the background, but if you choose any other lifestyle, you do not get the benefit from the background. Therefore, you need to pay the full price for the lifestyle.
 
-> - **Acolyte**: Half of Modest lifestyle cost. You are assumed to stay at the [!badge icon="/images/discord-mark-blue.svg" text="#temple-to-the-gods"](https://discordapp.com/channels/512870694883950598/542431801394855936).
+> - **Acolyte**: Half of Modest lifestyle cost. You are assumed to stay at the [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#temple-to-the-gods"](https://discordapp.com/channels/512870694883950598/542431801394855936).
 > - **Battlefield Medic**: Poor lifestyle for free. Troops and guards welcome you whenever you offer your assistance.
 > - **Entertainer / Gladiator**: Comfortable lifestyle for 2 DTD points. In exchange for your performances, you receive free lodging and food.
 > - **Faction Agent**: Modest lifestyle for free. Your lodging is covered by the faction you serve.
@@ -107,7 +107,7 @@ Whenever you run `!lifestyle` with any arguments, it will save those arguments f
 
 ### To benefit from the Lifestyle Modifying Backgrounds
 
-Each week you benefit from the background, log the lifestyle in [!badge icon="/images/discord-mark-blue.svg" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866) with the `-background` flag.
+Each week you benefit from the background, log the lifestyle in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866) with the `-background` flag.
 
 Full command:
 
@@ -133,7 +133,7 @@ Characters with **Outlander** or **Uthgardt Tribe Member** background do not nee
 
 For each week you choose to find your own shelter and food with self-sufficient living, follow the next steps.
 
-1. Fill in the form below in [!badge icon="/images/discord-mark-blue.svg" text="#dtd-manual-log"](https://discordapp.com/channels/512870694883950598/534036939368824848)
+1. Fill in the form below in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discordapp.com/channels/512870694883950598/534036939368824848)
 
 ```
 Self-Sufficient Living DTD
@@ -160,10 +160,10 @@ The Nature check is for gathering food, and the Survival check is for finding/ma
 
 3. Wait for the DTD to be processed.
 
-You will be pinged in [!badge icon="/images/discord-mark-blue.svg" text="#dtd-results"](https://discordapp.com/channels/512870694883950598/586462271056904212)
+You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-results"](https://discordapp.com/channels/512870694883950598/586462271056904212)
  once it is processed. You gain a different lifestyle depending on how successful the checks were.
 
-Follow the instruction and log your lifestyle in [!badge icon="/images/discord-mark-blue.svg" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866).
+Follow the instruction and log your lifestyle in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lifestyle-log"](https://discordapp.com/channels/512870694883950598/586471153141284866).
 
 ```
 !lifestyle <lifestyle gained> -null -dtd 2 -note “Self-sufficient living DTD”
