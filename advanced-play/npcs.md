@@ -26,7 +26,7 @@ NPC registries is a unique system which allows you to schedule encounters with N
 
 - Avoid making time urgent logs as staff are volunteers and cannot guarantee that they may be handled in time.
 
-- Regular NPC Encounters (non-deity) do not have a DC and you do not need to RP booking the appointment. Temple/Shrine encounters have a DC your Religion roll has to meet as stated in `#pantheon`, and the prayer must be roleplayed.
+- Regular NPC Encounters (non-deity) do not have a DC and you do not need to RP booking the appointment. Temple/Shrine encounters have a DC your Religion roll has to meet as stated in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#pantheon"](https://discord.com/channels/512870694883950598/535362293144223744), and the prayer must be roleplayed.
 
 - These encounters are designed solely for immersion. Please don't log an encounter with the intention of asking for favors or magical items.
 
@@ -78,8 +78,8 @@ Notes:
 
 ### Praying
 
-- **You must RP your prayer in ⁠`#temple-to-the-gods`, `#shrines-to-the-gods` or `#cultists-shrine` before rolling.**
-- Refer to #pantheon or #hell-inc for the Religion Check DCs you must meet for each entity
+- **You must RP your prayer in ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#temple-to-the-gods"](https://discord.com/channels/512870694883950598/542431801394855936), [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#shrines-to-the-gods"](https://discord.com/channels/512870694883950598/538134079288377344) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cultists-shrine"](https://discord.com/channels/512870694883950598/586365517749813258) before rolling.**
+- Refer to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#pantheon"](https://discord.com/channels/512870694883950598/535362293144223744) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#hell-inc"](https://discord.com/channels/512870694883950598/640104532042317834) for the Religion Check DCs you must meet for each entity
 - If you get a Nat 1 or a negative, log it as well.
   - Nat 1s/negatives may result in catching the attention of another NPC. Vice versa, a Nat 20 might result in the appearance of more than one entity.
 - A successful Divine Intervention automatically counts as a successful Religion check.

@@ -167,7 +167,7 @@ You **cannot** transfer RPXP to XP with combat training. This can only be done a
 
 You can gain XP by participating in DM events. A DM event, or a DM sanctioned event is an event that is overseen by a DM (Dungeon Master), or AM (Arena Master). Below are the types of DM events on this server, roughly in order of frequency. 
 
-For how to sign up for DM events, please refer to “Signing up for DM events” in [How to Start Playing](start-playing/#signing-up-for-dm-events)
+For how to sign up for DM events, please refer to “Signing up for DM events” in [What's Next?](whats-next/#signing-up-for-dm-events)
 
 ### Arena / Pit Fights / Hunts
 > - Single Combat Encounter 

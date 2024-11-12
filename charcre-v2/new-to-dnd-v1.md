@@ -26,7 +26,7 @@ h1:before { content: "🔰 " }
 </p>
 
 !!!info 
-As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
+As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
 !!!
 
 ### Character Preferences (settings) 
@@ -46,12 +46,12 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 !!!
 
 ### Getting access to paid material (Optional)
-> The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For more info please refer [here](ddb.md).
+> The players on this server can get access to paid material, sponsored by D&D Beyond and patrons of the server. For more info please refer [here](ddb/).
 
 ---
 ## D&D Beyond Character Builder
 ### 1. Race
-> Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules.md).
+> Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules/).
 > - More extensive descriptions on races can be found [here](https://www.dndbeyond.com/races)
 > 
 > However, as we are not using the WOTC world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
@@ -75,7 +75,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
 > - **Point Buy**: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option. 
->   - [Point Buy calculator website](http://chicken-dinner.com/5e/5e-point-buy.html) 
+>   - [!badge icon="link-external" variant="info" text="Point Buy calculator website"](http://chicken-dinner.com/5e/5e-point-buy.html) 
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method
@@ -98,7 +98,7 @@ If you are using D&D Beyond, these options will be marked with the `[Legacy]` ta
 > - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [here](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/edit)
 
 #### Rolling for Gold
-> If you choose to roll for gold, you MUST make the rolls in `#⁠official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+> If you choose to roll for gold, you MUST make the rolls in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ---
 
@@ -115,22 +115,22 @@ The following steps are for DnD World server, once you have created the characte
 #### 2. Import Your Character to Discord
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
 > Make sure your character sheet is set to PUBLIC first
->   - If you're on the mobile D&D Beyond app, check out [this resource](misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
-> - Post in [!badge icon="/images/discord-mark-blue.svg" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
+>   - If you're on the mobile D&D Beyond app, check out [this resource](/misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
+> - Post in [!badge icon="/images/discord-mark-blue.svg" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 > ```
 > !import <link>
 > ```
 
 #### 3. Set Up Your Character for the Server
-> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/after-creating-your-character/start-playing.md)
+> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[What's Next?](/after-creating-your-character/start-playing/)
 
 #### 4. Learn How to Earn RPXP and XP
 > RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. 
-> - More details and additional information [here](/after-creating-your-character/games.md)
+> - More details and additional information [here](/after-creating-your-character/games/)
 
 !!!
 Ask questions!
-> [!badge icon="/images/discord-mark-blue.svg" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
+> [!badge icon="/images/discord-mark-blue.svg" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
 > 
 > 💡 If you need help with basic Avrae commands, check out [The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide](<https://youtu.be/im0vDcYFIbI>), created by our partner server The Starry Shore!
 !!!
@@ -140,7 +140,8 @@ Ask questions!
 The best way of getting to know D&D is by reading the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules).
 
 #### Part 1: Creating a Character
-> - Simply start from **Chapter 1: "Step-By-Step Characters"**. This section goes hand-in-and with [the above steps](new-to-dnd.md/#dd-beyond-character-builder) and will help you make your first DnD character. 
+> - Simply start from **Chapter 1: "Step-By-Step Characters"**. This section goes hand-in-and with [the above steps](/character-building/new-to-dnd/#dd-beyond-character-builder) and will help you make your first DnD character. 
+
 > - Chapter 2-5 describes each details of a character more in depth.
 > - Chapter 6 will become more relevant later in the game as you level up.
 

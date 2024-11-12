@@ -12,7 +12,7 @@ h1:before {
 ## Abbreviations/Lingo
 
 ### DnD World Staff related
-*More info in `#staff-roles`*
+*More info in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-roles"](https://discord.com/channels/512870694883950598/877373177381126144)*
 
 - **FG**: FangirlCrazily, Server Owner
 - **TMod**: Trainee Moderator
@@ -61,7 +61,7 @@ h1:before {
 
 ### Other Commonly-Used Abbreviations
 
-- **QL**: Quest-Locked ([How to Earn XP](/start-playing/earn-xp/))
+- **QL**: Quest-Locked ([Joining Games](/start-playing/games/))
 - **CC**: Custom Counter ([Avrae Commands](/start-playing/avrae/))
 - **IC**: In Character ([Roleplay Rules](/rp-rules/))
 - **OOC**: Out Of Character ([Roleplay Rules](/rp-rules/))
@@ -86,15 +86,15 @@ h1:before {
 
 ### Podcasts & Streams
 
-[!badge icon="link-external" variant="info" text="**Critical Role"**](https://critrole.com/) is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. 
+[!badge icon="link-external" variant="info" text="**Critical Role**"](https://critrole.com/) is arguably the most famous D&D stream out there, with hundreds of episodes  across three major campaigns. It is often praised for immersive storytelling, complex storylines, and good world-building, especially by DM Matt Mercer. 
 
-[!badge icon="link-external" variant="info" text="**The Adventure Zone"**](https://www.maximumfun.org/shows/adventure-zone) is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Critical Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! 
+[!badge icon="link-external" variant="info" text="**The Adventure Zone**"](https://www.maximumfun.org/shows/adventure-zone) is another podcast loosely based on D&D. The storyline is split into several arcs. Their episode duration is 90 minutes each compared to Critical Role's 3 hours+, so if you prefer something with a bit less time commitment, this one is for you! 
 
-[!badge icon="link-external" variant="info" text="**Not Another D&D Podcast"**](https://headgum.com/not-another-dandd-podcast) is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. 
+[!badge icon="link-external" variant="info" text="**Not Another D&D Podcast**"](https://headgum.com/not-another-dandd-podcast) is brought to you by some of CollegeHumor cast members in their funny adventures that parody the conventional podcasts. 
 
 [!badge icon="link-external" variant="info" text="**Dimension 20**"](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A) is a comedic take on the setting of D&D campaigns by the cast of Dropout. 
 
-[!badge icon="link-external" variant="info" text="**High Rollers"**](https://www.twitch.tv/highrollersdnd) is a popular Twitch stream, live every Sundays 5pm BST.
+[!badge icon="link-external" variant="info" text="**High Rollers**"](https://www.twitch.tv/highrollersdnd) is a popular Twitch stream, live every Sundays 5pm BST.
 
 ## Tutorials
 
@@ -122,7 +122,7 @@ Avrae uses D&D Beyond to fetch and display content, so even if you use Gsheet or
 - Make a D&D Beyond account.
 - Go to the [!badge icon="link-external" variant="info" text="Account page"](https://www.dndbeyond.com/account) to link it to your Discord account.
 
-- Make a `#ddb-link-request` to receive a DDB campaign link. 
+- Make a [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#ddb-link-request"](https://discord.com/channels/512870694883950598/756319993616138310) to receive a DDB campaign link. 
 !!!Note
 DDB's content sharing feature lets characters in the same campaign share access to any owned content. We offer these links to rules-abiding members so they may benefit from this for free.
 !!!
@@ -157,7 +157,7 @@ Example character sheet with notes containing full text of each feature.
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
-- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
+- Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
 
@@ -167,4 +167,4 @@ You're now ready to start playing!
 --->
 ## How to Suggest Resources
 
-Please make the suggestion by posting in `#server-suggestions` with the full title and a short description of the resource, as well as why you recommend it.
+Please make the suggestion by posting in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) with the full title and a short description of the resource, as well as why you recommend it.

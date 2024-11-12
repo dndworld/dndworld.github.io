@@ -52,9 +52,9 @@ This may seem obvious, but your application is judged for the amount of care you
 - Spelling/Grammatical Errors
     - Especially for role names, staff names, and lore-related names
 - Using the wrong application format
-    - For staff, please use the one in `#staff-guide`
+    - For staff, please use the one in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-guide"](https://discord.com/channels/512870694883950598/684503404000706649)
 - Not using the application form at all
-    - If you send a FanMail saying “I’d like to apply for staff!” you will be directed to `#staff-roles`
+    - If you send a FanMail saying “I’d like to apply for staff!” you will be directed to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-roles"](https://discord.com/channels/512870694883950598/877373177381126144)
 - Not filling out all fields in an application
 
 ### Length
@@ -140,7 +140,7 @@ Players who like this role also apply for: Arena Master
     - However, they can help Welcomers who they see are struggling
 - **Variety**: 2
     - Welcomers can help newbies in whichever way they are best at
-    - This tends to come in the form of greeting in `#introductions`, helping in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) or `#off-topic-general,` or PMing them to help
+    - This tends to come in the form of greeting in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#introductions"](https://discord.com/channels/512870694883950598/512872429211746304), helping in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#off-topic-general"](https://discord.com/channels/512870694883950598/512870694883950604), or PMing them to help
 - **Public Facing**: 4
     - Welcomers are the face of the server and the first impression of new players
     - As such, they should have a friendly and patient disposition
@@ -294,7 +294,7 @@ People who like this role also apply for: NPC Master
     - They should exercise basic common sense in gauging whether an encounter would be fun or unfun to a player
 - **Initiative**: 2
     - NPC Masters can mostly work around events if they wish
-    - NPC Masters should respond to `#npc-registry` requests
+    - NPC Masters should respond to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740) requests
     - Roaming RP channels on their own accord is a plus
 
 People who like this role also like to apply for: Trainee DM

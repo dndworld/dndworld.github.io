@@ -17,7 +17,7 @@ React with a 🔔 in following circumstances:
 Staff members may also react to your message with a 🔔 if they themselves do not know the answer to your question. In which case, just wait patiently for help to arrive.
 !!!
 
-## `#beginner-help`
+## [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)<span style="display:none;">beginner-help</span>
 
 This is a channel where newcomers can reach out to staff for help with:
 - Creating character sheet
@@ -26,8 +26,8 @@ This is a channel where newcomers can reach out to staff for help with:
 
 The following topics should be moved to more relevant channels:
 - Questions on the server's rules or systems that require a ruling/clarification from another staff member: [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-questions"](https://discord.com/channels/512870694883950598/546725434608451584) 
-- DnD ruling questions: `#rulings-questions` 
-- Brainstorming character ideas: `#character-idea-discussion` 
+- DnD ruling questions: [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rulings-questions"](https://discord.com/channels/512870694883950598/513452707617570828) 
+- Brainstorming character ideas: [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-idea-discussion"](https://discord.com/channels/512870694883950598/585090840750194708) 
 
 ### Note for Staff Members
 

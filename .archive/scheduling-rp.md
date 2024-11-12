@@ -18,7 +18,7 @@ Most roleplay (RP) in our server happens spontaneously. You can just walk into a
 - ✅ Doing a specific activity (e.g. sparring, fishing, touring the town)
 
 - ❌ Asking for permission to use RP channels (that is not required)
-- ❌ Encounters with NPCs (that is [`#npc-registry`](/advanced-play/npc-registry))
+- ❌ Encounters with NPCs (that is [[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740)](/advanced-play/npc-registry))
 - ❌ Advertising campaigns (that is not allowed on the server)
 
 Before making your own post, consider checking the queue to see if another RPer has already made one that matches your description and ping them to RP. Delete your post once you have found a partner.

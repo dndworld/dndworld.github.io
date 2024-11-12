@@ -12,9 +12,9 @@ h1:before { content: "🔰 " }
 
 ## What is D&D?
 
-D&D is a tabletop roleplaying game (TTRPG) game  published by Wizards of the Coast (WOTC). Each session is typically played with one DM and a party of four-five players. The game is a mixture of freeform roleplay (RP), combat, and exploration.
+D&D is a tabletop roleplaying game (TTRPG) game  published by Wizards of the Coast (WOTC). Each session is typically played with one DM and a party of 4-5 players. The game is a mixture of freeform roleplay (RP), combat, and exploration.
 
-We currently play the **5th Edition (5e)** of the game released in 2014; if you have any books from earlier editions e.g. 3.5e or AD&D, please do not use them here as they are not compatible.
+We currently play the **5th Edition (5e)** of the game released in 2014; if you have any books from earlier (e.g. 3.5e, AD&D) or later editions (namely the 2024 rulebooks), please do not use them here as they are not compatible.
 
 
 ## How is D&D played online?
@@ -29,7 +29,7 @@ While we appreciate the click-clacks in-person, all our rolls are done using Avr
 
 We get the question *"How can I join a campaign?"* quite often. On our server, we don't run campaigns; instead, we run pick-up games where characters carry over between sessions.
 
-Broadly speaking, our server is a living world, which is a unique format of D&D similar to a MMORPG. All characters live in a shared world, and even when you are not in games, you can still interact with other player characters. 
+Broadly speaking, our server is a living world, which is a unique format of D&D similar to a MMORPG. All characters live in a shared world, and even when you are not in games, you can still interact with other player characters (aka PCs).
 
 To accommodate our size, games are West Marches style with some changes. In West Marches, there are multiple DMs and many players. Rather than having to stick to weekly sessions and a consistent party, games are instead held whenever a DM has time. 
 
@@ -38,9 +38,9 @@ To accommodate our size, games are West Marches style with some changes. In West
 !!!Not Your Style?
 We encourage you to give us a try! Many people who initially joined for campaigns ended up enjoying the atmosphere and stayed on for years. However, if you are *only* looking for traditional campaign-style games, then you are welcome to try the following avenues:
 
-- [Our Partner Servers](partner-servers.md)
-- [The r/LFG subreddit](https://www.reddit.com/r/lfg/)
-- [The official Dungeons & Dragons server](https://discord.gg/dnd)
+- [Our Partner Servers](/misc/partner-servers/)
+- [!badge icon="link-external" variant="info" text="The r/LFG subreddit"](https://www.reddit.com/r/lfg/)
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="The official Dungeons & Dragons server"](https://discord.gg/dnd)
 
 We kindly ask that you do not advertise your campaigns on our server.
 !!!
@@ -49,40 +49,42 @@ We kindly ask that you do not advertise your campaigns on our server.
 
 Over the years, we have encountered a wide variety of players from all sorts of backgrounds. However, sometimes this leads to mismanaged expectations on how we personally play D&D. As such, we have compiled this helpful list of common scenarios for you:
 
-==- Campaign with Family & Friends
-If you've already played D&D before, you may feel like you already have a grasp on D&D's mechanics. However, every table plays differently; some follow the game rules strictly, while others use lots of homebrew or Rule of Cool. Some DMs are totally okay with you rolling up a world-conquering necromancer with an army of robots at Level 1— we are not one of them, haha. Due to home games taking these kinds of liberties, we encourage you to pay attention to our rules and open your mind to adjusting expectations.
+==- <img class="emoji" src="/images/emoji-snatch-hug.webp"> Campaign with Family & Friends
+If you've already played D&D before, you may feel like you already have a grasp on D&D's mechanics. However, every table plays differently; some follow the game rules strictly, while others use lots of homebrew or Rule of Cool. Some DMs are totally okay with you rolling up a world-conquering necromancer with an army of robots at Level 1— 
 
-==- Memes
+We are not one of them, haha. Due to home games taking these kinds of liberties, we encourage you to pay attention to our rules and open your mind to adjusting expectations.
+
+==- :thumbsup: Memes
 Everyone loves a good meme, but it is important to understand that memes only represent one part of the D&D experience. In many cases, they are exaggerated for comedic effect; you probably *won't* be in a party with a witch on a tricycle. As our server lasts up till Level 20, we generally don't encourage you to create joke characters that would only be funny for a few sessions. 
 
-==- Streams/Podcasts (e.g. Critical Role or Dimension 20)
+==- :video-camera: Streams/Podcasts (e.g. *Critical Role* or *Dimension 20*)
 Streams and podcasts like CR or D20 are popular ways people get introduced to the game. However, it is vital to note that their actors are professionals, and Matt Mercer is a master worldbuilder. As such, you should not expect yourself, other players, or the DM to roleplay to their standard.
 
 !!!Take Note: Critical Role content is considered Homebrew here
-We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules.md)
+We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules/)
 !!!
 
-==- Playing Video Games (e.g. Baldur's Gate 3)
+==- :video_game: Playing Video Games (e.g. *Baldur's Gate 3*)
 
-RPGs such as Baldur's Gate 3 has greatly helped expand the accessibility of D&D. While BG3 is quite faithful to the overall experience, Larian Studios has made [their own changes](https://bg3.wiki/wiki/D%26D_5e_rule_changes) to the game.
+RPGs such as *Baldur's Gate 3* has greatly helped expand the accessibility of D&D. While BG3 is quite faithful to the overall experience, Larian Studios has made [!badge icon="link-external" variant="info" text="their own changes"](https://bg3.wiki/wiki/D%26D_5e_rule_changes) to the game.
 
 In addition, as a video game, BG3 has several details that don't translate to the tabletop format. The key difference is that you play collaboratively with your party. No one person is the main character, and you are expected to work with your team to overcome challenges. It is frowned upon to take control of their actions.
 
 Generally, we ask that you don't rip ideas from video games characters for your D&D character. The line between taking inspiration and directly copying can blur quickly. Playing a rogue dual-wielding swords is fine; using Geralt's portrait and having a vaguely-similar backstory is not.
 
-==- TV Shows (e.g. Stranger Things)
+==- :tv: TV Shows (e.g. *Stranger Things*)
 
-In Stranger Things, the characters play the Dungeons & Dragons Expert Set, which was released in 1981 as an expansion to the 1977 *Basic Set* (not to be confused with the 2014 *Basic Rules*).
+In *Stranger Things*, the characters play the *Dungeons & Dragons Expert Set*, which was released in 1981 as an expansion to the 1977 *Basic Set* (not to be confused with the 2014 *Basic Rules*).
 
-For us, we play Dungeons & Dragons 5th Edition, which is the most recent version of D&D. We play in our own homemade setting called Icris, which means you unfortunately won't see villain crossovers like Vecna.
+Here, we play Dungeons & Dragons 5th Edition, a more recent and the most popular version of D&D, and have our own homemade setting called Icris, which means you unfortunately won't see villain crossovers like Vecna.
 ==-
 
 ## Planning Your Character
 
 !!!I can play anything I want?!
-D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [races](https://www.dndbeyond.com/species) and [classes](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
+D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [!badge icon="link-external" variant="info" text="races"](https://www.dndbeyond.com/species) and [!badge icon="link-external" variant="info" text="classes"](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
 
-As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](4.md) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
+As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](/charcre-v2/4/) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
 !!!
 
 Before you begin, start by imagining what kind of character you want to create.
@@ -103,38 +105,41 @@ Each class has their own advantages and disadvantages. Below is a simplified lis
 <img src="https://i.imgur.com/d8Oi7pL.png" alt="Class Overview" width="500"/>
 </p>
 
-A fun resource for character creation: [*Is your D&D Character Too Perfect?*](https://youtu.be/5DECGUi_hQc) by Ginny Di 
+A fun resource for character creation: [!badge icon="link-external" variant="info" text="*Is your D&D Character Too Perfect?*"](https://youtu.be/5DECGUi_hQc) by Ginny Di 
 
 !!!warning I want to play a Summoner!
-We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](video-games-vs-dnd/Summoner).
+We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](/tips/video-games-vs-dnd/#summoner).
 !!!
 
 ## How to Learn D&D
 
 !!!Making a Character Sheet
-Your character is defined by their Character Sheet, which is the [digital] paper that details what your character is capable of. You will need one to enter the server proper. Read on to find out more.
+Your character is defined by their Character Sheet, which is the digital paper that details what your character is capable of. You will need one to enter the server proper. Read on to find out more.
 !!!
 
-The most comprehensive way to learn D&D is to start with the [!badge text="**Basic Rules (2014)**"](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). You do not have to read everything all at once, and it is not necessary to read everything:
+The most comprehensive way to learn D&D is to start with the [!badge icon="link-external" variant="info" text="**Basic Rules (2014)**"](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). You do not have to read everything all at once, and it is not necessary to read everything:
 
-1. **Step by Step Characters: Yes, please read this**
-2. **Races: Skip to those you are interested in**
-3. **Classes: Skip to those you are interested in**
-4. Personalities & Backgrounds: Skip directly to Backgrounds section (you can come up with your own Character Details)
-5. Equipment: Unless you plan on manually calculating your stats, a quick skim will do
-6. Customization Options: Ignore this for now; you can read it when you level up
-7. **Ability Scores: Absolutely necessary to read**
-8. Adventuring: Skip directly to The Environment; this section is more situational so a quick skim will do
-9. **Combat: Absolute necessary to read**
-10. **Spellcasting: Only if you play a spellcasting class.** You can skip if you are starting as a Barbarian, Fighter, Monk or Rogue.
-11. Spells: Skip for now; for spellcasters, you can read the Level 1 spells on your sheet later.
-12. Monsters: Don't read this.
-13. Building Combat Encounters: Don't read this.
-14. Magic Items: Ignore for now.
-15. Appendix A: Useful reference, give it a skim if anything remains unclear.
-16. Appendix B-D: Don't read this.
+{.compact}
+|Section|Must Read?|
+|---|---|
+| 1. **Step by Step Characters** | <img class="emoji" src="/images/emoji-yea.webp"> **Yes, please read this.** This section goes hand-in-and with [the below steps](#dd-beyond-character-builder) and will help you make your first DnD character. |
+| 2. **Races** | <img class="emoji" src="/images/emoji-yea.webp"> **Skip to those you are interested in** |
+| 3. **Classes** | <img class="emoji" src="/images/emoji-yea.webp"> **Skip to those you are interested in** |
+| 4. Personalities & Backgrounds | :point_right: Skip directly to Backgrounds section (you can come up with your own Character Details) |
+| 5. Equipment | :point_right: Unless you plan on manually calculating your stats, a quick skim will do |
+| 6. Customization Options | :hourglass_flowing_sand: Ignore this for now; you can read it when you level up |
+| 7. **Ability Scores** | <img class="emoji" src="/images/emoji-yea.webp"> **Absolutely necessary to read** |
+| 8. Adventuring | :point_right: Skip directly to The Environment; this section is more situational so a quick skim will do |
+| 9. **Combat** | <img class="emoji" src="/images/emoji-yea.webp"> **Absolute necessary to read** |
+| 10. **Spellcasting** | :point_right: **Only if you play a spellcasting class.** You can skip if you are starting as a Barbarian, Fighter, Monk or Rogue. |
+| 11. Spells | :point_right: Skip for now; for spellcasters, you can read the Level 1 spells on your sheet later. |
+| Monsters | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
+| Building Combat Encounters | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
+| Magic Items | :hourglass_flowing_sand: Ignore for now. |
+| Appendix A | :point_right: Useful reference, give it a skim if anything remains unclear. |
+| Appendix B-D | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
 
-If this felt overwhelming, you can also read the somewhat simplified [SRD Document](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf). This is helpful if you struggle to read long blocks of text and only want to read the most important parts. If you require more detailed explanation, the Basic Rules above are better.
+If this felt overwhelming, you can also read the somewhat simplified [!badge icon="link-external" variant="info" text="SRD Document"](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf). This is helpful if you struggle to read long blocks of text and only want to read the most important parts. If you require more detailed explanation, the Basic Rules above are better.
 
 Don't worry, this will come with time. It is only important that you eventually familiarize yourself with your Character Sheet, so that you can play games smoothly.
 
@@ -145,21 +150,23 @@ As you read the above document, you can create your character at the same time. 
 ## Step-by-Step: Making your first character on D&D Beyond
 
 ### Getting Started
-- [!badge icon="link-external" variant="info" text="Make a D&D Beyond account"](https://www.dndbeyond.com/create-account) if you don’t already have one.
 
+||| :icon-tasklist: What to do
+- [!badge icon="link-external" variant="info" text="Make a D&D Beyond account"](https://www.dndbeyond.com/create-account) if you don’t already have one.
 - Go to "Create a Character" 
 - Choose "Standard" Character Creation Method
 - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
   - You could use "Quick Build" as well, which will automatically generate a character sheet for you. Feel free to change the name and portrait to suit your character.
-
+||| :icon-image: What to Look for
 <p style="text-align:center;">
 <img src="https://i.imgur.com/eNS3ZwA.png" alt="Create a Character" width="300"/> 
-<br>
+<br><br>
 <img src="https://i.imgur.com/IrWEjhP.png" alt="Choose Standard for character creation method" width="300"/>
 </p>
+|||
 
 !!!info 
-As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
+As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
 !!!
 
 ### Character Preferences (settings) 
@@ -208,7 +215,7 @@ These options will be marked with the `[Legacy]` tag.
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
 > - **Point Buy**: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option. 
->   - [Point Buy calculator website](https://chicken-dinner.com/5e/5e-point-buy.html) 
+>   - [!badge icon="link-external" variant="info" text="Point Buy calculator website"](https://chicken-dinner.com/5e/5e-point-buy.html) 
 > - **Manual**: Roll the stats in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond 
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method
@@ -231,7 +238,7 @@ These options will be marked with the `[Legacy]` tag.
 > - If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
 
 #### Rolling for Gold
-> If you choose to roll for gold, you MUST make the rolls in `#⁠official-character-rolls`, **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+> If you choose to roll for gold, you MUST make the rolls in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ---
 
@@ -245,43 +252,20 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 > - Click "Share" button in the header of your character sheet to get the shareable link. 
 > Make sure your character sheet is set to PUBLIC first
 >   - If you're on the mobile D&D Beyond app, check out [this resource](/misc/resources/#how-to-get-your-character-sheets-link-from-the-dd-beyond-mobile-app)
-> - Post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
+> - Post in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661) by running the following, where `<link>` is replaced by your character sheet link.
 > ```
 > !import <link>
 > ```
 
 #### 3. Set Up Your Character for the Server
-> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[How to Start Playing](/start-playing/start-playing/)
+> - There are additional setups that are necessary for your character to be living in DnD World. Please follow the steps in ⁠[What's Next?](/start-playing/whats-next/)
 
 #### 4. Learn How to Earn RPXP and XP
 > RPXP is the experience point you get from roleplaying. After you participate in a DM event you can transfer RPXP and turn it into XP. 
 > - More details and additional information [here](/start-playing/games/)
 
+!!!info Ask questions!
+[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
+
+💡 If you need help with basic Avrae commands, check out our partner server The Starry Shore's [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI)!
 !!!
-Ask questions!
-> [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)
-> 
-> 💡 If you need help with basic Avrae commands, check out [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI), created by our partner server The Starry Shore!
-!!!
----
-
-## Introduction to Dungeons & Dragons
-The best way of getting to know D&D is by reading the [!badge icon="link-external" variant="info" text="Basic Rules"](https://www.dndbeyond.com/sources/basic-rules).
-
-#### Part 1: Creating a Character
-> - Simply start from **Chapter 1: "Step-By-Step Characters"**. This section goes hand-in-and with [the above steps](new-to-dnd/#dd-beyond-character-builder) and will help you make your first DnD character. 
-> - Chapter 2-5 describes each details of a character more in depth.
-> - Chapter 6 will become more relevant later in the game as you level up.
-
-#### Part 2: Playing the Game
-> - **Chapter 7: Using Ability Score** describes how the ability scores (stats) are used in the game.
-> - Chapter 8 is more relevant for playing campaigns, less so on this server.
-> - Make sure to look over **Chapter 9: Combat** before attending a DM event.
->   - Appendix A: Conditions often comes handy during a game.
-
-#### Part 3: The Rules of Magic
-
-> - **Chapter 10: Spellcasting** describes rules around spellcasting in D&D. If your character is a spellcaster, this section of the rules is relevant to you.
-> - Chapter 11 lists available spells for each class, as well as full description of the spells.
-
-You can also find the full PDF version of the Basic Rules [!badge icon="link-external" variant="info" text="here"](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf). 

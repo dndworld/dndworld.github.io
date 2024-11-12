@@ -50,7 +50,7 @@ If you are seeing black boxes in your Gsheet, that's because some of the images 
 
 ### Quick Start to Automation
 
-- Output an embed (Do **not** use this for RP -> [Rule](/rules/ 7️⃣)
+- Output an embed (Do **not** use this for RP -> [Rule 7️⃣](/rules/))
 More on embed arguments can be found in `!help embed`
 > ```
 > !alias [alias name] embed -title "My Title" -desc "My description" -f "Field 1|Field text"

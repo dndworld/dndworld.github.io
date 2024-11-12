@@ -6,6 +6,12 @@ icon: ":bed:"
 
 **Downtime Day (DTD)** activities can enable you to earn some extra gold, copy spells, and other neat features.
 
+!!!warning Remember to [set up your Lifestyle](/downtime/lifestyle/) before running DTDs!
+It is optional, but if you would like to do DTD, you have to pay Lifestyle.
+
+Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when running DTDs too.
+!!!
+
 ## DownTime Days (DTD) Rules
 
 - You have 5 DTD points per week when you pay lifestyle, and they expire every Monday at midnight server time (EST). Therefore, you may not stock up the unused DTD points.
@@ -13,6 +19,45 @@ icon: ":bed:"
 - Lifestyle and other factors may affect the DC for your rolls. The details are intentionally undisclosed to prevent min-maxing and metagaming.
 - Only passive effects may be applied, for example: Jack of All Trades, proficiency, Expertise, Tireless Precision.
 - Some DTDs require manual reviews from staff, and this may take more than one day. You do not need to wait for the previous day’s manual DTD to be processed before doing today’s DTD.
+
+
+==- :question: Full List of DTD Options
+
+### Lifestyle
+- [Self-sufficient Living](/downtime/lifestyle/#self-sufficient-living)
+
+### Downtime Days
+- [Find](/downtime/dtd/#find)
+- [Learning](/downtime/dtd/#learning)
+- [Combat Training](/downtime/dtd/#combat-training)
+- [Guild DTDs](/downtime/dtd/#guild-dtds)
+- [Business DTD](/downtime/dtd/#business-dtd)
+- Special Case: [Catch-Up DTDs](/downtime/dtd/#special-case-catch-up-dtd)
+
+### Employment
+- [Job Interview Checks](/downtime/dtd/#job-interview-checks) (must be passed before running PTW/HRW DTDs)
+- [Tool Checks](/downtime/dtd/#tool-checks)
+- [PTW](/downtime/dtd-employment/#part-time-work-ptw)
+- [HRW](/downtime/dtd-employment/#high-risk-work-hrw)
+
+### Odd Jobs
+- [Community Center Service](/downtime/dtd-odd-jobs/#community-center-service)
+- [Street Performance](/downtime/dtd-odd-jobs/#street-performance)
+- [Petty Crime](/downtime/dtd-odd-jobs/#petty-crime)
+- [Precarious Contracts](/downtime/dtd-odd-jobs/#precarious-contracts)
+
+### Consequences
+- [Rest and Recovery DTD](/downtime/dtd-consequences/#rest-and-recovery-rr-dtd)
+- [Forage for Herbs](/downtime/dtd-consequences/#forage-for-herbs)
+- [Community Service](/downtime/dtd-consequences/#community-service)
+- [Snowhaven Settlement Service DTD](/downtime/dtd-consequences/#snowhavens-settlement-service)
+
+### Spellbook DTDs
+- [Copying Spells DTD](/downtime/dtd-spellbook/#copying-spells)
+- [Spell Research DTD](/downtime/dtd-spellbook/#spell-research)
+
+===
+
 
 ## Find
 
@@ -32,7 +77,7 @@ For each Find DTD, you need following information:
 
 *Not everything can be found in the humble village of Snowhaven, nor is everything known. It may be impossible to Find some things, although if you're lucky you might stumble upon clues as to where would be a better place to look.*
 
-Put this command with the information in `#dtd-manual-log`:
+Put this command with the information in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-manual-log"](https://discord.com/channels/512870694883950598/534036939368824848):
 
 ```
 !find <Seeking> <Search Location> <Search Method> <Skill>
@@ -40,7 +85,7 @@ Put this command with the information in `#dtd-manual-log`:
 
 > Example: `!find "Employment at a smithy" "Market District" "Searching the market district for any signs of a forge by checking the skies for smoke and listening for the sounds of hammers on metal." "Investigation"`
 
-You will receive a ping in `#dtd-results` when your log is processed.
+You will receive a ping in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-results"](https://discord.com/channels/512870694883950598/586462271056904212) when your log is processed.
 
 
 ## Learning
@@ -124,11 +169,11 @@ To pull up the help text for each guild DTD, use following command in `bot-dump`
 !help guild [Name of DTD]
 ```
 
-For help in joining a guild, please refer to [Joining a Guild (Optional)](/start-playing/start-playing/#joining-a-guild-optional)
+For help in joining a guild, please refer to [Joining a Guild (Optional)](/start-playing/whats-next/#joining-a-guild-optional)
 
 ## Business DTD
 
-If you have a registered business for your house in `#registered-businesses`, you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [!badge icon="link-external" variant="info" text="Business document"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
+If you have a registered business for your house in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#registered-businesses"](https://discord.com/channels/512870694883950598/1014934710134259814), you may use Business DTD corresponding to the category of business you have. For more information on Businesses and categories of businesses, please refer to the [!badge icon="link-external" variant="info" text="Business document"](https://docs.google.com/document/d/1_BlD8lANtdI6qJKwAOXoi6OzRI2BzbE8WYMCipsX5ac/).
 
 To pull up the help text for Business DTD, use following command in `bot-dump`.
 
