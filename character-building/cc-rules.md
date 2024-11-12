@@ -86,8 +86,8 @@ DiceCloud v1 tutorials
 
 > **We use the 2014 D&D 5e ruleset.** If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 > 
-> For the full list of the allowed and disallowed official materials, please refer to [!badge icon="link-external" variant="info" text="this doc"](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k/). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
- >-  Alternatively, for the full list of Allowed Races/Species, view [!badge icon="link-external" variant="info" text="this doc"](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/).
+> [!badge icon="link-external" variant="info" text="Full List of All Allowed and Disallowed Materials](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k/). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
+ >-  Alternatively, here is the [!badge icon="link-external" variant="info" text="Full List of Allowed Races/Species"](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/).
 
 !!!
 Paywalled Content
@@ -117,7 +117,7 @@ When new official material is published, it first needs to be reviewed by our Ho
 ==- Races/Species
 Any subclasses the source books determine as restricted to certain races, such as the Battlerager barbarian, are available for all races to use. However, feats that are restricted to certain races can still only be used by those races as stated in the sourcebooks.
 
-For the full list of allowed and disallowed official races, please refer to [!badge icon="link-external" variant="info" text="this doc"](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/). For races with multiple versions, please make sure you are using a version that is allowed.
+[!badge icon="link-external" variant="info" text="Full List of Allowed and Disallowed Official Races"](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/). For races with multiple versions, please make sure you are using a version that is allowed.
 
 ==- Classes/Subclasses
 **General**
