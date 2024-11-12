@@ -57,7 +57,7 @@ We are not one of them, haha. Due to home games taking these kinds of liberties,
 ==- :thumbsup: Memes
 Everyone loves a good meme, but it is important to understand that memes only represent one part of the D&D experience. In many cases, they are exaggerated for comedic effect; you probably *won't* be in a party with a witch on a tricycle. As our server lasts up till Level 20, we generally don't encourage you to create joke characters that would only be funny for a few sessions. 
 
-==- :video-camera: Streams/Podcasts (e.g. *Critical Role* or *Dimension 20*)
+==- :video_camera: Streams/Podcasts (e.g. *Critical Role* or *Dimension 20*)
 Streams and podcasts like CR or D20 are popular ways people get introduced to the game. However, it is vital to note that their actors are professionals, and Matt Mercer is a master worldbuilder. As such, you should not expect yourself, other players, or the DM to roleplay to their standard.
 
 !!!Take Note: Critical Role content is considered Homebrew here

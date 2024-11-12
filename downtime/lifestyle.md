@@ -13,7 +13,7 @@ Depending on which lifestyle you choose, your character’s lodging option chang
 
 > - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#community-center"](https://discordapp.com/channels/512870694883950598/586370313755820032): **Poor** and **Squalid** living for the masses and the less fortunate.
 > - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cozy-yeti-estates"]: **Modest** accommodations for those in need of a place to rest their head.
-> - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cozy-yeti-upstairs"](https://discordapp.com/channels/512870694883950598/562928113793630228) & [!badge icon="/images/discord-mark-blue.svg" text="#white-dragon-hotel"](https://discordapp.com/channels/512870694883950598/561895920216702976): **Comfortable** living for those that want a little extra luxury in their stay.
+> - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#cozy-yeti-upstairs"](https://discordapp.com/channels/512870694883950598/562928113793630228) & [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#white-dragon-hotel"](https://discordapp.com/channels/512870694883950598/561895920216702976): **Comfortable** living for those that want a little extra luxury in their stay.
 > - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#white-dragon-hotel"](https://discordapp.com/channels/512870694883950598/561895920216702976): **Wealthy** and **Aristocratic** living for those that have only the highest standards and the deepest pockets.
 
 - **Self-sufficient** lifestyle is an option for those well-versed in surviving in the wilds. In order to gain this lifestyle, follow the instructions of [Self-sufficient Living DTD](#self-sufficient-living).
