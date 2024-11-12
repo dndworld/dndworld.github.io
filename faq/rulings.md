@@ -60,7 +60,7 @@ Server Rule Keyword: <RPXP, XP, Level, DM Event, Roleplay>
 
 ## Rule Clarifications
 
-### General:
+### General
 ==- **Can you refer to classes in character?**
 **Interpretation:** The idea of character classes is a meta concept. A character belonging to a class does not necessarily identify themselves with the word the rules use for that class.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/621035485690724369/826215429629280296)
@@ -85,7 +85,7 @@ Item: Spellcasting Focus
 ```
 ===
 
-### Races/Species:
+### Races/Species
 
 ==- **Awakened Animals and Components**
 **Interpretation:** Awakened Animal PCs can use their paws for somatic components.<br>
@@ -97,6 +97,13 @@ Race/Racefeat: Awakened Cat, Awakened Dog
 Class/Classfeat: Druid, Ranger
 Item: Spellcasting focus, Druidic focus
 ```
+==- **Awakened Animals and Arcane Armor**
+**Interpretation:** If you normally would not be able to wear the armor due to a trait like Quadruped Frame, you ignore that trait with the arcane armor.
+**Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord (staff channel)"](https://discord.com/channels/512870694883950598/803192028200304660/1297619286424293497)
+```yaml **Tags**
+Race/Racefeat: Awakened Animal's Quadruped Form
+Subclass/Subclassfeat: Armorer Artificer's Arcane Armor
+```
 ==- **Feral Tiefling from MTOF and Tiefling Bloodlines from SCAG**
 **Interpretation:** you cannot play a feral tiefling with a different bloodline than the Bloodline of Asmodeus subrace from the PHB, meaning that feral tieflings are only compatible with the Winged, Devil's Tongue, and Hellfire variant traits.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/871745695491715173)
@@ -105,7 +112,7 @@ Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongu
 ```
 ===
 
-### Classes:
+### Classes
 
 ==- **Artificer: Replicate Magic Item**
 **Description**
