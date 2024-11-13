@@ -18,9 +18,19 @@ h1:before {
 
 # The X-Card System
 
-When a comment (either IC or OOC) makes a player uncomfortable without being directly rule breaking, players may react to the post with a <img src="/images/emoji-scam-x-card.webp" class="emoji">  `scamXCard:`.
+The X-Card is a simple [!badge icon="link-external" variant="info" text="safety tool"](https://en.wikipedia.org/wiki/X-Card) designed for players to self-moderate when roleplaying with one another.
 
-This System is:
+When a comment (either IC or OOC) makes a player uncomfortable without being directly rule breaking, players may react to the post with a <img src="/images/emoji-scam-x-card.webp" class="emoji">  `scamXCard:`. This is a signal that the players involve should tone down or move away from the current conversation topic.
+
+!!!info
+The key purpose of using the X-Card is to express **personal preference**. This means topics that are not covered by the rules, or are more of a grey area. This includes:
+Some of the subjects it covers include:
+- Flirting that does not cross into harassment
+- Descriptions of violence (such as blood, injuries, disease, etc.)
+- Discussion of potentially triggering topics (e.g. insect phobias, death)
+!!!
+
+This system is:
 - An anonymous way to state someone is feeling uncomfortable.
 - Useful if someone is not comfortable with speaking up at that moment, as it is a non-verbal communication of one's personal boundaries
 - Nuanced and aims to reduce hostility in grey areas. E.g. hugging is generally socially acceptable behavior. However, hugging someone who does not like being hugged is not.
@@ -28,10 +38,13 @@ This System is:
 - A near-instantaneous way to stop the topic, as reports take time
 - Less pressure compared to reporting a message, as there is no need to worry about getting someone in trouble
 
-Some of the subjects it covers include:
-- Casual flirting
-- Descriptions of violence (such as blood, injuries, disease, etc.)
-- Discussion of potentially triggering topics (e.g. insect phobias, death)
+!!!Example 1
+Amy is afraid of spiders. While roleplaying with Bob, his character begins going into extensive detail about how he once killed a Giant Spider. This makes Amy uncomfortable, and she uses the X-Card on Bob's post to indicate she wants to change the topic. In this case, discussions of spiders aren't banned from the server, just something Amy would prefer not to discuss.
+!!!
+
+!!!Example 2
+Carson and Delia are roleplaying together, and the conversation is going well. Delia decides drop hints that her character is interested in his. However, Carson's character is aromantic, or someone who does not experience romance. Rather than have to defend or explain why his character feels that way, he instead opts to use the X-Card to tone down the temperature. In this case, Delia was not harassing Carson, he simply preferred not to roleplay flirting.
+!!!
 
 ## Steps if you want to use the <img src="/images/emoji-scam-x-card.webp" class="emoji">  
 1. React with <img src="/images/emoji-scam-x-card.webp" class="emoji">  on a post which you feel crosses your comfort zone. 
@@ -45,7 +58,7 @@ Some of the subjects it covers include:
 ## Steps if your post has been <img src="/images/emoji-scam-x-card.webp" class="emoji">  
 1. You may either tone down or change the topic entirely, depending on the situation
 2. If you are open to discussing why this was X-carded, you can put a message in the OOC inviting the person to reach out in PMs or elsewhere.
-    - Sometimes people might not want to go into the specifics of why something made them uncomfortable, and this is not a reflection of your character
+    - Sometimes people might not want to go into the specifics of why something made them uncomfortable, and this is not your fault
 3. Otherwise, you can just move on. If you want, something like a simple "Ope, I didn't mean to overstep" will do.
 4. Depending on the circumstances, participants in the scene can discuss and retcon what happened.
 
