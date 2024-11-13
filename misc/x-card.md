@@ -18,16 +18,18 @@ h1:before {
 
 # The X-Card System
 
-The X-Card is a simple [!badge icon="link-external" variant="info" text="safety tool"](https://en.wikipedia.org/wiki/X-Card) designed for players to self-moderate when roleplaying with one another.
+The X-Card is a simple [!badge icon="link-external" variant="info" text="Safety Tool"](https://en.wikipedia.org/wiki/X-Card) designed for players to self-moderate when roleplaying with one another.
 
 When a comment (either IC or OOC) makes a player uncomfortable without being directly rule breaking, players may react to the post with a <img src="/images/emoji-scam-x-card.webp" class="emoji">  `scamXCard:`. This is a signal that the players involve should tone down or move away from the current conversation topic.
 
-!!!info
-The key purpose of using the X-Card is to express **personal preference**. This means topics that are not covered by the rules, or are more of a grey area. This includes:
-Some of the subjects it covers include:
+The key purpose of this is to allow players to express discomfort towards subjective topics safely. This means topics that are not covered by the rules, or are more of a grey area. This includes:
+
 - Flirting that does not cross into harassment
 - Descriptions of violence (such as blood, injuries, disease, etc.)
 - Discussion of potentially triggering topics (e.g. insect phobias, death)
+
+!!!warning
+**X-Card reactions are not sent to the Mods, and who used the reaction is not recorded. Mods do not act on any X-Card reactions, nor will it influence warnings, DP or staff applications.
 !!!
 
 This system is:
