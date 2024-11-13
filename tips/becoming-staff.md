@@ -199,7 +199,8 @@ People who like this role also apply for: Trainee DM, NPC Master
 
 :::tdm
 ### Trainee DM
-- Time:::
+:::
+- **Time:** 5
     - Trainee DMs can choose when they want to run their sessions
     - Being a DM requires the most time commitment out of all the roles due to the length of time bounties take. TDMs have the option of making them multisession, but are responsible for organizing scheduling. 
     - Other than running the game itself, TDMs also need to set aside time for planning the game, getting them approved, and calculating rewards.
