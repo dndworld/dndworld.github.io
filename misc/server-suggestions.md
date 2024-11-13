@@ -9,13 +9,11 @@ h1:before {
 }
 </style>
 
-This page describes how to make suggestions on [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) and [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#suggestion-discussion"](https://discord.com/channels/512870694883950598/579855797928853515).
+Suggestions for improvements to the server can be submitted in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) for review by the management team. At the end of every quarter, Mentors, Seniors, and Admins meet to vote on new suggestions. They are then implemented progressively by Assistants or other departments.
 
-You need the `@Active Player` role to make suggestions.
+Most projects take about three months to complete, while complex ones can take between six months to a year. As staff availability is finite, resources are budgeted by the priority of a project.
 
-Certain suggestions have dedicated channels they should be submitted in:
-- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="DW ⁠Homebrew Suggestions (and Questions)"](https://discord.com/channels/512870694883950598/1128795701900476508)
-- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Pet Suggestions"](https://discord.com/channels/512870694883950598/1166423032743608420)
+The `@Active Player` role is required to make suggestions.
 
 ## Emoji Reaction Guide to Suggestions
 
@@ -43,6 +41,10 @@ Certain suggestions have dedicated channels they should be submitted in:
 8) Any modifications to D&D RAW or class features is automatically rejected.
 
 Please refer to [!badge icon="link-external" variant="info" text="DnD World Erratas and Variant Features"](https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/) for official alterations for the server.
+
+Certain suggestions have dedicated channels they should be submitted in:
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="DW ⁠Homebrew Suggestions (and Questions)"](https://discord.com/channels/512870694883950598/1128795701900476508)
+- [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Pet Suggestions"](https://discord.com/channels/512870694883950598/1166423032743608420)
 
 ## Command for Anonymous Suggestions
 
@@ -78,20 +80,6 @@ Following suggestions have been submitted multiple times, gone through reviews a
 
 - **The suggestion is too long**<br>On the flip side, a suggestion can be too long, often overloaded with multiple suggestions in one post or very complicated solutions, which makes them too wordy and difficult to read. 
 
-- **The suggestion is unbalanced**<br>There is simply too much room for exploitation, and the amount of work to salvage the suggestion is not worth it.
+- **The suggestion is unbalanced**<br>There is simply too much room for exploitation, and the amount of work required to rebalance it is simply not worth it.
 
-- **The suggestion takes too much effort for little payoff**<br>Sometimes a suggestion fits all the criteria and is really great, but simply cannot be done because the amount of time and energy needed is not worth the potential payoff. Suggestions that involve overhauling major systems in order to fix a small exploit/detail falls under this category.
-
-## Statement on Guild System
-
-> So we'd like to get it out there that it's very unlikely for any mechanical changes to the guild system to be implemented within the foreseeable future. There are a couple reasons for this, mainly because the team is currently focused on other aspects of the server at the moment, others like the fact that the system is very very old and most of the people who worked on it are no longer on the team.
-> 
-> The guild system is massively complex and has a lot of moving parts, and trying to make one change inevitably affects another part of the system. We also don't want to put ourselves in a situation where us making one change creates a demand for changes in another part in the system, which makes the process more time-consuming than it already is. If changes do come, it would have to be part of a planned major revamp.
-> 
-> For context, things I would consider a major project on our side takes about 3 months to develop (the Black Market changes comes to mind) and that was with me buckling down for 2 weeks not doing anything else except eating, sleeping, and entering numbers into a spreadsheet. Changes to the guild system takes even longer than that to process.
-> 
-> From a design perspective, the guild system is also in a unique place. Going off the general conversations in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#suggestion-discussion"](https://discord.com/channels/512870694883950598/579855797928853515), its clear a lot of people have different things they want to get out of the server. This means that trying to make a change is even more difficult for us, because we have to balance all these different perspectives at play, including what the team would like to achieve out of a change.
-> 
-> This isn't to say your suggestions are all bad or anything, we just don't want you to feel discouraged if these things aren't implemented. We do care about how you guys experience the guild system and in an ideal world we could tell you whether these things are possible very quickly, but this isn't really the situation currently.
-> 
-> -- FG (Server Owner), 2023-04-05
+- **The suggestion takes too much effort for little payoff**<br>Sometimes a suggestion fits all the criteria and is really great, but simply cannot be done because the amount of time and energy needed is not worth the potential payoff. Suggestions that involve overhauling major systems in order to fix a small exploit/detail falls under this category. 
