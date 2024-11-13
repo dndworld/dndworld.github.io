@@ -86,7 +86,7 @@ DiceCloud v1 tutorials
 
 > **We use the 2014 D&D 5e ruleset.** If you are using D&D Beyond, these options will be marked with the `[Legacy]` tag.
 > 
-> [!badge icon="link-external" variant="info" text="Full List of All Allowed and Disallowed Materials](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k/). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
+> A full list of [!badge icon="link-external" variant="info" text="All Allowed Materials"](https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k/). The rest of this page also includes breakdowns of all disallowed materials by race, class, etc.
  >-  Alternatively, here is the [!badge icon="link-external" variant="info" text="Full List of Allowed Races/Species"](https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/).
 
 !!!
