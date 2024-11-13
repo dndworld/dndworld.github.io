@@ -115,8 +115,7 @@ Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongu
 ### Classes
 
 ==- **Artificer: Replicate Magic Item**
-**Description**
-> Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
+**Description** Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
 **Changes:** Alternatively, you can choose the magic item from among the common magic items in [!badge icon="link-external" variant="info" text="the Black Market Bin"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/#heading=h.c7hbl2h4haro), not including potions or scrolls.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/1259009819583713311/1275250656810373322) (Mentor+)
 ```yaml **Tags**
