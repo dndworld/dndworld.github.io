@@ -18,9 +18,7 @@ h1:before {
 
 # The X-Card System
 
-The X-Card is a simple [!badge icon="link-external" variant="info" text="Safety Tool"](https://en.wikipedia.org/wiki/X-Card) designed for players to self-moderate when roleplaying with one another.
-
-When a comment (either IC or OOC) makes a player uncomfortable without being directly rule breaking, players may react to the post with a <img src="/images/emoji-scam-x-card.webp" class="emoji">  `scamXCard:`. This is a signal that the players involve should tone down or move away from the current conversation topic.
+The X-Card is a simple [!badge icon="link-external" variant="info" text="Safety Tool"](https://en.wikipedia.org/wiki/X-Card) designed for players to self-moderate among one another. When a comment (either IC or OOC) makes a player uncomfortable without being directly rule breaking, players may react to the post with a <img src="/images/emoji-scam-x-card.webp" class="emoji">  `scamXCard:`. This is a signal that the players involve should tone down or move away from the current conversation topic.
 
 The key purpose of this is to allow players to express discomfort towards subjective topics safely. This means topics that are not covered by the rules, or are more of a grey area. This includes:
 
@@ -29,7 +27,7 @@ The key purpose of this is to allow players to express discomfort towards subjec
 - Discussion of potentially triggering topics (e.g. insect phobias, death)
 
 !!!warning
-**X-Card reactions are not sent to the Mods, and who used the reaction is not recorded. Mods do not act on any X-Card reactions, nor will it influence warnings, DP or staff applications.
+X-Card reactions are not sent to the Mods, and who used the reaction is not recorded. Mods do not act on any X-Card reactions, nor will it influence warnings, DP or staff applications.
 !!!
 
 This system is:
@@ -45,7 +43,7 @@ Amy is afraid of spiders. While roleplaying with Bob, his character begins going
 !!!
 
 !!!Example 2
-Carson and Delia are roleplaying together, and the conversation is going well. Delia decides drop hints that her character is interested in his. However, Carson's character is aromantic, or someone who does not experience romance. Rather than have to defend or explain why his character feels that way, he instead opts to use the X-Card to tone down the temperature. In this case, Delia was not harassing Carson, he simply preferred not to roleplay flirting.
+Carson and Delia are roleplaying together, and the conversation is going well. Delia decides drop hints that her character is interested in him. However, Carson's character is aromantic, or someone who does not experience romance. Rather than have to defend or explain why his character feels that way, he instead opts to use the X-Card. In this case, Delia was not harassing Carson, he simply preferred not to roleplay flirting.
 !!!
 
 ## Steps if you want to use the <img src="/images/emoji-scam-x-card.webp" class="emoji">  
