@@ -80,6 +80,16 @@
       white-space: pre-wrap;
     }
     /*
+    allows overflowing badge link text to line break
+    - bug 1: container height doesn't increase to match/no vertical padding
+    - bug 2: inline text after the badge is pushed into a third line
+    a > span:nth-of-type(2) {
+      white-space: pre-wrap;
+    }*/
+    #docs-sidebar-right-toggle button {
+      z-index: 29 !important;
+    }
+    /*
     CLASS STYLES
     ============
     .class styles can be applied to a specific element.
