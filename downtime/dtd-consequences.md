@@ -170,6 +170,8 @@ For the full help text, use `!help forage` in [!badge icon="/images/discord-mark
 
 ## Consequences of Crime
 
+See the [!badge icon="link-external" variant="info" text="Infamy & PvP document"](https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/) for a description of Infamy and list of punishments for crimes committed in Snowhaven. The sections below describe how to log these consequences.
+
 ## Infamy Points (IP)
 
 Some DTD activities are considered crime or illegal, and there is a chance that you get caught in action and receive a number of **Infamy Points (IP)**.
