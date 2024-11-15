@@ -150,20 +150,17 @@ As you read the above document, you can create your character at the same time. 
 ## Step-by-Step: Making your first character on D&D Beyond
 
 ### Getting Started
-
-||| :icon-tasklist: What to do
-- [!badge icon="link-external" variant="info" text="Make a D&D Beyond account"](https://www.dndbeyond.com/create-account) if you don’t already have one.
+- Make a [!badge icon="link-external" variant="info" text="D&D Beyond account"](https://www.dndbeyond.com/create-account) if you don’t already have one.
 - Go to "Create a Character" 
 - Choose "Standard" Character Creation Method
 - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character. 
   - You could use "Quick Build" as well, which will automatically generate a character sheet for you. Feel free to change the name and portrait to suit your character.
-||| :icon-image: What to Look for
+
 <p style="text-align:center;">
 <img src="https://i.imgur.com/eNS3ZwA.png" alt="Create a Character" width="300"/> 
 <br><br>
 <img src="https://i.imgur.com/IrWEjhP.png" alt="Choose Standard for character creation method" width="300"/>
 </p>
-|||
 
 !!!info 
 As you go through the help texts, if anything is unclear or confusing, please ask in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369).
