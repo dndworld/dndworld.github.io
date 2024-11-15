@@ -7,13 +7,14 @@ order: 1000
 
 ## How to Navigate Discord More Quickly
 
-Use the Discord Quick Switcher feature.
+For **desktop**: `Ctrl`+`K` (or `⌘`+`K` for Mac). (This is called the [!badge icon="link-external" variant="info" text="Quick Switcher"](https://support.discord.com/hc/en-us/articles/115000070311-Quick-Switcher))
 
-For **desktop**: `CTRL`+`K` (or `⌘`+`K` for mac). Read about it [!badge icon="link-external" variant="info" text="here"](https://support.discord.com/hc/en-us/articles/115000070311-Quick-Switcher).
+For **mobile**:
+- Go to You > Settings (:icon-gear:, top-right) -> :icon-gear: Advanced
+- Toggle one of the LaunchPad options
+- Pull Tab is recommended. This is added to the right side for you to swipe left on
 
-For **mobile**, examine the following gif.
-> Go to Settings -> Advanced
-> Toggle on `LaunchPad` with the setting of your choice.
+Both features work the same way: Once open, you can use it to quickly search a channel by name or go back to a recently-visited channel.
 
 ### How to Check Who Mentioned (@) You
 For **desktop**, read [!badge icon="link-external" variant="info" text="this"](https://support.discord.com/hc/en-us/articles/360045027712-Inbox-FAQ).
