@@ -1,18 +1,22 @@
 ---
-label: Backstory Guide
-order: 5
-icon: ":four:"
+label: Backstories
+order: 100
+icon: ":writing_hand:"
 ---
+<style>
+h1:before { content: "✍️" }
+</style>
 
 # What is a Backstory?
 
-A backstory is an entirely original tale that describes what your character did before they came to Snowhaven and became an adventurer. 
+A backstory describes what your character did before they came to Snowhaven and became an adventurer.
 
 In Dnd World, your backstory helps inform your roleplay, helping you flesh out how your character interacts with others within Snowhaven. Due to the revolving DM format, unlike regular campaigns, character backstories are not explored in-game.
 
 !!! A backstory is not the same as your character's **Background**
 
 Backgrounds handle the skills and languages your character picked up before coming to Snowhaven. However, they are somewhat related. For example, if your character was a thief before becoming an adventurer, they may have the **Criminal** background.
+!!!
 <br>
 
 ## Basic or Established?
@@ -41,23 +45,11 @@ An example is as follows:
 Robert was a captain in the Taffeta war, fighting for the Rebels to remove the usurper Pickering Geminition from the throne. One day before a routine patrol, he injures his leg and ends up staying behind. As it so happens, the next day the Braveheart line falls and the Rebels end up overrun by enemy forces. His entire squad is slaughtered, but Robert manages to escape. As the Rebel forces gradually diminishes in power, Robert is forced to find a new purpose in life.
 }}
 
-You can find most of our lore here:
-
-- #lore channel
-- 
-- Eo Doc (New Continent!)
-
-Our lore documents are linked below:
-World Anvil page
-Lore Mania document
-
-If you are looking for a particular piece of lore but cannot find it in our documents, then unfortunately it has not been established yet. Please consider it to not be common knowledge and unavailable to your characters.
+{{note
+##### What If I Can't Find What I'm Looking For?
+That means it has not been established yet. Please consider it to be uncommon knowledge and unavailable to your characters.
 
 If you would like have your backstory reviewed, please PM it to @-FanMail- and our volunteer staff members will respond when they are able.
-
-{{note
-##### Please note!
-While we endeavor to cover most topics in the lore doc, we do not have lore for everything. If you do not see any lore for a certain topic, you can safely assume it has not been established yet.
 }}
 
 ### Level 1 Character in a Collaborative Story
@@ -89,7 +81,7 @@ While we endeavor to cover most topics in the lore doc, we do not have lore for 
 > 
 > - It is optional, but recommended, that you write your backstory in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-biopic"](https://discord.com/channels/512870694883950598/532567921726062597).
 
-## Class Concepts
+## Basic Class Concepts
 Below is a brief summary of each class as explained by D&D Beyond. 
 
 ==-Artificer
