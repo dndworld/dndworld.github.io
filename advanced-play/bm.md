@@ -8,7 +8,9 @@ icon: ":wind_chime:"
 h1:before { content: "🎐 " }
 </style> 
 
-## [!badge icon="link-external" variant="info" text="Black Market Document"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/)
+## Black Market
+
+Wondering if you can afford a magical item? Check prices using our [!badge icon="link-external" variant="info" text="Black Market"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/) document.
 
 The Black Market offers a means of purchasing and selling magic items. The document above details how to make transactions with the Black market. Additionally, the Black Market Bin lists all the magic items available to be purchased or sold from the Black Market Bin, without needing to submit a form to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900).
 

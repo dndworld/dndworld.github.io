@@ -266,5 +266,5 @@ Change your Server Nickname to **Name of Character (Race Class)**. E.g. Panadol 
 
 !!!info Ask questions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#beginner-help"](https://discord.com/channels/512870694883950598/621035485690724369)!
 
-💡 If you need help with basic Avrae commands, check out our partner server The Starry Shore's [!badge icon="link-external" variant="info" text="The Ultimate Avrae Discord Bot Tutorial: Beginner’s Guide"](https://youtu.be/im0vDcYFIbI)!
+💡 If you need help with basic Avrae commands, check out our partner server The Starry Shore's [!badge icon="link-external" variant="info" text="The Ultimate Avrae Bot Tutorial"](https://youtu.be/im0vDcYFIbI)!
 !!!

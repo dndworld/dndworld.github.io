@@ -10,7 +10,7 @@ h1:before { content: "💵 " }
 
 # Snowhaven Market
 
-## [!badge icon="link-external" variant="info" text="Snowhaven Market Document"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
+- Check out the [!badge icon="link-external" variant="info" text="Snowhaven Market Document"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/) for all nonmagical items and equipment sold in Snowhaven!
 
 - Some homebrew items are listed for purchase on the market. Homebrew items listed under the Exotic Weapons section are not eligible as starting equipment.
 <br><br>

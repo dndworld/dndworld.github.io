@@ -24,7 +24,7 @@ This includes:
 - [!badge icon="link-external" variant="info" text="DnD 5e ruleset"](https://www.dndbeyond.com/sources/basic-rules)
 - Server’s rule adjustments and variant rules
   - [#severratas](/faq/rulings/)
-  - [!badge icon="link-external" variant="info" text="DnD World Content Errata/Variant Feature Document"](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
+  - [!badge icon="link-external" variant="info" text="Erratas/Variant Features"](https://docs.google.com/document/d/1ZcayuhX0mTNasDS3n3hUpjLj07fngXl9IMzLCtCvA_U/)
 - Table rules your DM is using for their games
 ==- 2️ **Do not invent lore.**
 You or your characters should not imply the existence of any influential new locations, organizations, entities, NPCs, events, items, etc. which are not already established in the server. 
@@ -130,7 +130,7 @@ Before pinging anyone, please remember that different people have different thre
 
 An alternative method that is widely used on this server is using the Dusty bot's notifications function. There is a good chance that a staff member may have their preferred name dustied (added for being notified via Dusty), and a lot of players have their character names dustied as well. 
 
-[!badge icon="link-external" variant="info" text="A full list of Dusty bot's notification commands can be found here."](https://dustybot.info/reference#notifications)
+[!badge icon="link-external" variant="info" text="Full List of Dusty's Notification Commands"](https://dustybot.info/reference#notifications)
 
 Some players specify in their status/about me saying pings are welcome. 
 
