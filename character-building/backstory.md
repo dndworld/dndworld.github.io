@@ -11,9 +11,9 @@ h1:before { content: "✍️" }
 
 A backstory describes what your character did before they came to Snowhaven and became an adventurer.
 
-In Dnd World, your backstory helps inform your roleplay, helping you flesh out how your character interacts with others within Snowhaven. Due to the revolving DM format, unlike regular campaigns, character backstories are not explored in-game.
+In Dnd World, your backstory helps inform your roleplay, allowing you to flesh out how your character interacts with others within Snowhaven. Due to the revolving DM format, unlike regular campaigns, character backstories are not explored in-game.
 
-!!! A backstory is not the same as your character's **Background**
+!!! A backstory is not the same as your character's Background
 
 Backgrounds handle the skills and languages your character picked up before coming to Snowhaven. However, they are somewhat related. For example, if your character was a thief before becoming an adventurer, they may have the **Criminal** background.
 !!!
@@ -23,20 +23,20 @@ Backgrounds handle the skills and languages your character picked up before comi
 You can choose how much your backstories integrate into the setting. This affects how much effort you need to get started.
 
 ### Basic Backstories
-**Basic backstories** are setting-agnostic (no references to the specific locations, NPCs, or major events). If you are feeling overwhelmed, basic backstories are suitable for those **new to D&D**.
+Basic backstories are setting-agnostic (no references to the specific locations, NPCs, or major events). If you are feeling overwhelmed, basic backstories are suitable for those **new to D&D**.
 
 Basic backstories **do not require** you to do any reading on server lore, and give you the freedom to create entities for your backstory as long as they are kept **vague**. This generally means **unnamed** and **small-scale** with **minimal influence** and **power.**
 
-!!!success Example: Basic Backstory
+!!!success Example
 Jack was a farmer’s son in a small elven village who struggled among his peers for being a half-elf. One day, orcs raided the village, and despite attempting to fight them, Jack was forced to flee, and watched as his home burned from a distance. Since then, Jack developed an irreconcilable fear of orcs, as well as the burden of guilt from leaving his family behind.
 !!!
 
 ### Established Backstories
-**Established backstories** integrate server lore into your backstory (that means already established locations, organizations, or major events). If you are interested in writing **detailed** backstories, this is for you.
+Established backstories integrate server lore into your backstory (that means already established locations, organizations, or major events). If you are interested in writing **detailed** backstories, this is for you.
 
 Established backstories require you to do **some reading** on parts of lore that interest you, and you will have to fit your backstory to accommodate established facts and timelines. In exchange, you are able to use **large-scale, named entities** that are not possible with Basic backstories.
 
-!!!success Example: Established Backstory
+!!!success Example
 Robert was a captain in the Taffeta war, fighting for the Rebels to remove the usurper Pickering Geminition from the throne. One day before a routine patrol, he injures his leg and ends up staying behind. As it so happens, the next day the Braveheart line falls and the Rebels end up overrun by enemy forces. His entire squad is slaughtered, but Robert manages to escape. As the Rebel forces gradually diminishes in power, Robert is forced to find a new purpose in life.
 !!!
 
