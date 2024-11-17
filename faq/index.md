@@ -6,7 +6,7 @@ order: 0
 
 ## Ring a bell for help!
 
-React with a 🔔 in following circumstances:
+React with a 🔔 `:bell:` in the following circumstances:
 
 - React to your own question if it got buried in the FAQ section
 (Questions below yours have already been answered AND it has been at least 10 minutes since the last staff activity in that channel)
@@ -31,5 +31,5 @@ The following topics should be moved to more relevant channels:
 
 ### Note for Staff Members
 
-- If you spot a question being asked repeatedly, please **put it on a post with the answer and pin it to the channel**. This provides other staff with members something they can point to or copy paste when helping out beginners.
+- If you spot a question being asked repeatedly, please **put it on a post with the answer and pin it to the channel**. This provides other staff members something they can point to or copy paste when helping out beginners.
 - If there is an ongoing help session in the channel, feel free to **open a thread** for any additional help sessions.
