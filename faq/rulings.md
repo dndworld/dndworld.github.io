@@ -75,7 +75,7 @@ Server Rule Keyword: Roleplay
 Server Rule Keyword: XP, Level, DM Event
 ```
 ==- **Using your shield arm for somatic components**
-**Description:** Performing somatic components for spells as a Paladin or Cleric, using your shield arm due to your shield being your focus.
+**Description:** Performing somatic components for spells as a Paladin or Cleric, using your shield arm due to your shield being your focus.<br>
 **Interpretation:** If your Holy Symbol is on your shield, you may use that hand to perform somatic components of spells that have a material component that do not have a gold cost for their material component and do not have their material component consumed.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/928138006085382234)
 ```yaml **Tags**
@@ -88,9 +88,9 @@ Item: Spellcasting Focus
 ### Races/Species
 
 ==- **Awakened Animals and Components**
-**Interpretation:** Awakened Animal PCs can use their paws for somatic components.<br>
+**Interpretation:** Awakened Animal PCs can use their paws for somatic components.
 
-Additionally, druids/rangers can wear any type of accessory (i.e. tiara, hairpin) made of mistletoe to bypass having to hold druidic foci for just material components. As long as you have a hand (can be the same one for somatic components) to at least touch the focus when you cast spells. 
+Additionally, druids/rangers can wear any type of accessory (i.e. tiara, hairpin) made of mistletoe to bypass having to hold druidic foci for just material components. As long as you have a hand (can be the same one for somatic components) to at least touch the focus when you cast spells.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/550853405887823903/812586811943419925) [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/928355830334636053)
 ```yaml **Tags**
 Race/Racefeat: Awakened Cat, Awakened Dog
@@ -98,7 +98,7 @@ Class/Classfeat: Druid, Ranger
 Item: Spellcasting focus, Druidic focus
 ```
 ==- **Awakened Animals and Arcane Armor**
-**Interpretation:** If you normally would not be able to wear the armor due to a trait like Quadruped Frame, you ignore that trait with the arcane armor.
+**Interpretation:** If you normally would not be able to wear the armor due to a trait like Quadruped Frame, you ignore that trait with the arcane armor.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord (staff channel)"](https://discord.com/channels/512870694883950598/803192028200304660/1297619286424293497)
 ```yaml **Tags**
 Race/Racefeat: Awakened Animal's Quadruped Form
@@ -115,7 +115,7 @@ Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongu
 ### Classes
 
 ==- **Artificer: Replicate Magic Item**
-**Description** Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
+**Description** Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.<br>
 **Changes:** Alternatively, you can choose the magic item from among the common magic items in [!badge icon="link-external" variant="info" text="the Black Market Bin"](https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/#heading=h.c7hbl2h4haro), not including potions or scrolls.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/1259009819583713311/1275250656810373322) (Mentor+)
 ```yaml **Tags**
@@ -195,7 +195,7 @@ Class/Classfeat: Warlock, Pact of the Tome, Book of Shadows
 ### Feats
 
 ==- **Chef: Ingredient requirements and other forms of cooking**
-**Interpretation:** The costs of ingredients for cooking or preparing treats, while done in snowhaven and outside of bounties, are covered by Lifestyle or the Snowhaven Full Time Adventurer Scheme. If you are in a bounty and would prepare treats and/or cook food you must have the perquisite ingredients in order to do so. A DM may choose to bypass this restriction through foraging or other means.<br>
+**Interpretation:** The costs of ingredients for cooking or preparing treats, while done in snowhaven and outside of bounties, are covered by Lifestyle or the Snowhaven Full Time Adventurer Scheme. If you are in a bounty and would prepare treats and/or cook food you must have the perquisite ingredients in order to do so. A DM may choose to bypass this restriction through foraging or other means.
 ```
 Cooking Supplies
 Adventuring Gear, none
@@ -208,10 +208,8 @@ Feat: Chef
 Item: Cooking ingredients
 ```
 ==- **Durable feat and Periapt of Wound Closure**
-**Interpretation:** The phrase "Hit points you regain from the [Hit Die] roll" refers to dice roll + CON mod<br>
-
+**Interpretation:** The phrase "Hit points you regain from the [Hit Die] roll" refers to dice roll + CON mod
 - For Durable Feat: "the minimum number of hit points you regain from the roll equals twice your Constitution modifier" means any dice result on the hit dice that is lower than the constitution modifier is replaced with the con mod before adding the mod to the result, which is 2*your con mod. e.g. If you have a con mod of 4, any number on the hit dice roll that is lower than 4 becomes 4, and then you add 4 to the dice, which is 8.
-
 - For Periapt of Wound Closure: "whenever you roll a Hit Die to regain hit points, double the number of hit points it restores." means you double the sum of dice roll + CON mod, e.g. If you have a con mod of 4 and the dice roll was 6, you regain (4 + 6) x 2 = 20 hit points.
 
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord (staff channel)"](https://discord.com/channels/512870694883950598/730973655496130637/1065608507438682122)
@@ -243,7 +241,7 @@ Spell: Animate Dead
 Item: Weapons/Equipment, Proficiency
 ```
 ==- **Animate Dead: Killing undead created by the spell** 
-**RAW:** The remains of the undead created by Animate Dead do not disappear without being explicitly destroyed.
+**Description:** The remains of the undead created by Animate Dead do not disappear without being explicitly destroyed.<br>
 **Interpretation:** If an undead created by Animate Dead is killed, their remains do not disappear (unless explicitly destroyed by an effect such as Disintegration) and can thus be reanimated with another casting of Animate Dead.<br>
 
 E.g. The summoner can kill their undead servants and then reanimate them at no additional material cost. You may kill your undead servants without DM oversight so long as they are still under your control.
@@ -325,7 +323,7 @@ Subclass/Subclassfeat: Soulknife, Psychic blades
 Class/Classfeat: Spell versatility, Multiclass
 ```
 ==- **Spellcasting Foci and multiclassing, material components and free hands**
-**Interpretation:** When multiclassed between 2 caster classes that require different types of Spellcasting Focuses, you must have a separate focus for each class's spells. E.G. A Cleric/Warlock would need a Holy Symbol and an Arcane Focus; a Sorcerer/Warlock would only need one Arcane Focus.<br>
+**Interpretation:** When multiclassed between 2 caster classes that require different types of Spellcasting Focuses, you must have a separate focus for each class's spells. E.G. A Cleric/Warlock would need a Holy Symbol and an Arcane Focus; a Sorcerer/Warlock would only need one Arcane Focus.
 
 Additionally, if you are casting a spell that has a GP cost as a material component, you must have a free hand that's not holding a shield nor weapon.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/928139176770166794) [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/928139436892508231)
@@ -363,7 +361,7 @@ Item: Cloak / Cape
 Server Rule Keyword: Item Slots, Magic Item, Stacking Item slots
 ```
 ==- **Making Toys Using Woodcarvers Tools** 
-**Description:** Buying materials from the market and/or making toys out of wood with woodcarvers tools without being in a guild that has Crafting DTD
+**Description:** Buying materials from the market and/or making toys out of wood with woodcarvers tools without being in a guild that has Crafting DTD<br>
 **Interpretation:** If you're proficient with woodworking tools and have them, you can make toys without being in a guild that has Crafting DTD. Additionally, you do not need to buy materials from the market to make said toys either.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/927233286659534858)
 ```yaml **Tags**
@@ -411,7 +409,8 @@ Item: Ring of Spell Storing
 **Changes:**
 - The spell cast as a bonus action via *Hidden Ace* still requires a spell slot (or some other means of circumventing that requirement, like casting a spell which is both on your spell list and something you know as a racial spell) to be cast.
 - You may only designate one spell as your Hidden Ace per long rest, and may only use your Hidden Ace to cast a spell as a BA once per long rest -- no, you cannot abuse this feat by multiclassing and acquiring multiple spell lists.
-- Your Hidden Ace must be of a spell level you can cast normally: you cannot play a wizard 19 / cleric 1 who grabs this feat to select and cast Mass Heal as a BA. You could, however, select a 1st-level cleric spell and cast it as a BA using any level of spell slot available to you.<br>
+- Your Hidden Ace must be of a spell level you can cast normally: you cannot play a wizard 19 / cleric 1 who grabs this feat to select and cast Mass Heal as a BA. You could, however, select a 1st-level cleric spell and cast it as a BA using any level of spell slot available to you.
+
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/720529747817529374/1237220291667558430)
 ```yaml **Tags**
 Spell: Cartomancer
@@ -423,14 +422,14 @@ Spell: Cartomancer
 Divinely Favoured, Feat
 ```
 ==- **Monk: Unarmored Defense**
-**Description:** If you already have the Unarmored Defense feature, you can't gain it again from another class.
+**Description:** If you already have the Unarmored Defense feature, you can't gain it again from another class.<br>
 **Changes:** If you have acquired the Unarmored Defense feature from two different classes, you get to choose which Unarmored Defense you benefit from.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/838636813710393385)
 ```yaml **Tags**
 Class/Classfeat: Barbarian, Monk, Unarmored Defense, Multiclass
 ```
 ==- **Sorcerer—Wild Magic: Chaos Features**
-**Description:** Cohort of Chaos' "Chaotic Flare" feature as well as the Wild Magic sorcerer's "Wild Magic Surge," "Tides of Chaos," and  "Controlled Chaos" features.
+**Description:** Cohort of Chaos' "Chaotic Flare" feature as well as the Wild Magic sorcerer's "Wild Magic Surge," "Tides of Chaos," and  "Controlled Chaos" features.<br>
 **Changes:** Chaotic Flares and Wild Magic rolls can only cause damage to other creatures within the confines of the arena or while a DM is supervising the interaction. If a Chaotic Flare of Wild Magic Surge would deal damage outside of these circumstances, the player may choose to either reroll the effect or ignore the roll entirely.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/1237261298493034506/1237435142629228615)
 ```yaml **Tags**
@@ -438,7 +437,7 @@ Subclass/Subclassfeat: Wild Magic sorcerer.
 Feat: Cohort of Chaos, Chaotic Flare
 ```
 ==- **Spell: Casting Spells While Transformed (e.g. Polymorph)**
-**Description:** Some spells, such as True Polymorph, allow a spellcaster to transform a creature into a different creature or summon a creature, which may respectively gain or have the ability to cast particular spells without requiring spell components.
+**Description:** Some spells, such as True Polymorph, allow a spellcaster to transform a creature into a different creature or summon a creature, which may respectively gain or have the ability to cast particular spells without requiring spell components.<br>
 **Changes:** The transformed creature must still provide any material components that has a cost and/or is consumed for the casting of these spells. If the creature was summoned, the spellcaster who summoned it must provide such components instead. If the component is consumed by the spell, the component must be provided for each casting of the spell.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/740436215547035729/1153809815068475433) (FanMail)
 ```yaml **Tags**
