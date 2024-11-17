@@ -54,7 +54,7 @@ This may seem obvious, but your application is judged for the amount of care you
 - Using the wrong application format
     - For staff, please use the one in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-guide"](https://discord.com/channels/512870694883950598/684503404000706649)
 - Not using the application form at all
-    - If you send a FanMail saying “I’d like to apply for staff!” you will be directed to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-roles"](https://discord.com/channels/512870694883950598/877373177381126144)
+    - If you send a `@FanMail` saying “I’d like to apply for staff!” you will be directed to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#staff-roles"](https://discord.com/channels/512870694883950598/877373177381126144)
 - Not filling out all fields in an application
 
 ### Length

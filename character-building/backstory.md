@@ -50,14 +50,14 @@ Robert was a captain in the Taffeta war, fighting for the Rebels to remove the u
 ### World Setting
 
 > - The world map and general world setting information can be found in [About Us](/index/)
-> - If you have any lore questions for your backstory, message @FanMail with the specific question and intention.
+> - If you have any lore questions for your backstory, message `@FanMail` with the specific question and intention.
 > - The pantheon of Icris can be found in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#pantheon"](https://discord.com/channels/512870694883950598/535362293144223744), and the archdevils can be found in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#hell-inc"](https://discord.com/channels/512870694883950598/640104532042317834).
 >   - If you are a cleric, you must follow god(s) from the Icris pantheon.
 >    - Alternatively, you can follow the Eodian faith system as set out [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/).
 >   - You cannot follow a god from another pantheon (e.g. Forgotten Realms) and you cannot invent your own god or worship an illusory god.
 > - For more DnD World lore, please visit our World Anvil page: <https://www.worldanvil.com/w/icris-dnd-world>
 >   - You can also find new lore about other continents [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/)
-> - For characters that intend to originate from planes other than the Feywild or Shadowfell, please message @FanMail for approval. 
+> - For characters that intend to originate from planes other than the Feywild or Shadowfell, please message `@FanMail` for approval. 
 
 ### Please Avoid
 
@@ -73,7 +73,7 @@ Robert was a captain in the Taffeta war, fighting for the Rebels to remove the u
 ##### What If I Can't Find What I'm Looking For?
 That means it has not been established yet. Please consider it to be uncommon knowledge and unavailable to your characters.
 
-If you would like have your backstory reviewed, please PM it to @-FanMail- and our volunteer staff members will respond when they are able.
+If you would like have your backstory reviewed, please PM it to `@FanMail` and our volunteer staff members will respond when they are able.
 !!!
 
 ## Basic Class Concepts

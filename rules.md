@@ -76,12 +76,12 @@ Each DM may have a different threshold of what is considered as backseat DMing. 
 
 Do not write messages in those channels unless you’ve been specifically called upon by a staff member to do so, or you are self-reporting issues. 
 
-If you have something to add to the discussion, send a message to the `@-FanMail-` bot.
+If you have something to add to the discussion, send a message to the `@FanMail` bot.
 ==- 7️ **All forms of advertising are prohibited.**
 
 This includes advertisement for art commissions. The only exceptions are officially sanctioned material, such as partner servers. The guidelines for establishing server partnership are pinned in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#partner-servers"](https://discord.com/channels/512870694883950598/529249355748605952).
 
-For inquiries involving paid promotions and/or giveaways, please message `@-FanMail-`.
+For inquiries involving paid promotions and/or giveaways, please message `@FanMail`.
 ==- 8️ **Refrain from discussing divisive topics.**
 This server is not an appropriate place for discussing divisive topics, such as politics, religion, and current world events/issues.
 ==- 9️ **Do not ping roles or high-ranking staff members without explicit permission.**
@@ -98,7 +98,7 @@ Especially for the purposes of ban evasion or stat rerolling.
 ==- 1️️2️ **Comply with Staff's Requests.**
 If a staff member, in an official capacity, asks you to either do or stop something, you are expected to comply.
 
-If you have an issue with such a request, again you may raise the matter by sending a message to `@-FanMail-`, or by messaging a higher ranking staff member.
+If you have an issue with such a request, again you may raise the matter by sending a message to `@FanMail`, or by messaging a higher ranking staff member.
 ==- 1️️3️ **This is an English-speaking server.**
 
 We disallow discussions in other languages due to difficulties in moderating, and so that everyone can understand each other.
@@ -150,7 +150,7 @@ For problematic posts that require immediate attention, please react to the post
 
 ### Whistleblowing
 If you think someone could be breaking the rules and wish to report it, you can PM
--  `@-FanMail-`, if it involves another player
+- `@FanMail`, if it involves another player
 - A Moderator, if it involves a staff member
 - or an Admin, if it involves a mod or mentor
 

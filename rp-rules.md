@@ -56,7 +56,7 @@ When in DM events, DM has the final say with rulings.
 
 Sometimes rules are bent for the sake of better storytelling and flow. Some DMs have House Rules pinned in their channel, which might differ from the usual rules. People make mistakes, but if it doesn’t make a huge impact on the game, it is entirely up to the DM to make an adjustment or let it go. 
 
-You may point out rules as you understand them in the appropriate OOC channel if you feel something was left out and it really matters to you. However, stubbornly arguing the precise interpretation of game rules with your DM negatively impacts the gameplay experience, and should be avoided. If the issue is severe enough to make a report, please send a `@-FanMail-` to file an official complaint.
+You may point out rules as you understand them in the appropriate OOC channel if you feel something was left out and it really matters to you. However, stubbornly arguing the precise interpretation of game rules with your DM negatively impacts the gameplay experience, and should be avoided. If the issue is severe enough to make a report, please send a `@FanMail` to file an official complaint.
 ==- 6️ **Don’t metagame.**
 **Metagaming** means using OOC knowledge to give yourself an IC advantage. 
 
@@ -158,7 +158,7 @@ Staff may ping you in an official capacity when something directly concerns you.
 - When interacting with a Moderator, please be polite and respectful. Please remember the following:
   - Moderators are volunteers who devote their time and effort in maintaining the server's community and environment.
   - No one mod is responsible for making a judgement call or handing out warnings.
-  - If you wish to appeal the ruling, please message FanMail. We do this so that the Mod team can have a discussion on the issue, and the weight is not put on a single Moderator.
+  - If you wish to appeal the ruling, please message `@FanMail`. We do this so that the Mod team can have a discussion on the issue, and the weight is not put on a single Moderator.
 <br><br>
 - NPC Masters will ping you in response to your posts in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#black-market-registry"](https://discord.com/channels/512870694883950598/742720804525178900) or [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#npc-registry"](https://discord.com/channels/512870694883950598/545107769951518740). Please respond promptly so that the encounter can be scheduled at a mutually convenient time.
 
@@ -196,7 +196,7 @@ Please remember that DMing requires time and energy, and life and work are often
 
 In a regular campaign or a small server, the DM might interview players to ensure all players have similar playstyles. On this server however, we accept people from all backgrounds in order to be as accommodating as possible. This means you will have to make compromises when it comes to playing with other people with different styles from you.
 
-In general, if you find that you do not mesh well with a certain player or character, you can either talk out these concerns with that player, or simply avoid them. However, if you feel like a rule has been breached or a line has been crossed, you should file a report to the FanMail bot and we will investigate accordingly.
+In general, if you find that you do not mesh well with a certain player or character, you can either talk out these concerns with that player, or simply avoid them. However, if you feel like a rule has been breached or a line has been crossed, you should file a report to `@FanMail` and we will investigate accordingly.
 
 ### Miscellaneous Rulings in absence of DM
 

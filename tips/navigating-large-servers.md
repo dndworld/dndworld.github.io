@@ -42,7 +42,7 @@ Staff may ping you in an official capacity when something directly concerns you.
     - No one mod is responsible for handing out warnings
   - Do not contest the existence of a rule
     - Rules are there to cultivate an environment we want, and have historical context due to past incidents behind them.
-  - If you would like to appeal the ruling, please message FanMail so as not to clog the channel.
+  - If you would like to appeal the ruling, please message `@FanMail` so as not to clog the channel.
 - NPC Masters will ping you when they have time to run your encounter
   - Respond by letting them know whether or not you are available
   - Please note if you do not respond your encounter may be skipped or deleted
@@ -92,7 +92,7 @@ Otherwise, it is frowned upon, for several reasons:
 Dnd World has multiple avenues for you to reach personnel. Here are some examples:
 - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bounty-discussion"](https://discord.com/channels/512870694883950598/536011720553136138) for DMs
   - Here you can ask clarifications about games with DMs, notify them if you delete your signup, or let them know if you are unable to make it for a game.
-- FanMail bot for Mods
+- `@FanMail` bot for Mods
   - The FanMail bot is located on the right hand member sidebar, near the top under “Display Bots”
   - You can send reports or grievances to them here
 - [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#homebrew-discussion"](https://discord.com/channels/512870694883950598/559419826767134730) for Homebrewers
@@ -153,12 +153,12 @@ Occasionally, there will be interlinked story content, and those will be posted 
 
 In a regular campaign or small server, the DM might interview players to ensure all players have similar playstyles. On this server however, we accept people from many backgrounds in order to be as accommodating as possible. This means you will have to make compromises when it comes to playing with other people with different styles from you.
 
-In general, if you find that you do not mesh well with a certain player or character, you can either talk out these concerns with that player, or simply avoid them. However, if you feel like a rule has been breached or a line has been crossed, you should file a report to the FanMail bot and we will investigate accordingly.
+In general, if you find that you do not mesh well with a certain player or character, you can either talk out these concerns with that player, or simply avoid them. However, if you feel like a rule has been breached or a line has been crossed, you should file a report to the `@FanMail` bot and we will investigate accordingly.
 
 ### Staff Hierarchy
 
 Dnd World functions on a linear staff hierarchy. This means that almost every staff member has a limit on what they can do. Please address your concerns to the correct channels (see section on PMing) so that they can be addressed.
-Don’t complain to staff in public channels, especially lower ranking staff like Bookkeeping Assistants. They can’t enact changes to the system. Submit complaints to FanMail. 
+Don’t complain to staff in public channels, especially lower ranking staff like Bookkeeping Assistants. They can’t enact changes to the system. Submit complaints to `@FanMail`. 
 Don’t ping or PM admins. See sections about them above.
 DMs, while being the main arbiter during games, are subject to guidelines by Mentors and Seniors. So don’t take it out on them if you are not satisfied with xp or gold given.
 
@@ -178,7 +178,7 @@ Unlike campaigns, when you can only play when games are happening, there are all
 
 ## Conclusion
 
-So there you have it! This will hopefully help manage your expectations towards the server and help you assimilate into our culture better. If you have suggestions on what else we should include, please feel free to suggest in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) or send a FanMail.
+So there you have it! This will hopefully help manage your expectations towards the server and help you assimilate into our culture better. If you have suggestions on what else we should include, please feel free to suggest in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) or send a `@FanMail`.
 
 If you read through this and feel that a personal campaign is more suited towards you, feel free to peruse our list of [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#partner-servers"](https://discord.com/channels/512870694883950598/529249355748605952), where we have many amazing servers that will hopefully meet your tastes.
 

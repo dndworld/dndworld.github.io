@@ -75,7 +75,7 @@ Other guidelines include asking for consent before casting spells on other chara
 
 ## Stay safe while RPing
 
-All rules are there for a reason and we have plenty of history behind each of the rules. For your own safety, do not initiate ERP with DW members in PMs or accept ERP requests from them. It is against the rules of DW to do so. If you receive such requests, please report them to FanMail or PM a mod if you would prefer privacy. Rest assured that your report will be taken seriously regardless whether the member(s) you are reporting are popular and/or a staff/admin. 
+All rules are there for a reason and we have plenty of history behind each of the rules. For your own safety, do not initiate ERP with DW members in PMs or accept ERP requests from them. It is against the rules of DW to do so. If you receive such requests, please report them to `@FanMail` or PM a mod if you would prefer privacy. Rest assured that your report will be taken seriously regardless whether the member(s) you are reporting are popular and/or a staff/admin. 
 
 You do not know the intentions of the people behind the screen nor their real ages. Screenshots from ERP scenes can be taken out of context and used against you. We do not want to ban people over a misunderstanding. Moreover, back before this rule, we had a history of ERP (thankfully long gone) quickly escalating into more severe matters such as soliciting nude pictures. It can get worse with stalking and blackmailing. In these cases, a violation of the Discord Terms of Service would have occurred and a formal report can be lodged. In the case of an underage victim, it will be considered a crime. Do not be a sexual predator.
 
