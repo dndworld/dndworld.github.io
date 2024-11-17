@@ -25,14 +25,14 @@ If it has been 1 month since your character's last DM-sanctioned event, or since
 - The 1-month timer resets once the claim is **processed**.
 - If your RPXP changed after you posted the form, you may update the claim with the new value and new link to the `!rpxp xp` output.
 
-```
-**RPXP Claim**
-Character Name:
-Character’s Last DM Event:
-Character's Last RPXP Claim (if applicable):
-RPXP:
-Link to the latest `!rpxp xp` output in #xp-tracker:
-Link to Sheet: <link in the bracket>
+```md
+### RPXP Claim
+**Character Name**: 
+**Character’s Last DM Event**: 
+**Character's Last RPXP Claim** (if applicable): 
+**RPXP**: 
+**Link to the latest `!rpxp xp` output in** #xp-tracker: 
+**Link to Sheet**: <link in the bracket>
 ```
 
 3) Wait for the approval. You will be pinged in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-records-discussion"](https://discord.com/channels/512870694883950598/551968957423419413)
@@ -40,7 +40,9 @@ Link to Sheet: <link in the bracket>
 - Once your RPXP claim has been approved, you must add it **immediately** in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481).
 
 ## Reaching Level 20
-- When your character reaches Level 20, you have the option to retire them and benefit from the Cushion rule, or Legacy your character and make a new Level 1 PC.
+
+When your character reaches Level 20, you have the option to retire them and benefit from the Cushion rule, or Legacy your character and make a new Level 1 PC.
+
 - If you choose to retire your character, your new character can start at Level 10 or below, with magic items decided by the [Cushion rule](/records/character-death/#cushion-rule) above.
 - If you choose not to retire your character, your Level 20 character becomes a Legacy slot, and you free up a slot to create a new Level 1 character.
   - Legacy characters can continue to participate in games, roleplay, DTD, etc.
@@ -51,10 +53,10 @@ Link to Sheet: <link in the bracket>
 Fill in the below template and wait for approval to claim your benefits. Please note that once you submit this form, you cannot create another new character if you subsequently retire your Level 20 character.
 
 ```md
-**Legacy Claim**
-Legacied Character's Name:
-New Character's Name:
-Link to Legacied Sheet: <link>
+### Legacy Claim
+**Legacied Character's Name**: 
+**New Character's Name**: 
+**Link to Legacied Sheet**: <link>
 ```
 
 ## Copying Sheet
@@ -63,10 +65,9 @@ If you lose access to your sheet and need to make a new copy, please log it in [
 ⚠️ All of the details must stay the same between the sheets.
 
 ```md
-**Copying Sheet**
-
-Before: <link>
-After: <link>
+### Copying Sheet
+**Before**: <link>
+**After**: <link>
 ```
 
 ## Sheet Type Change
@@ -75,7 +76,7 @@ If you recreate your sheet on a different platform (e.g. D&D Beyond, GSheet, or 
 ⚠️ All of the details must stay the same between the sheets.
 
 ```md
-**Sheet Type Change**
-Before: <link>
-After: <link>
+### Sheet Type Change
+**Before**: <link>
+**After**: <link>
 ```

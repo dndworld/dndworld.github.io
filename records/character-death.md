@@ -24,7 +24,7 @@ Upon the death or retirement of your character, you may choose to start the next
 
 Please note, the cushioned characters are not valid until the claim is processed. You cannot RP or sign up to DM events with the character with a pending cushion claim.
 
-PC Death (Level) | New PC Level | Bonuses
+Old PC Level | New PC Level | Bonuses
 :---: | :---: | :---
 Lv 1-2 | 1 | -
 Lv 3-4 | 2 | -
@@ -86,14 +86,14 @@ For Uncommon and Rare magic items, if you don't want any of the random options g
 > 
 > **Uncommon**: Wand of the War Mage +1, Weapon +1, Shield +1
 
-Fill in the below template and wait for approval to claim your benefits. 
+Fill in the below template, post it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#claims-log"](https://discord.com/channels/512870694883950598/848389898204741642), and wait for approval to claim your benefits. 
 
 ```
-**Cushion Rule Claim**
-Dead/Retired Character's Name:
-Dead/Retired Character's Level:
-New Character's Name:
-Chosen Item (if applicable):
-Link to #list-of-the-fallen post (if death):
-Link to #rebuild-retire-log post (if retire):
+### Cushion Rule Claim
+**Dead/Retired Character's Name**: 
+**Dead/Retired Character's Level**: 
+**New Character's Name**: 
+**Chosen Item** (if applicable): 
+**Link to #list-of-the-fallen post** (if death): 
+**Link to #rebuild-retire-log post** (if retire): 
 ```
