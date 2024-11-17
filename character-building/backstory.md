@@ -1,6 +1,6 @@
 ---
 label: Backstories
-order: 100
+order: 1
 icon: ":writing_hand:"
 ---
 <style>
@@ -27,30 +27,18 @@ You can choose how much your backstories integrate into the setting. This affect
 
 Basic backstories **do not require** you to do any reading on server lore, and give you the freedom to create entities for your backstory as long as they are kept **vague**. This generally means **unnamed** and **small-scale** with **minimal influence** and **power.**
 
-An example is as follows:
-
-{{descriptive
-##### Basic Backstory
+!!!success Example: Basic Backstory
 Jack was a farmer’s son in a small elven village who struggled among his peers for being a half-elf. One day, orcs raided the village, and despite attempting to fight them, Jack was forced to flee, and watched as his home burned from a distance. Since then, Jack developed an irreconcilable fear of orcs, as well as the burden of guilt from leaving his family behind.
-}}
+!!!
 
 ### Established Backstories
 **Established backstories** integrate server lore into your backstory (that means already established locations, organizations, or major events). If you are interested in writing **detailed** backstories, this is for you.
 
 Established backstories require you to do **some reading** on parts of lore that interest you, and you will have to fit your backstory to accommodate established facts and timelines. In exchange, you are able to use **large-scale, named entities** that are not possible with Basic backstories.
 
-An example is as follows:
-{{descriptive
-##### Established Backstory
+!!!success Example: Established Backstory
 Robert was a captain in the Taffeta war, fighting for the Rebels to remove the usurper Pickering Geminition from the throne. One day before a routine patrol, he injures his leg and ends up staying behind. As it so happens, the next day the Braveheart line falls and the Rebels end up overrun by enemy forces. His entire squad is slaughtered, but Robert manages to escape. As the Rebel forces gradually diminishes in power, Robert is forced to find a new purpose in life.
-}}
-
-{{note
-##### What If I Can't Find What I'm Looking For?
-That means it has not been established yet. Please consider it to be uncommon knowledge and unavailable to your characters.
-
-If you would like have your backstory reviewed, please PM it to @-FanMail- and our volunteer staff members will respond when they are able.
-}}
+!!!
 
 ### Level 1 Character in a Collaborative Story
 
@@ -80,6 +68,13 @@ If you would like have your backstory reviewed, please PM it to @-FanMail- and o
 > - Your backstory cannot have far-fetched concepts like being frozen in time, or contain powerful or legendary magic items.
 > 
 > - It is optional, but recommended, that you write your backstory in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-biopic"](https://discord.com/channels/512870694883950598/532567921726062597).
+
+!!!
+##### What If I Can't Find What I'm Looking For?
+That means it has not been established yet. Please consider it to be uncommon knowledge and unavailable to your characters.
+
+If you would like have your backstory reviewed, please PM it to @-FanMail- and our volunteer staff members will respond when they are able.
+!!!
 
 ## Basic Class Concepts
 Below is a brief summary of each class as explained by D&D Beyond. 

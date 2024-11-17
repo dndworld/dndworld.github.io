@@ -1,6 +1,7 @@
 ---
 label: Developer Documentation
 order: 1000
+visibility: hidden
 ---
 
 ## Background and Resources
