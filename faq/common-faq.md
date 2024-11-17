@@ -57,7 +57,7 @@ The games are posted in [!badge icon="/images/discord-mark-blue.svg" variant="in
 To learn more about all types of available games on this server, please visit "DM Events" section in [Joining Games](/start-playing/games/#3-dm-events). For instruction on how to join them, visit "Signing up for DM events" section of [What's Next?](/start-playing/whats-next/#signing-up-for-dm-events).
 
 ==- "How can my character make money?"
-We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime/). All relevant channels can be found under the same category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-ls-discussion"](https://discord.com/channels/512870694883950598/586697587932004362).
+We use Lifestyle and Downtime Days (DTD) system. You can find the rules and guides in [Lifestyle and DTD Rules](/downtime/). All relevant channels can be found under the Downtime and Lifestyle category. With this system you can find an odd job for day-to-day earnings, or a part-time work for a more consistent pay. There are many more options! If you still have questions after reading the guide, ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-ls-discussion"](https://discord.com/channels/512870694883950598/586697587932004362).
 
 You might also like to check out the guilds under Guilds category. Guilds are managed by players, and each guild may have different requirements for becoming a member. With a guild membership you get additional options and bonuses for various DTDs.
 
@@ -108,8 +108,9 @@ As a player, you can define your patron as long as they are not lore-breaking or
 No.
 
 ==- My character has the soldier background, what are some wars they could have taken part in? 
-> If your character is from Icris, they might have fought in the Taffetan War. You can read more about the war’s progress by heading to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lore"](https://discord.com/channels/512870694883950598/740905255201669161), typing `in:lore taffeta` in your search bar and sorting by Oldest first.
-> If your character is from Eo, they might have fought in the Time of Darkness. You can read more about it [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/)
+If your character is from Icris, they might have fought in the Taffetan War. You can read more about the war’s progress by heading to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lore"](https://discord.com/channels/512870694883950598/740905255201669161), typing `in:lore taffeta` in your search bar and sorting by Oldest first.
+
+If your character is from Eo, they might have fought in the Time of Darkness. You can read more about it [!badge icon="link-external" variant="info" text="here"](https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/)
 
 ==- What are the Warforged origins in this server? 
 God of Knowledge, Cheong created the first warforged during the last Great War. However, his original blueprints were lost when the Labyrinth collapsed. Now, most modern warforged are replications made by powerful artificers. As such, not all warforged need to be built for war.
@@ -118,10 +119,10 @@ God of Knowledge, Cheong created the first warforged during the last Great War. 
 Yes
 
 ==- Can I wild shape into X? (`!faq wildshape`)
-> Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/character-building/cc-rules/). Here are some noteworthy specifications:
-> - Dinosaur: Dinosaurs only exist in the Pelgara Archipelago on the continent of Eo. Hence, your character must have originated from there or previously traveled there.
-> - Some beasts are not native to Icris (for example creatures from supplementary adventures like Tome of Annihilation), hence you would not have seen them before. If you later see them in-game, then you might be able to transform into them at your respective DMs' discretion.
-> - Attempting to transform into an awakened animal results in you transforming into the non-awakened version of the animal.
+Wild Shape specifies that you can turn into "a **beast** that **you have seen before**". You may decide what kind of animals you've seen based on what makes sense for your backstory, and choosing from any sources allowed as per [Character Creation Rules](/character-building/cc-rules/). Here are some noteworthy specifications:
+- Dinosaur: Dinosaurs only exist in the Pelgara Archipelago on the continent of Eo. Hence, your character must have originated from there or previously traveled there.
+- Some beasts are not native to Icris (for example creatures from supplementary adventures like Tome of Annihilation), hence you would not have seen them before. If you later see them in-game, then you might be able to transform into them at your respective DMs' discretion.
+- Attempting to transform into an awakened animal results in you transforming into the non-awakened version of the animal.
 
 ==- "How does this server handle Artificer infusions?"
 Any infusions that are not your own are considered as prebuffs in the context of DM events. The DM of an event has the final say in whether such prebuff is allowed in their game.
