@@ -11,7 +11,7 @@ h1:before {
 
 ## Guidelines for Redeeming Birthday Items
 
-- Enter your birthday in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#birthdays"](https://discordapp.com/channels/512870694883950598/534369999909814282) using this command: `/birthday set Day-Month` e.g. `/birthday set 8-Sep`. 
+- Register your birthday in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#birthdays"](https://discordapp.com/channels/512870694883950598/534369999909814282) using this command: `/birthday set Day-Month` e.g. `/birthday set 8-Sep`. 
 - The magic item must be for cosmetic use only and be of Common rarity; please see the guidelines below for more info.
 - You may request homebrew items, subject to approval
 - You have 1 week before and after your birthday to claim your item
