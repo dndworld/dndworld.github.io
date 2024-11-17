@@ -24,6 +24,7 @@ Upon the death or retirement of your character, you may choose to start the next
 
 Please note, the cushioned characters are not valid until the claim is processed. You cannot RP or sign up to DM events with the character with a pending cushion claim.
 
+{.compact}
 Old PC Level | New PC Level | Bonuses
 :---: | :---: | :---
 Lv 1-2 | 1 | -
@@ -81,10 +82,9 @@ Lv 19-20 | 10 | Rare x1, Uncommon x2, 250gp
 
 For Uncommon and Rare magic items, 4 items are chosen at random for each bonus item, and you may pick one from each set. Once you have made your decision, please edit your log to include the chosen item.
 
-For Uncommon and Rare magic items, if you don't want any of the random options given, you can choose to have one of the following items instead, according to the rarity:
-> **Rare**: Bracers of Defense, Elven Chain, Weapon +2 (Your Choice), Wand of the War Mage +2, or Shield +2
-> 
-> **Uncommon**: Wand of the War Mage +1, Weapon +1, Shield +1
+If you don't want any of the random options given, you can choose to have one of the following items instead, according to the rarity:
+> **Uncommon**: Wand of the War Mage +1, Weapon +1, Shield +1<br>
+> **Rare**: Bracers of Defense, Elven Chain, Weapon +2 (Your Choice), Wand of the War Mage +2, Shield +2
 
 Fill in the below template, post it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#claims-log"](https://discord.com/channels/512870694883950598/848389898204741642), and wait for approval to claim your benefits. 
 
