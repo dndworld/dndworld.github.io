@@ -29,12 +29,13 @@ h1:before {
 - **DP**: Demerit Points ([Rules](/rules/))
 
 ### Lifestyle & Downtime Days related
-*More info in [[Downtime and Lifestyle Rules](/downtime/)*
+*More info in [Downtime and Lifestyle Rules](/downtime/)*
 
 - **LS**: Lifestyle
 - **DTD**: Downtime Days
 - **PTW**: Part-Time Work
 - **HRW**: High-Risk Work
+- **IP**: Infamy Points
 
 ### Common D&D Abbreviations/Lingo
 
