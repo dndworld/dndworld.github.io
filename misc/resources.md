@@ -110,11 +110,16 @@ h1:before {
 - In [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313), run: `!update`
 - Then, double check that it appears in: `!a list`
 
-<!--- <img src="https://i.imgur.com/WsZXhSV.png" width="500"/>
-<img src="https://i.imgur.com/lX7E1M8.png" width="500"/>
-<img src="https://i.imgur.com/w4nUeQS.png" width="400"/>
+==- Expand to see example
+<img src="https://i.imgur.com/WsZXhSV.png" width="500"/>
+<br><br>
+<img src="https://i.imgur.com/lX7E1M8.png" width="400"/>
+<br><br>
+<img src="https://i.imgur.com/w4nUeQS.png" width="500"/>
+<br><br>
 <img src="https://i.imgur.com/J3Ex7QO.png" width="500"/> 
----> 
+</p>
+===
 
 ### How to connect your D&D Beyond account to view features on Avrae
 !!!Note 
@@ -148,26 +153,32 @@ To add a note, right click on a cell, and select "Insert note".
 </p>
 
 ==- Example of a character sheet with notes containing full text of each feature.
-<img src="https://i.imgur.com/chVuVQL.png" alt="Example character sheet with notes/>
+<img src="https://i.imgur.com/chVuVQL.png" alt="Example character sheet with notes"/>
 ===
 
 ### How to get your character sheet's link from the D&D Beyond mobile app
 
 - Open the D&D Beyond app and go to your character.
 - Click on the `Menu` button (9 red dots) and go to: `View Character on Website`
+
+<img src="https://i.imgur.com/wNgU4yI.png" width="300"/>
+<img src="https://i.imgur.com/tcDz9JJ.png" width="300"/>
+</p>
+
 - Click `Manage` (next to your character's name)
+<img src="https://i.imgur.com/g8ZLQSv.png" width="400"/> 
+</p>
 !!!info To set your character sheet to PUBLIC
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
+
+<img src="https://imgur.com/gDpC3v8" width="400">
 - Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
 
-<!--- <img src="https://i.imgur.com/wNgU4yI.png" width="300"/>
-<img src="https://i.imgur.com/tcDz9JJ.png" width="300"/>
-<img src="https://i.imgur.com/g8ZLQSv.png" width="400"/> 
---->
+
 ## How to Suggest Resources
 
 Please make the suggestion by posting in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) with the full title and a short description of the resource, as well as why you recommend it.
