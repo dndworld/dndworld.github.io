@@ -111,13 +111,13 @@ h1:before {
 - Then, double check that it appears in: `!a list`
 
 ==- Expand to see example
-<img src="https://i.imgur.com/WsZXhSV.png" width="500"/>
+<img src="https://i.imgur.com/WsZXhSV.png" alt="Equip weapon" width="500"/>
 <br><br>
-<img src="https://i.imgur.com/lX7E1M8.png" width="400"/>
+<img src="https://i.imgur.com/lX7E1M8.png" alt="Click Customize" width="300"/>
 <br><br>
-<img src="https://i.imgur.com/w4nUeQS.png" width="400"/>
+<img src="https://i.imgur.com/w4nUeQS.png" alt="Rename the weapon, and check Dual Wield" width="400"/>
 <br><br>
-<img src="https://i.imgur.com/J3Ex7QO.png" width="500"/> 
+<img src="https://i.imgur.com/J3Ex7QO.png" alt="It should appear under Bonus Action" width="500"/> 
 </p>
 ===
 
@@ -175,7 +175,7 @@ Click `Character Settings`, scroll down and set Character Privacy to `Public`. T
 
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
 
-<img src="https://imgur.com/gDpC3v8" width="400">
+<img src="https://i.imgur.com/gDpC3v8.png" width="400">
 <br><br>
 
 - Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
