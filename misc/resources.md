@@ -115,7 +115,7 @@ h1:before {
 <br><br>
 <img src="https://i.imgur.com/lX7E1M8.png" width="400"/>
 <br><br>
-<img src="https://i.imgur.com/w4nUeQS.png" width="500"/>
+<img src="https://i.imgur.com/w4nUeQS.png" width="400"/>
 <br><br>
 <img src="https://i.imgur.com/J3Ex7QO.png" width="500"/> 
 </p>
@@ -168,16 +168,19 @@ To add a note, right click on a cell, and select "Insert note".
 - Click `Manage` (next to your character's name)
 <img src="https://i.imgur.com/g8ZLQSv.png" width="400"/> 
 </p>
+
 !!!info To set your character sheet to PUBLIC
 Click `Character Settings`, scroll down and set Character Privacy to `Public`. Then go back to `Manage`.
 !!!
+
 - To get your character sheet's link, click `Shareable Link`, and copy the link.
 
 <img src="https://imgur.com/gDpC3v8" width="400">
+<br><br>
+
 - Go to ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-sheets"](https://discord.com/channels/512870694883950598/512872392377499661), and run `!import <link>`, replacing `<link>` with the URL you just copied. 
 
 You're now ready to start playing!
-
 
 ## How to Suggest Resources
 
