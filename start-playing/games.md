@@ -269,25 +269,40 @@ After attending a DM event, RPXP is transferred to XP when you run the following
 
 ## 4. Avrae Tutorial XP
 
-You can earn Avrae Tutorial XP by roleplaying with other players for at least half an hour in the one of the Arena channels or threads. It is a way to learn Avrae commands and encourage sparring among new players. 
+You can earn a fixed amount of XP by sparring with other players in one of the Arena channels or threads. This Avrae Tutorial XP (ATXP) is meant to encourage sparring among new players to learn Avrae commands, and is enough for a new character to reach Level 2 without DM events.
 
-Following rules apply to Avrae Tutorials:
-- There's a maximum limit of 6 Avrae Tutorials **per character**.
-- Avrae Tutorial XP tracked separately for each character you have. 
-- If you are RPing more than one character at the same time, you can only gain Avrae Tutorial XP for one of them during that period.
-- All modification of XP must be made in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481)
-- XP can only be redeemed for **active** spars between players. These spars should use Avrae's initiative tracker and involve multiple attacks, skill checks, etc. It's considered cheating to redeem Avrae Tutorial XP when you've only sent 2 messages, for example.
-- You can gain Avrae Tutorial XP and RPXP at the same time.
+### Avrae Tutorial XP (ATXP) Rules
 
-<br>
+#### Active RP
+- ATXP can only be redeemed for active spars between players. These spars should use Avrae's initiative tracker and involve multiple attacks, skill checks, etc. 
+  - It is considered cheating to redeem ATXP when you've only sent 2 messages, for example.
+- You must spar for at least half an hour in one of the Arena channels or threads.
 
-- You cannot log and gain Avrae Tutorial XP from DM Events.
+#### Tracking and Logging
+- ATXP is tracked separately for each character you have. You can claim a maximum of 3 hours of ATXP in total, per character.
+- If you are RPing more than one character at the same time, you can only gain ATXP for one of them during that period.
+- All modification of XP must be made in <#531014104098537481>. 
+- You can gain ATXP and RPXP from the same RP session.
+- You cannot log and gain ATXP from DM Events.
 
-<br>
-
-- If you forget the reactions to mark the beginning and end of the RP, you can still mark them afterwards and gain the Avrae Tutorial XP retroactively, as long as it is within 24 hours since you ended the RP.
+#### Misc.
+- If you forget the reactions to mark the beginning and end of the RP, you can still mark them afterwards and gain the ATXP retroactively, as long as it is within 24 hours since you ended the RP.
 - It is considered “cheating” to add more XP than you should, add invalid XP, etc., and it results in the same consequences as any other cheating behaviors, according to its severity.
 
 ### Step By Step Guide for Avrae Tutorial XP
 
-Follow the steps in the [Step by Step Guide for RPXP](#step-by-step-guide-for-rpxp), but for step 4, run `!dxp tutorial` before the `!rpxp` command.
+#### Gaining Avrae Tutorial XP
+1. When you begin your spar RP in one of the Arenas, react to your first post with 🔰 `:beginner:` and get the person you are RPing with to react as well.
+
+2. When you stop roleplaying, react to your last post with :octagonal_sign: `:stop:` and get the person you are RPing with to react as well.
+
+3. Find out how long the RP session was. You can find your 🔰 and :octagonal_sign: messages posted to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#rp-log"](https://discord.com/channels/512870694883950598/592249450789863434).
+
+4. Log the Avrae Tutorial XP in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#xp-tracker"](https://discord.com/channels/512870694883950598/531014104098537481).
+> - You can earn XP for each __half hour__ of sparring, rounded down.
+> ```
+> !dxp tutorial [time]h
+> ```
+> Example: `!dxp tutorial 1.5h`
+
+You can then log your RPXP, following the command in [Step By Step Guide for RPXP](#step-by-step-guide-for-rpxp) above.
