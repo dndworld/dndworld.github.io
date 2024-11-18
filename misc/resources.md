@@ -139,14 +139,16 @@ A general guide for making a Gsheet character sheet can be found in the sheet it
 
 A **note** in google sheet is the small tooltip that pops up when you hover over the cell. Gsheet character sheet has various instructions and information already in them, and you are encouraged to add yours whenever necessary.
 
+<img src="https://i.imgur.com/1wupf7C.png" alt="Class Overview" width="500"/>
+</p>
+
 To add a note, right click on a cell, and select "Insert note".
 
-Example character sheet with notes containing full text of each feature.
-
-<!-- <img src="https://i.imgur.com/1wupf7C.png" alt="Example of a Gsheet note" width="500"/>
 <img src="https://i.imgur.com/UaRweYx.png" alt="Insert note" width="500"/>
-<img src="https://i.imgur.com/chVuVQL.png" width="500"/>
--->
+</p>
+
+==- Example of a character sheet with notes containing full text of each feature.
+<img src="https://i.imgur.com/chVuVQL.png" alt="Example character sheet with notes/>
 ===
 
 ### How to get your character sheet's link from the D&D Beyond mobile app
