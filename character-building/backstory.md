@@ -49,7 +49,7 @@ Robert was a captain in the Taffeta war, fighting for the Rebels to remove the u
 
 ### World Setting
 
-> - The world map and general world setting information can be found in [About Us](/index/)
+> - The world map and general world setting information can be found in [About Us](/)
 > - If you have any lore questions for your backstory, message `@FanMail` with the specific question and intention.
 > - The pantheon of Icris can be found in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#pantheon"](https://discord.com/channels/512870694883950598/535362293144223744), and the archdevils can be found in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#hell-inc"](https://discord.com/channels/512870694883950598/640104532042317834).
 >   - If you are a cleric, you must follow god(s) from the Icris pantheon.
