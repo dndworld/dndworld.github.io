@@ -182,4 +182,4 @@ Guild barracks and Houses provide lifestyles for any character who lives there. 
 
 While your character is participating in a multi-session bounty, your character is “Quest-Locked”. Quest-locked characters do not need to pay lifestyle, and are not allowed to do DTDs unless directed by the DM. (They are adventuring full-time!) 
 
-In some cases, the quest-locked characters may be granted catch-up DTDs once the bounty is done. For more information, please refer to the [Catch-Up DTD section](dtd#special-case-catch-up-dtd).
+In some cases, quest-locked characters may be granted DTDs once the bounty is done if the IC time spent out of town would have been less than the OOC length of the QL. **Your DM will inform you** if you receive DTDs as part of your rewards.

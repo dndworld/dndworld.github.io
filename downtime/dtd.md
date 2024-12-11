@@ -32,7 +32,6 @@ Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when r
 - [Combat Training](/downtime/dtd/#combat-training)
 - [Guild DTDs](/downtime/dtd/#guild-dtds)
 - [Business DTD](/downtime/dtd/#business-dtd)
-- Special Case: [Catch-Up DTDs](/downtime/dtd/#special-case-catch-up-dtd)
 
 ### Employment
 - [Job Interview Checks](/downtime/dtd/#job-interview-checks) (must be passed before running PTW/HRW DTDs)
@@ -182,15 +181,3 @@ To pull up the help text for Business DTD, use following command in [!badge icon
 ```
 
 There is no risk of infamy points (IP) or injuries with Business DTD, but on a rainy day, your business may not yield any profits.
-
-## Special Case: Catch-Up DTD
-
-Catch-Up DTD is for characters who returned from being Quest-Locked for a multi-session bounty. The number of DTD points are determined by the DM at the end of the bounty.
-
-### Catch-Up DTD Rules
-
-- You need to pay the lifestyle cost in order to perform the Catch-Up DTDs. Each lifestyle payment covers 5 DTD points, just as the normal lifestyle payment does.
-- Catch-Up DTDs can be performed all in one day. 
-- You need to use up the Catch-Up DTD points **before** attending any other DM events or performing normal DTDs. Unused Catch-Up DTD points are voided.
-- For automated DTDs, make sure to **add a note** indicating that you are performing Catch-Up DTDs.
-- **Injuries** are accumulated as normal during the Catch-Up. For the injury recovery purposes, consider there is one long rest per each day of catch-up DTD, and for each set of 5 DTDs, consider there to be 7 long rests.
