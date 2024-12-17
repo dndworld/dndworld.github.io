@@ -39,7 +39,7 @@ You cannot transfer characters from other places. However, you can create a vers
 There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd/).
 
 Character Preferences (settings)
-- **Sources**: Expanded Rules, Legacy, Critical Role Content
+- **Sources**: Homebrew, Expanded Rules, 2014 Core Rules, Legacy, Critical Role, Humblewood
 
 !!!warning Not everything from these sources is allowed to be used in the server.
 Please refer to the "Sources" section below for full details.

@@ -167,7 +167,7 @@ As you go through the help texts, if anything is unclear or confusing, please as
 !!!
 
 ### Character Preferences (settings) 
-![](https://i.imgur.com/xLF2bk4.png "Character Preferences")
+![](https://i.imgur.com/eFPTb55.png "Character Preferences")
 > - **Dice Rolling**: Off 
 >   - We use Avrae Discord bot for this, not D&D Beyond 
 > - **Optional Features**: On 
