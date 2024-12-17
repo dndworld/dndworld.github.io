@@ -48,7 +48,9 @@ It is NOT considered active RP if a player's only contribution to a session is a
 - RPXP can be transferred to the character's XP total, only **AFTER** the character has completed a DM sanctioned event.
 - Transferring RPXP to XP after a DM event does **not** reset the weekly cap.
 - After attending a DM event, you **must** add any RPXP you have.
-- You cannot log and gain RPXP from DM Events.
+  - If applicable, you may continue to collect RPXP while waiting for XP/gold rewards
+    - If you gain RPXP this way, you use the rates for your current character level, not the level you would be after XP rewards are posted.
+- RP during DM events is not eligible for RPXP unless otherwise stated.
 
 #### Misc.
 - If you forget to react to mark the start and end of the RP but it is still within 24 hours since it ended, you can still mark them and gain RPXP retroactively.
