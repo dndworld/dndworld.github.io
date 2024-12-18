@@ -139,14 +139,19 @@ It is possible to appeal for the ban via submitting [!badge icon="link-external"
 
 
 ## How to Report Rule-Breaking
-
+<!---
 For problematic posts that require immediate attention, please react to the post with an ❗`:exclamation:`. 
 - This will anonymously beam the message to a private mod channel, removing your reaction.
 - Moderators will not know who reported the message, only the details of the flagged post (original poster, message contents, & date/time).
 - You will receive a DM to confirm that your report has been received.
 - See the below screenshot for how your report will appear to the Mods:
 
-![](https://i.imgur.com/Mz1CKJl.png)
+![](https://i.imgur.com/Mz1CKJl.png) --->
+
+For problematic posts, please right click on the message > [Select Apps] > Select Report Message
+- This will anonymously beam the message to a private mod channel
+- Moderators will not know who reported the message, only the details of the flagged post (original poster, message contents, & date/time).
+![](https://i.imgur.com/fZ3Pl8g.png)
 
 ### Whistleblowing
 If you think someone could be breaking the rules and wish to report it, you can PM
