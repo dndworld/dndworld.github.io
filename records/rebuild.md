@@ -80,7 +80,13 @@ If you think the rebuilt character will be a completely different person, you ca
 Please note, this is only for narrative purposes, and the same rules for the rebuild still apply.
 
 If the rebuilt character has more or less the same identity but some details used in past RPs no longer make sense (mention of appearance, abilities, etc.), you may retcon the RP and communicate to your RP partners.
-==- 
+
+==- What do I do if I lost/deleted my old character sheet?
+Avrae keeps copies of your characters. Run `!char list`. If you see your old character's name in the list, you can retrieve the sheet data saved in Avrae by running `!vsheet`. You can add the message link to the vsheet output in the rebuild template. 
+
+If you don't see the character in the list, ask for help in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#character-records-discussion"](https://discord.com/channels/512870694883950598/551968957423419413), and an available staff member will guide you through the next steps.
+==-
+
 
 ### Rebuild Request Template
 ```md
