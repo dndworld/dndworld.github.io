@@ -104,7 +104,7 @@ Rebuild Request
 Previous part -> New part
 
 **Link to Old Sheet:** <link>
-**Link to New Sheet:** <link>
+**Link to New Sheet:** <link> (Remember to set your D&D Beyond sheet to "Public")
 **Types of Stats (Rolled/Point Buy/Standard):** 
 **Link to Stat Roll if Rolled:** 
 ```
