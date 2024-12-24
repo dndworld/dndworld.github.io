@@ -182,6 +182,52 @@ Click `Character Settings`, scroll down and set Character Privacy to `Public`. T
 
 You're now ready to start playing!
 
+### Recommended Character Portrait Makers
+
+As per [Rule 15](/rules/), we do not allow AI art for character portraits. Below is a list of resources you can use for your characters.
+
+#### Free
+*Easy on the wallet, but has some limitations:*
+- [Hero Forge](<https://www.heroforge.com/tap/?ref=dndworld>) (Partnered)
+- [Picrew](<https://picrew.me/en>)
+  - [Example List](<https://www.tumblr.com/lordeasriel/718525664377143296/picrews-i-use-for-online-rpg>)
+  - Other similar character makers such as [Doll Divine](<https://www.dolldivine.com/fantasy>)
+- [NeverEnding](<https://beneverending.com/>)
+- [Reroll](<https://reroll.co/>)
+- [The Fateful Force](<https://thefatefulforce.com/battle-resources/free-wallpapers/>)
+- [DnD Compendium](<https://www.dnd-compendium.com/play-online/character-tokens#h.ud5d6dzh1bit>) 
+  - Token Collections [here](<https://drive.google.com/drive/folders/0B-CqyfKp5kZkeTgyVFg2eUU2cW8?resourcekey=0-rl0tcElQToGiDbATeT7dvQ&usp=sharing>), [here](<https://mega.nz/folder/44JyDYCb#ABcBU4cHGkQMEaMOznQcvw>) and [here](<https://drive.google.com/drive/folders/0B-dx-F9vFRL7MG9BYWlSQndWcHM?resourcekey=0-aZ4Q4LqIYEXlIGnuEPCavg&usp=sharing>)
+- [r/CharacterDrawing](<https://www.reddit.com/r/characterdrawing/>): request free basic drawings from practising artists
+- Character creators from fantasy games that you own such as Baldur's Gate 3 or Dragon's Dogma Character Creator (Free)
+- Free apps available through web or mobile stores
+
+#### Cheap
+*Costs a little upfront, but has more variety and guarantees quality*
+- [DriveThruRPG](<https://www.drivethrurpg.com/browse.php?affiliate_id=1923695>) (Partnered)
+   - [Recommended Artists](<https://www.hipstersanddragons.com/buy-fantasy-stock-art/>) (Stock Art between $3-$15)
+- [Myrmidia](<https://www.instagram.com/myrmidia/#>) (Character Tokens at $1/month via Patreon)
+- [DnD Icons](<https://www.instagram.com/dnd_icons/>) (Character Tokens at $2/month via Patreon)
+
+#### For DMs:
+- [JamesRPGArt](<https://jamesrpgart.com/>)
+- [Czepeku Scenes](<https://www.czepeku.com/scenes/search>)
+- [Czepeku Tokens](<https://www.czepeku.com/tokens>)
+
+#### Commissions
+If you are interested in getting a portrait commissioned, several established artists share their work in ⁠[!badge icon="/images/discord-mark-blue.svg" variant="info" text="#arts"](https://discord.com/channels/512870694883950598/522427573746008064). You can ask if any are accepting commissions, but please note we are not responsible for any transactions that occur. As per [Rule 7](/rules/), we do not allow unsolicited advertising for commissions.
+
+You can also find artists here:
+
+Subreddits:
+- [r/HungryArtists](<https://www.reddit.com/r/HungryArtists/>)
+- [r/FantasyArtists](<https://www.reddit.com/r/fantasyartists/>)
+- [r/ArtCommissions](<https://www.reddit.com/r/artcommissions/>)
+- [r/CharacterDrawing Wiki](<https://www.reddit.com/r/characterdrawing/wiki/artists/>)
+
+Freelancers:
+- [Upwork](<https://www.upwork.com/services/search?nbs=1&q=dnd%20art>)
+- [Fiverr](<https://www.fiverr.com/search/gigs?query=dnd%20character%20art&source=top-bar&ref_ctx_id=15245baf500a4f1ebb870596c726f816&search_in=everywhere&search-autocomplete-original-term=dnd%20character%20art>)
+
 ## How to Suggest Resources
 
 Please make the suggestion by posting in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#server-suggestions"](https://discord.com/channels/512870694883950598/537506014883217419) with the full title and a short description of the resource, as well as why you recommend it.
