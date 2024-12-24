@@ -13,7 +13,7 @@ Suggestions for improvements to the server can be submitted in [!badge icon="/im
 
 Most projects take about three months to complete, while complex ones can take between six months to a year. As staff availability is finite, resources are budgeted by the priority of a project.
 
-The `@Active Player` role is required to make suggestions.
+The `@Active Player` or `@Newbie` role is required to make suggestions.
 
 ## Emoji Reaction Guide to Suggestions
 
@@ -24,7 +24,7 @@ The `@Active Player` role is required to make suggestions.
 
 ## Server Suggestion Rules
 
-1) Only Active Players can type and make suggestions.
+1) Active Players and Newbies can type and make suggestions.
 
 2) Do not submit joke suggestions.
 
