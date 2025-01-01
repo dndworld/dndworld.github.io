@@ -76,7 +76,7 @@ That means it has not been established yet. Please consider it to be uncommon kn
 If you would like have your backstory reviewed, please PM it to `@FanMail` using the form below and our volunteer staff members will respond when they are able.
 !!!
 ```
-**Backstory Inquiry Form**
+__Backstory Inquiry Form__
 **Character Name:**
 **Race/Species:**
 **Class/Subclass:**
