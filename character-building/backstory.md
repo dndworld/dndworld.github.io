@@ -73,8 +73,22 @@ Robert was a captain in the Taffeta war, fighting for the Rebels to remove the u
 ##### What If I Can't Find What I'm Looking For?
 That means it has not been established yet. Please consider it to be uncommon knowledge and unavailable to your characters.
 
-If you would like have your backstory reviewed, please PM it to `@FanMail` and our volunteer staff members will respond when they are able.
+If you would like have your backstory reviewed, please PM it to `@FanMail` using the form below and our volunteer staff members will respond when they are able.
 !!!
+```
+**Lore Inquiry Form**
+**Character Name:**
+**Race/Species:**
+**Class/Subclass:**
+**Age:**
+**Type:** [Backstory Question/Backstory Vetting/Other]
+**Why do you need this information?:**
+Question(s): [list]
+- 
+- 
+-
+**Context:** [Any helpful details or links to make answering your question easier]
+```
 
 ## Basic Class Concepts
 Below is a brief summary of each class as explained by D&D Beyond. 
