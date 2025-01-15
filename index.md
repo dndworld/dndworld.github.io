@@ -48,9 +48,9 @@ Our staff team is here to help you should you have any problems or questions alo
 
 You are on the continent known as **Icris**. Icris, along with her sister continent Eo, are parts of a fully homebrewed fantasy setting with its own lore, dynamics, and pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. 
 
-Icris uses a fictional calendar, with the IRL year of 2024 being equivalent to 22124. The names of months and weeks are otherwise the same. 
+Icris uses a fictional calendar, with the IRL year of 2025 being equivalent to 22125. The names of months and weeks are otherwise the same. 
 
-For more lore, visit ⁠lore and our [World Anvil page](https://www.worldanvil.com/w/icris-dnd-world)
+For more Dnd World ⁠lore, please visit [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#lore"](https://discord.com/channels/512870694883950598/740905255201669161), our sister [Eo Continent](<https://docs.google.com/document/d/1EBgQscpqcqAV8lPyDl1sc8HBP83vnN4aw9ZBg9ZO5fk/>), or our [World Anvil](<https://www.worldanvil.com/w/icris-dnd-world>).
 
 ## Important
 !!!warning
