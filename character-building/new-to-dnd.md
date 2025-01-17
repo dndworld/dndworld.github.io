@@ -187,17 +187,14 @@ These options will be marked with the `[Legacy]` tag.
 
 ---
 ## D&D Beyond Character Builder
-### 1. Race
-> Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules/).
-> - [!badge icon="link-external" variant="info" text="More Extensive Descriptions on Races/Species"](https://www.dndbeyond.com/races)
-> 
-> However, as we are not using the WOTC world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
 
-### 2. Class
+### 1. Class
 > Reminder: Your character on this server starts at Level 1. 
 > 
 > Your class helps determine your character’s specialty. Each class has unique features that can affect how they interact with the world. 
 > - [!badge icon="link-external" variant="info" text="Short Summaries of Each Class"](https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons).
+
+![](https://i.imgur.com/OdlRQeA.png "Class")
 
 #### Proficiencies
 > Your race, background, and class will allow you to choose proficiencies among certain skills and tools. This means you are especially good at this skill/tool and can add your proficiency bonus to it when making checks for that task. Proficiency bonus is a number that increases as you level, and at Level 1 it is +2.
@@ -206,8 +203,27 @@ These options will be marked with the `[Legacy]` tag.
 > Each skill uses one of your abilities (more on this below). 
 > - [!badge icon="link-external" variant="info" text="Detailed Explanation on All Skills"](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#UsingEachAbility). 
 
-### 3. Abilities
-> - General tips for ability score arrangements depending on class: [!badge icon="link-external" variant="info" text="*Handbooker Helper: Ability Scores*"](https://youtu.be/WoV5iM7peOg) by Critical Role  
+### 4. Description
+#### Background
+> Backgrounds are different but closely linked to backstories. Your background gives your char certain abilities and special features depending on how they spent their lives before becoming an adventurer. For approved/disapproved materials, see [Character Creation Rules](cc-rules/#disallowed-content).
+> - [!badge icon="link-external" variant="info" text="Detailed Explanation on All Backgrounds"](https://www.dndbeyond.com/backgrounds).
+
+#### Others
+> The rest are optional and are for adding personality and different aspects to your character. Bring them to life! The personality traits, characteristics, etc. lists are providing you with examples. You do not need to choose from the tables. 
+> - Faith: Check out ⁠pantheon for the gods of Icris. 
+> - Lifestyle: This is handled in the DW server, not in D&D Beyond. Continue following the Getting Started guides to learn more. 
+> - Additional fun resource for character creation: [!badge icon="link-external" variant="info" text="*Is your D&D Character Too Perfect?*"](https://youtu.be/5DECGUi_hQc) by Ginny Di.
+
+### 3. Species
+> Species (or race) refers to human, elves, dwarves, etc. Each species can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see [Character Creation Rules](cc-rules/).
+> - [!badge icon="link-external" variant="info" text="More Extensive Descriptions on Races/Species"](https://www.dndbeyond.com/races)
+> 
+> However, as we are not using the WOTC world, take their descriptions and lore with a grain of salt, e.g. Tieflings are pretty common in the server so they do not suffer as much discrimination as described.
+
+![](https://i.imgur.com/AvsEU5a.png "Species")
+
+### 4. Abilities
+> - General tips for ability score arrangements depending on class: [!badge icon="link-external" variant="info" text="*Handbooker Helper: Ability Scores*"](https://youtu.be/WoV5iM7peOg) by Critical Role.
 
 #### Ability Scores Generation Methods
 > - **Standard Array**: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list `[15, 14, 13, 12, 10, 8]`.
@@ -217,25 +233,13 @@ These options will be marked with the `[Legacy]` tag.
 >   - Follow the pinned note in the channel for instruction. 
 >   - Choose “Manual/Rolled” for the Generation Method
 
-### 4. Description
-
-#### Background
-> Backgrounds are different but closely linked to backstories. Your background gives your char certain abilities and special features depending on how they spent their lives before becoming an adventurer. 
-> - [!badge icon="link-external" variant="info" text="Detailed Explanation on All Backgrounds"](https://www.dndbeyond.com/backgrounds).
-
-#### Others
-> The rest are optional and are for adding personality and different aspects to your character. Bring them to life! The personality traits, characteristics, etc. lists are providing you with examples. You do not need to choose from the tables. 
-> - Faith: Check out ⁠pantheon for the gods of Icris. 
-> - Lifestyle: This is handled in the DW server, not in D&D Beyond. Continue following the Getting Started guides to learn more. 
-> - Additional fun resource for character creation: [!badge icon="link-external" variant="info" text="*Is your D&D Character Too Perfect?*"](https://youtu.be/5DECGUi_hQc) by Ginny Di 
-
 ### 5. Equipment
-> You can choose from either a recommended list of starting equipment or roll for gold and do the shopping yourself. 
+> You can choose from either a recommended list of starting equipment **or** roll for gold and do the shopping yourself. 
 > - If you are new to D&D, we recommend you choose the starting equipment option. 
 > - If you choose to take starting equipment, the items must be available in the [!badge icon="link-external" variant="info" text="Snowhaven Market"](https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/)
 
 #### Rolling for Gold
-> If you choose to roll for gold, you MUST make the rolls in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
+> If you choose to roll for gold, you MUST make the rolls in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#official-character-rolls"](https://discord.com/channels/512870694883950598/513963351567499264), **NOT** in D&D Beyond. You can then do your equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#transaction-log"](https://discord.com/channels/512870694883950598/531011819095982081).
 
 ---
 
