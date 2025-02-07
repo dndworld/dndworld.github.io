@@ -149,6 +149,13 @@ Class/Classfeat: Druid, wild shape
 Class/Classfeat: Druid
 Item: Metal equipment
 ```
+==- **Druid: Wild Shape Clarification**
+**Rule:** You can use your action to magically assume the shape of a beast that you have seen before
+**Interpretation:** You need to have seen the actual creature. Seeing someone else shapechanged/wildshaped/polymorphed/etc. into the creature does not count<br>
+**Link to discussion:** FanMail
+```yaml **Tags**
+Class/Classfeat: Druid, wild shape
+```
 ==- **Monk: Dedicated Weapon**
 **Interpretation:** If the one weapon is a dart, then you can treat all darts as monk weapons. May extend to other thrown weaponry.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/783022392544985179)
