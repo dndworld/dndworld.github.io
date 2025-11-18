@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793593079215">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816741152686">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 3.6.0">
+    <meta name="generator" content="Retype 3.11.0">
 
     <!-- Primary Meta Tags -->
     <title>Your Character Sheet and Options | DW Guide</title>
@@ -30,14 +30,14 @@
     <meta property="twitter:description" content="This channel is a \"Quick Start\" guide for newcomers to the server.">
     <meta property="twitter:image" content="https://i.imgur.com/Nh1T7Bz.png">
 
-    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.793593079215" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.816741152686" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -191,42 +191,42 @@
     </head>
 </head>
 <body>
-    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
-        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+        <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
     
-        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+        <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
             <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
                 <!-- Mobile menu button skeleton -->
-                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
-                <div v-cloak id="docs-sidebar-toggle"></div>
+                <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="retype-sidebar-left-toggle-button"></div>
         
                 <!-- Logo -->
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
-                        <a id="docs-site-logo" href="../../" class="flex items-center leading-snug text-2xl">
+                        <a id="retype-branding-logo" href="../../" class="flex items-center leading-snug text-2xl">
                             <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
                                 <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo-circle.png">
                                 <img class="max-h-10 hidden dark:inline-block" src="../../images/logo-circle.png">
                             </span>
-                            <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">DW Guide</span>
-                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v1.1</span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">DW Guide</span>
+                        </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">v1.1</span>
                     </div>
         
-                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                    <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
                 </div>
         
                 <div class="flex justify-between md:grow">
                     <!-- Top Nav -->
-                    <nav class="hidden md:flex">
+                    <nav id="retype-header-nav" class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Welcome!</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../character-building/start-here/">Start Here</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../faq/common-faq/">FAQ</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../faq/common-faq/">FAQ</a>
                             </li>
         
                         </ul>
@@ -240,7 +240,7 @@
                             <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
                             </div>
-                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                            <input class="w-full h-10 placeholder-search-placeholder transition-colors duration-200 ease-in bg-search-bg border border-transparent rounded md:text-sm hover:border-search-border-hover focus:outline-none focus:border-search-border-focus" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
                         </div>
         
                         <!-- Mobile search button -->
@@ -258,7 +258,7 @@
                     </div>
         
                     <div v-cloak class="flex justify-end grow">
-                        <div id="docs-mobile-search-button"></div>
+                        <div id="retype-mobile-search-button"></div>
                         <doc-search-desktop></doc-search-desktop>
         
                         <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
@@ -268,26 +268,26 @@
             </div>
         </header>
     
-        <div class="container relative flex bg-white">
+    
+        <div id="retype-container" class="container relative flex bg-white">
             <!-- Sidebar Skeleton -->
-            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
             
-                <!-- Render this div, if config.showSidebarFilter is `true` -->
                 <div class="flex items-center h-16 px-6">
-                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded shadow-none text-sm focus:outline-none focus:border-filter-border-focus" type="text" placeholder="Filter">
                 </div>
             
                 <div class="pl-6 mt-1 mb-4">
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                 </div>
             
-                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
-                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                         <span class="text-xs whitespace-nowrap">Powered by</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                     </a>
@@ -297,26 +297,26 @@
             <!-- Sidebar component -->
             <doc-sidebar v-cloak>
                 <template #sidebar-footer>
-                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
             
-                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                        <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
                             <nav>
                                 <ul class="flex flex-wrap justify-center items-center">
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Welcome!</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../character-building/start-here/">Start Here</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../faq/common-faq/">FAQ</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../faq/common-faq/">FAQ</a>
                                     </li>
             
                                 </ul>
                             </nav>
                         </div>
             
-                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                             <span class="text-xs whitespace-nowrap">Powered by</span>
                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                         </a>
@@ -324,14 +324,14 @@
                 </template>
             </doc-sidebar>
     
-            <div class="grow min-w-0 dark:bg-dark-850">
+            <div class="grow min-w-0 bg-body-bg">
                 <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
                 <div class="flex">
-                    <div class="min-w-0 p-4 grow md:px-16">
+                    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
                         <main class="relative pb-12 lg:pt-2">
-                            <div class="docs-markdown" id="docs-content">
+                            <div class="retype-markdown" id="retype-content">
                                 <!-- Rendered if sidebar right is enabled -->
-                                <div id="docs-sidebar-right-toggle"></div>
+                                <div id="retype-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
 <doc-anchor-target id="your-character-sheet-and-options" class="break-words">
     <h1>
@@ -356,11 +356,11 @@ h2 > span:after {
 <p>This channel is a &quot;Quick Start&quot; guide for newcomers to the server.</p>
 <ul>
 <li>World setting and server info: <a href="../../">About Us</a></li>
-<li>If you need help or have questions about getting started on the server, please reach out to <a href="https://discord.com/channels/512870694883950598/621035485690724369" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>If you need help or have questions about getting started on the server, please reach out to <a href="https://discord.com/channels/512870694883950598/621035485690724369" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#beginner-help</span>
 </a>!</li>
-<li>If you have any other questions, please reach out to <a href="https://discord.com/channels/512870694883950598/546725434608451584" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>If you have any other questions, please reach out to <a href="https://discord.com/channels/512870694883950598/546725434608451584" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#server-questions</span>
 </a>!</li>
@@ -380,19 +380,19 @@ h2 > span:after {
 <blockquote>
 <p>You must use a sheet compatible with <strong>Avrae</strong> Discord bot. The following are all free to use. Your options are:</p>
 <ul>
-<li><a href="https://www.dndbeyond.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://www.dndbeyond.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span><strong>D&amp;D Beyond</strong></span>
 </a> <span class="docs-emoji">&#x1F530;</span> <strong>Best for newbies</strong></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span><strong>GSheet</strong></span>
 </a> (DW version)</li>
-<li><a href="https://v1.dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://v1.dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span><strong>DiceCloud v1</strong></span>
 </a></li>
-<li><a href="https://dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span><strong>DiceCloud v2</strong></span>
 </a></li>
@@ -408,11 +408,11 @@ h2 > span:after {
 <style>
 .src-img img { width: 420px; }
 </style>
-<doc-panel id="new-to-d-d" collapsed>
+<doc-panel id="new-to-dd" collapsed>
     <template #title><span class="docs-emoji">&#x1F530;</span> New to D&amp;D?</template>
 <blockquote>
 <ul>
-<li><a href="https://www.dndbeyond.com/create-account" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://www.dndbeyond.com/create-account" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Make a D&amp;D Beyond account</span>
 </a> if you don’t already have one</li>
@@ -420,7 +420,7 @@ h2 > span:after {
 </blockquote>
 <blockquote>
 <ul>
-<li><a href="https://www.dndbeyond.com/characters/builder" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://www.dndbeyond.com/characters/builder" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Create a Character</span>
 </a></li>
@@ -433,7 +433,7 @@ h2 > span:after {
 </ul>
 </blockquote>
 <blockquote>
-<p>Read the help texts. As you go through the help texts, if anything is unclear or confusing, please direct your questions to <a href="https://discord.com/channels/512870694883950598/621035485690724369" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>Read the help texts. As you go through the help texts, if anything is unclear or confusing, please direct your questions to <a href="https://discord.com/channels/512870694883950598/621035485690724369" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#beginner-help</span>
 </a>.</p>
@@ -443,9 +443,9 @@ h2 > span:after {
 </blockquote>
 </doc-panel>
 <doc-tabs>
-<doc-tab v-cloak id="d-d-beyond">
+<doc-tab v-cloak id="dd-beyond">
 <template #title>D&amp;D Beyond</template>
-<p><a href="https://www.dndbeyond.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p><a href="https://www.dndbeyond.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>D&amp;D Beyond</span>
 </a></p>
@@ -456,7 +456,7 @@ h2 > span:after {
     </h3>
 </doc-anchor-target>
 <div class="src-img"><p><figure class="content-right">
-    <img src="https://i.imgur.com/Nh1T7Bz.png" alt="">
+    <img src="https://i.imgur.com/Nh1T7Bz.png" alt="" class="rounded-image-rounded border-image-border border-image-border-width" />
     <figcaption class="caption caption-float"></figcaption>
 </figure>
 </p>
@@ -479,10 +479,10 @@ h2 > span:after {
 <li><strong>Optional Features</strong>: On. Optional Class Features and Custom Origin are allowed (note: approved materials only).</li>
 </ul>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-yellow-500"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-yellow-500" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
                     <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -499,7 +499,7 @@ h2 > span:after {
 <li><strong>Hit Point Type</strong>:
 <ul>
 <li>&quot;Fixed&quot; recommended <span class="docs-emoji">&#x1F530;</span></li>
-<li>If you choose &quot;Manual&quot;, you MUST make the rolls in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>If you choose &quot;Manual&quot;, you MUST make the rolls in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
 </a> channel, NOT in D&amp;D Beyond</li>
@@ -507,8 +507,7 @@ h2 > span:after {
 </li>
 <li><strong>Encumbrance Type</strong>: Use Encumbrance</li>
 <li><strong>Ignore Coin Weight</strong>: Off</li>
-<li><strong>Character Privacy</strong>: Public
-<br><br></li>
+<li><strong>Character Privacy</strong>: Public<br><br></li>
 <li>Leave the rest of the options as they are.</li>
 </ul>
 </blockquote>
@@ -519,7 +518,7 @@ h2 > span:after {
     </h3>
 </doc-anchor-target>
 <blockquote>
-<p>Thanks to the support of our patrons and a club account from D&amp;D Beyond, we are able to provide you with all paid material via content sharing links if you are using D&amp;D Beyond for your character sheet. To benefit from this, read the rules and instructions pinned in <a href="https://discord.com/channels/512870694883950598/756319993616138310" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>Thanks to the support of our patrons and a club account from D&amp;D Beyond, we are able to provide you with all paid material via content sharing links if you are using D&amp;D Beyond for your character sheet. To benefit from this, read the rules and instructions pinned in <a href="https://discord.com/channels/512870694883950598/756319993616138310" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#ddb-link-request</span>
 </a> and submit the request.</p>
@@ -528,7 +527,7 @@ h2 > span:after {
 </doc-tab>
 <doc-tab v-cloak id="gsheet">
 <template #title>GSheet</template>
-<p>To use Google Sheets, go to <a href="https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>To use Google Sheets, go to <a href="https://docs.google.com/spreadsheets/d/1DtJ9AYC_BWUuvP85UqVBBscQO8DhZF8ArAdZnjUO0WM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>this sheet</span>
 </a> and select <strong>File</strong> -&gt; <strong>Make a Copy</strong></p>
@@ -536,16 +535,16 @@ h2 > span:after {
 <p>GSheet tutorial is in the <strong>?</strong> tab of the sheet itself. Make sure to check the inserted notes for more specific instructions.</p>
 </blockquote>
 <blockquote>
-<p>To benefit from the Avrae-Gsheet automation, find the feature in the <a href="https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>To benefit from the Avrae-Gsheet automation, find the feature in the <a href="https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Avrae Action Names</span>
 </a> doc and put the Action Name inside Features &amp; Traits section.</p>
 </blockquote>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-primary" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
                     <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -563,16 +562,16 @@ h2 > span:after {
 <doc-tab v-cloak id="dicecloud">
 <template #title>DiceCloud</template>
 <blockquote>
-<p>To benefit from the Avrae-DiceCloud automation, find the feature in the <a href="https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>To benefit from the Avrae-DiceCloud automation, find the feature in the <a href="https://docs.google.com/spreadsheets/d/1w66DFqD83hkwXqP7rTYx26QAcy1FJmhATpVIgfLmslM/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Avrae Action Names</span>
 </a> doc and put the Action Name inside Features &amp; Traits section.</p>
 </blockquote>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-primary" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
                     <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -589,7 +588,7 @@ h2 > span:after {
 <doc-anchor-target id="section">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#section">#</doc-anchor-trigger>
-        <span><a href="https://v1.dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+        <span><a href="https://v1.dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
             <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
             <span>DiceCloud v1</span>
         </a></span>
@@ -597,24 +596,23 @@ h2 > span:after {
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><a href="https://v1.dicecloud.com/guide" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://v1.dicecloud.com/guide" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Official Guide</span>
 </a></li>
-<li><a href="https://homebrewery.naturalcrit.com/share/rkZujQwpQW" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://homebrewery.naturalcrit.com/share/rkZujQwpQW" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Visual Homebrewery Guide</span>
 </a></li>
-<li><a href="https://youtu.be/LvYTeq2cdSI" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://youtu.be/LvYTeq2cdSI" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>YouTube Tutorial</span>
-</a>
-<br><br></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1UfZ9e9Z9XFiZ7uapyDxrh9UskZSmPGa-nWr7mCqzevw/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a><br><br></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1UfZ9e9Z9XFiZ7uapyDxrh9UskZSmPGa-nWr7mCqzevw/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Helper Sheet</span>
 </a> (for variables, formulas, etc.)</li>
-<li><a href="https://pastebin.com/7teCSEUA" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://pastebin.com/7teCSEUA" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>HTML/Markdown Cheastheet</span>
 </a> (for formatting)</li>
@@ -623,7 +621,7 @@ h2 > span:after {
 <doc-anchor-target id="section-1">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#section-1">#</doc-anchor-trigger>
-        <span><a href="https://dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+        <span><a href="https://dicecloud.com/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
             <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
             <span>DiceCloud v2</span>
         </a></span>
@@ -631,11 +629,11 @@ h2 > span:after {
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li>SUBSCRIBE <a href="https://dicecloud.com/library-collection/jp6xTaHDZK4ELYzvN" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>SUBSCRIBE <a href="https://dicecloud.com/library-collection/jp6xTaHDZK4ELYzvN" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>to this library</span>
 </a> (top right)</li>
-<li><a href="https://discord.com/invite/qEvdfeB" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://discord.com/invite/qEvdfeB" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Join the official server</span>
 </a>, then check out <code v-pre>#your-first-character</code></li>
@@ -656,10 +654,10 @@ h2 > span:after {
     </h3>
 </doc-anchor-target>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-yellow-500"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-yellow-500" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
                     <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -673,10 +671,10 @@ h2 > span:after {
     </div>
 </div>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-primary" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
                     <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -686,7 +684,7 @@ h2 > span:after {
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>When a new official material is published</h5>
-<p>it first needs to be reviewed by our Homebrewer team. The new material is considered <strong>banned</strong> until the review process is complete. The list of the approved and denied materials will be posted to <a href="https://discord.com/channels/512870694883950598/720529747817529374" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>it first needs to be reviewed by our Homebrewer team. The new material is considered <strong>banned</strong> until the review process is complete. The list of the approved and denied materials will be posted to <a href="https://discord.com/channels/512870694883950598/720529747817529374" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#changelog</span>
 </a>, followed by the update on this channel.</p>
@@ -717,12 +715,12 @@ h2 > span:after {
 </ul>
 </blockquote>
 <blockquote>
-<p>For the full list of the allowed and disallowed official materials, please refer to the <a href="https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>For the full list of the allowed and disallowed official materials, please refer to the <a href="https://docs.google.com/spreadsheets/d/15S23RwCXMRJvFKS8d1MRGwSc-58KOAEtkCvUwXiT74k/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Banned/Allowed DnD World</span>
 </a> doc. The rest of this channel also includes the breakdowns of all officially published disallowed materials by race, class, etc.</p>
 <ul>
-<li>For the full list of allowed official races, you may alternatively refer to the <a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>For the full list of allowed official races, you may alternatively refer to the <a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Dnd World Allowed Official Races v2</span>
 </a> doc.</li>
@@ -731,7 +729,7 @@ h2 > span:after {
 <doc-anchor-target id="section-2">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#section-2">#</doc-anchor-trigger>
-        <span><a href="https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+        <span><a href="https://docs.google.com/document/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
             <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
             <span>Unearthed Arcana (UA) and Homebrew</span>
         </a></span>
@@ -759,7 +757,7 @@ h2 > span:after {
 <doc-anchor-target id="section-3">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#section-3">#</doc-anchor-trigger>
-        <span><a href="https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+        <span><a href="https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
             <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
             <span>DnD World Errata/Variant Feature Document</span>
         </a></span>
@@ -777,27 +775,23 @@ h2 > span:after {
 </div>
 <blockquote>
 <ul>
-<li><p>Race-restricted subclasses such as Battlerager lose said restriction.</p>
-</li>
-<li><p><em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> Optional Class Features are allowed for all classes.</p>
-</li>
-<li><p>&quot;Changing Your Subclass&quot; section from <em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> is not allowed. You may change the subclass of a character following the rebuild rules in <a href="https://discord.com/channels/512870694883950598/542953099560615946" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>Race-restricted subclasses such as Battlerager lose said restriction.</li>
+<li><em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> Optional Class Features are allowed for all classes.</li>
+<li>&quot;Changing Your Subclass&quot; section from <em>Tasha&#x27;s Cauldron of Everything (TCoE)</em> is not allowed. You may change the subclass of a character following the rebuild rules in <a href="https://discord.com/channels/512870694883950598/542953099560615946" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#rebuild-retire-log</span>
-</a> instead.</p>
-</li>
-<li><p>D&amp;D Beyond&#x27;s Blood Hunter is banned. Refer to the version described in the HB Compendium instead.</p>
-</li>
+</a> instead.</li>
+<li>D&amp;D Beyond&#x27;s Blood Hunter is banned. Refer to the version described in the HB Compendium instead.</li>
 </ul>
 </blockquote>
 <doc-panels>
-   <doc-panel id="new-to-d-d" collapsed>
+   <doc-panel id="new-to-dd" collapsed>
        <template #title><span class="docs-emoji">&#x1F530;</span>  New to D&amp;D?</template>
 <blockquote>
 <p>Reminder: Your character on this server starts at Level 1.</p>
 <p>Your class helps determine your character’s specialty. Each class has unique features that can affect how they interact with the world.</p>
 <ul>
-<li>For short summary of each class, see <a href="https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>For short summary of each class, see <a href="https://www.dndbeyond.com/posts/1047-d-d-101-a-quick-breakdown-of-classes-in-dungeons" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a>.</li>
@@ -821,7 +815,7 @@ h2 > span:after {
 <blockquote>
 <p>Each skill uses one of your abilities (more on this below).</p>
 <ul>
-<li>For details on each skills, see <a href="https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#UsingEachAbility" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>For details on each skills, see <a href="https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#UsingEachAbility" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a>.</li>
@@ -917,12 +911,12 @@ h2 > span:after {
 </ul>
 </blockquote>
 <p><figure class="content-center">
-    <img src="../../images/race-age-chart.png" alt="">
+    <img src="../../images/race-age-chart.png" alt="" class="rounded-image-rounded border-image-border border-image-border-width" />
     <figcaption class="caption"></figcaption>
 </figure>
 </p>
 <doc-panels>
-   <doc-panel id="new-to-d-d" collapsed>
+   <doc-panel id="new-to-dd" collapsed>
        <template #title><span class="docs-emoji">&#x1F530;</span> New to D&amp;D?</template>
 <doc-anchor-target id="background">
     <h4>
@@ -934,7 +928,7 @@ h2 > span:after {
 <p>Backgrounds are different but closely linked to backstories. Your background gives your character certain abilities and special features depending on how they spent their lives before becoming an adventurer.
 Your background likely will not (and does not have to) perfectly represent your backstory. Choose one that represents the most important aspect in your backstory, the most backstory elements, and/or simply offers the set of proficiencies you like most.</p>
 <ul>
-<li>For information on each background, see <a href="https://www.dndbeyond.com/backgrounds" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>For information on each background, see <a href="https://www.dndbeyond.com/backgrounds" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a>.</li>
@@ -951,7 +945,7 @@ Your background likely will not (and does not have to) perfectly represent your 
 <ul>
 <li>Faith: Check out ⁠pantheon for the gods of Icris.</li>
 <li>Lifestyle: This is handled in the DW server, not in D&amp;D Beyond. Continue following the Getting Started guides to learn more.</li>
-<li>Additional fun resource for character creation: <a href="https://youtu.be/5DECGUi_hQc" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>Additional fun resource for character creation: <a href="https://youtu.be/5DECGUi_hQc" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span><em>Is your D&amp;D Character Too Perfect?</em></span>
 </a> by Ginny Di</li>
@@ -979,19 +973,19 @@ Your background likely will not (and does not have to) perfectly represent your 
 <blockquote>
 <p>For the full list of allowed and disallowed official races, please refer to the following doc. For races with multiple versions, please make sure you are using a version that is allowed.</p>
 <ul>
-<li><a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://docs.google.com/spreadsheets/d/17NdHfpGLNMDmOr1dKK4lZJyrYiSAGU9knEPDyamBnVY/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Dnd World Allowed Offical Races v2</span>
 </a></li>
 </ul>
 </blockquote>
 <doc-panels>
-   <doc-panel id="new-to-d-d" collapsed>
+   <doc-panel id="new-to-dd" collapsed>
        <template #title><span class="docs-emoji">&#x1F530;</span>  New to D&amp;D?</template>
 <blockquote>
 <p>Races refer to human, elves, dwarves, etc. Each race can provide some mechanical benefit to your character in game, such as stats, traits, or even spells! For approved/disapproved materials, see <a href="../../character-building/cc-rules/">Character Creation Rules</a>.</p>
 <ul>
-<li>More extensive descriptions on races can be found <a href="https://www.dndbeyond.com/races" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>More extensive descriptions on races can be found <a href="https://www.dndbeyond.com/races" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a></li>
@@ -1013,32 +1007,19 @@ Your background likely will not (and does not have to) perfectly represent your 
 </doc-anchor-target>
 <p><strong>Disallowed Feats</strong></p>
 <ul>
-<li><p>Aberrant Dragonmarks</p>
-</li>
-<li><p>Adept of the Black Robes feat</p>
-</li>
-<li><p>Adept of the Red Robes feat</p>
-</li>
-<li><p>Adept of the White Robes feat</p>
-</li>
-<li><p>Initiate of High Sorcery feat</p>
-</li>
-<li><p>Gunner</p>
-</li>
-<li><p>Planar Wanderer</p>
-</li>
-<li><p>Poisoner</p>
-</li>
-<li><p>Strixhaven Initiate</p>
-</li>
-<li><p>Strixhaven Mascot</p>
-</li>
-<li><p>Ember of the Fire Giant (refer to the DW Homebrew version)</p>
-</li>
-<li><p>Guile of the Cloud Giant (refer to the DW Homebrew version)</p>
-</li>
-<li><p>Soul of the Storm Giant (refer to the DW Homebrew version)</p>
-</li>
+<li>Aberrant Dragonmarks</li>
+<li>Adept of the Black Robes feat</li>
+<li>Adept of the Red Robes feat</li>
+<li>Adept of the White Robes feat</li>
+<li>Initiate of High Sorcery feat</li>
+<li>Gunner</li>
+<li>Planar Wanderer</li>
+<li>Poisoner</li>
+<li>Strixhaven Initiate</li>
+<li>Strixhaven Mascot</li>
+<li>Ember of the Fire Giant (refer to the DW Homebrew version)</li>
+<li>Guile of the Cloud Giant (refer to the DW Homebrew version)</li>
+<li>Soul of the Storm Giant (refer to the DW Homebrew version)</li>
 </ul>
 <p><strong>Other Disallowed Mechanics</strong></p>
 <ul>
@@ -1064,17 +1045,17 @@ Your background likely will not (and does not have to) perfectly represent your 
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li>For rolling, use <code v-pre>!rollstats</code> in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>For rolling, use <code v-pre>!rollstats</code> in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
 </a>.</li>
 </ul>
 <p>You are only permitted one roll per character, and the command will give you stats that are to our server&#x27;s minimum standard.</p>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-yellow-500"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-yellow-500" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
                     <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -1100,18 +1081,18 @@ Your background likely will not (and does not have to) perfectly represent your 
 <blockquote>
 <ul>
 <li>It is entirely <strong>optional</strong> to roll for stats/gold/hp. However, once you have made the rolls, you must use the rolled results.</li>
-<li>All rolls must be made in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>All rolls must be made in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
 </a> for it to be valid. Follow the instructions pinned in the channel for rolling Stats, HP, and/or Gold. <strong>Do not roll stats on D&amp;D Beyond!</strong></li>
 </ul>
 </blockquote>
 <doc-panels>
-   <doc-panel id="new-to-d-d" collapsed>
+   <doc-panel id="new-to-dd" collapsed>
        <template #title><span class="docs-emoji">&#x1F530;</span>  New to D&amp;D?</template>
 <blockquote>
 <ul>
-<li>General tips for ability score arrangements depending on class: <a href="https://youtu.be/WoV5iM7peOg" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>General tips for ability score arrangements depending on class: <a href="https://youtu.be/WoV5iM7peOg" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span><em>Handbooker Helper: Ability Scores</em></span>
 </a> by Critical Role</li>
@@ -1128,13 +1109,13 @@ Your background likely will not (and does not have to) perfectly represent your 
 <li><strong>Standard Array</strong>: If you want to save time or don’t like the idea of randomly determining ability scores, you can choose from a fixed list <code v-pre>[15, 14, 13, 12, 10, 8]</code>.</li>
 <li><strong>Point Buy</strong>: Customize your ability scores by spending points. If you are playing an Adventurers League character, choose this option.
 <ul>
-<li><a href="https://chicken-dinner.com/5e/5e-point-buy.html" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://chicken-dinner.com/5e/5e-point-buy.html" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Point Buy calculator website</span>
 </a></li>
 </ul>
 </li>
-<li><strong>Manual</strong>: Roll the stats in ⁠<a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><strong>Manual</strong>: Roll the stats in ⁠<a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
 </a>, <strong>NOT</strong> in D&amp;D Beyond
@@ -1148,7 +1129,7 @@ Your background likely will not (and does not have to) perfectly represent your 
    </doc-panel>
    <doc-panel id="quick-start" collapsed>
        <template #title><span class="docs-emoji">&#x26A1;</span> Quick Start</template>
-<p>Go to <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>Go to <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
 </a> and use <code v-pre>!rollstats</code>. Take your six stats and order them from highest to lowest.</p>
@@ -1169,33 +1150,29 @@ If your class has two, put it in the first.</p>
 </div>
 <blockquote>
 <ul>
-<li><p>You may take starting equipment <strong><strong>or</strong></strong> roll for gold.</p>
-</li>
-<li><p>If you choose to take starting equipment, the item must be available in the market. All PHB mundane items are included with the same price.
-<a href="https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>You may take starting equipment <strong><strong>or</strong></strong> roll for gold.</li>
+<li>If you choose to take starting equipment, the item must be available in the market. All PHB mundane items are included with the same price.<a href="https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Snowhaven Market Document</span>
-</a></p>
-</li>
-<li><p>If you choose to roll for gold, follow the instructions pinned in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a></li>
+<li>If you choose to roll for gold, follow the instructions pinned in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
-</a>. Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.</p>
+</a>. Once you have made the roll, you must use the rolled result and you cannot take equipment or gold from your class or background.
 <ul>
-<li>After you have rolled the gold, you may then purchase the equipment from the above document, and by logging the transactions in the <a href="https://discord.com/channels/512870694883950598/531011819095982081" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>After you have rolled the gold, you may then purchase the equipment from the above document, and by logging the transactions in the <a href="https://discord.com/channels/512870694883950598/531011819095982081" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#transaction-log</span>
 </a>.</li>
 </ul>
 </li>
-<li><p>You are <strong><strong>not</strong></strong> allowed to possess any magic items starting out.</p>
-</li>
+<li>You are <strong><strong>not</strong></strong> allowed to possess any magic items starting out.</li>
 </ul>
 </blockquote>
 <blockquote>
 <p>You can choose from either a recommended list of starting equipment or roll for gold and do the shopping yourself.</p>
 <ul>
-<li>If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found <a href="https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>If you choose to take starting equipment, the items must be available in the regular market of Snowhaven, found <a href="https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a></li>
@@ -1207,37 +1184,37 @@ If your class has two, put it in the first.</p>
         <span>Gold</span>
     </h3>
 </doc-anchor-target>
-<p>To roll for gold, follow the instructions pinned in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>To roll for gold, follow the instructions pinned in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
 </a>. Please note that if you roll for gold, you cannot take equipment or gold from your class or background.</p>
 <blockquote>
 <p>You may take starting equipment or roll for gold.</p>
 <ul>
-<li>If you choose to take starting equipment, the item must be available in the <a href="https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>If you choose to take starting equipment, the item must be available in the <a href="https://docs.google.com/document/d/131lUJSH1DX0FLMfKKlO9irCnfG6zjwbjjG5-HKstWsU/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>Snowhaven Market document</span>
 </a>.</li>
 </ul>
-<p>Once you have rolled the gold and imported your sheet in <a href="https://discord.com/channels/512870694883950598/512872392377499661" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>Once you have rolled the gold and imported your sheet in <a href="https://discord.com/channels/512870694883950598/512872392377499661" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#character-sheets</span>
-</a>, you may then purchase the equipment in the <a href="https://discord.com/channels/512870694883950598/531011819095982081" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a>, you may then purchase the equipment in the <a href="https://discord.com/channels/512870694883950598/531011819095982081" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#transaction-log</span>
 </a>.</p>
 </blockquote>
 <blockquote>
-<p>If you choose to roll for gold, you MUST make the rolls in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>If you choose to roll for gold, you MUST make the rolls in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
-</a>, <strong>NOT</strong> in D&amp;D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in ⁠<a href="https://discord.com/channels/512870694883950598/531011819095982081" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a>, <strong>NOT</strong> in D&amp;D Beyond. You can then do the equipment shopping after you upload your character. Follow the prices in the Snowhaven Market document above, and log the transactions in ⁠<a href="https://discord.com/channels/512870694883950598/531011819095982081" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#transaction-log</span>
 </a>.</p>
 </blockquote>
 <doc-panels>
-   <doc-panel id="new-to-d-d" collapsed>
+   <doc-panel id="new-to-dd" collapsed>
        <template #title><span class="docs-emoji">&#x1F530;</span> New to D&amp;D?</template>
 <doc-anchor-target id="equipment-1">
     <h3>
@@ -1266,7 +1243,7 @@ If your class has two, put it in the first.</p>
 <blockquote>
 <ul>
 <li>Equip your weapons and armor by clicking on the box next to them in the equipment page.</li>
-<li>If you decide to roll for HP in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>If you decide to roll for HP in <a href="https://discord.com/channels/512870694883950598/513963351567499264" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#official-character-rolls</span>
 </a>, you will need to manually enter your HP.</li>
@@ -1277,29 +1254,29 @@ If your class has two, put it in the first.</p>
                                 <!-- Required only on API pages -->
                                 <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
                             </div>
-                            <footer class="clear-both">
+                            <footer id="retype-content-footer" class="clear-both">
                             
                             </footer>
                         </main>
                 
-                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
-                            <footer class="flex flex-wrap items-center justify-between">
-                                <div>
+                        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div id="retype-footer-links" class="print:hidden">
                                     <ul class="flex flex-wrap items-center text-sm">
                                     </ul>
                                 </div>
-                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
                             </footer>
                         </div>
                     </div>
                 
                     <!-- Rendered if sidebar right is enabled -->
                     <!-- Sidebar right skeleton-->
-                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
                         <div class="pl-5">
-                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                         </div>
                     </div>
                 
@@ -1315,7 +1292,7 @@ If your class has two, put it in the first.</p>
     </div>
 
 
-    <div id="docs-overlay-target"></div>
+    <div id="retype-overlay-target"></div>
 
     <script data-cfasync="false">window.__DOCS__ = { "title": "Your Character Sheet and Options", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>

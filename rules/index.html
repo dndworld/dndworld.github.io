@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793593079215">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816741152686">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 3.6.0">
+    <meta name="generator" content="Retype 3.11.0">
 
     <!-- Primary Meta Tags -->
     <title>Server Rules | DW Guide</title>
@@ -30,14 +30,14 @@
     <meta property="twitter:description" content="Ignorance is not an excuse for rule-breaking. We expect you to read, understand, and agree to adhere to the rules.">
     <meta property="twitter:image" content="https://i.imgur.com/fZ3Pl8g.png">
 
-    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../images/logo-circle.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.6.0.793593079215" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.11.0.816741152686" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -191,42 +191,42 @@
     </head>
 </head>
 <body>
-    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
-        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+        <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
     
-        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+        <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
             <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
                 <!-- Mobile menu button skeleton -->
-                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
-                <div v-cloak id="docs-sidebar-toggle"></div>
+                <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="retype-sidebar-left-toggle-button"></div>
         
                 <!-- Logo -->
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
-                        <a id="docs-site-logo" href="../" class="flex items-center leading-snug text-2xl">
+                        <a id="retype-branding-logo" href="../" class="flex items-center leading-snug text-2xl">
                             <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
                                 <img class="max-h-10 dark:hidden md:inline-block" src="../images/logo-circle.png">
                                 <img class="max-h-10 hidden dark:inline-block" src="../images/logo-circle.png">
                             </span>
-                            <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">DW Guide</span>
-                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v1.1</span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">DW Guide</span>
+                        </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">v1.1</span>
                     </div>
         
-                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                    <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
                 </div>
         
                 <div class="flex justify-between md:grow">
                     <!-- Top Nav -->
-                    <nav class="hidden md:flex">
+                    <nav id="retype-header-nav" class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../">Welcome!</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">Welcome!</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../character-building/start-here/">Start Here</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../character-building/start-here/">Start Here</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../faq/common-faq/">FAQ</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../faq/common-faq/">FAQ</a>
                             </li>
         
                         </ul>
@@ -240,7 +240,7 @@
                             <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
                             </div>
-                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                            <input class="w-full h-10 placeholder-search-placeholder transition-colors duration-200 ease-in bg-search-bg border border-transparent rounded md:text-sm hover:border-search-border-hover focus:outline-none focus:border-search-border-focus" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
                         </div>
         
                         <!-- Mobile search button -->
@@ -258,7 +258,7 @@
                     </div>
         
                     <div v-cloak class="flex justify-end grow">
-                        <div id="docs-mobile-search-button"></div>
+                        <div id="retype-mobile-search-button"></div>
                         <doc-search-desktop></doc-search-desktop>
         
                         <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
@@ -268,26 +268,26 @@
             </div>
         </header>
     
-        <div class="container relative flex bg-white">
+    
+        <div id="retype-container" class="container relative flex bg-white">
             <!-- Sidebar Skeleton -->
-            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
             
-                <!-- Render this div, if config.showSidebarFilter is `true` -->
                 <div class="flex items-center h-16 px-6">
-                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded shadow-none text-sm focus:outline-none focus:border-filter-border-focus" type="text" placeholder="Filter">
                 </div>
             
                 <div class="pl-6 mt-1 mb-4">
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                 </div>
             
-                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
-                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                         <span class="text-xs whitespace-nowrap">Powered by</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                     </a>
@@ -297,26 +297,26 @@
             <!-- Sidebar component -->
             <doc-sidebar v-cloak>
                 <template #sidebar-footer>
-                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
             
-                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                        <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
                             <nav>
                                 <ul class="flex flex-wrap justify-center items-center">
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../">Welcome!</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">Welcome!</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../character-building/start-here/">Start Here</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../character-building/start-here/">Start Here</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../faq/common-faq/">FAQ</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../faq/common-faq/">FAQ</a>
                                     </li>
             
                                 </ul>
                             </nav>
                         </div>
             
-                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                             <span class="text-xs whitespace-nowrap">Powered by</span>
                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                         </a>
@@ -324,14 +324,14 @@
                 </template>
             </doc-sidebar>
     
-            <div class="grow min-w-0 dark:bg-dark-850">
+            <div class="grow min-w-0 bg-body-bg">
                 <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
                 <div class="flex">
-                    <div class="min-w-0 p-4 grow md:px-16">
+                    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
                         <main class="relative pb-12 lg:pt-2">
-                            <div class="docs-markdown" id="docs-content">
+                            <div class="retype-markdown" id="retype-content">
                                 <!-- Rendered if sidebar right is enabled -->
-                                <div id="docs-sidebar-right-toggle"></div>
+                                <div id="retype-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
 <doc-anchor-target id="server-rules" class="break-words">
     <h1>
@@ -346,7 +346,7 @@
     </h2>
 </doc-anchor-target>
 <doc-panels>
-   <doc-panel id="1️️-i-didn-t-know-that-was-the-rule-doesn-t-work-here" collapsed>
+   <doc-panel id="1-i-didnt-know-that-was-the-rule-doesnt-work-here" collapsed>
        <template #title>1️️ <strong>“I didn’t know that was the rule” doesn’t work here.</strong></template>
 <p>Ignorance is not an excuse for rule-breaking. We expect you to read, understand, and agree to adhere to the rules.</p>
 <p><strong>1.1. Read the channels containing rules covering specific topics.</strong> Take your time to familiarize yourself with them.</p>
@@ -357,14 +357,14 @@
 <li><a href="../records/rebuild/">Rebuilding/Retiring (check the pins)</a></li>
 <li><a href="../downtime/lifestyle/">Lifestyle and Downtime</a></li>
 <li><a href="../advanced-play/">Guilds, Housing, Market, etc</a></li>
-<li><a href="https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li><a href="https://docs.google.com/document/d/1Y1f2yFzFxE2PgpTzqJVG95mtMms3iG_RAVuah84LvI0/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>PVP and Crime (Google Docs)</span>
 </a></li>
 </ul>
 <p><strong>1.2. Check the pins</strong> of the channels before posting. They contain guidelines, instructions, or restrictions.</p>
    </doc-panel>
-   <doc-panel id="2️-this-is-a-family-friendly-server" collapsed>
+   <doc-panel id="2-this-is-a-family-friendly-server" collapsed>
        <template #title>2️ <strong>This is a family-friendly server.</strong></template>
 <p>When in doubt, err on the side of caution. The following are prohibited on this server:</p>
 <ul>
@@ -377,7 +377,7 @@
 </ul>
 <p><span class="docs-emoji">&#x26A0;&#xFE0F;</span> Users (and their parents/guardians) are however advised that DnD games will generally involve descriptions of violent acts.</p>
    </doc-panel>
-   <doc-panel id="3️-be-excellent-to-each-other" collapsed>
+   <doc-panel id="3-be-excellent-to-each-other" collapsed>
        <template #title>3️ <strong>Be Excellent to Each Other.</strong></template>
 <p>We reserve the right to remove you from the server if you are a nuisance, exhibit toxic behavior, or are otherwise ruining others&#x27; experiences on the server in any way.</p>
 <p><strong>3.1. Exercise common sense and social etiquette.</strong>
@@ -396,18 +396,18 @@ You and your characters should not make others uncomfortable. This includes, but
 <p>Public accusations and complaints, slander, doxing, hostile/passive aggressive behavior, manipulation, etc.</p>
 <p>If you wish to report a problem, please see the <doc-anchor-trigger to="#how-to-report-rule-breaking">How to Report Rule-Breaking</doc-anchor-trigger> section below.</p>
    </doc-panel>
-   <doc-panel id="4️-use-the-appropriate-channels" collapsed>
+   <doc-panel id="4-use-the-appropriate-channels" collapsed>
        <template #title>4️ <strong>Use the appropriate channels.</strong></template>
-<p>Use the <a href="https://discord.com/channels/512870694883950598/537506745916850176" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>Use the <a href="https://discord.com/channels/512870694883950598/537506745916850176" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#channel-guide</span>
-</a> to find the right place to post. If you’re not sure where to do something, ask in <a href="https://discord.com/channels/512870694883950598/546725434608451584" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a> to find the right place to post. If you’re not sure where to do something, ask in <a href="https://discord.com/channels/512870694883950598/546725434608451584" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#server-questions</span>
 </a>.</p>
 <p>Keep out-of-character discussions to OOC channels.</p>
    </doc-panel>
-   <doc-panel id="5️-do-not-do-the-staff-s-jobs" collapsed>
+   <doc-panel id="5-do-not-do-the-staffs-jobs" collapsed>
        <template #title>5️ <strong>Do Not Do the Staff&#x27;s Jobs.</strong></template>
 <p>Our staff members are given the instructions and authority to do what is necessary. Other members of the server should not try to do the staff’s job for them.</p>
 <p><strong>5.1. Do not mini-mod.</strong>
@@ -417,34 +417,34 @@ You may point out a rule or two if it seems your DM has overlooked them, but ple
 <p>Each DM may have a different threshold of what is considered as backseat DMing. The polite approach is to first ask if the DM would appreciate assistance or not.</p>
 <p><strong>5.3. Do not reply to queries in FAQ channels.</strong></p>
    </doc-panel>
-   <doc-panel id="6️-do-not-interfere-with-disciplinary-actions-in-badge-icon-images-discord-mark-blue-svg-variant-info-text-courthouse-https-discord-com-channels-512870694883950598-576803952830578688-or-badge-icon-images-discord-mark-blue-svg-variant-info-text-lesser-courthouse-https-discord-com-channels-512870694883950598-579940883202572308" collapsed>
-       <template #title>6️ <strong>Do not interfere with disciplinary actions in <a href="https://discord.com/channels/512870694883950598/576803952830578688" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+   <doc-panel id="6-do-not-interfere-with-disciplinary-actions-in-badge-iconimagesdiscord-mark-bluesvg-variantinfo-textcourthousehttpsdiscordcomchannels512870694883950598576803952830578688-or-badge-iconimagesdiscord-mark-bluesvg-variantinfo-textlesser-courthousehttpsdiscordcomchannels512870694883950598579940883202572308" collapsed>
+       <template #title>6️ <strong>Do not interfere with disciplinary actions in <a href="https://discord.com/channels/512870694883950598/576803952830578688" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#courthouse</span>
-</a> or <a href="https://discord.com/channels/512870694883950598/579940883202572308" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a> or <a href="https://discord.com/channels/512870694883950598/579940883202572308" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#lesser-courthouse</span>
 </a>.</strong></template>
 <p>Do not write messages in those channels unless you’ve been specifically called upon by a staff member to do so, or you are self-reporting issues.</p>
 <p>If you have something to add to the discussion, send a message to the <code v-pre>@FanMail</code> bot.</p>
    </doc-panel>
-   <doc-panel id="7️-all-forms-of-advertising-are-prohibited" collapsed>
+   <doc-panel id="7-all-forms-of-advertising-are-prohibited" collapsed>
        <template #title>7️ <strong>All forms of advertising are prohibited.</strong></template>
-<p>This includes advertisement for art commissions. The only exceptions are officially sanctioned material, such as partner servers. The guidelines for establishing server partnership are pinned in <a href="https://discord.com/channels/512870694883950598/529249355748605952" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>This includes advertisement for art commissions. The only exceptions are officially sanctioned material, such as partner servers. The guidelines for establishing server partnership are pinned in <a href="https://discord.com/channels/512870694883950598/529249355748605952" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#partner-servers</span>
 </a>.</p>
 <p>For inquiries involving paid promotions and/or giveaways, please message <code v-pre>@FanMail</code>.</p>
    </doc-panel>
-   <doc-panel id="8️-refrain-from-discussing-divisive-topics" collapsed>
+   <doc-panel id="8-refrain-from-discussing-divisive-topics" collapsed>
        <template #title>8️ <strong>Refrain from discussing divisive topics.</strong></template>
 <p>This server is not an appropriate place for discussing divisive topics, such as politics, religion, and current world events/issues.</p>
    </doc-panel>
-   <doc-panel id="9️-do-not-ping-roles-or-high-ranking-staff-members-without-explicit-permission" collapsed>
+   <doc-panel id="9-do-not-ping-roles-or-high-ranking-staff-members-without-explicit-permission" collapsed>
        <template #title>9️ <strong>Do not ping roles or high-ranking staff members without explicit permission.</strong></template>
 <p>If you need help:</p>
 <ul>
-<li>Ask for help in <a href="https://discord.com/channels/512870694883950598/546725434608451584" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>Ask for help in <a href="https://discord.com/channels/512870694883950598/546725434608451584" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#server-questions</span>
 </a>. You will get an answer from a staff member, or be redirected to the right channel for further inquiries.</li>
@@ -452,41 +452,41 @@ You may point out a rule or two if it seems your DM has overlooked them, but ple
 <li>If you have a private or sensitive matter to discuss that you would prefer to avoid getting other staff involved with, send a private message to one of our Admin, Senior, or Mentor staff.</li>
 </ul>
    </doc-panel>
-   <doc-panel id="1️️0️-this-server-does-not-endorse-or-allow-discussion-of-piracy" collapsed>
+   <doc-panel id="10-this-server-does-not-endorse-or-allow-discussion-of-piracy" collapsed>
        <template #title>1️️0️ <strong>This server does not endorse or allow discussion of piracy.</strong></template>
 <p>This includes posting illegally shared content/documents, and links to websites that offer them.</p>
-<p>Instead, you are invited to make use of the server&#x27;s DnDBeyond content sharing links (requested via <a href="https://discord.com/channels/512870694883950598/756319993616138310" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>Instead, you are invited to make use of the server&#x27;s DnDBeyond content sharing links (requested via <a href="https://discord.com/channels/512870694883950598/756319993616138310" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#ddb-link-request</span>
 </a>), look it up on google, Roll20&#x27;s compendium, or consider purchasing your own hardcopy of source materials.</p>
    </doc-panel>
-   <doc-panel id="1️️1️-multi-accounting-is-not-permitted" collapsed>
+   <doc-panel id="11-multi-accounting-is-not-permitted" collapsed>
        <template #title>1️️1️ <strong>Multi-accounting is not permitted.</strong></template>
 <p>Especially for the purposes of ban evasion or stat rerolling.</p>
    </doc-panel>
-   <doc-panel id="1️️2️-comply-with-staff-s-requests" collapsed>
+   <doc-panel id="12-comply-with-staffs-requests" collapsed>
        <template #title>1️️2️ <strong>Comply with Staff&#x27;s Requests.</strong></template>
 <p>If a staff member, in an official capacity, asks you to either do or stop something, you are expected to comply.</p>
 <p>If you have an issue with such a request, again you may raise the matter by sending a message to <code v-pre>@FanMail</code>, or by messaging a higher ranking staff member.</p>
    </doc-panel>
-   <doc-panel id="1️️3️-this-is-an-english-speaking-server" collapsed>
+   <doc-panel id="13-this-is-an-english-speaking-server" collapsed>
        <template #title>1️️3️ <strong>This is an English-speaking server.</strong></template>
 <p>We disallow discussions in other languages due to difficulties in moderating, and so that everyone can understand each other.</p>
    </doc-panel>
-   <doc-panel id="1️️4️-use-the-proper-nickname-format" collapsed>
+   <doc-panel id="14-use-the-proper-nickname-format" collapsed>
        <template #title>1️️4️ <strong>Use the proper nickname format.</strong></template>
 <p>Newbies are expected to have their nicknames in the following format at all times:<br>
 <code v-pre>Name of Character (Race Class).</code></p>
 <p>Active Players have more liberty with styling their nicknames. However, while participating in a DM event, they should also adopt the proper nickname format.</p>
    </doc-panel>
-   <doc-panel id="1️️5️-no-posting-or-discussion-of-ai-art" collapsed>
+   <doc-panel id="15-no-posting-or-discussion-of-ai-art" collapsed>
        <template #title>1️️5️ <strong>No posting or discussion of AI art.</strong></template>
-<p>Do not post, discuss, or promote AI art on the server, especially in <a href="https://discord.com/channels/512870694883950598/522427573746008064" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>Do not post, discuss, or promote AI art on the server, especially in <a href="https://discord.com/channels/512870694883950598/522427573746008064" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#arts</span>
 </a>. Users who state their portraits are AI generated must change them.</p>
    </doc-panel>
-   <doc-panel id="1️️6️-no-spamming" collapsed>
+   <doc-panel id="16-no-spamming" collapsed>
        <template #title>1️️6️ <strong>No Spamming.</strong></template>
 <p>Do not spam, which includes headers, images, gifs, etc.</p>
    </doc-panel>
@@ -504,7 +504,7 @@ You may point out a rule or two if it seems your DM has overlooked them, but ple
         <span>Lesser Courthouse</span>
     </h3>
 </doc-anchor-target>
-<p>A user may be pinged in <a href="https://discord.com/channels/512870694883950598/579940883202572308" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>A user may be pinged in <a href="https://discord.com/channels/512870694883950598/579940883202572308" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#lesser-courthouse</span>
 </a> for minor mistakes or first time offenses. Please respond to the ping, and correct mistakes accordingly.</p>
@@ -514,7 +514,7 @@ You may point out a rule or two if it seems your DM has overlooked them, but ple
         <span>Demerit Point System</span>
     </h3>
 </doc-anchor-target>
-<p>For severe offenses, the offending user is summoned to <a href="https://discord.com/channels/512870694883950598/576803952830578688" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>For severe offenses, the offending user is summoned to <a href="https://discord.com/channels/512870694883950598/576803952830578688" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#courthouse</span>
 </a> and be reminded of the rules. One or more Demerit Points (DP) may be assigned to the user. The user is then informed how many total active DPs they have.</p>
@@ -532,7 +532,7 @@ You may point out a rule or two if it seems your DM has overlooked them, but ple
         <span>Ban Appeal</span>
     </h3>
 </doc-anchor-target>
-<p>It is possible to appeal for the ban via submitting <a href="https://docs.google.com/forms/d/e/1FAIpQLScOPLdQJYMcN9wW94sn5LNGzG3xKT9CG3H5ZWr-hQkNXHBSww/viewform" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>It is possible to appeal for the ban via submitting <a href="https://docs.google.com/forms/d/e/1FAIpQLScOPLdQJYMcN9wW94sn5LNGzG3xKT9CG3H5ZWr-hQkNXHBSww/viewform" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>the following form</span>
 </a>. Please note that submitting the form does not guarantee a successful appeal.</p>
@@ -555,7 +555,7 @@ For problematic posts that require immediate attention, please react to the post
 <li>This will anonymously beam the message to a private mod channel</li>
 <li>Moderators will not know who reported the message, only the details of the flagged post (original poster, message contents, &amp; date/time).
 <figure class="content-center">
-    <img src="https://i.imgur.com/fZ3Pl8g.png" alt="">
+    <img src="https://i.imgur.com/fZ3Pl8g.png" alt="" class="rounded-image-rounded border-image-border border-image-border-width" />
     <figcaption class="caption"></figcaption>
 </figure>
 </li>
@@ -579,7 +579,7 @@ For problematic posts that require immediate attention, please react to the post
         <span>Self Report</span>
     </h3>
 </doc-anchor-target>
-<p>If you discover that you have made a mistake, you may self report to <a href="https://discord.com/channels/512870694883950598/1019512399314821140" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>If you discover that you have made a mistake, you may self report to <a href="https://discord.com/channels/512870694883950598/1019512399314821140" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../images/discord-mark-blue.svg"></span>
     <span>#self-reports</span>
 </a>. Please note that this does not guarantee leniency but will increase its likelihood.</p>
@@ -588,23 +588,23 @@ For problematic posts that require immediate attention, please react to the post
                                 <!-- Required only on API pages -->
                                 <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
                             </div>
-                            <footer class="clear-both">
+                            <footer id="retype-content-footer" class="clear-both">
                             
-                                <nav class="flex mt-14">
+                                <nav id="retype-nextprev" class="print:hidden flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
-                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block text-xs font-normal text-base-text-muted">Previous</span>
                                                 <span class="block mt-1">About Us</span>
                                             </span>
                                         </a>
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../rp-rules/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../rp-rules/">
                                             <span>
-                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block text-xs font-normal text-right text-base-text-muted">Next</span>
                                                 <span class="block mt-1">Roleplay Rules</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
@@ -614,24 +614,24 @@ For problematic posts that require immediate attention, please react to the post
                             </footer>
                         </main>
                 
-                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
-                            <footer class="flex flex-wrap items-center justify-between">
-                                <div>
+                        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div id="retype-footer-links" class="print:hidden">
                                     <ul class="flex flex-wrap items-center text-sm">
                                     </ul>
                                 </div>
-                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
                             </footer>
                         </div>
                     </div>
                 
                     <!-- Rendered if sidebar right is enabled -->
                     <!-- Sidebar right skeleton-->
-                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
                         <div class="pl-5">
-                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                         </div>
                     </div>
                 
@@ -647,7 +647,7 @@ For problematic posts that require immediate attention, please react to the post
     </div>
 
 
-    <div id="docs-overlay-target"></div>
+    <div id="retype-overlay-target"></div>
 
     <script data-cfasync="false">window.__DOCS__ = { "title": "Server Rules", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>

@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793593079215">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816741152686">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 3.6.0">
+    <meta name="generator" content="Retype 3.11.0">
 
     <!-- Primary Meta Tags -->
     <title>Erratas and Rulings | DW Guide</title>
@@ -28,15 +28,15 @@
     <meta property="twitter:title" content="Erratas and Rulings | DW Guide">
     <meta property="twitter:description" content="D&D is written in the style of \"rulings over rules\", which means that the books should only be taken as a guideline and DMs have the final say.">
 
-    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.793593079215" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.816741152686" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.793593079215" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.816741152686" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -190,42 +190,42 @@
     </head>
 </head>
 <body>
-    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
-        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+        <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
     
-        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+        <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
             <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
                 <!-- Mobile menu button skeleton -->
-                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
-                <div v-cloak id="docs-sidebar-toggle"></div>
+                <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="retype-sidebar-left-toggle-button"></div>
         
                 <!-- Logo -->
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
-                        <a id="docs-site-logo" href="../../" class="flex items-center leading-snug text-2xl">
+                        <a id="retype-branding-logo" href="../../" class="flex items-center leading-snug text-2xl">
                             <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
                                 <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo-circle.png">
                                 <img class="max-h-10 hidden dark:inline-block" src="../../images/logo-circle.png">
                             </span>
-                            <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">DW Guide</span>
-                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v1.1</span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">DW Guide</span>
+                        </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">v1.1</span>
                     </div>
         
-                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                    <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
                 </div>
         
                 <div class="flex justify-between md:grow">
                     <!-- Top Nav -->
-                    <nav class="hidden md:flex">
+                    <nav id="retype-header-nav" class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Welcome!</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../character-building/start-here/">Start Here</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../faq/common-faq/">FAQ</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../faq/common-faq/">FAQ</a>
                             </li>
         
                         </ul>
@@ -239,7 +239,7 @@
                             <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
                             </div>
-                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                            <input class="w-full h-10 placeholder-search-placeholder transition-colors duration-200 ease-in bg-search-bg border border-transparent rounded md:text-sm hover:border-search-border-hover focus:outline-none focus:border-search-border-focus" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
                         </div>
         
                         <!-- Mobile search button -->
@@ -257,7 +257,7 @@
                     </div>
         
                     <div v-cloak class="flex justify-end grow">
-                        <div id="docs-mobile-search-button"></div>
+                        <div id="retype-mobile-search-button"></div>
                         <doc-search-desktop></doc-search-desktop>
         
                         <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
@@ -267,26 +267,26 @@
             </div>
         </header>
     
-        <div class="container relative flex bg-white">
+    
+        <div id="retype-container" class="container relative flex bg-white">
             <!-- Sidebar Skeleton -->
-            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
             
-                <!-- Render this div, if config.showSidebarFilter is `true` -->
                 <div class="flex items-center h-16 px-6">
-                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded shadow-none text-sm focus:outline-none focus:border-filter-border-focus" type="text" placeholder="Filter">
                 </div>
             
                 <div class="pl-6 mt-1 mb-4">
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                 </div>
             
-                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
-                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                         <span class="text-xs whitespace-nowrap">Powered by</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                     </a>
@@ -296,26 +296,26 @@
             <!-- Sidebar component -->
             <doc-sidebar v-cloak>
                 <template #sidebar-footer>
-                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
             
-                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                        <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
                             <nav>
                                 <ul class="flex flex-wrap justify-center items-center">
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Welcome!</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../character-building/start-here/">Start Here</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../faq/common-faq/">FAQ</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../faq/common-faq/">FAQ</a>
                                     </li>
             
                                 </ul>
                             </nav>
                         </div>
             
-                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                             <span class="text-xs whitespace-nowrap">Powered by</span>
                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                         </a>
@@ -323,14 +323,14 @@
                 </template>
             </doc-sidebar>
     
-            <div class="grow min-w-0 dark:bg-dark-850">
+            <div class="grow min-w-0 bg-body-bg">
                 <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
                 <div class="flex">
-                    <div class="min-w-0 p-4 grow md:px-16">
+                    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
                         <main class="relative pb-12 lg:pt-2">
-                            <div class="docs-markdown" id="docs-content">
+                            <div class="retype-markdown" id="retype-content">
                                 <!-- Rendered if sidebar right is enabled -->
-                                <div id="docs-sidebar-right-toggle"></div>
+                                <div id="retype-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
 <style>
 .codeblock-wrapper button { display: none }
@@ -345,7 +345,7 @@
 <p>The result is in the following:</p>
 <ul>
 <li>Core rulebooks have many rules to cover the possibly infinite scenarios that can arise from D&amp;D</li>
-<li>Rules that are unclear are clarified in Sage Advice, which are written by D&amp;D&#x27;s co-designer Jeremy Crawford and his team. These are compiled <a href="https://media.wizards.com/2021/dnd/downloads/SA-Compendium.pdf" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>Rules that are unclear are clarified in Sage Advice, which are written by D&amp;D&#x27;s co-designer Jeremy Crawford and his team. These are compiled <a href="https://media.wizards.com/2021/dnd/downloads/SA-Compendium.pdf" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a> from Jeremy&#x27;s Twitter account. These are called “rulings”, as they depend on interpretation and are not necessarily correct, but can be used as guidance.</li>
@@ -407,39 +407,39 @@ Server Rule Keyword: <RPXP, XP, Level, DM Event, Roleplay>
    <doc-panel id="can-you-refer-to-classes-in-character" collapsed>
        <template #title><strong>Can you refer to classes in character?</strong></template>
 <p><strong>Interpretation:</strong> The idea of character classes is a meta concept. A character belonging to a class does not necessarily identify themselves with the word the rules use for that class.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/621035485690724369/826215429629280296" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/621035485690724369/826215429629280296" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Class
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Class
 Server Rule Keyword: Roleplay</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="leveling-between-game-acceptance-and-game-start" collapsed>
        <template #title><strong>Leveling between game acceptance and game start</strong></template>
 <p><strong>Interpretation:</strong> XP from combat training (and likely other sources) is applied immediately but it&#x27;s up to each individual dm to either replace the one who leveled or let them stay, even if the game is out of their new level range.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/796859071915360297" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/796859071915360297" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Server Rule Keyword: XP, Level, DM Event</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Server Rule Keyword: XP, Level, DM Event</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="using-your-shield-arm-for-somatic-components" collapsed>
        <template #title><strong>Using your shield arm for somatic components</strong></template>
 <p><strong>Description:</strong> Performing somatic components for spells as a Paladin or Cleric, using your shield arm due to your shield being your focus.<br>
 <strong>Interpretation:</strong> If your Holy Symbol is on your shield, you may use that hand to perform somatic components of spells that have a material component that do not have a gold cost for their material component and do not have their material component consumed.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928138006085382234" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928138006085382234" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Paladin, Cleric, Holy Symbol
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Paladin, Cleric, Holy Symbol
 Spell: Somatic Components
 Item: Spellcasting Focus</code></pre>
 </doc-codeblock></div>
@@ -452,20 +452,67 @@ Item: Spellcasting Focus</code></pre>
     </h3>
 </doc-anchor-target>
 <doc-panels>
+   <doc-panel id="reflavoring-speciesrace-as-another-species" collapsed>
+       <template #title><strong>Reflavoring Species/Race as Another Species</strong></template>
+<p><strong>Interpretation:</strong> As a rule of thumb, a character cannot roleplay as a different species/race from the one on their character sheet. They cannot appear as one species while benefitting from a different one mechanically. This includes using features granted by species even if its just for flavor.</p>
+<p>For example, a player cannot create a Harengon character but appear as an Eladrin elf. In any doubt, the mechanical species must be obvious.</p>
+<p>Exceptions are Changelings as well as spells/features that allow characters to disguise or polymorph their appearance. Warped Ones are also an exception, though they must have a <a href="https://docs.google.com/document/u/0/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/mobilebasic#h.4vcw9mk3efji">Physical Abnormality</a>. Aasimar and half races (i.e. Half Elf, Half Orc, and Half Dragon) have their own special ruling below.<br>
+<strong>Link to discussion:</strong> Mentor Meeting</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<div class="codeblock-title"><strong>Tags</strong></div>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Race, Species, Flavor</code></pre>
+</doc-codeblock></div>
+   </doc-panel>
+   <doc-panel id="appearances-for-half-races-ie-half-elf-half-orc-half-dragon-or-half-oni" collapsed>
+       <template #title><strong>Appearances for Half Races (i.e. Half-Elf, Half-Orc, Half Dragon or Half-Oni)</strong></template>
+<p><strong>Interpretation:</strong> For Half Race characters, Humans are generally the most common secondary parent. However, in some cases the other parent may be another Humanoid species that is not necessarily human.</p>
+<p>As a rule of thumb, Draconic, Elven, Orcish, and Oni traits are dominant over features granted by the other parent. While a character may possess some characteristics that resemble their other parent, they should be identifiable as their mechanical race/species at a glance.</p>
+<p>For example, a Half-Dragon character whose other parent is a Harengon should have mostly dragon traits, and minimal Harengon traits. They might have patches of fur between their scales, or tiny furry ears, but are otherwise recognizable as a Half-Dragon from their reptilian limbs and tail.</p>
+<p>Disguising as another Species or similar reskinning is not possible, and characters should use the species on their character sheet when describing their appearance.<br>
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/803192028200304660/1327970179883208776" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+    <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
+    <span>Discord (staff channel)</span>
+</a></p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<div class="codeblock-title"><strong>Tags</strong></div>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Half Elf, Half Orc, Half Dragon, Half Oni, Species, Races, Reflavor</code></pre>
+</doc-codeblock></div>
+   </doc-panel>
+   <doc-panel id="appearances-for-aasimar-tielfings-and-warped-ones" collapsed>
+       <template #title><strong>Appearances for Aasimar, (Tielfings and Warped Ones)</strong></template>
+<p><strong>Description:</strong> The newest MOTM version of Aasimar describes their origins as being from any population of mortals and specifies that they may resemble their parents. This is a departure from the earlier VGTM ruling that Aasimar are descended from humans.<br>
+<strong>Interpretation:</strong> Aasimars most often descend from humans due to their versatility and resemblance to angels, followed by Elves. Other common Humanoid species such as Dwarf, Gnome, Goliath, Halfling, Orc and even Kender lineage can also result in Aasimar.</p>
+<p>Aasimar that originate from other species, such as those with more animalistic or exotic traits, are rare though not completely impossible. In particular, Eodian species (i.e. Humblewood) are less likely to become Aasimar as they follow a different religious system.</p>
+<p>A select number of origin species are fully incompatible with Aasimar. These are Awakened Animal, Aarakocra, Centaur, Owlin, Plasmoid, Shifter, Simic Hybrid, Thri-Kreen, Tiefling, Tortle, Young Treant, Yuan-Ti and Warped One. This means Aasimar characters cannot be descended from parents of those species.</p>
+<p>While an Aasimar may possess some characteristics that resemble their parents&#x27; species, they should avoid mixing multiple racial traits (e.g. both Dragonborn and Harengon) when describing their appearance. An Aasimar with non-human and/or animalistic parents should make use of an <a href="https://www.dndbeyond.com/species/1026378-aasimar">Aasimar Celestial Feature</a> or similar celestial trait.</p>
+<p>The same rules are also applied to Tieflings and Warped Ones with the following exception:<br>
+Instead of using the Aasimar Celestial Feature</p>
+<ul>
+<li>Tieflings must have horns and a tail</li>
+<li>Warped Ones must have a <a href="https://docs.google.com/document/u/0/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/mobilebasic#h.4vcw9mk3efji">Physical Abnormality</a></li>
+</ul>
+<p><strong>Link to discussion:</strong> FanMail</p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<div class="codeblock-title"><strong>Tags</strong></div>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Aasimar, Tiefling, Warped One, Species, Races, Reflavor</code></pre>
+</doc-codeblock></div>
+   </doc-panel>
+</doc-panels>
+<doc-panels>
    <doc-panel id="awakened-animals-and-components" collapsed>
        <template #title><strong>Awakened Animals and Components</strong></template>
 <p><strong>Interpretation:</strong> Awakened Animal PCs can use their paws for somatic components.</p>
 <p>Additionally, druids/rangers can wear any type of accessory (i.e. tiara, hairpin) made of mistletoe to bypass having to hold druidic foci for just material components. As long as you have a hand (can be the same one for somatic components) to at least touch the focus when you cast spells.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/550853405887823903/812586811943419925" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/550853405887823903/812586811943419925" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
-</a> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928355830334636053" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928355830334636053" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Awakened Cat, Awakened Dog
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Awakened Cat, Awakened Dog
 Class/Classfeat: Druid, Ranger
 Item: Spellcasting focus, Druidic focus</code></pre>
 </doc-codeblock></div>
@@ -473,26 +520,39 @@ Item: Spellcasting focus, Druidic focus</code></pre>
    <doc-panel id="awakened-animals-and-arcane-armor" collapsed>
        <template #title><strong>Awakened Animals and Arcane Armor</strong></template>
 <p><strong>Interpretation:</strong> If you normally would not be able to wear the armor due to a trait like Quadruped Frame, you ignore that trait with the arcane armor.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/803192028200304660/1297619286424293497" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/803192028200304660/1297619286424293497" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord (staff channel)</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Awakened Animal's Quadruped Form
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Awakened Animal's Quadruped Form
 Subclass/Subclassfeat: Armorer Artificer's Arcane Armor</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="feral-tiefling-from-mtof-and-tiefling-bloodlines-from-scag" collapsed>
        <template #title><strong>Feral Tiefling from MTOF and Tiefling Bloodlines from SCAG</strong></template>
-<p><strong>Interpretation:</strong> you cannot play a feral tiefling with a different bloodline than the Bloodline of Asmodeus subrace from the PHB, meaning that feral tieflings are only compatible with the Winged, Devil&#x27;s Tongue, and Hellfire variant traits.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/871745695491715173" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p><strong>Interpretation:</strong> You cannot play a feral tiefling with a different bloodline than the Bloodline of Asmodeus subrace from the PHB, meaning that feral tieflings are only compatible with the Winged, Devil&#x27;s Tongue, and Hellfire variant traits.<br>
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/871745695491715173" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongue, Hellfire</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongue, Hellfire</code></pre>
+</doc-codeblock></div>
+   </doc-panel>
+   <doc-panel id="warped-ones-circlet-of-human-perfection" collapsed>
+       <template #title><strong>Warped Ones: Circlet of Human Perfection</strong></template>
+<p><strong>Changes:</strong> The homebrew race, Warped Ones, can attune to the Circlet of Human Perfection.<br>
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/775917313207173150/1363712488364834836" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+    <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
+    <span>Discord (staff channel)</span>
+</a></p>
+<div class="codeblock-wrapper"><doc-codeblock>
+<div class="codeblock-title"><strong>Tags</strong></div>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Warped One, Homebrew Races
+Item: Circlet of Human Perfection</code></pre>
 </doc-codeblock></div>
    </doc-panel>
 </doc-panels>
@@ -506,29 +566,29 @@ Subclass/Subclassfeat: Armorer Artificer's Arcane Armor</code></pre>
    <doc-panel id="artificer-replicate-magic-item" collapsed>
        <template #title><strong>Artificer: Replicate Magic Item</strong></template>
 <p><strong>Description</strong> Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.<br>
-<strong>Changes:</strong> Alternatively, you can choose the magic item from among the common magic items in <a href="https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/#heading=h.c7hbl2h4haro" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Changes:</strong> Alternatively, you can choose the magic item from among the common magic items in <a href="https://docs.google.com/document/d/166Do3cLcg_NYRZqSaAN34LQxY9C5xda5WDb9kYezJMM/#heading=h.c7hbl2h4haro" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>the Black Market Bin</span>
 </a>, not including potions or scrolls.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/1259009819583713311/1275250656810373322" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/1259009819583713311/1275250656810373322" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a> (Mentor+)</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Artificer, Infuse Item, Replicate Magic Item</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Artificer, Infuse Item, Replicate Magic Item</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="bard-spells-learned-from-magical-secrets-can-benefit-from-dw-variant-spell-versatility-feature" collapsed>
        <template #title><strong>Bard: Spells learned from Magical Secrets can benefit from DW variant spell versatility feature.</strong></template>
 <p><strong>Interpretation:</strong> If a feature expands a class spell list (e.g. in Magical Secret&#x27;s case), those spells can benefit from DW variant spell versatility feature. If a feature adds a specific list spells (e.g. in Draconic Spells&#x27; case), they cannot benefit from DW variant spell versatility feature.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1108408169031536742" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1108408169031536742" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord (staff channel)</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Bard, Magical Secrets
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Bard, Magical Secrets
 Subclass/Subclassfeat: College of Lore Bard, Additional Magical Secrets
 Server Rule Keyword: DW Variant Spell Versatility</code></pre>
 </doc-codeblock></div>
@@ -536,112 +596,112 @@ Server Rule Keyword: DW Variant Spell Versatility</code></pre>
    <doc-panel id="blood-hunter-if-you-have-the-polearm-master-feat-does-the-ba-attack-also-get-crimson-rite-damage" collapsed>
        <template #title><strong>Blood Hunter: If you have the Polearm Master Feat, does the BA attack also get crimson rite damage?</strong></template>
 <p><strong>Interpretation:</strong> Yes, it does<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927765438392311818" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927765438392311818" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Blood Hunter, Crimson Rite
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Blood Hunter, Crimson Rite
 Feat: Polearm Master</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="druid-injuries-and-similar-conditions-carry-over-into-wildshape" collapsed>
        <template #title><strong>Druid: Injuries (and similar conditions) carry over into Wildshape</strong></template>
 <p><strong>Interpretation:</strong> A druid can&#x27;t use wildshape to ignore the effects of an injury or illness gained from downtime<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/693302580092076033" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/693302580092076033" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid, wild shape</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid, wild shape</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="druid-metal-equipment" collapsed>
        <template #title><strong>Druid: Metal Equipment</strong></template>
 <p><strong>Interpretation:</strong> Druids can use metal equipment<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/766828046002683925" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/766828046002683925" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a><br></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid
 Item: Metal equipment</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="druid-wild-shape-clarification" collapsed>
        <template #title><strong>Druid: Wild Shape Clarification</strong></template>
-<p><strong>Rule:</strong> You can use your action to magically assume the shape of a beast that you have seen before
+<p><strong>Rule:</strong> You can use your action to magically assume the shape of a beast that you have seen before<br>
 <strong>Interpretation:</strong> You need to have seen the actual creature. Seeing someone else shapechanged/wildshaped/polymorphed/etc. into the creature does not count<br>
 <strong>Link to discussion:</strong> FanMail</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid, wild shape</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid, wild shape</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="monk-dedicated-weapon" collapsed>
        <template #title><strong>Monk: Dedicated Weapon</strong></template>
 <p><strong>Interpretation:</strong> If the one weapon is a dart, then you can treat all darts as monk weapons. May extend to other thrown weaponry.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/783022392544985179" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/783022392544985179" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Monk
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Monk
 Item: Dart, thrown weapon</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="monk-shields-magic-shields-and-the-martial-arts-class-feature" collapsed>
        <template #title><strong>Monk: Shields, Magic Shields, and the Martial Arts class feature</strong></template>
 <p><strong>Interpretation:</strong> For the purposes of a shield (specifically magic shields), &quot;holding&quot; a shield is the same thing as &quot;wearing&quot; or &quot;wielding&quot; said shield.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/832993547275862077" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/832993547275862077" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Monk, Martial Arts
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Monk, Martial Arts
 Item: Shield, Magic Shield</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="paladin-divine-smites-with-unarmed-strikes" collapsed>
        <template #title><strong>Paladin: Divine Smites with Unarmed Strikes</strong></template>
 <p><strong>Interpretation:</strong> A paladin can use a divine smite when attacking with an unarmed strike or natural weapon<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/582100197329469440/775929675158388736" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/582100197329469440/775929675158388736" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Paladin, divine smite</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Paladin, divine smite</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="paladin-smite-spells-with-unarmed-strikes" collapsed>
        <template #title><strong>Paladin: Smite Spells with Unarmed Strikes</strong></template>
 <p><strong>Interpretation:</strong> Smite spells like Thunderous Smite can be applied to melee attacks made using unarmed strikes or natural weapons without requiring the caster to hold a weapon.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/899327893098889268" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/899327893098889268" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Paladin
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Paladin
 Spell: Smite, Thunderous smite</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="sorcerer-aberrant-mind-sorcerers-swapping-psionic-spells" collapsed>
        <template #title><strong>Sorcerer: Aberrant Mind Sorcerers Swapping Psionic Spells</strong></template>
 <p><strong>Interpretation:</strong> You can swap out a psionic spell on the same level on which you gain it.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/901284342804910110" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/901284342804910110" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class: Sorcerer
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class: Sorcerer
 Subclass/Subclassfeat: Aberrant Mind, Psionic Spells
 Server Rule Keyword: Leve</code></pre>
 </doc-codeblock></div>
@@ -649,16 +709,16 @@ Server Rule Keyword: Leve</code></pre>
    <doc-panel id="warlock-replacing-your-book-of-shadows" collapsed>
        <template #title><strong>Warlock: Replacing your Book of Shadows</strong></template>
 <p><strong>Interpretation:</strong> If a warlock with the Pact of the Tome feature uses the ritual to receive a replacement for their Book of Shadows from their patron, it has the same contents as before, including miscellaneous content not related to your warlock class features.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/713284277181349990" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/713284277181349990" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
-</a> <a href="https://discord.com/channels/512870694883950598/730973655496130637/886982902125043762" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a> <a href="https://discord.com/channels/512870694883950598/730973655496130637/886982902125043762" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></br></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Warlock, Pact of the Tome, Book of Shadows</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Warlock, Pact of the Tome, Book of Shadows</code></pre>
 </doc-codeblock></div>
    </doc-panel>
 </doc-panels>
@@ -673,18 +733,18 @@ Server Rule Keyword: Leve</code></pre>
        <template #title><strong>Chef: Ingredient requirements and other forms of cooking</strong></template>
 <p><strong>Interpretation:</strong> The costs of ingredients for cooking or preparing treats, while done in snowhaven and outside of bounties, are covered by Lifestyle or the Snowhaven Full Time Adventurer Scheme. If you are in a bounty and would prepare treats and/or cook food you must have the perquisite ingredients in order to do so. A DM may choose to bypass this restriction through foraging or other means.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">Cooking Supplies
+<pre translate="no" class="language-none"><code v-pre class="language-none">Cooking Supplies
 Adventuring Gear, none
 5 cp, 0.5 lbs.
 Cooking supplies consist of various foods, spices, seasonings and other ingredients required to cook a proper meal. Each unit of represent the required amount of ingredients for a single serving.</code></pre>
 </doc-codeblock></div>
-<p><strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/783372841940680754" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p><strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/783372841940680754" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Feat: Chef
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Feat: Chef
 Item: Cooking ingredients</code></pre>
 </doc-codeblock></div>
    </doc-panel>
@@ -695,26 +755,26 @@ Item: Cooking ingredients</code></pre>
 <li>For Durable Feat: &quot;the minimum number of hit points you regain from the roll equals twice your Constitution modifier&quot; means any dice result on the hit dice that is lower than the constitution modifier is replaced with the con mod before adding the mod to the result, which is 2*your con mod. e.g. If you have a con mod of 4, any number on the hit dice roll that is lower than 4 becomes 4, and then you add 4 to the dice, which is 8.</li>
 <li>For Periapt of Wound Closure: &quot;whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.&quot; means you double the sum of dice roll + CON mod, e.g. If you have a con mod of 4 and the dice roll was 6, you regain (4 + 6) x 2 = 20 hit points.</li>
 </ul>
-<p><strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1065608507438682122" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p><strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1065608507438682122" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord (staff channel)</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Feat: Durable
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Feat: Durable
 Item: Periapt of Wound Closure</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="scythes-and-polearm-master-feat" collapsed>
        <template #title><strong>Scythes and Polearm Master Feat</strong></template>
 <p><strong>Interpretation</strong> The homebrew scythe weapon is considered a glaive and works with the Polearm Master feat.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/1138591406798143529" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/1138591406798143529" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Feat: Polearm Master
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Feat: Polearm Master
 Item: Scythe</code></pre>
 </doc-codeblock></div>
    </doc-panel>
@@ -729,25 +789,25 @@ Item: Scythe</code></pre>
    <doc-panel id="animate-dead-do-you-need-to-have-the-spell-prepared-to-command-the-undead" collapsed>
        <template #title><strong>Animate Dead: Do you need to have the spell prepared to command the undead?</strong></template>
 <p><strong>Interpretation:</strong> No, but if you can&#x27;t cast the spell again once the 24 hours are up, the undead escape from your control. So unless that is intended, it is unlikely to be able to unprepare and prepare it again before the time is up.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927497861430665277" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927497861430665277" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Animate Dead</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Animate Dead</code></pre>
 </doc-codeblock></div>
    </doc-panel>
-   <doc-panel id="animate-dead-can-undead-specifically-skeletons-have-additional-armor-armaments-over-what-is-listed-in-their-statblock" collapsed>
+   <doc-panel id="animate-dead-can-undead-specifically-skeletons-have-additional-armorarmaments-over-what-is-listed-in-their-statblock" collapsed>
        <template #title><strong>Animate Dead: Can Undead (specifically skeletons) have additional armor/armaments over what is listed in their statblock?</strong></template>
 <p><strong>Interpretation:</strong> Yes, but they are only proficient in shortbows/shortswords, and scraps of armor. Anything else would require the rules for using equipment you are not proficient in.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927633870050955265" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927633870050955265" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Item: Weapons/Equipment, Proficiency</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Item: Weapons/Equipment, Proficiency</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="animate-dead-killing-undead-created-by-the-spell" collapsed>
@@ -757,31 +817,31 @@ Item: Scythe</code></pre>
 <p>E.g. The summoner can kill their undead servants and then reanimate them at no additional material cost. You may kill your undead servants without DM oversight so long as they are still under your control.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Animate Dead</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Animate Dead</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="command-does-the-command-daydream-break-concentration" collapsed>
        <template #title><strong>Command: Does the command &quot;Daydream&quot; break concentration?</strong></template>
 <p><strong>Interpretation:</strong> No, since nothing in the spell&#x27;s description specifies it breaking concentration nor inflicting the incapacitated condition (which does break concentration).<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927269017188720670" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927269017188720670" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Command</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Command</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="goodberry-combining-goodberry-with-the-life-cleric-feature-disciple-of-life" collapsed>
        <template #title><strong>Goodberry: Combining Goodberry with the Life Cleric feature Disciple of Life</strong></template>
 <p><strong>Interpretation:</strong> Each berry created by goodberry gains the benefit of Disciple of Life if you have that feature.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/704652209773609018" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/704652209773609018" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid, Ranger, Cleric
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid, Ranger, Cleric
 Subclass/Subclassfeat: Life Domain, Disciple of Life
 Spell: Goodberry</code></pre>
 </doc-codeblock></div>
@@ -789,26 +849,26 @@ Spell: Goodberry</code></pre>
    <doc-panel id="mage-armor-interactions-with-shields" collapsed>
        <template #title><strong>Mage Armor: Interactions with shields</strong></template>
 <p><strong>Interpretation:</strong> A shield is in the armor section, but not considered armor for the purposes of ending Mage Armor<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/781550250229235712" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/781550250229235712" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Mage Armor
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Mage Armor
 Item: Shield</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="protection-from-evil-and-good-component-costs" collapsed>
        <template #title><strong>Protection from Evil and Good: Component Costs</strong></template>
 <p><strong>Interpretation:</strong> The amount of holy water consumed per casting is negligible, but it&#x27;s not possible to replace the holy water with a spellcasting focus.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/694402377075392583" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/694402377075392583" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Cleric, Paladin, Warlock, Wizard
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Cleric, Paladin, Warlock, Wizard
 Subclass/Subclassfeat: Oath of Devotion
 Spell: Protection from Evil and Good
 Item: Spell component, holy water</code></pre>
@@ -817,13 +877,13 @@ Item: Spell component, holy water</code></pre>
    <doc-panel id="revivify-reincarnation-resurrection-etc-can-diamond-dust-be-used-as-a-material-component" collapsed>
        <template #title><strong>Revivify, Reincarnation, Resurrection, etc.: Can Diamond Dust Be Used as a Material Component?</strong></template>
 <p><strong>Interpretation:</strong> If the spell specifies &quot;A Diamond&quot; it needs a singular diamond. If it says &quot;Diamonds&quot;, then Diamond Dust is fine.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927743658235666523" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927743658235666523" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Resurrection Spells
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Resurrection Spells
 Item: Diamonds</code></pre>
 </doc-codeblock></div>
    </doc-panel>
@@ -835,107 +895,107 @@ Item: Diamonds</code></pre>
     </h3>
 </doc-anchor-target>
 <doc-panels>
-   <doc-panel id="bard-rogue-does-jack-of-all-trades-stack-with-reliable-talent" collapsed>
+   <doc-panel id="bardrogue-does-jack-of-all-trades-stack-with-reliable-talent" collapsed>
        <template #title><strong>Bard/Rogue: Does Jack of All Trades stack with Reliable Talent?</strong></template>
 <p><strong>Interpretation:</strong> No, you&#x27;re not considered proficient in skills boosted via Jack of All Trades, therefore Reliable Talent does not apply.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927887737737072672" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927887737737072672" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Jack of All Trades, Reliable Talent</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Jack of All Trades, Reliable Talent</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="cleric-can-the-8th-level-blessed-strikes-cleric-feature-be-used-on-non-cleric-cantrips" collapsed>
        <template #title><strong>Cleric: Can the 8th-level Blessed Strikes Cleric feature be used on non-Cleric cantrips?</strong></template>
 <p><strong>Interpretation:</strong> Yes, Blessed Strikes can be used on any cantrip of yours<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927007291272728596" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927007291272728596" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Cleric, 8th-level Blessed Strikes
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Cleric, 8th-level Blessed Strikes
 Spell: Cantrips</code></pre>
 </doc-codeblock></div>
    </doc-panel>
-   <doc-panel id="cleric-paladin-using-a-holy-symbol-as-a-spellcasting-focus-for-multiple-classes" collapsed>
+   <doc-panel id="clericpaladin-using-a-holy-symbol-as-a-spellcasting-focus-for-multiple-classes" collapsed>
        <template #title><strong>Cleric/Paladin: Using a Holy Symbol as a Spellcasting Focus for multiple classes</strong></template>
 <p><strong>Interpretation:</strong> Both Paladins and Clerics can use a Holy Symbol as their Spellcasting Focus, but no other class can.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928120968168218685" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928120968168218685" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Cleric, Paladin, Holy Symbol
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Cleric, Paladin, Holy Symbol
 Item: Spellcasting Focus, Holy Symbol</code></pre>
 </doc-codeblock></div>
    </doc-panel>
-   <doc-panel id="rogue-soulknife-psychic-blades-and-extra-attack" collapsed>
+   <doc-panel id="roguesoulknife-psychic-blades-and-extra-attack" collapsed>
        <template #title><strong>Rogue—Soulknife: Psychic Blades and Extra Attack</strong></template>
 <p><strong>Interpretation:</strong> If you have Extra Attack, you can use the Soulknife rogue&#x27;s Psychic Blades feature for all attacks made as part of an Attack action, making a new blade for each attack.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/814181477910577154" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/814181477910577154" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Rogue, Extra attack
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Rogue, Extra attack
 Subclass/Subclassfeat: Soulknife, Psychic blades</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="spell-versatility-when-multiclassing" collapsed>
        <template #title><strong>Spell Versatility when multiclassing</strong></template>
 <p><strong>Interpretation:</strong> You can only switch out one spell via spell versatility on a LR no matter how many classes you MC into.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/823809735295500329" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/823809735295500329" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Spell versatility, Multiclass</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Spell versatility, Multiclass</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="spellcasting-foci-and-multiclassing-material-components-and-free-hands" collapsed>
        <template #title><strong>Spellcasting Foci and multiclassing, material components and free hands</strong></template>
 <p><strong>Interpretation:</strong> When multiclassed between 2 caster classes that require different types of Spellcasting Focuses, you must have a separate focus for each class&#x27;s spells. E.G. A Cleric/Warlock would need a Holy Symbol and an Arcane Focus; a Sorcerer/Warlock would only need one Arcane Focus.</p>
 <p>Additionally, if you are casting a spell that has a GP cost as a material component, you must have a free hand that&#x27;s not holding a shield nor weapon.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928139176770166794" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928139176770166794" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
-</a> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928139436892508231" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928139436892508231" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Multiclassing, Material Costs</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Multiclassing, Material Costs</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="using-magical-spellcasting-foci-for-different-classes" collapsed>
        <template #title><strong>Using magical spellcasting foci for different classes</strong></template>
 <p><strong>Interpretation:</strong>  If a magic item says &quot;If you&#x27;re a spellcaster, you can use this item as a spellcasting focus&quot;, you can use it as a spellcasting focus even if it isn&#x27;t a type of item your class can normally use as a focus.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/698083830380232704" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/698083830380232704" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Item: Spellcasting Focus</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Item: Spellcasting Focus</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="wizard-using-a-book-gained-from-another-class-feature-as-a-spellbook" collapsed>
        <template #title><strong>Wizard: Using a book gained from another class feature as a spellbook</strong></template>
 <p><strong>Interpretation:</strong> A book such as a Pact of the Tome warlock&#x27;s Book of Shadows or a Ritual Caster&#x27;s ritual book can be used as a spellbook. However, spells inscribed into it using such a feature don&#x27;t count as wizard spells known.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/886980479172091904" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/886980479172091904" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Warlock, Wizard, Pact of the Tome, Book of Shadows, Spellbook
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Warlock, Wizard, Pact of the Tome, Book of Shadows, Spellbook
 Feat: Ritual Caster</code></pre>
 </doc-codeblock></div>
    </doc-panel>
@@ -950,25 +1010,25 @@ Feat: Ritual Caster</code></pre>
    <doc-panel id="can-a-dragonchess-set-be-reflavored-as-a-normal-chess-set" collapsed>
        <template #title><strong>Can a Dragonchess set be reflavored as a normal chess set?</strong></template>
 <p><strong>Interpretation:</strong> Yes, it can.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928615334452289587" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/928615334452289587" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Item: Dragonchess set</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Item: Dragonchess set</code></pre>
 </doc-codeblock></div>
    </doc-panel>
-   <doc-panel id="cape-cloak-magic-item-slot" collapsed>
+   <doc-panel id="cape--cloak-magic-item-slot" collapsed>
        <template #title><strong>Cape / Cloak Magic Item Slot</strong></template>
 <p><strong>Interpretation:</strong> A PC may only have one slot for a cape or a cloak. They cannot benefit from more than 1 at a time.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/1216866330830049483/1216900780263473182" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/1216866330830049483/1216900780263473182" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Item: Cloak / Cape
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Item: Cloak / Cape
 Server Rule Keyword: Item Slots, Magic Item, Stacking Item slots</code></pre>
 </doc-codeblock></div>
    </doc-panel>
@@ -976,54 +1036,54 @@ Server Rule Keyword: Item Slots, Magic Item, Stacking Item slots</code></pre>
        <template #title><strong>Making Toys Using Woodcarvers Tools</strong></template>
 <p><strong>Description:</strong> Buying materials from the market and/or making toys out of wood with woodcarvers tools without being in a guild that has Crafting DTD<br>
 <strong>Interpretation:</strong> If you&#x27;re proficient with woodworking tools and have them, you can make toys without being in a guild that has Crafting DTD. Additionally, you do not need to buy materials from the market to make said toys either.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927233286659534858" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/927233286659534858" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Item: Woodworking tools</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Item: Woodworking tools</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="picking-a-ranged-weapon-as-starting-equipment" collapsed>
        <template #title><strong>Picking a Ranged Weapon as Starting Equipment</strong></template>
 <p><strong>Interpretation:</strong> If you start with a ranged weapon from starting equipment by picking one from a &quot;any simple/martial weapon&quot; option, you also start with 20 of the weapon&#x27;s ammunition.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/546725434608451584/799099180752437288" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/546725434608451584/799099180752437288" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
-</a> <a href="https://discord.com/channels/512870694883950598/730973655496130637/799106178624782366" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+</a> <a href="https://discord.com/channels/512870694883950598/730973655496130637/799106178624782366" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Item: Ranged weapon, starting equipment</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Item: Ranged weapon, starting equipment</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="ring-of-regeneration-interactions-with-downtime-injuries" collapsed>
        <template #title><strong>Ring of Regeneration Interactions with Downtime Injuries</strong></template>
 <p><strong>Interpretation:</strong> It takes <strong>3 days</strong> for Ring of Regeneration to heal one downtime injury. You can heal multiple injuries at the same time, with separate timer for each.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1135440988987457566" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1135440988987457566" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a><br>
 For the ease of tracking, instead of the original 1d6 + 1 days, we have decided to fix it to 3 days.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Item: Ring of Regeneration (Very Rare)
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Item: Ring of Regeneration (Very Rare)
 Server Rule Keyword: DTD, Downtime, Injury</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="staffs-as-arcane-and-druidic-foci" collapsed>
        <template #title><strong>Staffs as Arcane and Druidic foci</strong></template>
 <p><strong>Interpretation:</strong> If a staff intended to be used as an arcane focus is made of wood, it can also be used as a druidic focus.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/722187796147601558" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/722187796147601558" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Druid
 Item: Spellcasting focus, Druidic focus, Staff</code></pre>
 </doc-codeblock></div>
    </doc-panel>
@@ -1038,25 +1098,25 @@ Item: Spellcasting focus, Druidic focus, Staff</code></pre>
    <doc-panel id="drow-sunlight-sensitivity" collapsed>
        <template #title><strong>Drow: Sunlight Sensitivity</strong></template>
 <p><strong>Changes:</strong> Sunlight Sensitivity is an optional feature, and is no longer required.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/803192028200304660/1203409654034472960" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/803192028200304660/1203409654034472960" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord (staff channel)</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Drow Sunlight Sensitivity</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Race/Racefeat: Drow Sunlight Sensitivity</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="equipment-ring-of-spell-storing" collapsed>
        <template #title><strong>Equipment: Ring of Spell Storing</strong></template>
 <p><strong>Changes:</strong> Any benefits or changes granted by a spell or spell effect, including instantaneous effects such as Find Familiar and Find (Greater) Steed, cast from the Ring of Spell Storing end when a creature other than you attunes to the item.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1102977200556355644" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1102977200556355644" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Spellcasting
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Spellcasting
 Item: Ring of Spell Storing</code></pre>
 </doc-codeblock></div>
    </doc-panel>
@@ -1068,97 +1128,97 @@ Item: Ring of Spell Storing</code></pre>
 <li>You may only designate one spell as your Hidden Ace per long rest, and may only use your Hidden Ace to cast a spell as a BA once per long rest -- no, you cannot abuse this feat by multiclassing and acquiring multiple spell lists.</li>
 <li>Your Hidden Ace must be of a spell level you can cast normally: you cannot play a wizard 19 / cleric 1 who grabs this feat to select and cast Mass Heal as a BA. You could, however, select a 1st-level cleric spell and cast it as a BA using any level of spell slot available to you.</li>
 </ul>
-<p><strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/720529747817529374/1237220291667558430" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p><strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/720529747817529374/1237220291667558430" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Cartomancer</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Cartomancer</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="feat-divinely-favored" collapsed>
        <template #title><strong>Feat: Divinely Favored</strong></template>
 <p><strong>Changes:</strong> The feat&#x27;s 1st-level spell list is determined by the character&#x27;s alignment at the time they take the feat. Changing the spell list requires a rebuild.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/740436215547035729/1101506310563954729" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/740436215547035729/1101506310563954729" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord (staff channel)</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Divinely Favoured, Feat</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Divinely Favoured, Feat</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="monk-unarmored-defense" collapsed>
        <template #title><strong>Monk: Unarmored Defense</strong></template>
 <p><strong>Description:</strong> If you already have the Unarmored Defense feature, you can&#x27;t gain it again from another class.<br>
 <strong>Changes:</strong> If you have acquired the Unarmored Defense feature from two different classes, you get to choose which Unarmored Defense you benefit from.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/838636813710393385" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/838636813710393385" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Barbarian, Monk, Unarmored Defense, Multiclass</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: Barbarian, Monk, Unarmored Defense, Multiclass</code></pre>
 </doc-codeblock></div>
    </doc-panel>
-   <doc-panel id="sorcerer-wild-magic-chaos-features" collapsed>
+   <doc-panel id="sorcererwild-magic-chaos-features" collapsed>
        <template #title><strong>Sorcerer—Wild Magic: Chaos Features</strong></template>
 <p><strong>Description:</strong> Cohort of Chaos&#x27; &quot;Chaotic Flare&quot; feature as well as the Wild Magic sorcerer&#x27;s &quot;Wild Magic Surge,&quot; &quot;Tides of Chaos,&quot; and  &quot;Controlled Chaos&quot; features.<br>
 <strong>Changes:</strong> Chaotic Flares and Wild Magic rolls can only cause damage to other creatures within the confines of the arena or while a DM is supervising the interaction. If a Chaotic Flare of Wild Magic Surge would deal damage outside of these circumstances, the player may choose to either reroll the effect or ignore the roll entirely.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/1237261298493034506/1237435142629228615" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/1237261298493034506/1237435142629228615" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Subclass/Subclassfeat: Wild Magic sorcerer.
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Subclass/Subclassfeat: Wild Magic sorcerer.
 Feat: Cohort of Chaos, Chaotic Flare</code></pre>
 </doc-codeblock></div>
    </doc-panel>
-   <doc-panel id="spell-casting-spells-while-transformed-e-g-polymorph" collapsed>
+   <doc-panel id="spell-casting-spells-while-transformed-eg-polymorph" collapsed>
        <template #title><strong>Spell: Casting Spells While Transformed (e.g. Polymorph)</strong></template>
 <p><strong>Description:</strong> Some spells, such as True Polymorph, allow a spellcaster to transform a creature into a different creature or summon a creature, which may respectively gain or have the ability to cast particular spells without requiring spell components.<br>
 <strong>Changes:</strong> The transformed creature must still provide any material components that has a cost and/or is consumed for the casting of these spells. If the creature was summoned, the spellcaster who summoned it must provide such components instead. If the component is consumed by the spell, the component must be provided for each casting of the spell.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/740436215547035729/1153809815068475433" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/740436215547035729/1153809815068475433" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a> (FanMail)</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: True Polymorph, Summon Spells
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Class/Classfeat: True Polymorph, Summon Spells
 Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasting, Psionics</code></pre>
 </doc-codeblock></div>
    </doc-panel>
    <doc-panel id="spell-plane-shift" collapsed>
        <template #title><strong>Spell: Plane Shift</strong></template>
 <p><strong>Changes:</strong> You can only use a specific tuning fork material component for transport to the plane that it is tuned to.<br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/828514093563379753" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/513452707617570828/828514093563379753" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Plane Shift</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Plane Shift</code></pre>
 </doc-codeblock></div>
    </doc-panel>
 </doc-panels>
 <doc-panel id="spell-reincarnate-targets" collapsed>
     <template #title><strong>Spell: Reincarnate Targets</strong></template>
 <p><strong>Changes:</strong> Reincarnate is capable of targeting and affecting dead <em>Player Characters</em> only, regardless of if they are humanoid or not. This does not affect non-player characters such as pets or other creatures. <br>
-<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1153458254794461184" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<strong>Link to discussion:</strong> <a href="https://discord.com/channels/512870694883950598/730973655496130637/1153458254794461184" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>Discord</span>
 </a></p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <div class="codeblock-title"><strong>Tags</strong></div>
-<pre class="language-yaml"><code v-pre class="language-yaml">Spell: Reincarnate</code></pre>
+<pre translate="no" class="language-yaml"><code v-pre class="language-yaml">Spell: Reincarnate</code></pre>
 </doc-codeblock></div>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-primary" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
                     <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -1167,7 +1227,7 @@ Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasti
             </svg>
         </div>
         <div class="pr-5 ml-3 w-full">
-<p>This list of Erratas is currently WIP. For the full list of changes to Spells, certain Racial Features, Class features, and Versatility features, please see <a href="https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>This list of Erratas is currently WIP. For the full list of changes to Spells, certain Racial Features, Class features, and Versatility features, please see <a href="https://docs.google.com/document/d/1n3h5AUgzscyKRJgFIDQkMuLbnl87oOfj4HUalVySXCo/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a>.</p>
@@ -1180,23 +1240,23 @@ Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasti
                                 <!-- Required only on API pages -->
                                 <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
                             </div>
-                            <footer class="clear-both">
+                            <footer id="retype-content-footer" class="clear-both">
                             
-                                <nav class="flex mt-14">
+                                <nav id="retype-nextprev" class="print:hidden flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../faq/bots/">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../faq/bots/">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
-                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block text-xs font-normal text-base-text-muted">Previous</span>
                                                 <span class="block mt-1">Bot FAQ</span>
                                             </span>
                                         </a>
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../misc/birthdays/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../misc/birthdays/">
                                             <span>
-                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block text-xs font-normal text-right text-base-text-muted">Next</span>
                                                 <span class="block mt-1">Birthdays</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
@@ -1206,24 +1266,24 @@ Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasti
                             </footer>
                         </main>
                 
-                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
-                            <footer class="flex flex-wrap items-center justify-between">
-                                <div>
+                        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div id="retype-footer-links" class="print:hidden">
                                     <ul class="flex flex-wrap items-center text-sm">
                                     </ul>
                                 </div>
-                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
                             </footer>
                         </div>
                     </div>
                 
                     <!-- Rendered if sidebar right is enabled -->
                     <!-- Sidebar right skeleton-->
-                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
                         <div class="pl-5">
-                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                         </div>
                     </div>
                 
@@ -1239,7 +1299,7 @@ Special Trait: (via transformation or summoning) Spellcasting, Innate Spellcasti
     </div>
 
 
-    <div id="docs-overlay-target"></div>
+    <div id="retype-overlay-target"></div>
 
     <script data-cfasync="false">window.__DOCS__ = { "title": "Server Rulings", level: 2, icon: "file", hasPrism: true, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>

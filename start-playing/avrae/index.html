@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793593079215">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816741152686">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 3.6.0">
+    <meta name="generator" content="Retype 3.11.0">
 
     <!-- Primary Meta Tags -->
     <title>Avrae Commands | DW Guide</title>
@@ -28,14 +28,14 @@
     <meta property="twitter:title" content="Avrae Commands | DW Guide">
     <meta property="twitter:description" content="Avrae is our virtual dice bot that we use to make all dice rolls on the server.">
 
-    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.6.0.793593079215" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.816741152686" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793593079215" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.816741152686" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -189,42 +189,42 @@
     </head>
 </head>
 <body>
-    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
-        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+        <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
     
-        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+        <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
             <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
                 <!-- Mobile menu button skeleton -->
-                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
-                <div v-cloak id="docs-sidebar-toggle"></div>
+                <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="retype-sidebar-left-toggle-button"></div>
         
                 <!-- Logo -->
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
-                        <a id="docs-site-logo" href="../../" class="flex items-center leading-snug text-2xl">
+                        <a id="retype-branding-logo" href="../../" class="flex items-center leading-snug text-2xl">
                             <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
                                 <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo-circle.png">
                                 <img class="max-h-10 hidden dark:inline-block" src="../../images/logo-circle.png">
                             </span>
-                            <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">DW Guide</span>
-                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v1.1</span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">DW Guide</span>
+                        </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">v1.1</span>
                     </div>
         
-                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                    <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
                 </div>
         
                 <div class="flex justify-between md:grow">
                     <!-- Top Nav -->
-                    <nav class="hidden md:flex">
+                    <nav id="retype-header-nav" class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Welcome!</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../character-building/start-here/">Start Here</a>
                             </li>
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../faq/common-faq/">FAQ</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../faq/common-faq/">FAQ</a>
                             </li>
         
                         </ul>
@@ -238,7 +238,7 @@
                             <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
                             </div>
-                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                            <input class="w-full h-10 placeholder-search-placeholder transition-colors duration-200 ease-in bg-search-bg border border-transparent rounded md:text-sm hover:border-search-border-hover focus:outline-none focus:border-search-border-focus" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
                         </div>
         
                         <!-- Mobile search button -->
@@ -256,7 +256,7 @@
                     </div>
         
                     <div v-cloak class="flex justify-end grow">
-                        <div id="docs-mobile-search-button"></div>
+                        <div id="retype-mobile-search-button"></div>
                         <doc-search-desktop></doc-search-desktop>
         
                         <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
@@ -266,26 +266,26 @@
             </div>
         </header>
     
-        <div class="container relative flex bg-white">
+    
+        <div id="retype-container" class="container relative flex bg-white">
             <!-- Sidebar Skeleton -->
-            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
             
-                <!-- Render this div, if config.showSidebarFilter is `true` -->
                 <div class="flex items-center h-16 px-6">
-                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded shadow-none text-sm focus:outline-none focus:border-filter-border-focus" type="text" placeholder="Filter">
                 </div>
             
                 <div class="pl-6 mt-1 mb-4">
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
-                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                 </div>
             
-                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
-                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                         <span class="text-xs whitespace-nowrap">Powered by</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                     </a>
@@ -295,26 +295,26 @@
             <!-- Sidebar component -->
             <doc-sidebar v-cloak>
                 <template #sidebar-footer>
-                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
             
-                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                        <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
                             <nav>
                                 <ul class="flex flex-wrap justify-center items-center">
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../">Welcome!</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Welcome!</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../character-building/start-here/">Start Here</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../character-building/start-here/">Start Here</a>
                                     </li>
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../../faq/common-faq/">FAQ</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../faq/common-faq/">FAQ</a>
                                     </li>
             
                                 </ul>
                             </nav>
                         </div>
             
-                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
                             <span class="text-xs whitespace-nowrap">Powered by</span>
                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
                         </a>
@@ -322,14 +322,14 @@
                 </template>
             </doc-sidebar>
     
-            <div class="grow min-w-0 dark:bg-dark-850">
+            <div class="grow min-w-0 bg-body-bg">
                 <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
                 <div class="flex">
-                    <div class="min-w-0 p-4 grow md:px-16">
+                    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
                         <main class="relative pb-12 lg:pt-2">
-                            <div class="docs-markdown" id="docs-content">
+                            <div class="retype-markdown" id="retype-content">
                                 <!-- Rendered if sidebar right is enabled -->
-                                <div id="docs-sidebar-right-toggle"></div>
+                                <div id="retype-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
 <style>
 h1:before { 
@@ -343,7 +343,7 @@ h1:before {
     </h1>
 </doc-anchor-target>
 <p>Avrae is our virtual dice bot that we use to make all dice rolls on the server. This page lists the most commonly used Avrae commands along with a few examples.</p>
-<p>For the complete list of the commands, visit <a href="https://avrae.io/commands/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<p>For the complete list of the commands, visit <a href="https://avrae.io/commands/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>here</span>
 </a>.</p>
@@ -351,16 +351,16 @@ h1:before {
 <li><code v-pre>!help</code>: sends you a full list of commands to PM.</li>
 <li><code v-pre>!tutorial quickstart</code>: starts a step-by-step guide.
 <br><br></li>
-<li>Our partner server The Starry Shore have created <a href="https://youtu.be/im0vDcYFIbI" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+<li>Our partner server The Starry Shore have created <a href="https://youtu.be/im0vDcYFIbI" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M15.5 2.25a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-1.5 0V4.06l-6.22 6.22a.75.75 0 1 1-1.06-1.06L19.94 3h-3.69a.75.75 0 0 1-.75-.75Z"/><path d="M2.5 4.25c0-.966.784-1.75 1.75-1.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.25.25 0 0 0-.25.25v15.5c0 .138.112.25.25.25h15.5a.25.25 0 0 0 .25-.25v-8.5a.75.75 0 0 1 1.5 0v8.5a1.75 1.75 0 0 1-1.75 1.75H4.25a1.75 1.75 0 0 1-1.75-1.75V4.25Z"/></g></svg></span>
     <span>The Ultimate Avrae Bot Tutorial</span>
 </a>, a short YouTube video to help with some basic Avrae commands.</li>
 </ul>
 <div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-yellow-500"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
         <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-yellow-500" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
                 <g fill="currentColor"><g>
                     <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
                     <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
@@ -405,26 +405,33 @@ h1:before {
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!char list</code><br>
+<li><p><code v-pre>!char list</code><br>
 Shows the list of your characters. The list is tied to your discord account, therefore if you have characters outside of this server, they will be included in this list.
-<br><br></li>
-<li><code v-pre>!char</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!char</code><br>
 Shows the current active character.
-<br><br></li>
-<li><code v-pre>!char &lt;character name&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!char &lt;character name&gt;</code><br>
 Changes the active character.
-<br><br></li>
-<li><code v-pre>!char delete &lt;character name&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!char delete &lt;character name&gt;</code><br>
 Deletes named character from Avrae&#x27;s database.
-<br><br></li>
-<li><code v-pre>!sheet</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!sheet</code><br>
 Shows the sheet of your current active character.
-<br><br></li>
-<li><code v-pre>!vsheet</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!vsheet</code><br>
 Shows a more detailed sheet of your current active character, as well as the Character Sheet URL.
-<br><br></li>
-<li><code v-pre>!update</code><br>
-Updates the data from the original source of the sheet.</li>
+<br><br></p>
+</li>
+<li><p><code v-pre>!update</code><br>
+Updates the data from the original source of the sheet.</p>
+</li>
 </ul>
 </blockquote>
 <hr>
@@ -436,18 +443,22 @@ Updates the data from the original source of the sheet.</li>
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!roll &lt;dice&gt;</code> or <code v-pre>!r &lt;dice&gt;</code><br>
+<li><p><code v-pre>!roll &lt;dice&gt;</code> or <code v-pre>!r &lt;dice&gt;</code><br>
 Rolls one or more dice, <br>e.g. <code v-pre>!r d20</code> rolls one d20 dice, <code v-pre>!r 4d6</code> rolls four d6 dice.
 For full list of supported operators and selectors, use <code v-pre>!help roll</code>.
-<br><br></li>
-<li><code v-pre>!check &lt;skill&gt;</code> or <code v-pre>!c &lt;skill&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!check &lt;skill&gt;</code> or <code v-pre>!c &lt;skill&gt;</code><br>
 Rolls a skill check for your current active character, <br>e.g. <code v-pre>!c acrobatics</code>
-<br><br></li>
-<li><code v-pre>!save &lt;ability&gt;</code> or <code v-pre>!s &lt;ability&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!save &lt;ability&gt;</code> or <code v-pre>!s &lt;ability&gt;</code><br>
 Rolls a save for your current active character, <br>e.g. <code v-pre>!s dex</code>
-<br><br></li>
-<li><code v-pre>!action &lt;action&gt;</code> or <code v-pre>!a &lt;action&gt;</code><br>
-Performs an action (attack or ability) for the current active character, <br>e.g. <code v-pre>!a &quot;unarmed strike&quot;</code></li>
+<br><br></p>
+</li>
+<li><p><code v-pre>!action &lt;action&gt;</code> or <code v-pre>!a &lt;action&gt;</code><br>
+Performs an action (attack or ability) for the current active character, <br>e.g. <code v-pre>!a &quot;unarmed strike&quot;</code></p>
+</li>
 </ul>
 </blockquote>
 <hr>
@@ -459,23 +470,24 @@ Performs an action (attack or ability) for the current active character, <br>e.g
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!action list</code> or <code v-pre>!a list</code><br>
+<li><p><code v-pre>!action list</code> or <code v-pre>!a list</code><br>
 Lists the actions that are available to your current active character.
-<br><br></li>
-<li><code v-pre>!action &lt;action&gt;</code> or <code v-pre>!a &lt;action&gt;</code><br>
-Performs an action (attack or ability), <br>e.g. <code v-pre>!a &quot;unarmed strike&quot;</code>
+<br><br></p>
+</li>
+<li><p><code v-pre>!action &lt;action&gt;</code> or <code v-pre>!a &lt;action&gt;</code><br>
+Performs an action (attack or ability), <br>e.g. <code v-pre>!a &quot;unarmed strike&quot;</code></p>
 <ul>
 <li><code v-pre>-t &lt;name&gt;</code>: targets a creature</li>
 <li><code v-pre>-phrase &quot;&lt;phrase&gt;&quot;</code>: adds flavor text</li>
 <li><code v-pre>adv/dis</code>: rolls with advantage/disadvantage</li>
 <li><code v-pre>hit</code>: automatic hit</li>
 <li><code v-pre>miss</code>: automatic miss</li>
-<li><code v-pre>crit</code>: automatically applies crit damage on hit
-<br><br></li>
+<li><code v-pre>crit</code>: automatically applies crit damage on hit<br><br></li>
 </ul>
 </li>
-<li><code v-pre>!help action</code><br>
-Sends you a full list of options for <code v-pre>action</code> command.</li>
+<li><p><code v-pre>!help action</code><br>
+Sends you a full list of options for <code v-pre>action</code> command.</p>
+</li>
 </ul>
 </blockquote>
 <hr>
@@ -487,20 +499,15 @@ Sends you a full list of options for <code v-pre>action</code> command.</li>
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!spellbook</code> or <code v-pre>!sb</code><br>
-Shows your current active character&#x27;s list of spells.
-<br><br></li>
-<li><code v-pre>!cast &lt;name of spell&gt;</code><br>
-Casts a spell, <br>e.g. <code v-pre>!cast &quot;Hellish Rebuke&quot;</code>
+<li><code v-pre>!spellbook</code> or <code v-pre>!sb</code><br>Shows your current active character&#x27;s list of spells.<br><br></li>
+<li><code v-pre>!cast &lt;name of spell&gt;</code><br>Casts a spell, <br>e.g. <code v-pre>!cast &quot;Hellish Rebuke&quot;</code>
 <ul>
 <li><code v-pre>-l &lt;slot level&gt;</code>: casts spell at a higher level, <br>e.g. <code v-pre>!cast &quot;Cure Wounds&quot; -l 4</code></li>
 <li><code v-pre>-t</code>: targets a creature with the spell, <br>e.g. <code v-pre>!cast &quot;Healing Word&quot; -t &quot;Adult Blue Dragon&quot;</code></li>
 </ul>
 </li>
-<li>For targeting <strong>multiple creatures</strong>, make sure to put <code v-pre>-t</code> in front of each target, <br>e.g. <code v-pre>!cast &quot;Magic Missile&quot; -t &quot;Bandit1&quot; -t &quot;Bandit2&quot; -t &quot;Bandit3&quot;</code>
-<br><br></li>
-<li><code v-pre>!game spellslot &lt;slot level&gt; &lt;number&gt;</code> or <code v-pre>!g ss &lt;slot level&gt; &lt;br&gt;&lt;number&gt;</code>
-Modifies the leveled spell slots, <br>e.g. <code v-pre>!g ss 1 +1</code> to gain a level 1 spell slot.</li>
+<li>For targeting <strong>multiple creatures</strong>, make sure to put <code v-pre>-t</code> in front of each target, <br>e.g. <code v-pre>!cast &quot;Magic Missile&quot; -t &quot;Bandit1&quot; -t &quot;Bandit2&quot; -t &quot;Bandit3&quot;</code><br><br></li>
+<li><code v-pre>!game spellslot &lt;slot level&gt; &lt;number&gt;</code> or <code v-pre>!g ss &lt;slot level&gt; &lt;br&gt;&lt;number&gt;</code>Modifies the leveled spell slots, <br>e.g. <code v-pre>!g ss 1 +1</code> to gain a level 1 spell slot.</li>
 </ul>
 </blockquote>
 <hr>
@@ -512,23 +519,29 @@ Modifies the leveled spell slots, <br>e.g. <code v-pre>!g ss 1 +1</code> to gain
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!customcounter list</code> or <code v-pre>!cc list</code><br>
+<li><p><code v-pre>!customcounter list</code> or <code v-pre>!cc list</code><br>
 Shows a summary/list of all custom counters attached to your current active character.
-<br><br></li>
-<li><code v-pre>!cc &lt;name&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!cc &lt;name&gt;</code><br>
 Shows the custom counter with the name.
-<br><br></li>
-<li><code v-pre>!cc &lt;name&gt; +/-&lt;number&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!cc &lt;name&gt; +/-&lt;number&gt;</code><br>
 Modifies the custom counter of your current active character.
-<br><br></li>
-<li><code v-pre>!cc reset &lt;name&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!cc reset &lt;name&gt;</code><br>
 Resets the custom counter to its default value.
-<br><br></li>
-<li><code v-pre>!cc create &lt;name&gt; [args]</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!cc create &lt;name&gt; [args]</code><br>
 Creates a new custom counter. For the list of arguments, use <code v-pre>!help cc create</code>.
-<br><br></li>
-<li><code v-pre>!cc delete &lt;name&gt;</code><br>
-Deletes a custom counter.</li>
+<br><br></p>
+</li>
+<li><p><code v-pre>!cc delete &lt;name&gt;</code><br>
+Deletes a custom counter.</p>
+</li>
 </ul>
 </blockquote>
 <hr>
@@ -540,31 +553,18 @@ Deletes a custom counter.</li>
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!game status</code> or <code v-pre>!g status</code>
-Shows your active character&#x27;s current, maximum, and temporary hit points, as well as any counters associated with the character: spell slots, special abilities (Breath Weapon for Dragonborns, Wild Shape for Druids, etc.), and any other custom counters.
-<br><br></li>
-<li><code v-pre>!game hp &lt;amount&gt;</code> or <code v-pre>!g hp &lt;amount&gt;</code><br>
-Modifies the hit points of your current active character, <br>e.g. <code v-pre>!g hp -5</code></li>
+<li><code v-pre>!game status</code> or <code v-pre>!g status</code>Shows your active character&#x27;s current, maximum, and temporary hit points, as well as any counters associated with the character: spell slots, special abilities (Breath Weapon for Dragonborns, Wild Shape for Druids, etc.), and any other custom counters.<br><br></li>
+<li><code v-pre>!game hp &lt;amount&gt;</code> or <code v-pre>!g hp &lt;amount&gt;</code><br>Modifies the hit points of your current active character, <br>e.g. <code v-pre>!g hp -5</code></li>
 <li><code v-pre>!g hp max</code>: sets hp to max<br></li>
 <li><code v-pre>!g hp set &lt;number&gt;</code>: sets hp to the number<br></li>
-<li><code v-pre>!g hp +/-&lt;number&gt;</code>: adjusts the hp<br>
-<br><br></li>
-<li><code v-pre>!game thp &lt;amount&gt;</code> or <code v-pre>!g thp &lt;amount&gt;</code><br>
-Sets the temporary hit points for your current active character, <br>e.g. <code v-pre>!g thp 5</code>
-<br><br></li>
+<li><code v-pre>!g hp +/-&lt;number&gt;</code>: adjusts the hp<br><br><br></li>
+<li><code v-pre>!game thp &lt;amount&gt;</code> or <code v-pre>!g thp &lt;amount&gt;</code><br>Sets the temporary hit points for your current active character, <br>e.g. <code v-pre>!g thp 5</code><br><br></li>
 <li><code v-pre>!game deathsave</code> or <code v-pre>!g ds</code><br></li>
-<li><code v-pre>!save death</code> or <code v-pre>!s death</code><br>
-Rolls a death save.
-<br><br></li>
-<li><code v-pre>!help game</code><br>
-Sends you a full list of options for <code v-pre>game</code> command.
-<br><br></li>
-<li><code v-pre>!lr</code> (Improved from Avrae&#x27;s default <code v-pre>!game longrest</code>)<br>
-Performs a Long Rest and resets applicable counters.</li>
-<li><code v-pre>!lr ?</code>: shows the help text for this command.<br>
-<br><br></li>
-<li><code v-pre>!sr</code> (Improved from Avrae&#x27;s default <code v-pre>!game shortrest</code>)<br>
-Performs a Short Rest and resets applicable counters.</li>
+<li><code v-pre>!save death</code> or <code v-pre>!s death</code><br>Rolls a death save.<br><br></li>
+<li><code v-pre>!help game</code><br>Sends you a full list of options for <code v-pre>game</code> command.<br><br></li>
+<li><code v-pre>!lr</code> (Improved from Avrae&#x27;s default <code v-pre>!game longrest</code>)<br>Performs a Long Rest and resets applicable counters.</li>
+<li><code v-pre>!lr ?</code>: shows the help text for this command.<br><br><br></li>
+<li><code v-pre>!sr</code> (Improved from Avrae&#x27;s default <code v-pre>!game shortrest</code>)<br>Performs a Short Rest and resets applicable counters.</li>
 <li><code v-pre>!sr &lt;number&gt;</code>: uses a number of hit dice, rolls them and adds the result to your HP.</li>
 <li><code v-pre>!sr ?</code>: shows the help text for this command<br></li>
 </ul>
@@ -578,30 +578,35 @@ Performs a Short Rest and resets applicable counters.</li>
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!init begin</code> or <code v-pre>!i begin</code><br>
+<li><p><code v-pre>!init begin</code> or <code v-pre>!i begin</code><br>
 Begins a combat initiatives in the channel. This command is either run by a DM or whoever is managing the initiatives in spar RPs.
-<br><br></li>
-<li><code v-pre>!init join</code> or <code v-pre>!i join</code><br>
-Rolls an initiative for your current active character.
+<br><br></p>
+</li>
+<li><p><code v-pre>!init join</code> or <code v-pre>!i join</code><br>
+Rolls an initiative for your current active character.</p>
 <ul>
-<li><code v-pre>-p &lt;number&gt;</code>: places your character at a specific place on the initiative.
-<br><br></li>
+<li><code v-pre>-p &lt;number&gt;</code>: places your character at a specific place on the initiative.<br><br></li>
 </ul>
 </li>
-<li><code v-pre>!init status &lt;name&gt;</code> or <code v-pre>!i status &lt;name&gt;</code><br>
+<li><p><code v-pre>!init status &lt;name&gt;</code> or <code v-pre>!i status &lt;name&gt;</code><br>
 Outputs the status of the combatant.
-<br><br></li>
-<li><code v-pre>!init effect &lt;combatant&gt; &lt;effect name&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!init effect &lt;combatant&gt; &lt;effect name&gt;</code><br>
 Adds an effect text to the combatant.
-<br><br></li>
-<li><code v-pre>!init re &lt;combatant&gt; &lt;effect name&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!init re &lt;combatant&gt; &lt;effect name&gt;</code><br>
 Removes an effect from the combatant.
-<br><br></li>
-<li><code v-pre>!init next </code> or <code v-pre>!i n</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!init next </code> or <code v-pre>!i n</code><br>
 Ends your turn and move to the next on the turn order.
-<br><br></li>
-<li><code v-pre>!help init [subcommand]</code><br>
-Sends you a full list of options for <code v-pre>init</code> command and its subcommands, <br>e.g. <code v-pre>!help init join</code></li>
+<br><br></p>
+</li>
+<li><p><code v-pre>!help init [subcommand]</code><br>
+Sends you a full list of options for <code v-pre>init</code> command and its subcommands, <br>e.g. <code v-pre>!help init join</code></p>
+</li>
 </ul>
 </blockquote>
 <hr>
@@ -615,60 +620,64 @@ Sends you a full list of options for <code v-pre>init</code> command and its sub
 For the full list of options for each command, use <code v-pre>!help &lt;command&gt; [subcommand]</code>, <br>e.g. <code v-pre>!help init effect</code>.</p>
 <blockquote>
 <ul>
-<li><code v-pre>!init begin</code> or <code v-pre>!i begin</code><br>
+<li><p><code v-pre>!init begin</code> or <code v-pre>!i begin</code><br>
 Begins a combat initiatives in the channel.
-<br><br></li>
-<li><code v-pre>!init opt &lt;combatant&gt; [args]</code><br>
-Edits the options of a combatant. For the full list of options, run <code v-pre>!help init opt</code>.
+<br><br></p>
+</li>
+<li><p><code v-pre>!init opt &lt;combatant&gt; [args]</code><br>
+Edits the options of a combatant. For the full list of options, run <code v-pre>!help init opt</code>.</p>
 <ul>
 <li><code v-pre>-h</code>: hides HP, AC, resistance, etc.</li>
 <li><code v-pre>-ac &lt;number&gt;</code>: modifies the combatant&#x27;s AC.</li>
-<li><code v-pre>-group &lt;group name&gt;</code>: adds the combatant to the group. Remove them from the group by using <code v-pre>-group None</code>
-<br><br></li>
+<li><code v-pre>-group &lt;group name&gt;</code>: adds the combatant to the group. Remove them from the group by using <code v-pre>-group None</code><br><br></li>
 </ul>
 </li>
-<li><code v-pre>!init a</code> or <code v-pre>!init cast</code><br>
+<li><p><code v-pre>!init a</code> or <code v-pre>!init cast</code><br>
 Makes an attack or casts a spell as the combatant of the turn.
-<br><br></li>
-<li><code v-pre>!init aoo &lt;combatant&gt; &lt;attack name&gt; -t &lt;target&gt; [args]</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!init aoo &lt;combatant&gt; &lt;attack name&gt; -t &lt;target&gt; [args]</code><br>
 Makes an attack of opportunity as the combatant.
-<br><br></li>
-<li><code v-pre>!init reactcast &lt;combatant&gt; &lt;spell name&gt; [args]</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!init reactcast &lt;combatant&gt; &lt;spell name&gt; [args]</code><br>
 Casts a spell as the combatant off-turn.
-<br><br></li>
-<li><code v-pre>!init status &lt;combatant/group&gt; [args]</code><br>
-Outputs the HP and status of the combatant or the group.
+<br><br></p>
+</li>
+<li><p><code v-pre>!init status &lt;combatant/group&gt; [args]</code><br>
+Outputs the HP and status of the combatant or the group.</p>
 <ul>
-<li><code v-pre>private</code>: Sends the status via private message instead.
-<br><br></li>
+<li><code v-pre>private</code>: Sends the status via private message instead.<br><br></li>
 </ul>
 </li>
-<li><code v-pre>!init hp &lt;combatant&gt; +/-&lt;number&gt;</code><br>
-Modifies HP of the combatant.
+<li><p><code v-pre>!init hp &lt;combatant&gt; +/-&lt;number&gt;</code><br>
+Modifies HP of the combatant.</p>
 <ul>
 <li><code v-pre>!i hp &lt;combatant&gt; set &lt;number&gt;</code>: sets the combatant&#x27;s HP.</li>
-<li><code v-pre>!i hp &lt;combatant&gt; max</code>: sets the combatant&#x27;s HP to max.
-<br><br></li>
+<li><code v-pre>!i hp &lt;combatant&gt; max</code>: sets the combatant&#x27;s HP to max.<br><br></li>
 </ul>
 </li>
-<li><code v-pre>!init thp &lt;combatant&gt; &lt;number&gt;</code><br>
+<li><p><code v-pre>!init thp &lt;combatant&gt; &lt;number&gt;</code><br>
 Sets the THP of the combatant.
-<br><br></li>
-<li><code v-pre>!init effect &lt;combatant&gt; &lt;effect name&gt; [args]</code><br>
-Attaches a status effect to the combatant.
+<br><br></p>
+</li>
+<li><p><code v-pre>!init effect &lt;combatant&gt; &lt;effect name&gt; [args]</code><br>
+Attaches a status effect to the combatant.</p>
 <ul>
-<li><code v-pre>-dur &lt;duration&gt;</code>: specifies the duration of the effect. <code v-pre>&lt;duration&gt;</code> equals to number of rounds.
-<br><br></li>
+<li><code v-pre>-dur &lt;duration&gt;</code>: specifies the duration of the effect. <code v-pre>&lt;duration&gt;</code> equals to number of rounds.<br><br></li>
 </ul>
 </li>
-<li><code v-pre>!init re &lt;combatant&gt; &lt;effect name&gt;</code><br>
+<li><p><code v-pre>!init re &lt;combatant&gt; &lt;effect name&gt;</code><br>
 Removes the status effect from the combatant.
-<br><br></li>
-<li><code v-pre>!init remove &lt;combatant/group&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!init remove &lt;combatant/group&gt;</code><br>
 Removes the combatant or the group from the combat.
-<br><br></li>
-<li><code v-pre>!init end</code><br>
-Ends the combat in the channel.</li>
+<br><br></p>
+</li>
+<li><p><code v-pre>!init end</code><br>
+Ends the combat in the channel.</p>
+</li>
 </ul>
 </blockquote>
 <hr>
@@ -685,7 +694,7 @@ Ends the combat in the channel.</li>
 <br><br></li>
 </ul>
 <div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">!ddb</code></pre>
+<pre translate="no" class="language-none"><code v-pre class="language-none">!ddb</code></pre>
 </doc-codeblock></div>
 </blockquote>
 <blockquote>
@@ -698,16 +707,13 @@ Ends the combat in the channel.</li>
 <ul>
 <li><code v-pre>!class &lt;name&gt; [level]</code></li>
 <li><code v-pre>!subclass &lt;name&gt;</code></li>
-<li><code v-pre>!race &lt;name&gt;</code>: works for both race and subrace.
-<br><br></li>
+<li><code v-pre>!race &lt;name&gt;</code>: works for both race and subrace.<br><br></li>
 <li><code v-pre>!classfeat &lt;name&gt;</code></li>
 <li><code v-pre>!racefeat &lt;name&gt;</code></li>
-<li><code v-pre>!feat &lt;name&gt;</code>
-<br><br></li>
+<li><code v-pre>!feat &lt;name&gt;</code><br><br></li>
 <li><code v-pre>!background &lt;name&gt;</code></li>
 <li><code v-pre>!spell &lt;spell name&gt;</code></li>
-<li><code v-pre>!item &lt;item name&gt;</code>
-<br><br></li>
+<li><code v-pre>!item &lt;item name&gt;</code><br><br></li>
 <li><code v-pre>!rule &lt;name&gt;</code></li>
 <li><code v-pre>!condition &lt;name&gt;</code></li>
 </ul>
@@ -720,16 +726,13 @@ Ends the combat in the channel.</li>
     </h3>
 </doc-anchor-target>
 <ul>
-<li><code v-pre>!hb</code> to see all lookup options
-<br><br></li>
+<li><code v-pre>!hb</code> to see all lookup options<br><br></li>
 <li><code v-pre>!hb class &lt;name&gt;</code></li>
 <li><code v-pre>!hb subclass &lt;subclass name&gt;</code></li>
-<li><code v-pre>!hb race &lt;name&gt;</code>
-<br><br></li>
+<li><code v-pre>!hb race &lt;name&gt;</code><br><br></li>
 <li><code v-pre>!hb classfeat &lt;name&gt;</code></li>
 <li><code v-pre>!hb feat &lt;name&gt;</code></li>
-<li><code v-pre>!hb invocation &lt;name&gt;</code>
-<br><br></li>
+<li><code v-pre>!hb invocation &lt;name&gt;</code><br><br></li>
 <li><code v-pre>!hb background &lt;name&gt;</code></li>
 <li><code v-pre>!hb spelllist &quot;&lt;class name&gt; ([spell level])&quot;</code>, <br>e.g. <code v-pre>!hb &lt;br&gt;spelllist &quot;Witch Doctor (2)&quot;</code></li>
 </ul>
@@ -743,36 +746,46 @@ Ends the combat in the channel.</li>
 </doc-anchor-target>
 <blockquote>
 <ul>
-<li><code v-pre>!portrait</code><br>
+<li><p><code v-pre>!portrait</code><br>
 Shows the image of your current active character.
-<br><br></li>
-<li><code v-pre>!portrait update &lt;link&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!portrait update &lt;link&gt;</code><br>
 Sets a portrait for the character.
-<br><br></li>
-<li><code v-pre>!desc</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!desc</code><br>
 Shows the description of your current active character.
-<br><br></li>
-<li><code v-pre>!desc update &quot;&lt;text&gt;&quot;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!desc update &quot;&lt;text&gt;&quot;</code><br>
 Sets a description for the character.
-<br><br></li>
-<li><code v-pre>!csettings color &lt;color&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!csettings color &lt;color&gt;</code><br>
 Changes the embed color of your current active character, <br>e.g. <code v-pre>!csettings color blue</code> or <code v-pre>!csettings color 0000FF</code> (no &quot;#&quot; for the hex code)
-<br><br></li>
-<li><code v-pre>!br</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!br</code><br>
 Makes a scene break.
-<br><br></li>
-<li><code v-pre>!servalias</code> and <code v-pre>!servsnippet</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!servalias</code> and <code v-pre>!servsnippet</code><br>
 Shows the list of available server alias and server snippets.
-<br><br></li>
-<li><code v-pre>!alias</code> and <code v-pre>!snippet</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!alias</code> and <code v-pre>!snippet</code><br>
 Shows the list of available personal alias.
 For more information on alias and snippet, use <code v-pre>!help alias</code> and <code v-pre>!help snippet</code>.
-<br><br></li>
-<li><code v-pre>!rr &lt;number of times&gt; &lt;dice type&gt;</code><br>
+<br><br></p>
+</li>
+<li><p><code v-pre>!rr &lt;number of times&gt; &lt;dice type&gt;</code><br>
 Rolls number of times the same dice, <br>e.g. <code v-pre>!rr 5 d10</code>
-<br><br></li>
-<li><code v-pre>!rrr &lt;number of times&gt; &lt;dice type&gt; &lt;DC&gt;</code><br>
-Rolls dice with DC, <br>e.g. <code v-pre>!rrr 5 d20 14</code></li>
+<br><br></p>
+</li>
+<li><p><code v-pre>!rrr &lt;number of times&gt; &lt;dice type&gt; &lt;DC&gt;</code><br>
+Rolls dice with DC, <br>e.g. <code v-pre>!rrr 5 d20 14</code></p>
+</li>
 </ul>
 </blockquote>
 
@@ -780,23 +793,23 @@ Rolls dice with DC, <br>e.g. <code v-pre>!rrr 5 d20 14</code></li>
                                 <!-- Required only on API pages -->
                                 <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
                             </div>
-                            <footer class="clear-both">
+                            <footer id="retype-content-footer" class="clear-both">
                             
-                                <nav class="flex mt-14">
+                                <nav id="retype-nextprev" class="print:hidden flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../start-playing/whats-next/">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../start-playing/whats-next/">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
-                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block text-xs font-normal text-base-text-muted">Previous</span>
                                                 <span class="block mt-1">What's Next?</span>
                                             </span>
                                         </a>
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../start-playing/games/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../start-playing/games/">
                                             <span>
-                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block text-xs font-normal text-right text-base-text-muted">Next</span>
                                                 <span class="block mt-1">Joining Games</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
@@ -806,24 +819,24 @@ Rolls dice with DC, <br>e.g. <code v-pre>!rrr 5 d20 14</code></li>
                             </footer>
                         </main>
                 
-                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
-                            <footer class="flex flex-wrap items-center justify-between">
-                                <div>
+                        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div id="retype-footer-links" class="print:hidden">
                                     <ul class="flex flex-wrap items-center text-sm">
                                     </ul>
                                 </div>
-                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
                             </footer>
                         </div>
                     </div>
                 
                     <!-- Rendered if sidebar right is enabled -->
                     <!-- Sidebar right skeleton-->
-                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
                         <div class="pl-5">
-                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
-                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
                         </div>
                     </div>
                 
@@ -839,7 +852,7 @@ Rolls dice with DC, <br>e.g. <code v-pre>!rrr 5 d20 14</code></li>
     </div>
 
 
-    <div id="docs-overlay-target"></div>
+    <div id="retype-overlay-target"></div>
 
     <script data-cfasync="false">window.__DOCS__ = { "title": "Rolling Dice", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
