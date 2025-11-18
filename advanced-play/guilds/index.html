@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816742254687">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816742518337">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,12 +31,12 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.11.0.816742254687" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.816742518337" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.816742254687" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.816742518337" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.816742254687" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.816742254687" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.816742518337" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.816742518337" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -371,10 +371,10 @@ h1:before { content: "🏢 " }
         <span>Guild Member</span>
     </h3>
 </doc-anchor-target>
-<p>The player that is joining a guild must log the following form. If the player is leaving, the the guild can log the form instead. A pending application can be cancelled by <code v-pre>~~crossing out~~</code> (registration fee, if applicable, is not refunded).</p>
-<p><strong>On the approval date</strong>, react to the Guild Member Form message with <span class="docs-emoji">&#x1F511;</span> <code v-pre>:key:</code> to beam it to a task list for staff, and the role will be given or taken away manually by a staff member.</p>
+<p>The player (or guild) must log this form, with the guild&#x27;s permission if joining. If the player is leaving, the guild can log the form instead. A pending application can be cancelled by <code v-pre>~~crossing out~~</code> (registration fee, if applicable, is not refunded).</p>
+<p><strong>On the approval date</strong>, seven days after sumbission date, to update your guild roles, react to the form with <span class="docs-emoji">&#x1F511;</span> <code v-pre>:key:</code> to notify a staff member. You do not have to be the original sender to react.</p>
 <ul>
-<li>Please note, in order to lighten the load on our staff members, keeping track of the seven days is left as the guild members&#x27; responsibility. For this reason, the role is likely to not be granted or removed if the message gets beamed before the approval date. You do not have to be the sender of the original message to react with <span class="docs-emoji">&#x1F511;</span> <code v-pre>:key:</code>.</li>
+<li>Please note, in order to lighten the load on our staff members, the timekeeping is left to guild members, so roles may not be updated if beamed before the approval date.</li>
 </ul>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre translate="no" class="language-markdown"><code v-pre class="language-markdown">Guild Member Form
@@ -415,7 +415,8 @@ h1:before { content: "🏢 " }
         <span>Guild Representative Form</span>
     </h3>
 </doc-anchor-target>
-<p>For guilds that have more than one leader, whose leader is inactive/retired/left the server, or who relies on someone else other than the leader to carry out day to day functions such as making announcements/paying taxes/doing bookkeeping. The additional representative can apply to be granted manage messages/manage threads permissions within their guild channel. React with <span class="docs-emoji">&#x1F3E2;</span> (<code v-pre>:office:</code>) on your post.</p>
+<p>For guilds with an absent leader(s) or someone else to co-lead or for day-to-day functions such as announcements, taxes, or bookkeeping; these representatives can apply to be granted pins and thread management permissions to use within their guild channel. React with <span class="docs-emoji">&#x1F3E2;</span> (<code v-pre>:office:</code>) on your post.</p>
+<p>Please note, Discord has a single Manage Messages permission to pin and delete messages. Reps should only use this to pin messages, and turn to Mods for moderating messages. DO NOT delete messages, nor pin and thread in other guild channels.</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre translate="no" class="language-markdown"><code v-pre class="language-markdown">### Guild Representative Form
 **Guild Name**: 
@@ -445,6 +446,10 @@ h1:before { content: "🏢 " }
 ]
 **Payment Link**: </code></pre>
 </doc-codeblock></div>
+<ul>
+<li>Remove bulleted lines that are not applicable</li>
+<li>You may optionally list modules/aides (with tiers) at the end of the line</li>
+</ul>
 <doc-anchor-target id="guild-management-forms">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#guild-management-forms">#</doc-anchor-trigger>
