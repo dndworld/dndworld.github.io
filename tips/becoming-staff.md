@@ -179,7 +179,7 @@ Players who like this role also apply for: Mod
     - Arena Master has comparatively less time commitment needed than a Trainee DM, but still has to spend time planning their games, getting them approved, and taking at least 2 hours out of their schedule to run them.
     - However, as arenas take comparatively shorter to run than bounties, it may be suitable for those with more limited schedules.
 - **Learning Curve**: 4
-    - As DMing has an infinite skill ceiling and there are thousands of monsters, self improvement is a necessary skill. TDMs will need to work on their gamesense, rules knowledge, balance, player engagement, supplementary materials, and more.
+    - As DMing has an infinite skill ceiling and there are thousands of monsters, self improvement is a necessary skill. AMs will need to work on their gamesense, rules knowledge, balance, player engagement, supplementary materials, and more.
 - **Collaborativeness**: 4
     - Arena Masters will be consistently working with Mentor DMs and Senior DMs to fine tune games. They are expected to take their advice on areas of improvement.
     - Arena Masters are not expected to collaborate with other AMs or staff roles, but can choose to do so. 
