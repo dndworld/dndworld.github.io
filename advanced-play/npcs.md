@@ -13,8 +13,7 @@ h1:before {
 
 NPC registries is a unique system which allows you to schedule encounters with NPCs. These roleplay-only sessions are run by our team of NPC Masters, and last around 1-2 hours each. Encounters with celestials, fiends or higher entities in general are known as prayers, and are handled by the more specialized Temple Speakers.
 
-
-## General Guidelines
+## Rules
 
 - Fill in all availabilities in EST
 
@@ -24,11 +23,15 @@ NPC registries is a unique system which allows you to schedule encounters with N
 
 - Once you have successfully gone through with your appointment, you can only make another appointment after 24 hours.
 
-- Avoid making time urgent logs as staff are volunteers and cannot guarantee that they may be handled in time.
+- Refrain from interrupting scheduled appointments where characters are talking to NPCs. Ask for permission OOC first.
 
-- Regular NPC Encounters (non-deity) do not have a DC and you do not need to RP booking the appointment. Temple/Shrine encounters have a DC your Religion roll has to meet as stated in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#pantheon"](https://discord.com/channels/512870694883950598/535362293144223744), and the prayer must be roleplayed.
+- Please avoid making time urgent logs as staff are volunteers and cannot guarantee that they may be handled in time.
 
-- These encounters are designed solely for immersion. Please don't log an encounter with the intention of asking for favors or magical items.
+- Talking to potential employers does not replace a Find DTD.
+
+- Regular NPC Encounters (non-deity) do not have a DC and you do not need to RP booking the appointment. 
+
+- Temple/Shrine encounters have a DC your Religion roll has to meet as stated in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#pantheon"](https://discord.com/channels/512870694883950598/535362293144223744). You also need to RP your prayer in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#temple-to-the-gods"](https://discord.com/channels/512870694883950598/542431801394855936), [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠shrines-to-the-gods"](https://discord.com/channels/512870694883950598/538134079288377344), [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠cultists-shrine"](https://discord.com/channels/512870694883950598/586365517749813258), or in a PC residence with the Shrine module. If you get a Nat 1 or a negative number, log it as well. A successful Divine Intervention to a deity automatically counts as a successful Religion check.
 
 - Logs that are not resolved within 1 year due to player inactivity or general scheduling impossibilities are automatically removed.
 
