@@ -66,7 +66,8 @@ For information on allowed/banned material as well as allowed UA and homebrew op
 - You are **not** allowed to possess any magic items starting out.
 
 When given options, choose following:
-> - Sources: Homebrew Content, Expanded Rules, 2014 Core Rules, Legacy, Critical Role, Humblewood
+> - Sources: Homebrew Content, **2014 Core Rules, 2014 Expanded Rules**, Legacy
+>   - Partnered Content: Critical Role, Humblewood
 > - Optional Class Features and Custom Origin are allowed (note: approved materials only).
 > - Select **Milestone**, not XP. This is because we use a slightly different XP progression, which is managed within the server through Avrae.
 > - Carrying capacity: Use Encumbrance
