@@ -19,10 +19,11 @@ h1:before { content: "🏢 " }
 ## Guild Registry
 
 ### Guild Member
-The player that is joining a guild must log the following form. If the player is leaving, the the guild can log the form instead. A pending application can be cancelled by `~~crossing out~~` (registration fee, if applicable, is not refunded).
+The player (or guild) must log this form, with the guild's permission if joining. If the player is leaving, the guild can log the form instead. A pending application can be cancelled by `~~crossing out~~` (registration fee, if applicable, is not refunded).
 
-**On the approval date**, react to the Guild Member Form message with 🔑 `:key:` to beam it to a task list for staff, and the role will be given or taken away manually by a staff member.
-- Please note, in order to lighten the load on our staff members, keeping track of the seven days is left as the guild members' responsibility. For this reason, the role is likely to not be granted or removed if the message gets beamed before the approval date. You do not have to be the sender of the original message to react with 🔑 `:key:`.
+**On the approval date**, seven days after sumbission date, to update your guild roles, react to the form with 🔑 `:key:` to notify a staff member. You do not have to be the original sender to react.
+- Please note, in order to lighten the load on our staff members, the timekeeping is left to guild members, so roles may not be updated if beamed before the approval date.
+
 ```md
 Guild Member Form
 
@@ -54,7 +55,9 @@ Guild Member Form
 
 ### Guild Representative Form
 
-For guilds that have more than one leader, whose leader is inactive/retired/left the server, or who relies on someone else other than the leader to carry out day to day functions such as making announcements/paying taxes/doing bookkeeping. The additional representative can apply to be granted manage messages/manage threads permissions within their guild channel. React with 🏢 (`:office:`) on your post.
+For guilds with an absent leader(s) or someone else to co-lead or for day-to-day functions such as announcements, taxes, or bookkeeping; these representatives can apply to be granted pins and thread management permissions to use within their guild channel. React with 🏢 (`:office:`) on your post.
+
+Please note, Discord has a single Manage Messages permission to pin and delete messages. Reps should only use this to pin messages, and turn to Mods for moderating messages. DO NOT delete messages, nor pin and thread in other guild channels.
 
 ```md
 ### Guild Representative Form
@@ -82,6 +85,8 @@ For guilds that have more than one leader, whose leader is inactive/retired/left
 ]
 **Payment Link**: 
 ```
+- Remove bulleted lines that are not applicable
+- You may optionally list modules/aides (with tiers) at the end of the line
 
 ### Guild Management Forms
 
