@@ -87,6 +87,49 @@ Item: Spellcasting Focus
 
 ### Races/Species
 
+==- **Reflavoring Species/Race as Another Species**
+**Interpretation:** As a rule of thumb, a character cannot roleplay as a different species/race from the one on their character sheet. They cannot appear as one species while benefitting from a different one mechanically. This includes using features granted by species even if its just for flavor.
+
+For example, a player cannot create a Harengon character but appear as an Eladrin elf. In any doubt, the mechanical species must be obvious.
+
+Exceptions are Changelings as well as spells/features that allow characters to disguise or polymorph their appearance. Warped Ones are also an exception, though they must have a [Physical Abnormality](https://docs.google.com/document/u/0/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/mobilebasic#h.4vcw9mk3efji). Aasimar and half races (i.e. Half Elf, Half Orc, and Half Dragon) have their own special ruling below.<br>
+**Link to discussion:** Mentor Meeting
+```yaml **Tags**
+Race/Racefeat: Race, Species, Flavor
+```
+==- **Appearances for Half Races (i.e. Half-Elf, Half-Orc, Half Dragon or Half-Oni)**
+**Interpretation:** For Half Race characters, Humans are generally the most common secondary parent. However, in some cases the other parent may be another Humanoid species that is not necessarily human.
+
+As a rule of thumb, Draconic, Elven, Orcish, and Oni traits are dominant over features granted by the other parent. While a character may possess some characteristics that resemble their other parent, they should be identifiable as their mechanical race/species at a glance.
+
+For example, a Half-Dragon character whose other parent is a Harengon should have mostly dragon traits, and minimal Harengon traits. They might have patches of fur between their scales, or tiny furry ears, but are otherwise recognizable as a Half-Dragon from their reptilian limbs and tail.
+
+Disguising as another Species or similar reskinning is not possible, and characters should use the species on their character sheet when describing their appearance.<br>
+**Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord (staff channel)"](https://discord.com/channels/512870694883950598/803192028200304660/1327970179883208776)
+```yaml **Tags**
+Race/Racefeat: Half Elf, Half Orc, Half Dragon, Half Oni, Species, Races, Reflavor
+```
+==- **Appearances for Aasimar, (Tielfings and Warped Ones)**
+**Description:** The newest MOTM version of Aasimar describes their origins as being from any population of mortals and specifies that they may resemble their parents. This is a departure from the earlier VGTM ruling that Aasimar are descended from humans.<br>
+**Interpretation:** Aasimars most often descend from humans due to their versatility and resemblance to angels, followed by Elves. Other common Humanoid species such as Dwarf, Gnome, Goliath, Halfling, Orc and even Kender lineage can also result in Aasimar.
+
+Aasimar that originate from other species, such as those with more animalistic or exotic traits, are rare though not completely impossible. In particular, Eodian species (i.e. Humblewood) are less likely to become Aasimar as they follow a different religious system.
+
+A select number of origin species are fully incompatible with Aasimar. These are Awakened Animal, Aarakocra, Centaur, Owlin, Plasmoid, Shifter, Simic Hybrid, Thri-Kreen, Tiefling, Tortle, Young Treant, Yuan-Ti and Warped One. This means Aasimar characters cannot be descended from parents of those species.
+
+While an Aasimar may possess some characteristics that resemble their parents' species, they should avoid mixing multiple racial traits (e.g. both Dragonborn and Harengon) when describing their appearance. An Aasimar with non-human and/or animalistic parents should make use of an [Aasimar Celestial Feature](https://www.dndbeyond.com/species/1026378-aasimar) or similar celestial trait.
+
+The same rules are also applied to Tieflings and Warped Ones with the following exception:<br>
+Instead of using the Aasimar Celestial Feature
+- Tieflings must have horns and a tail
+- Warped Ones must have a [Physical Abnormality](https://docs.google.com/document/u/0/d/1ZysB8Jyc3LfVMKOtiQwODfT1s2oI38shuTeCnbyOSPs/mobilebasic#h.4vcw9mk3efji)
+
+**Link to discussion:** FanMail
+```yaml **Tags**
+Race/Racefeat: Aasimar, Tiefling, Warped One, Species, Races, Reflavor
+```
+===
+
 ==- **Awakened Animals and Components**
 **Interpretation:** Awakened Animal PCs can use their paws for somatic components.
 
@@ -105,10 +148,17 @@ Race/Racefeat: Awakened Animal's Quadruped Form
 Subclass/Subclassfeat: Armorer Artificer's Arcane Armor
 ```
 ==- **Feral Tiefling from MTOF and Tiefling Bloodlines from SCAG**
-**Interpretation:** you cannot play a feral tiefling with a different bloodline than the Bloodline of Asmodeus subrace from the PHB, meaning that feral tieflings are only compatible with the Winged, Devil's Tongue, and Hellfire variant traits.<br>
+**Interpretation:** You cannot play a feral tiefling with a different bloodline than the Bloodline of Asmodeus subrace from the PHB, meaning that feral tieflings are only compatible with the Winged, Devil's Tongue, and Hellfire variant traits.<br>
 **Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://discord.com/channels/512870694883950598/513452707617570828/871745695491715173)
 ```yaml **Tags**
 Race/Racefeat: Tiefling, Feral tiefling, Variant tiefling, Winged, Devil's Tongue, Hellfire
+```
+==- **Warped Ones: Circlet of Human Perfection**
+**Changes:** The homebrew race, Warped Ones, can attune to the Circlet of Human Perfection.<br>
+**Link to discussion:** [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord (staff channel)"](https://discord.com/channels/512870694883950598/775917313207173150/1363712488364834836)
+```yaml **Tags**
+Race/Racefeat: Warped One, Homebrew Races
+Item: Circlet of Human Perfection
 ```
 ===
 
@@ -150,7 +200,7 @@ Class/Classfeat: Druid
 Item: Metal equipment
 ```
 ==- **Druid: Wild Shape Clarification**
-**Rule:** You can use your action to magically assume the shape of a beast that you have seen before
+**Rule:** You can use your action to magically assume the shape of a beast that you have seen before<br>
 **Interpretation:** You need to have seen the actual creature. Seeing someone else shapechanged/wildshaped/polymorphed/etc. into the creature does not count<br>
 **Link to discussion:** FanMail
 ```yaml **Tags**

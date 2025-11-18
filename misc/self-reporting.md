@@ -20,7 +20,7 @@ h1:before {
 
 If you discover that you have made a mistake, you may report it to [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#self-reports"](https://discord.com/channels/512870694883950598/1019512399314821140). Depending on the severity, leniency may be granted.
 
-After submitting a self report, do not signup or join DM events with the affected character(s) until your self report has been addressed, to avoid complicating your logs further. 
+After submitting a self report related to XP/RPXP or illegal stats, do not signup or join DM events with the affected character(s) until your self report has been addressed, to avoid complicating your logs further. For any other self reports, it is okay to sign up for games.
 
 Not all errors need to be reported. Please refer to this non-exhaustive list regarding what should and should not be submitted.
 
