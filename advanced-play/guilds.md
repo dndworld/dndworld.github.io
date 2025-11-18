@@ -21,7 +21,7 @@ h1:before { content: "🏢 " }
 ### Guild Member
 The player that is joining a guild must log the following form. If the player is leaving, the the guild can log the form instead. A pending application can be cancelled by `~~crossing out~~` (registration fee, if applicable, is not refunded).
 
-**On the approval date**, react to the Guild Member Form message with 🔑 🔑 to beam it to a task list for staff, and the role will be given or taken away manually by a staff member.
+**On the approval date**, react to the Guild Member Form message with 🔑 `:key:` to beam it to a task list for staff, and the role will be given or taken away manually by a staff member.
 - Please note, in order to lighten the load on our staff members, keeping track of the seven days is left as the guild members' responsibility. For this reason, the role is likely to not be granted or removed if the message gets beamed before the approval date. You do not have to be the sender of the original message to react with 🔑 `:key:`.
 ```md
 Guild Member Form
