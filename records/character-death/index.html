@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816741264868">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.816741833534">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../../images/logo-circle.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.11.0.816741264868" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.816741833534" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.816741264868" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.816741833534" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.816741264868" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.816741833534" data-turbo-eval="false" defer></script>
 
     <!DOCTYPE html>
     <head>
@@ -468,12 +468,42 @@ h1:before {
 <li>Wand of Smiles / Wand of Scowls</li>
 </ul>
 </doc-panel>
-<p>For Uncommon and Rare magic items, 4 items are chosen at random for each bonus item, and you may pick one from each set. Once you have made your decision, please edit your log to include the chosen item.</p>
-<p>If you don&#x27;t want any of the random options given, you can choose to have one of the following items instead, according to the rarity:</p>
-<blockquote>
-<p><strong>Uncommon</strong>: Wand of the War Mage +1, Weapon +1, Shield +1<br>
-<strong>Rare</strong>: Bracers of Defense, Elven Chain, Weapon +2 (Your Choice), Wand of the War Mage +2, Shield +2</p>
-</blockquote>
+<p>For Uncommon and Rare magic items, 2 items are chosen at random for each bonus item, and you may pick one from each set. Once you have made your decision, please edit your log to include the chosen item.</p>
+<p>If you don&#x27;t want any of the random options you can choose to have one of the following items instead, according to the rarity:</p>
+<doc-panels>
+   <doc-panel id="uncommon" collapsed>
+       <template #title>Uncommon</template>
+<ul>
+<li>Wand of the War Mage +1</li>
+<li>Weapon +1</li>
+<li>Shield +1</li>
+<li>Alchemy Jug</li>
+<li>Bag of Holding</li>
+<li>Cloak of the Manta Ray</li>
+<li>Driftglobe</li>
+<li>Eyes of the Eagle</li>
+<li>Goggles of Night</li>
+<li>Hat of Disguise</li>
+<li>Helm of Comprehending Languages</li>
+<li>Immovable Rod</li>
+<li>Necklace of Adaptation</li>
+<li>Sending Stones</li>
+<li>Wand of Magic Detection</li>
+</ul>
+   </doc-panel>
+   <doc-panel id="rare" collapsed>
+       <template #title>Rare</template>
+<ul>
+<li>Bracers of Defense</li>
+<li>Elven Chain</li>
+<li>Weapon +2 (Your Choice)</li>
+<li>Wand of the War Mage +2</li>
+<li>Shield +2</li>
+<li>Arrow Catching Shield</li>
+<li>Portable Hole</li>
+</ul>
+   </doc-panel>
+</doc-panels>
 <p>Fill in the below template, post it in <a href="https://discord.com/channels/512870694883950598/848389898204741642" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
     <span><img class="mb-px inline-flex mr-2" width="18" src="../../images/discord-mark-blue.svg"></span>
     <span>#claims-log</span>
