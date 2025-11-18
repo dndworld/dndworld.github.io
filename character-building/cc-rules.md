@@ -39,7 +39,8 @@ You cannot transfer characters from other places. However, you can create a vers
 There is also a newbie-friendly step-by-step guide in [New to D&D](new-to-dnd/).
 
 Character Preferences (settings)
-- **Sources**: Homebrew, Expanded Rules, 2014 Core Rules, Legacy, Critical Role, Humblewood
+- **Sources**: Homebrew, 2014 Core Rules, 2014 Expanded Rules, Legacy
+  - **Partnered Content:** Critical Role, Humblewood
 
 !!!warning Not everything from these sources is allowed to be used in the server.
 Please refer to the "Sources" section below for full details.
@@ -106,9 +107,8 @@ When new official material is published, it first needs to be reviewed by our Ho
 - Explorer's Guide to Wildemount
 - Planeshift
 - Runeterra
-
-**Under Review**
 - Critical Role: Tal'Dorei Reborn
+- Humblewood Tales
 
 **Other**
 - Supernatural Gifts

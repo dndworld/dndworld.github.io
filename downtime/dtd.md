@@ -18,6 +18,7 @@ Be sure to follow the [DTD Rules](/downtime/dtd/#downtime-days-dtd-rules) when r
 - You can only do 1 DTD per day. The day is determined by the server time (EST).
 - Lifestyle and other factors may affect the DC for your rolls. The details are intentionally undisclosed to prevent min-maxing and metagaming.
 - Only passive effects may be applied, for example: Jack of All Trades, proficiency, Expertise, Tireless Precision.
+  - Spells *cannot* be applied to DTDs.
 - Some DTDs require manual reviews from staff, and this may take more than one day. You do not need to wait for the previous day’s manual DTD to be processed before doing today’s DTD.
 
 

@@ -80,11 +80,35 @@ Lv 19-20 | 10 | Rare x1, Uncommon x2, 250gp
 - Wand of Smiles / Wand of Scowls
 ===
 
-For Uncommon and Rare magic items, 4 items are chosen at random for each bonus item, and you may pick one from each set. Once you have made your decision, please edit your log to include the chosen item.
+For Uncommon and Rare magic items, 2 items are chosen at random for each bonus item, and you may pick one from each set. Once you have made your decision, please edit your log to include the chosen item.
 
-If you don't want any of the random options given, you can choose to have one of the following items instead, according to the rarity:
-> **Uncommon**: Wand of the War Mage +1, Weapon +1, Shield +1<br>
-> **Rare**: Bracers of Defense, Elven Chain, Weapon +2 (Your Choice), Wand of the War Mage +2, Shield +2
+If you don't want any of the random options you can choose to have one of the following items instead, according to the rarity:
+
+==- Uncommon
+- Wand of the War Mage +1
+- Weapon +1
+- Shield +1
+- Alchemy Jug
+- Bag of Holding
+- Cloak of the Manta Ray
+- Driftglobe
+- Eyes of the Eagle
+- Goggles of Night
+- Hat of Disguise
+- Helm of Comprehending Languages
+- Immovable Rod
+- Necklace of Adaptation
+- Sending Stones
+- Wand of Magic Detection
+==- Rare
+- Bracers of Defense
+- Elven Chain
+- Weapon +2 (Your Choice)
+- Wand of the War Mage +2
+- Shield +2
+- Arrow Catching Shield
+- Portable Hole
+===
 
 Fill in the below template, post it in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#claims-log"](https://discord.com/channels/512870694883950598/848389898204741642), and wait for approval to claim your benefits. 
 
