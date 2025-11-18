@@ -187,13 +187,16 @@ During this time, you need to perform at least 2 community services per week, ot
 - (First time only) Set up the counters in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465).
 
 ```
-!CSDTD
+!service <number of days required>
 ```
 
-- Perform the community service DTD in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465).
+- (Every subsequent time) Perform the community service DTD in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#dtd-automated-log"](https://discord.com/channels/512870694883950598/579777361117970465).
 ```
-!CS <number of days required>
+!service
 ```
+!!!
+For the full help text, use `!help service` in [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#bot-dump"](https://discord.com/channels/512870694883950598/519131071502221313).
+!!!
 
 ## Snowhaven's Settlement Service
 
@@ -217,4 +220,3 @@ Remaining balance:
 ```
 !cc dtd -1
 ```
-
